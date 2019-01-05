@@ -61,6 +61,72 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 #EXTINF:0, group-title="LOKALHD",TVRI SPORTS HD
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
  
+#EXTINF:-1, group-title="Film", Cinemax*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/904
+#EXTINF:-1, group-title="Film", Cinestar Action*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/901
+#EXTINF:-1, group-title="Film", Cinestar Fantasy*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/902
+#EXTINF:-1, group-title="Film", Cinestar Premier 1*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/900
+#EXTINF:-1, group-title="Film", Cinestar Premier 2*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/899
+#EXTINF:-1, group-title="Film", Film4 HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/912
+#EXTINF:-1, group-title="Film", Film4*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/911
+#EXTINF:-1, group-title="Film", Horror*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/905
+#EXTINF:-1,group-title="Film", Movies24*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/906
+#EXTINF:-1, group-title="Film", Movies4Men*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/907
+#EXTINF:-1, group-title="Film", Sky Cinema Action And Adventure HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/924
+#EXTINF:-1, group-title="Film", Sky Cinema Action and Adventure*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/923
+#EXTINF:-1, group-title="Film", Sky Cinema Comedy HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/922
+#EXTINF:-1, group-title="Film", Sky Cinema Comedy*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/921
+#EXTINF:-1, group-title="Film", Sky Cinema Crime and Thriller*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/919
+#EXTINF:-1, group-title="Film", Sky Cinema Disney HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/928
+#EXTINF:-1,group-title="Film", Sky Cinema Disney*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/927
+#EXTINF:-1,group-title="Film", Sky Cinema Drama and Romance HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/932
+#EXTINF:-1,group-title="Film", Sky Cinema Drama and Romance*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/931
+#EXTINF:-1, group-title="Film", Sky Cinema Family HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/926
+#EXTINF:-1, group-title="Film", Sky Cinema Family*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/925
+#EXTINF:-1, group-title="Film", Sky Cinema Greats HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/930
+#EXTINF:-1, group-title="Film", Sky Cinema Greats*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/929
+#EXTINF:-1, group-title="Film", Sky Cinema Hits HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/918
+#EXTINF:-1, group-title="Film", Sky Cinema Hits*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/917
+#EXTINF:-1, group-title="Film", Sky Cinema Premier HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/934
+#EXTINF:-1, group-title="Film", Sky Cinema Premier*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/933
+#EXTINF:-1, group-title="Film", Sky Cinema Sci-Fi and Horror HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/916
+#EXTINF:-1, group-title="Film", Sky Cinema Sci-Fi and Horror*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/915
+#EXTINF:-1,group-title="Film", Sky Cinema Select HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/914
+#EXTINF:-1, group-title="Film", Sky Cinema Select*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/913
+#EXTINF:-1,group-title="Film", Sky Cinema Thriller HD*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/920
+#EXTINF:-1, group-title="Film", Sony Movie*
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/908
 #EXTINF:0, group-title="Film",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0, group-title="Film",HELLO TV HD
@@ -101,13 +167,18 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 http://lihattv.com/?play=43340
 #EXTINF:0,group-title="Film",THRILL
 http://lihattv.com/?play=43415
-#EXTINF:0,group-title="Film",CELESTRIAL MOVIE
+#EXTINF:0,group-title="Film", CELESTRIAL MOVIE
 http://lihattv.com/?play=43414
-#EXTINF:0, group-title="Film"",WOWOW MOVIES
+#EXTINF:0, group-title="Film", WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="Film"",FOX
-#EXTINF:-1,Fox HD
+#EXTINF:-1,group-title="Film", Fox HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/850
+#EXTINF:-1,group-title="Film", Paramount
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/888
+#EXTINF:-1,group-title="Film", Paramount HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/889
+
 #EXTINF:0, group-title="English",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, group-title="English",HD Fashion
@@ -168,21 +239,47 @@ http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1, group-title="KIDS", Boomerang
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/958
+#EXTINF:-1, group-title="KIDS", Cartoon Network
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/956
+#EXTINF:0, group-title="KIDS", CARTOON NETWORK 1
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, group-title="KIDS", Cartoon Network HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/957
+#EXTINF:-1, group-title="KIDS", Cartoonito
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/955
 #EXTINF:0, group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK 1
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, group-title="KIDS", Disney Channel
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/974
 #EXTINF:0, group-title="KIDS",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1, group-title="KIDS", Disney Channel HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/975
+#EXTINF:-1, group-title="KIDS", Disney Junior
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/972
+#EXTINF:-1, group-title="KIDS", Disney XD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/973
+#EXTINF:-1, group-title="KIDS", Nick HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/971
+#EXTINF:-1, group-title="KIDS", Nick Junior
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/968
+#EXTINF:-1,group-title="KIDS", Nick Junior Too
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/967
+#EXTINF:-1,group-title="KIDS", Nick Toons
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/969
+#EXTINF:-1, group-title="KIDS", Nickelodeon
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/970
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="Info",tvg-logo="",Discovery ID
 http://80.80.160.168/live/5/500000/live.m3u8
 #EXTINF:0, group-title="Info",tvg-logo="",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
- 
 #EXTINF:0, group-title="Info",tvg-logo="",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
  
@@ -201,6 +298,24 @@ http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
 #EXTINF:0, group-title="RELIGION",SALING SAPA TV
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
  
+#EXTINF:-1, group-title="MUSIC", MTV Base
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/33
+#EXTINF:-1, group-title="MUSIC", MTV Classic
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/34
+#EXTINF:-1, group-title="MUSIC", MTV Dance
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/35
+#EXTINF:-1, group-title="MUSIC", MTV OMG
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/799
+#EXTINF:-1, group-title="MUSIC", MTV-DANCE
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/796
+#EXTINF:-1, group-title="MUSIC",Kerrang!
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/786
+#EXTINF:-1, group-title="MUSIC", Kiss
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/787
+#EXTINF:-1, group-title="MUSIC", Magic
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/785
+#EXTINF:-1, group-title="MUSIC", Now-80s
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/781
 #EXTINF:-1, group-title="MUSIC", DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1, group-title="MUSIC", Karaoke Channel
@@ -223,7 +338,35 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0, group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
- 
+
+#EXTINF:-1, group-title="EDUTAINTMENT", H2
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1030
+#EXTINF:-1, group-title="EDUTAINTMENT", H2 HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1031
+#EXTINF:-1, group-title="EDUTAINTMENT", History
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1032
+#EXTINF:-1, group-title="EDUTAINTMENT", History HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1033
+#EXTINF:-1, group-title="EDUTAINTMENT", Discovery Channel
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1046
+#EXTINF:-1, group-title="EDUTAINTMENT", Discovery HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1047
+#EXTINF:-1, group-title="EDUTAINTMENT", Discovery History
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1042
+#EXTINF:-1, group-title="EDUTAINTMENT", Discovery Science
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1043
+#EXTINF:-1, group-title="EDUTAINTMENT",Discovery Shed
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1045
+#EXTINF:-1, group-title="EDUTAINTMENT", Discovery Turbo
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1044
+#EXTINF:-1, group-title="EDUTAINTMENT", Nat Geo
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1040
+#EXTINF:-1, group-title="EDUTAINTMENT", Nat Geo HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1041
+#EXTINF:-1, group-title="EDUTAINTMENT", Nat Geo Wild
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1038
+#EXTINF:-1, group-title="EDUTAINTMENT", Nat Geo Wild HD
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1039
 #EXTINF:0, group-title="SINGAPURA",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:0, group-title="SINGAPURA",CHANNEL NEWS ASIA
