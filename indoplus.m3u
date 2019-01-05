@@ -162,64 +162,24 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:0,group-title="Sport",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,group-title="Sport",TVA SPORT
-http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
 #EXTINF:0,group-title="Sport",X SPORT
 http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 #EXTINF:0,group-title="Sport",FLOW SPORTS1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:0, group-title="Sport",ASTRO SPORT
+#EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
- 
-#EXTINF:0, group-title="KIDS",tvg-logo="",MY KIDS
+#EXTINF:0, group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:0, group-title="KIDS",BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0, group-title="KIDS",AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK 1
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK 2
-http://persik.by/stream/2944/263250/32.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:0, group-title="KIDS",ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:0, group-title="KIDS",Disney Channel
-http://194.88.104.74:8000/live/maundy/maundy/389.ts
-#EXTINF:0, group-title="KIDS",Disney XD
-http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/1194.ts
-#EXTINF:0, group-title="KIDS",Nicktoons
-http://194.88.104.74:8000/live/maundy/maundy/133.ts
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Animal Planet
-http://194.88.104.74:8000/live/maundy/maundy/135.ts
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Discovery
-http://194.88.104.74:8000/live/maundy/maundy/34.ts
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Discovery History
-http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/1203.ts
- 
 #EXTINF:0, group-title="Info",tvg-logo="",Discovery ID
 http://80.80.160.168/live/5/500000/live.m3u8
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Discovery Science
-http://194.88.104.74:8000/live/maundy/maundy/132.ts
- 
-#EXTINF:0, group-title="Info",tvg-logo="",History
-http://194.88.104.74:8000/live/maundy/maundy/33.ts
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Nat Geographics
-http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
- 
-#EXTINF:0, group-title="Info",tvg-logo="",Nat Geo Wild
-http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/1563.ts
- 
 #EXTINF:0, group-title="Info",tvg-logo="",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
  
@@ -247,11 +207,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1, group-title="MUSIC", MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:-1, group-title="MUSIC", TMusic
-http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
-#EXTINF:0, group-title="MUSIC",ZOOM
-http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8  
-#EXTINF:0, group-title="MUSIC",XLITE MUSIC
+#EXTINF:0, group-title="MUSIC",XITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -265,10 +221,8 @@ http://125.235.29.16/livetv/keeng.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0, group-title="MUSIC",ONE  
+#EXTINF:0, group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
-#EXTINF:0, group-title="MUSIC",O FHD
-http://77.232.128.68/bks.m3u8
  
 #EXTINF:0, group-title="SINGAPURA",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
