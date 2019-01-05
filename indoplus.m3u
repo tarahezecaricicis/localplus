@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/rcti.png", group-title="LOKAL",RCTI
+#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/rcti.png" group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",MNC
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_Yj54H0OMsK6pdpgI-T4TbYVgHUpVLwUH3RSNDETIyjxsltf" group-title="LOKAL",GLOBAL TV
+#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png" group-title="LOKAL",GLOBAL TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
