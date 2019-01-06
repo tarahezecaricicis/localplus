@@ -153,13 +153,13 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0,group-title="Film",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0, group-title="Film"",&PICTURES HD
+#EXTINF:0, group-title="Film",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="English",& Prive HD
+#EXTINF:0, group-title="Film",& Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",& TV HD
+#EXTINF:0, group-title="Film",& TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
@@ -243,24 +243,24 @@ http://103.242.13.90:5555/udp/239.4.1.148:10000
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/958
 #EXTINF:-1, group-title="KIDS",Cartoon Network
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/956
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK 1
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1, group-title="KIDS",Cartoon Network HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/957
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK 1
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1, group-title="KIDS",Cartoonito
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/955
 #EXTINF:0, group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, group-title="KIDS",Disney Junior
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/972
 #EXTINF:-1, group-title="KIDS", Disney Channel
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/974
 #EXTINF:0, group-title="KIDS",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 #EXTINF:-1, group-title="KIDS",Disney Channel HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/975
-#EXTINF:-1, group-title="KIDS",Disney Junior
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/972
 #EXTINF:-1, group-title="KIDS",Disney XD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/973
 #EXTINF:-1, group-title="KIDS",Nick HD
@@ -366,10 +366,10 @@ http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1041
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1038
 #EXTINF:-1, group-title="EDUTAINTMENT",Nat Geo Wild HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1039
-#EXTINF:0, group-title="SINGAPURA",BTV NEWS
+#EXTINF:0, group-title="NEWS",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:0, group-title="SINGAPURA",CHANNEL NEWS ASIA
+#EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:0, group-title="SINGAPURA",OKTO
+#EXTINF:0, group-title="NEWS",OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
