@@ -208,6 +208,8 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:2,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfDaUGGoV5M6kSFPF_ul4dZNa8pHhkX3n5ENqlryBjmCPTemAv" group-title="Malaysia",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1,group-title="Sport",BEIN Sports HD
+http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/44288
 #EXTINF:0, group-title="Sport",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
 #EXTINF:0, group-title="Sport",TVRI SPORT HD
@@ -238,7 +240,8 @@ http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-
+#EXTINF:-1, group-title="KIDS",CBEEBIES
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/24
 #EXTINF:-1, group-title="KIDS",Boomerang
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/958
 #EXTINF:-1, group-title="KIDS",Cartoon Network
@@ -265,14 +268,14 @@ http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/975
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/973
 #EXTINF:-1, group-title="KIDS",Nick HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/971
+#EXTINF:-1, group-title="KIDS",Nickelodeon
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/970
 #EXTINF:-1, group-title="KIDS",Nick Junior
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/968
 #EXTINF:-1,group-title="KIDS",Nick Junior Too
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/967
 #EXTINF:-1,group-title="KIDS",Nick Toons
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/969
-#EXTINF:-1, group-title="KIDS",Nickelodeon
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/970
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="Info",tvg-logo="",Discovery ID
@@ -281,7 +284,6 @@ http://80.80.160.168/live/5/500000/live.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:0, group-title="Info",tvg-logo="",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
- 
 #EXTINF:0, group-title="RELIGION",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:0, group-title="RELIGION",MADINAH
@@ -338,6 +340,10 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 #EXTINF:0, group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
 
+#EXTINF:-1, group-title="EDUTAINTMENT",Animal Planet
+http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1049
+#EXTINF:-1,group-title="EDUTAINTMENT",Animal Planet HD
+http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/44275
 #EXTINF:-1, group-title="EDUTAINTMENT",H2
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1030
 #EXTINF:-1, group-title="EDUTAINTMENT",H2 HD
