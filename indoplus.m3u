@@ -210,12 +210,35 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1,group-title="Sport",BEIN Sports HD
 http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/44288
+#EXTINF:-1,group-title="Sport",Nba HD
+http://137.74.80.210:8000/mahmut29/29mahmut/86
+#EXTINF:-1,US: group-title="Sport",Golf Channel
+http://137.74.80.210:8000/mahmut29/29mahmut/1702
 #EXTINF:0, group-title="Sport",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
 #EXTINF:0, group-title="Sport",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
 #EXTINF:0, group-title="Sport",FOX SPORT 1
 http://45.58.62.92:8080
+#EXTINF:-1,group-title="Sport",Tsn 1
+http://137.74.80.210:8000/mahmut29/29mahmut/2023
+#EXTINF:-1,group-title="Sport",Tsn 2
+http://137.74.80.210:8000/mahmut29/29mahmut/2022
+#EXTINF:-1,group-title="Sport",Tsn 3
+http://137.74.80.210:8000/mahmut29/29mahmut/2021
+#EXTINF:-1,group-title="Sport",Tsn 4
+http://137.74.80.210:8000/mahmut29/29mahmut/2020
+#EXTINF:-1,group-title="Sport",Tsn 5
+http://137.74.80.210:8000/mahmut29/29mahmut/2019
+#EXTINF:-1,group-title="Sport",Fox Sports 1 HD
+http://137.74.80.210:8000/mahmut29/29mahmut/112
+#EXTINF:-1,group-title="Sport",Fox Sports 2 HD
+http://137.74.80.210:8000/mahmut29/29mahmut/113
+#EXTINF:-1,group-title="Sport",WWE HD
+http://137.74.80.210:8000/mahmut29/29mahmut/2046
+#EXTINF:-1,group-title="Sport",ESPN U
+http://137.74.80.210:8000/mahmut29/29mahmut/9603
+
 #EXTINF:0, group-title="Sport",SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT
@@ -240,6 +263,8 @@ http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="MENA | BEIN SPORT - OTT",BEIN SPORT 1 1.2MB
+
 #EXTINF:-1, group-title="KIDS",CBEEBIES
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/24
 #EXTINF:-1, group-title="KIDS",Boomerang
