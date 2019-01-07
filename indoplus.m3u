@@ -31,10 +31,6 @@ http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,group-title="Film",CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1, group-title="Film",Cinemax(DEAD)
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/904
-#EXTINF:-1,group-title="Film",Fox HD(DEAD)
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/850
 #EXTINF:0,group-title="Film",FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0,group-title="Film",FOX MOVIES COMEDY
