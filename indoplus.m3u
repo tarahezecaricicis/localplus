@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="EDUTAINTMENT",Animal Planet HD
-http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/44275
-#EXTINF:-1, group-title="EDUTAINTMENT",Discovery Channel
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1046
+#EXTINF:-1,group-title="EDUTAINTMENT",ANIMAL PLANET CST
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, group-title="EDUTAINTMENT",ANIMAL PLANET EST 
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1, group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
+http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, group-title="EDUTAINTMENT",Discovery HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1047
 #EXTINF:-1, group-title="EDUTAINTMENT",Discovery History
@@ -41,6 +43,8 @@ http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1038
 #EXTINF:-1, group-title="EDUTAINTMENT",Nat Geo Wild HD
 http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/1039
 
+#EXTINF:-1, group-title="Film",BYUTV 
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:0, group-title="Film",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&PICTURES HD
@@ -330,10 +334,14 @@ http://rtmp.one.by:1300
 #EXTINF:0, group-title="MUSIC",XITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
+#EXTINF:-1, group-title="NEWS",ABC NEWS OPT 1 
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:0, group-title="NEWS",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0, group-title="NEWS",OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:0, group-title="NEWS",NHK World
