@@ -62,8 +62,6 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY JUNIOR(INDO DUB)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1, group-title="KIDS",Disney Channel
-http://gorillaiptv.online:25461/50WDchgbHJ/ImNYwGzwbr/974
 #EXTINF:0, group-title="KIDS",DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 #EXTINF:0, group-title="KIDS",MIAO MI
@@ -82,8 +80,6 @@ http://210.210.155.35/uq2663/h/h13/index.m3u8
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKALHD",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:0, group-title="LOKAL",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:0, group-title="LOKALHD",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:0, group-title="LOKALHD",BERITA SATU WORLD
