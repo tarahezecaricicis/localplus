@@ -6,19 +6,59 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1, group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
 http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1, group-title="ENTERTAINTMENT",AMC
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Discovery ID
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",FOX29
+http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",FOX TH
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",SY FY HD
+http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
 
+
+#EXTINF:-1, group-title="Film",ACTION MOVIES1
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1, group-title="Film",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:0,group-title="Film",CELESTIAL MOVIE
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0,group-title="Film",CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1, group-title="Film",FOX COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1, group-title="Film", FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,group-title="Film",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,group-title="Film",FOX PREMIUM MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,group-title="Film",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0, group-title="Film",HELLO TV HD
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:-1, group-title="Film",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0,group-title="Film",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1, group-title="Film",HOLLYWOOD MOVIES
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="Film",HOLLYWOOD 24
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1, group-title="Film",MOVIES PALA
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:0, group-title="Film",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&PICTURES HD
@@ -27,18 +67,8 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:0,group-title="Film",CELESTIAL MOVIE
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0,group-title="Film",CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:0,group-title="Film",FOX MOVIES PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,group-title="Film",FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0, group-title="Film",HELLO TV HD
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:0,group-title="Film",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1, group-title="Film",RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0, group-title="Film",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0,group-title="Film",KIX SD
@@ -47,12 +77,20 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:0,group-title="Film",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1, group-title="FILM",PLUTO MOVIES1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1, group-title="FILM",PLUTO MOVIES2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, group-title="FILM",Sony Movies
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,group-title="Film",thrill SD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 #EXTINF:0,group-title="Film",thrill HD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1, group-title="Film",TRUE MOVIES2
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1, group-title="Film",WGN O
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:0, group-title="Film",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="Film",Zee Cinema HD
@@ -141,12 +179,6 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
 #EXTINF:2,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_Yj54H0OMsK6pdpgI-T4TbYVgHUpVLwUH3RSNDETIyjxsltf" group-title="Malaysia",RTM TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
-#EXTINF:2,group-title="Malaysia",TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live.m3u8
-#EXTINF:2,group-title="Malaysia",8 TV
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
-#EXTINF:2,group-title="Malaysia",TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 #EXTINF:2,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkq-dPPM5kb243pbbGAs68EUjeOqbImVln8IlwrlyEFIgqYXk" group-title="Malaysia",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:2,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfDaUGGoV5M6kSFPF_ul4dZNa8pHhkX3n5ENqlryBjmCPTemAv" group-title="Malaysia",TV IKIM
@@ -156,6 +188,10 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1, group-title="MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1, group-title="MUSIC",LIFE KIDS
+http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
+#EXTINF:-1, group-title="MUSIC",FOX PORTAL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 #EXTINF:-1, group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:0, group-title="MUSIC",M2O TV
@@ -177,6 +213,8 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,group-title="NEWS",FOX5 NEWS
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0, group-title="NEWS",OKTO
@@ -215,6 +253,8 @@ http://80.80.160.168/live/6/live.m3u8
 http://137.74.80.210:8000/mahmut29/29mahmut/9603
 #EXTINF:0,group-title="Sport",FLOW SPORTS1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1, group-title="Sport",FOX RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1,group-title="Sport",Fox Sports 1 HD
 http://137.74.80.210:8000/mahmut29/29mahmut/112
 #EXTINF:-1,US: group-title="Sport",Golf Channel
