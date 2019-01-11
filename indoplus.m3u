@@ -251,8 +251,38 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,group-title="Sport",BEIN Sports HD
-http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/44288
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/1.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/2.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/3.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/4.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/5.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/6.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/7.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/8.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS MAX HD 1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/9.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/10.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 11
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/11.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 12
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/12.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 13
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/13.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 14
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/14.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 15
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/15.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 16
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,group-title="Sport",ESPN U
