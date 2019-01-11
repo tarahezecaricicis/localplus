@@ -91,14 +91,16 @@ http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/106.ts
 http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/107.ts
 #EXTINF:-1,group-title="Film",Mbc4
 http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/108.ts
-#EXTINF:-1,group-title="Film",MBC-ACTION-HD
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/35.ts
-#EXTINF:-1,group-title="Film",MBC-P-RAVIETY
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/38.ts
-#EXTINF:-1,group-title="Film",MBC-MAX-HD
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/36.ts
-#EXTINF:-1,group-title="Film",MBC-DRAMA-HD
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/37.ts
+#EXTINF:-1,mbc action
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/109.ts
+#EXTINF:-1,group-title="Film",MBC MAX
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/110.ts
+#EXTINF:-1,group-title="Film",MBC Bolly
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/113.ts
+#EXTINF:-1,group-title="Film",MBC DRAMA
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/111.ts
+#EXTINF:-1,group-title="Film",MBC RAVIETY
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/112.ts
 #EXTINF:-1, group-title="Film",MY FILM BOX
 http://procaja.me/live/?z=23&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=55&t=live&f=ts
 #EXTINF:-1, group-title="Film",MOVIES PALA
@@ -125,11 +127,6 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://procaja.me/live/?z=1&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=2782&t=live&f=ts
 #EXTINF:0, group-title="Film",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:0, group-title="Film",PLUTO MOVIES1
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0, group-title="Film",PLUTO MOVIES2
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, group-title="Film",Sony Movies
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,group-title="Film",thrill HD(Indo Sub)
@@ -142,6 +139,7 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="Film",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,group-title="KIDS",Boomerang
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/52.ts
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
