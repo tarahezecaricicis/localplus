@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,group-title="EDUTAINTMENT",ANIMAL PLANET CST
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,group-title="EDUTAINTMENT",Animal-Planet
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/28.ts
+#EXTINF:-1,group-title="EDUTAINTMENT",NATIONAL GEOGRAPHIC (AD)
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/40.ts
 #EXTINF:-1, group-title="EDUTAINTMENT",ANIMAL PLANET EST 
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1, group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
@@ -8,6 +12,10 @@ http://80.80.160.168/live/8/live.m3u8
 
 #EXTINF:-1, group-title="ENTERTAINTMENT",AMC
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",BEIN Series-HD1
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/119.ts
+#EXTINF:-1,group-title="ENTERTAINTMENT",BEIN Series-HD2
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/120.ts
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Discovery ID
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",DW
@@ -26,29 +34,41 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",OSN_Series_HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/171.ts
 #EXTINF:-1, group-title="ENTERTAINTMENT",SY FY HD
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
 #EXTINF:-1, group-title="ENTERTAINTMENT",SONY TURBO
 http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 
+#EXTINF:-1,group-title="Film",BEIN MOVIES 1 HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/115.ts
+#EXTINF:-1,group-title="Film",BEIN MOVIES 2 HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/116.ts
+#EXTINF:-1,group-title="Film",BEIN MOVIES 3 HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/117.ts
+#EXTINF:-1,group-title="Film",BEIN MOVIES 4 HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/118.ts
 #EXTINF:-1, group-title="Film",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:0,group-title="Film",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,group-title="Film",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1, group-title="Film",MY FILM BOX
-http://procaja.me/live/?z=23&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=55&t=live&f=ts
 #EXTINF:-1, group-title="Film",FOX COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1, group-title="Film",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,group-title="Film",FOX ACTION MOVIE
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/458.ts
 #EXTINF:0,group-title="Film",FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1,group-title="Film",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0,group-title="Film",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1,group-title="Film",FOX FAMILY MOVIE
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/457.ts
 #EXTINF:0, group-title="Film",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1, group-title="Film",HBO 2
@@ -59,8 +79,38 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 #EXTINF:-1, group-title="Film",HOLLYWOOD 24
 http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:0,group-title="Film",KIX SD(Indo Sub)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:0,group-title="Film",KIX HD(Indo Sub)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,group-title="Film",Mbc1
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/105.ts
+#EXTINF:-1,group-title="Film",Mbc2
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/106.ts
+#EXTINF:-1,group-title="Film",Mbc3
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/107.ts
+#EXTINF:-1,group-title="Film",Mbc4
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/108.ts
+#EXTINF:-1,group-title="Film",MBC-ACTION-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/35.ts
+#EXTINF:-1,group-title="Film",MBC-P-RAVIETY
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/38.ts
+#EXTINF:-1,group-title="Film",MBC-MAX-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/36.ts
+#EXTINF:-1,group-title="Film",MBC-DRAMA-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/37.ts
+#EXTINF:-1, group-title="Film",MY FILM BOX
+http://procaja.me/live/?z=23&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=55&t=live&f=ts
 #EXTINF:-1, group-title="Film",MOVIES PALA
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,group-title="Film",OSN_Movies_HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/170.ts
+#EXTINF:-1,group-title="Film",OSN_BoxOffice_1_HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/165.ts
+#EXTINF:-1,group-title="Film",OSN_BoxOffice_2_HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/166.ts
+#EXTINF:-1,group-title="Film",OSN_BoxOffice_3_HD
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/167.ts
 #EXTINF:0, group-title="Film",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&PICTURES HD
@@ -75,10 +125,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://procaja.me/live/?z=1&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=2782&t=live&f=ts
 #EXTINF:0, group-title="Film",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0,group-title="Film",KIX SD(Indo Sub)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0,group-title="Film",KIX HD(Indo Sub)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
 #EXTINF:0, group-title="Film",PLUTO MOVIES1
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, group-title="Film",PLUTO MOVIES2
@@ -95,7 +142,8 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="Film",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-
+#EXTINF:-1,group-title="KIDS",Boomerang
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/52.ts
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:0, group-title="KIDS",DISNEY JUNIOR(INDO DUB)
@@ -252,25 +300,25 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 1
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/1.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/197.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 2
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/2.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/198.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 3
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/3.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/199.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 4
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/4.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/200.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 5
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/5.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/201.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 6
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/6.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/202.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 7
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/7.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/203.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 8
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/8.ts
-#EXTINF:-1,group-title="Sport",BEIN SPORTS MAX HD 1
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/9.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/204.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS 9
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/205.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 10
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/10.ts
+http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/206.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 11
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/11.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 12
@@ -285,30 +333,6 @@ http://sensei-iptv.cf:8000/live/driss/sadik-xy/15.ts
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS NBA
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/18.ts
-
-
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_1
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/550.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_2
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/551.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_3
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/552.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_4
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/553.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_5
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/554.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_6
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/555.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_7
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/556.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_8
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/557.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_9
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/558.ts
-#EXTINF:-1,group-title="Sport",Bein Sport SD480_10
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/559.ts
-
-
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,group-title="Sport",ESPN U
