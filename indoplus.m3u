@@ -283,6 +283,32 @@ http://sensei-iptv.cf:8000/live/driss/sadik-xy/14.ts
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/15.ts
 #EXTINF:-1,group-title="Sport",BEIN SPORTS 16
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
+#EXTINF:-1,group-title="Sport",BEIN SPORTS NBA
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/18.ts
+
+
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/550.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/551.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/552.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/553.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/554.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/555.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/556.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/557.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_9
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/558.ts
+#EXTINF:-1,group-title="Sport",Bein Sport SD480_10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/559.ts
+
+
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,group-title="Sport",ESPN U
