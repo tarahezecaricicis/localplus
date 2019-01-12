@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png" group-title="EDUTAINTMENT",ANIMAL PLANET CST
+#EXTINF:-1,tvg-logo="https://drive.google.com/file/d/1LUR0C4VKcvzdypmwed-2epX5SIL-4g3-/view?usp=sharing" group-title="EDUTAINTMENT",ANIMAL PLANET CST
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="EDUTAINTMENT",Animal-Planet
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/28.ts
