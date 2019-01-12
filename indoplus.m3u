@@ -28,6 +28,16 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 #EXTINF:-1,group-title="ENTERTAINTMENT",FOX TH
 http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="ENTERTAINTMENT",Fox Action Movies (UAE)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/800px-Fox_Crime_logo.svg.png" group-title="ENTERTAINTMENT",Fox Crime (Asia)
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="ENTERTAINTMENT",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="ENTERTAINTMENT",Fox Premium Comedy (Asia)
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",HD Fashion
@@ -259,8 +269,11 @@ http://rtmp.one.by:1300
 #EXTINF:0, group-title="MUSIC",XITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
+
 #EXTINF:-1, group-title="NEWS",ABC NEWS OPT 1 
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:0, group-title="NEWS",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
@@ -333,6 +346,8 @@ http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/18.ts
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sport",ESPN
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,group-title="Sport",ESPN U
 http://137.74.80.210:8000/mahmut29/29mahmut/9603
 #EXTINF:0,group-title="Sport",FLOW SPORTS1
@@ -347,6 +362,8 @@ http://137.74.80.210:8000/mahmut29/29mahmut/1702
 http://persik.by/stream/808/284814/276.m3u8
 #EXTINF:-1,group-title="Sport",Nba HD
 http://137.74.80.210:8000/mahmut29/29mahmut/86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV (Opt-3)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT+
