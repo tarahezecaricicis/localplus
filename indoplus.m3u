@@ -1,28 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1,group-title="EDUTAINTMENT",Animal Planet HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/641
 #EXTINF:-1,tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal_planet_ca.png" group-title="EDUTAINTMENT",ANIMAL PLANET CST
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal_planet_ca.png" group-title="EDUTAINTMENT",ANIMAL PLANET EST 
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,group-title="ENTERTAINTMENT",COMEDY CENTRAL HD
-http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/33010
 #EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png" group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,group-title="ENTERTAINTMENT",Discovery Velocity
+#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Velocity
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/31120
-#EXTINF:-1,group-title="ENTERTAINTMENT",H2 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/583
-#EXTINF:-1,group-title="ENTERTAINTMENT",History Channel
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13551
-#EXTINF:-1,group-title="ENTERTAINTMENT",NAT GEO WILD 
-http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8821
+#EXTINF:-1,group-title="EDUTAINTMENT",DISCOVERY
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13522
+#EXTINF:-1,group-title="EDUTAINTMENT",DISCOVERY HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9099
+#EXTINF:-1,group-title="EDUTAINTMENT",Discovery History HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9100
+#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Science HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9101
+#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Shed HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9102
+#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Turbo HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9103
+#EXTINF:-1,group-title="EDUTAINTMENT",Investigation Discovery HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/9104
+
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="ENTERTAINTMENT",AMC HD
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/33016
+#EXTINF:-1,group-title="ENTERTAINTMENT",COMEDY CENTRAL HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/33010
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Discovery ID
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",E!
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13537
 #EXTINF:0, group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",FTV
@@ -47,6 +60,10 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/31041
 #EXTINF:0, group-title="ENTERTAINTMENT",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",H2 HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/583
+#EXTINF:-1,group-title="ENTERTAINTMENT",History Channel
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13551
 #EXTINF:-1,group-title="ENTERTAINTMENT",HISTORY HD
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32996
 #EXTINF:-1, group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
@@ -55,14 +72,24 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8822
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="ENTERTAINTMENT",MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",NAT GEO WILD 
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8821
 #EXTINF:-1,group-title="ENTERTAINTMENT",OSN_Series_HD
 http://mantechnologyiptv.ddns.net:8000/live/man.tech2019/20198745694/171.ts
+#EXTINF:-1,group-title="ENTERTAINTMENT",Quest HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/19650
 #EXTINF:-1,group-title="ENTERTAINTMENT",Starz East
 http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/31010
 #EXTINF:-1, group-title="ENTERTAINTMENT",SY FY HD
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
 #EXTINF:-1, group-title="ENTERTAINTMENT",SONY TURBO
 http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",TLC HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/642
+#EXTINF:-1,group-title="ENTERTAINTMENT",True Movies
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13526
+#EXTINF:-1,group-title="ENTERTAINTMENT",Univseral TV
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/13524
 
 
 #EXTINF:-1, group-title="Film",BYUTV 
@@ -146,6 +173,28 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1,group-title="KIDS",Cartoonito
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/27417
+#EXTINF:-1,group-title="KIDS",DISNEY JUNIOR FHD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/36900
+#EXTINF:-1,group-title="KIDS",Disney Junior HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/578
+#EXTINF:-1,group-title="KIDS",DISNEY XD FHD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/36899
+#EXTINF:-1,group-title="KIDS",Disney XD HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/580
+#EXTINF:-1,group-title="KIDS",DISNEY CHANNEL FHD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/36901
+#EXTINF:-1,group-title="KIDS",Disney Channel HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/579
+#EXTINF:-1,group-title="KIDS",Nick Junior HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/577
+#EXTINF:-1,group-title="KIDS",Boomerang
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/27608
+#EXTINF:-1,group-title="KIDS",Nickelodeon
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/27607
+#EXTINF:-1,group-title="KIDS",Baby Tv HD
+http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/28677
 
 #EXTINF:0, group-title="KOREA",K+(Indo Sub)
 http://rr.dens.tv/h/h08/index2.m3u8
