@@ -6,17 +6,17 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png" group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EDUTAINTMENT",NASA TV
+#EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EDUTAINTMENT",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Discovery ID
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",Discovery ID
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="ENTERTAINTMENT",DW
+#EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENT",Fish Channel
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",FTV
+#EXTINF:-1, tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
@@ -26,17 +26,17 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Foodie Channel
+#EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png" group-title="ENTERTAINTMENT",Greensboro TV Network
+#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",Greensboro TV Network
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENT",HD Fashion
+#EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
+#EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",MOVIE1
+#EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",MOVIE1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENT",NHK World
+#EXTINF:0, tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="ENTERTAINTMENT",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",SY FY HD
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
@@ -45,7 +45,7 @@ http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="ENTERTAINTMENT",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1, group-title="MOVIE",BYUTV 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:0,group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
