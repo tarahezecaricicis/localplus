@@ -45,31 +45,32 @@ http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="ENTERTAINTMENT",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0,group-title="MOVIE",CINEMA WORD(Indo Sub)
+#EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="MOVIE",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="MOVIE",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIE",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,"https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528"group-title="MOVIE",FOX MOVIES COMEDY
+#EXTINF:0,tvg-logo= "https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528"group-title="MOVIE",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0, group-title="MOVIE",HELLO TV HD
+#EXTINF:0, tvg-logo="http://logos.wikia.com/wiki/Hello_(TV_channel)?file=Hello_TV.png" group-title="MOVIE",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0,group-title="MOVIE",HITS
+#EXTINF:0, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1, group-title="MOVIE",HOLLYWOOD MOVIES
+#EXTINF:-1, tvg-logo="https://www.clipartmax.com/max/m2K9A0m2K9d3N4K9" group-title="MOVIE",HOLLYWOOD MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="MOVIE",HOLLYWOOD 24
+#EXTINF:-1, tvg-logo="https://www.clipartmax.com/max/m2K9A0m2K9d3N4K9" group-title="MOVIE",HOLLYWOOD 24
 http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:0,group-title="MOVIE",KIX SD(Indo Sub)
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="MOVIE",KIX SD(Indo Sub)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0,group-title="MOVIE",KIX HD(Indo Sub)
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="MOVIE",KIX HD(Indo Sub)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1, group-title="MOVIE",MOVIES PALA
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
