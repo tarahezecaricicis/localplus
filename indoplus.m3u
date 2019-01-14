@@ -6,6 +6,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png" group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
 http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EDUTAINTMENT",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Discovery ID
@@ -22,8 +24,12 @@ http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="ENTERTAINTMENT",Fox Premium Comedy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX (Asia)
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png" group-title="ENTERTAINTMENT",Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:0, group-title="ENTERTAINTMENT",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
@@ -36,6 +42,8 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
 #EXTINF:-1, group-title="ENTERTAINTMENT",SONY TURBO
 http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="ENTERTAINTMENT",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1, group-title="Film",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
@@ -73,6 +81,12 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Film",&TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="FILM",Pluto TV Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Movies 2
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" group-title="film",Pluto TV Thrillers
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1, group-title="Film",RAI MOVIES HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1, group-title="Film",STAR MOVIES HD
@@ -96,14 +110,20 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="kids",Da Vinci Learning
+http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 #EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR(INDO DUB)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:0, group-title="KIDS",OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS",Pluto After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
@@ -184,6 +204,8 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1, group-title="MUSIC",B4U MUSIK
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1, group-title="MUSIC",DANGDUTZ
@@ -226,6 +248,8 @@ http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0, group-title="NEWS",7 NEWS
 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NEWS",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:0, group-title="RELIGION",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 #EXTINF:0, group-title="RELIGION",DMI TV
@@ -269,6 +293,8 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="Sport",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="sport",Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 
 
