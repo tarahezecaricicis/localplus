@@ -62,7 +62,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HITS
+#EXTINF:0, group-title="MOVIE",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1, tvg-logo="https://www.clipartmax.com/max/m2K9A0m2K9d3N4K9" group-title="MOVIE",HOLLYWOOD MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
