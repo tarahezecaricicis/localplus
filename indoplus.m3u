@@ -36,7 +36,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",MOVIE1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENTS",NHK World
+#EXTINF:0, group-title="ENTERTAINTMENT",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",SY FY HD
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
@@ -45,72 +45,72 @@ http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="ENTERTAINTMENT",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1, group-title="Film",BYUTV 
+#EXTINF:-1, group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:0,group-title="Film",CELESTIAL MOVIE(Indo Sub)
+#EXTINF:0,group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0,group-title="Film",CINEMA WORD(Indo Sub)
+#EXTINF:0,group-title="MOVIE",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1, group-title="Film",FOX MOVIES
+#EXTINF:-1, group-title="MOVIE",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,group-title="Film",FOX PREMIUM MOVIES
+#EXTINF:0,group-title="MOVIE",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,group-title="Film",FOX MOVIES COMEDY
+#EXTINF:0,group-title="MOVIE",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0, group-title="Film",HELLO TV HD
+#EXTINF:0, group-title="MOVIE",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:-1, group-title="Film",HBO 2
+#EXTINF:-1, group-title="MOVIE",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0,group-title="Film",HITS
+#EXTINF:0,group-title="MOVIE",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1, group-title="Film",HOLLYWOOD MOVIES
+#EXTINF:-1, group-title="MOVIE",HOLLYWOOD MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="Film",HOLLYWOOD 24
+#EXTINF:-1, group-title="MOVIE",HOLLYWOOD 24
 http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:0,group-title="Film",KIX SD(Indo Sub)
+#EXTINF:0,group-title="MOVIE",KIX SD(Indo Sub)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0,group-title="Film",KIX HD(Indo Sub)
+#EXTINF:0,group-title="MOVIE",KIX HD(Indo Sub)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1, group-title="Film",MOVIES PALA
+#EXTINF:-1, group-title="MOVIE",MOVIES PALA
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0, group-title="Film",&FLIX HD
+#EXTINF:0, group-title="MOVIE",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Film",&PICTURES HD
+#EXTINF:0, group-title="MOVIE",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Film",&Prive HD
+#EXTINF:0, group-title="MOVIE",&Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Film",&TV HD
+#EXTINF:0, group-title="MOVIE",&TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="FILM",Pluto TV Movies 1
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="MOVIE",Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Movies 2
+#EXTINF:0,tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="MOVIE",Pluto TV Movies 2
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" group-title="film",Pluto TV Thrillers
+#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" group-title="MOVIE",Pluto TV Thrillers
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1, group-title="Film",RAI MOVIES HD
+#EXTINF:0, group-title="MOVIE",RAI MOVIES HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, group-title="Film",STAR MOVIES HD
+#EXTINF:0, group-title="MOVIE",STAR MOVIES HD
 http://procaja.me/live/?z=1&u=981eZH4M6a8J9v&s=98g816ERn8iGK1&id=2782&t=live&f=ts
-#EXTINF:-1, group-title="FILM",JAPAN MOVIE
+#EXTINF:0, group-title="MOVIE",JAPAN MOVIE
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
-#EXTINF:0, group-title="Film",JGO
+#EXTINF:0, group-title="MOVIE",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0, group-title="Film",Sony Movies
+#EXTINF:0, group-title="MOVIE",Sony Movies
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,group-title="Film",thrill HD(Indo Sub)
+#EXTINF:0,group-title="MOVIE",thrill HD(Indo Sub)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1, group-title="Film",TRUE MOVIES
+#EXTINF:-1, group-title="MOVIE",TRUE MOVIES
 http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-#EXTINF:-1, group-title="Film",WGN O
+#EXTINF:-1, group-title="MOVIE",WGN O
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:0, group-title="Film",WOWOW MOVIES
+#EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:0, group-title="Film",Zee Cinema HD
+#EXTINF:0, group-title="MOVIE",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="kids",Da Vinci Learning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="KIDS",Da Vinci Learning
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 #EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR(INDO DUB)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -202,9 +202,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:2,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfDaUGGoV5M6kSFPF_ul4dZNa8pHhkX3n5ENqlryBjmCPTemAv" group-title="Malaysia",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1, group-title="MUSIC",B4U MUSIK
+#EXTINF:0, group-title="MUSIC",B4U MUSIK
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
+#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
@@ -250,6 +250,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NEWS",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
 #EXTINF:0, group-title="RELIGION",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 #EXTINF:0, group-title="RELIGION",DMI TV
@@ -293,7 +294,7 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="Sport",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="sport",Xcorps TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="Sport",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 
