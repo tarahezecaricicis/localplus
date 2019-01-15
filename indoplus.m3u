@@ -124,12 +124,18 @@ http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
+#EXTINF:-1, group-title="KOREA",EBS
+http://119.194.58.213:9981/stream/channelid/1900573553?ticket=05F4A9E8D4B6D16F41515D46FC0FF369BDDB78A2&profile=pass
+#EXTINF:-1, group-title="KOREA", KBS1
+http://119.194.58.213:9981/stream/channelid/38105485?ticket=C9B291B812371A13570E524B2E1B3E022C38E6C4&profile=pass
 #EXTINF:-1,group-title="KOREA",KTVHD
 rtmp://218.38.152.31:1935/klive/klive.stream
 #EXTINF:0, group-title="KOREA",K+(Indo Sub)
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:0, group-title="KOREA",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1, group-title="KOREA",MBC
+http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 #EXTINF:0, group-title="KOREA",Sony One HD(Indo Sub)
 http://210.210.155.35/uq2663/h/h13/index.m3u8
 
@@ -295,134 +301,6 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=1
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="Sport",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-
-
-#EXTINF:-1 tvg-name="Sport IPTV On = www.iptv-m3u-playlist.com =" tvg-logo="",Sport IPTV On = www.iptv-m3u-playlist.com =
-https://www.youtube.com/watch?v=YIDEmE_Boqw.mp4
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 신세계쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll 신세계쇼핑
-http://119.194.58.213:9981/stream/channelid/1215884708?ticket=BB8CE732B771A3F8DBD47D49DA9732DD6B349E1A&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBC Dramanet" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBC Dramanet
-http://119.194.58.213:9981/stream/channelid/746534861?ticket=A718900663BE036CE8F502A36CDB94BACEB48F32&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBC Every1" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBC Every1
-http://119.194.58.213:9981/stream/channelid/1679343043?ticket=AC940010D487484ADEAD49CD9AE70E00DB1949B2&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll CJ오쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll CJ오쇼핑
-http://119.194.58.213:9981/stream/channelid/841169187?ticket=05AFD3CFB45F5245B9EF28E53C6A801D5CF2B6B9&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll SBS" tvg-logo="",ll www.iptv-m3u-playlist.com ll SBS
-http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 롯데홈쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll 롯데홈쇼핑
-http://119.194.58.213:9981/stream/channelid/2062922007?ticket=F6AB6B8E158D1955D2DCB8EAF2B60A4D5605851F&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll KBS2" tvg-logo="",ll www.iptv-m3u-playlist.com ll KBS2
-http://119.194.58.213:9981/stream/channelid/147555683?ticket=1CD44D1E9E0114C23701A45C90FFD3D5A48C9947&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll KBS1" tvg-logo="",ll www.iptv-m3u-playlist.com ll KBS1
-http://119.194.58.213:9981/stream/channelid/38105485?ticket=C9B291B812371A13570E524B2E1B3E022C38E6C4&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBC" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBC
-http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll NS홈쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll NS홈쇼핑
-http://119.194.58.213:9981/stream/channelid/2134145021?ticket=AD6C3D917564A408984D59ED2F7FC282AFB65487&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll EBS" tvg-logo="",ll www.iptv-m3u-playlist.com ll EBS
-http://119.194.58.213:9981/stream/channelid/1900573553?ticket=05F4A9E8D4B6D16F41515D46FC0FF369BDDB78A2&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 홈&쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll 홈&쇼핑
-http://119.194.58.213:9981/stream/channelid/1878169822?ticket=ECDC4FF8C03C9C5AA19769E30E3C7EAFA500CB91&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll JTBC" tvg-logo="",ll www.iptv-m3u-playlist.com ll JTBC
-http://119.194.58.213:9981/stream/channelid/80369249?ticket=0F7E63690D4FA6E33E972AFA5B51CA40DC89F9D8&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBN" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBN
-http://119.194.58.213:9981/stream/channelid/881052158?ticket=88B26B6658A408BBE487D8E6A8DBE797B188503B&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll tvN" tvg-logo="",ll www.iptv-m3u-playlist.com ll tvN
-http://119.194.58.213:9981/stream/channelid/1658590881?ticket=A3EF222481B25538B8B4DF6711C0901744BC894C&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 채널A" tvg-logo="",ll www.iptv-m3u-playlist.com ll 채널A
-http://119.194.58.213:9981/stream/channelid/564820632?ticket=436ACF2048491DD81519BCE9BB970B04C455A482&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll TV조선" tvg-logo="",ll www.iptv-m3u-playlist.com ll TV조선
-http://119.194.58.213:9981/stream/channelid/162461728?ticket=0B07F8A64D2E3C5E1CCCC6A62BD84AD278385CCA&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll K쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll K쇼핑
-http://119.194.58.213:9981/stream/channelid/2139715708?ticket=BD42195E8C5B0ABC74C2ABE056C273BD6890BC08&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll K쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll K쇼핑
-http://119.194.58.213:9981/stream/channelid/1519299673?ticket=3BAF269EA92907DEDACE3767323841908678AC82&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 연합뉴스TV" tvg-logo="",ll www.iptv-m3u-playlist.com ll 연합뉴스TV
-http://119.194.58.213:9981/stream/channelid/1509096372?ticket=2CEB25440AE1F519E8B560DE09C3F2C8A3E722CB&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll YTN" tvg-logo="",ll www.iptv-m3u-playlist.com ll YTN
-http://119.194.58.213:9981/stream/channelid/1705632104?ticket=B3333C394778BC2996B95A578209AC0FEE5A0B2E&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll Mnet" tvg-logo="",ll www.iptv-m3u-playlist.com ll Mnet
-http://119.194.58.213:9981/stream/channelid/1288035098?ticket=18DB3D8A4627186BA0F3C54F66C90E5EEE75A438&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll CJ오쇼핑플러스" tvg-logo="",ll www.iptv-m3u-playlist.com ll CJ오쇼핑플러스
-http://119.194.58.213:9981/stream/channelid/833696046?ticket=7D712AB96DEB6798E9F721424BE73169C3163CFB&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll SK stoa" tvg-logo="",ll www.iptv-m3u-playlist.com ll SK stoa
-http://119.194.58.213:9981/stream/channelid/1116743806?ticket=CC0DE81C39D233D93BA6C0C627C0E179306DDC11&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 쇼핑엔티" tvg-logo="",ll www.iptv-m3u-playlist.com ll 쇼핑엔티
-http://119.194.58.213:9981/stream/channelid/2044834581?ticket=9D8F7DF99AF8EC2F58AB7FE65C7C5F9FD3323A8B&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 올리브" tvg-logo="",ll www.iptv-m3u-playlist.com ll 올리브
-http://119.194.58.213:9981/stream/channelid/42676792?ticket=3C88D7AFEEBB35AC21F99429F61C482FF905E34D&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll GS MY SHOP" tvg-logo="",ll www.iptv-m3u-playlist.com ll GS MY SHOP
-http://119.194.58.213:9981/stream/channelid/828450357?ticket=49B0BAD1B6209202BB287FC5FC365EA4161C3E6D&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll W 쇼핑" tvg-logo="",ll www.iptv-m3u-playlist.com ll W 쇼핑
-http://119.194.58.213:9981/stream/channelid/437966775?ticket=C5F23799AE78CB9F73C804988451ADCD7F5021CA&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll NS Shop+" tvg-logo="",ll www.iptv-m3u-playlist.com ll NS Shop+
-http://119.194.58.213:9981/stream/channelid/2123694653?ticket=7E8480ACE2040910DE0E70463B7AF30CD0222E13&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll O tvn" tvg-logo="",ll www.iptv-m3u-playlist.com ll O tvn
-http://119.194.58.213:9981/stream/channelid/1256755647?ticket=2D4B90D0B9B8CF80EF79E64AE357E1B5301085AE&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll SPOTV" tvg-logo="",ll www.iptv-m3u-playlist.com ll SPOTV
-http://119.194.58.213:9981/stream/channelid/1961488275?ticket=73F926169F27AA002C10440FE07238E218018B1F&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll SkySports" tvg-logo="",ll www.iptv-m3u-playlist.com ll SkySports
-http://119.194.58.213:9981/stream/channelid/366967668?ticket=D5FCE7037F094274CB96C2357B131EB05FBC1247&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll SBS Sports" tvg-logo="",ll www.iptv-m3u-playlist.com ll SBS Sports
-http://119.194.58.213:9981/stream/channelid/573892235?ticket=04D0CB4CEE7F47E2D2E7C08F5D1C86E0475CC9E8&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll KBS N Sports" tvg-logo="",ll www.iptv-m3u-playlist.com ll KBS N Sports
-http://119.194.58.213:9981/stream/channelid/644831649?ticket=2C18E4DA574CDB53F2CB6307E9F6CA808799983E&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBC SPORT+" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBC SPORT+
-http://119.194.58.213:9981/stream/channelid/476874716?ticket=E028C4E9FEC453037C408CC69E252ADDA9E6284D&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll KTV" tvg-logo="",ll www.iptv-m3u-playlist.com ll KTV
-http://119.194.58.213:9981/stream/channelid/988976485?ticket=6A4BB386DBB64861E877B835D9B49E55896F5C30&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll CNTV" tvg-logo="",ll www.iptv-m3u-playlist.com ll CNTV
-http://119.194.58.213:9981/stream/channelid/1820892450?ticket=FD331FFE9B44389BB5C5307D57EB1F2B43DB6D36&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 드라마H" tvg-logo="",ll www.iptv-m3u-playlist.com ll 드라마H
-http://119.194.58.213:9981/stream/channelid/1359007500?ticket=D57D827D20ECF0279FAAE6BF1C7458D23F5E0016&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll FUN TV" tvg-logo="",ll www.iptv-m3u-playlist.com ll FUN TV
-http://119.194.58.213:9981/stream/channelid/537142591?ticket=0999EC3E3160FFFCA93B87CD32AC3EC4ABC67E66&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll GTV" tvg-logo="",ll www.iptv-m3u-playlist.com ll GTV
-http://119.194.58.213:9981/stream/channelid/784159411?ticket=F1BFD9E1E2C158365D2A846D5452187AC381BEA0&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll XtvN" tvg-logo="",ll www.iptv-m3u-playlist.com ll XtvN
-http://119.194.58.213:9981/stream/channelid/244245995?ticket=77E5138959E71D3E353E1E18E4E3250C0BFBDC86&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 온스타일" tvg-logo="",ll www.iptv-m3u-playlist.com ll 온스타일
-http://119.194.58.213:9981/stream/channelid/225744755?ticket=CDA95E0B6289442E895E59CED640632A90640FBC&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll EBS2" tvg-logo="",ll www.iptv-m3u-playlist.com ll EBS2
-http://119.194.58.213:9981/stream/channelid/2019116183?ticket=726AE67DF5911DC4E4C0A0498EA11B84DE758FC2&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll MBC MUSIC" tvg-logo="",ll www.iptv-m3u-playlist.com ll MBC MUSIC
-http://119.194.58.213:9981/stream/channelid/1470926560?ticket=EE7DE491F15F5F04503A9663F03854A5C8E96C5C&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 올레 무비" tvg-logo="",ll www.iptv-m3u-playlist.com ll 올레 무비
-http://119.194.58.213:9981/stream/channelid/428019302?ticket=E130F944A0A701829D1000F929FEE099F3A77100&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll FTV" tvg-logo="",ll www.iptv-m3u-playlist.com ll FTV
-http://119.194.58.213:9981/stream/channelid/1829505328?ticket=99F22A279742D53929447D0B64FDD3B114E6FCAD&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 바둑TV" tvg-logo="",ll www.iptv-m3u-playlist.com ll 바둑TV
-http://119.194.58.213:9981/stream/channelid/1717145703?ticket=70653CAC0130AF4983D3C6DDFE449C13D9F21946&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll OGN" tvg-logo="",ll www.iptv-m3u-playlist.com ll OGN
-http://119.194.58.213:9981/stream/channelid/1213926092?ticket=0F8A8EED3A7E77BDDB85F1BF3A20A5EB584D3A2F&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll Disney Channel" tvg-logo="",ll www.iptv-m3u-playlist.com ll Disney Channel
-http://119.194.58.213:9981/stream/channelid/1704126969?ticket=B12601694B98756F752A89BAD680A396443DEE3E&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 애니플러스" tvg-logo="",ll www.iptv-m3u-playlist.com ll 애니플러스
-http://119.194.58.213:9981/stream/channelid/479197678?ticket=99FBF9D46ABA6CE04D321A9B13A1799C76A4A2AB&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll JEI 재능TV" tvg-logo="",ll www.iptv-m3u-playlist.com ll JEI 재능TV
-http://119.194.58.213:9981/stream/channelid/309869868?ticket=F915701DCB02C512AED248736F80146AE643243A&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 키즈원" tvg-logo="",ll www.iptv-m3u-playlist.com ll 키즈원
-http://119.194.58.213:9981/stream/channelid/1758499848?ticket=A400183FF422B666274A03A5E8DAC81A44CF246A&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 포커스 키즈" tvg-logo="",ll www.iptv-m3u-playlist.com ll 포커스 키즈
-http://119.194.58.213:9981/stream/channelid/430919712?ticket=68B88D623A152FE586FE99A109EFAD87C2A75A5A&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 핑크퐁" tvg-logo="",ll www.iptv-m3u-playlist.com ll 핑크퐁
-http://119.194.58.213:9981/stream/channelid/358832762?ticket=7AE9908C7E9D082C5C9111FF0BC75B02F276772D&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 동화책" tvg-logo="",ll www.iptv-m3u-playlist.com ll 동화책
-http://119.194.58.213:9981/stream/channelid/1803761344?ticket=921D6E15AC68CF39D38B4D7130D57A77E1339266&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll Cbeebies" tvg-logo="",ll www.iptv-m3u-playlist.com ll Cbeebies
-http://119.194.58.213:9981/stream/channelid/1539640092?ticket=CD1A9F970094933FE82FA9244B3C01DE9DF87119&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll NGC" tvg-logo="",ll www.iptv-m3u-playlist.com ll NGC
-http://119.194.58.213:9981/stream/channelid/640631534?ticket=22C53C099B120FBF078E7D099F79752CF4D83BB0&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll CNN International" tvg-logo="",ll www.iptv-m3u-playlist.com ll CNN International
-http://119.194.58.213:9981/stream/channelid/1091921123?ticket=1AE66F347C9C2FB3002A86B25A4BE2A9184C498A&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll 신규 영화" tvg-logo="",ll www.iptv-m3u-playlist.com ll 신규 영화
-http://119.194.58.213:9981/stream/channelid/951174388?ticket=153A777BF9ED72EB65F40A0D5EBD6D32D5EFE057&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll BBS불교방송" tvg-logo="",ll www.iptv-m3u-playlist.com ll BBS불교방송
-http://119.194.58.213:9981/stream/channelid/18678333?ticket=C916B52634EBD7F9162068678A43DC539528F993&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll Good TV" tvg-logo="",ll www.iptv-m3u-playlist.com ll Good TV
-http://119.194.58.213:9981/stream/channelid/72686364?ticket=EFF841E5B205CABA86976684483E7CA4A97F196D&profile=pass
-#EXTINF:-1 tvg-name="ll www.iptv-m3u-playlist.com ll CBS" tvg-logo="",ll www.iptv-m3u-playlist.com ll CBS
-http://119.194.58.213:9981/stream/channelid/812462011?ticket=FCD2CD479482810FE17482862E1D17EDAFA6A0E4&profile=pass
 
 
 
