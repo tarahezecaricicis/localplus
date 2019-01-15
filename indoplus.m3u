@@ -102,6 +102,8 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="MOVIE",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="MOVIE",HORRORS 
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
