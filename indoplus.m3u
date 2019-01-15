@@ -122,6 +122,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
+#EXTINF:-1,group-title="KOREA",KTVHD
+rtmp://218.38.152.31:1935/klive/klive.stream
 #EXTINF:0, group-title="KOREA",K+(Indo Sub)
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:0, group-title="KOREA",KBS WORLD
@@ -293,57 +295,94 @@ http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 
-
-
-#EXTINF:0,group-title="韩国",[COLOR green][B]----------韩国-------[/B][/COLOR]
-http://?
-
-#EXTINF:-1 $ExtFilter="韩国",韩国 - KTVHD高清1920*1080
-rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 $ExtFilter="韩国",韩国 - SBS HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
-#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
-#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS1 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
-#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS1新闻
-http://123.108.164.71/etv2sb/phd852/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS2 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
-#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC MUSIC
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
-#EXTINF:-1 $ExtFilter="韩国",韩国 - Mnet HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
-#EXTINF:-1 $ExtFilter="韩国",韩国 - TVN HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
-#EXTINF:-1 $ExtFilter="韩国",韩国 - arirang HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_arirang
-#EXTINF:-1 $ExtFilter="韩国",韩国 - SBS MTV HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
-#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC every1 HD
-rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
-#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS2娱乐
-http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - BBC
-http://123.108.164.71/etv2sb/phd863/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 音乐
-http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 动画片
-http://123.108.164.71/etv2sb/phd507/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 电视剧
-http://123.108.164.71/etv2sb/phd509/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 电影
-http://123.108.164.71/etv2/phd723/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - SAFE
-http://123.108.164.71/etv2/phd109/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 中文电视剧
-http://123.108.164.71/etv2/phd505/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 新唐人TND
-http://123.108.164.71/etv2/phd1058/playlist.m3u8
-#EXTINF:-1 $ExtFilter="韩国",韩国 - 家装故事
-rtmp://edge1.everyon.tv/etv1/phd1001
-#EXTINF:-1 $ExtFilter="韩国",韩国 - HomeStory HD
-rtmp://edge1.everyon.tv/etv1/phd1016
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiy.png",全国影院 - 峨眉电影HD
+http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiyy.png",全国影院 - 星辉影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="taishandyyzb.png",全国影院 - 江津电影院直播
+rtmp://121.17.123.2/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="beijinguoyc.png",全国影院 - 北京影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsddyy.png",全国影院 - 首都电影院直播
+http://61.188.191.39:80/wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="baoligjys.png",全国影院 - 岳不群影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/37047_KWOM9.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hongtgj.png",全国影院 - 萌萌影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/45338_MRc2N.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyyzb.png",全国影院 - 时代影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyyzb.png",全国影院 - 电影
+http://114.112.91.199:9009/live/chid=601
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyyzb.png",全国影院 - 综艺
+http://114.112.91.199:9009/live/chid=604
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyyzb.png",全国影院 - 电视剧场1
+http://114.112.91.199:9009/live/chid=605
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyyzb.png",全国影院 - 电视剧场2
+http://114.112.91.199:9009/live/chid=606
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hutiedyy.png",全国影院 - 蝴蝶电影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/34822_KA3zE.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hutiedyy.png",全国影院 - 银龙电影城直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dongxindsjc.png",全国影院 - 东星电视剧直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/33765_6qakZ.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="ttwxdyy.png",全国影院 - 武侠电影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/9263_LQ19C.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb11.png",全国影院 - 彼岸二影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/43626_vQOn9.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="4ddyy.png",全国影院 - 国际影院直播
+http://218.63.199.20/wshdl.load.cdn.zhanqi.tv/zqlive/12260_BG1BI.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="chaojyy.png",全国影院 - 超级影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dianyzb1.png",全国影院 - 嘉华影院直播
+http://182.34.127.46/wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="taishandyyzb.png",全国影院 - 泰山影院直播
+http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="meiggndpyy.png",全国影院 - 高能大片直播
+http://124.165.216.176/wshdl.load.cdn.zhanqi.tv/zqlive/45188_oT6Ed.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb67.png",全国影院 - 战旗影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/7032_0s2qn.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb65.png",全国影院 - 江津影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinsdyy.png",全国影院 - 时代影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb53.png",全国影院 - 沙坝影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb14.png",全国影院 - 高鑫影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dianyzb2.png",全国影院 - 乐雅影院直播
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dianyzb6.png",全国影院 - 传奇影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/7032_0s2qn.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="chc.png",全国影院 - 高清电影直播
+rtmp://58.200.131.2:1935/livetv/chchd
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="mingcyy.png",全国影院 - 名城影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yaocyb.png",全国影院 - 咬唇影吧直播
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/30647_JIjP2
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="msyy.png",全国影院 - 幂诗影院直播
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xiaoxxjd.png",全国影院 - 小欣影院直播
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34338_PVMT5
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yirdys.png",全国影院 - 鱼儿影院直播
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="meirxjyy.png",全国影院 - 菲菲影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/20910_uUMgC.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yinglongyc.png",全国影院 - 银龙电影城直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="subaozzb.png",全国影院 - 素素影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/61362_mZejk.m3u8
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="msyy.png",全国影院 - 诗诗影院直播
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="fengdy.png",全国影院 - 雪花电影院直播
+rtmp://edge1.everyon.tv/etv1/phd269
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="kueizjd.png",全国影院 - 风云影院直播
+rtmp://edge1.everyon.tv/etv1/phd269
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="laohyy.png",全国影院 - 虎狮影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/52835_429Dk.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="mayyy.png",全国影院 - 蚂蚁影院直播
+http://wshdl.load.cdn.zhanqi.tv/zqlive/35180_KUDhx.flv
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="jjwcq.png",全国影院 - 韩韩影院直播
+http://g3.letv.cn/14/44/102/2141722611.0.flv
 
 
 
