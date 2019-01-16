@@ -365,60 +365,60 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
 
 
-#EXTINF:-1,group-title="Sport",BEINSPORTS 1 FHD
-http://secure.serkom.eu:80/bahri/12122018/10529
-#EXTINF:-1,group-title="Sport",BEINSPORTS 2 FHD
-http://secure.serkom.eu:80/bahri/12122018/10528
-#EXTINF:-1,group-title="Sport",BEINSPORTS 3 FHD
-http://secure.serkom.eu:80/bahri/12122018/10527
-#EXTINF:-1,group-title="Sport",BEINSPORTS 4 FHD
-http://secure.serkom.eu:80/bahri/12122018/10526
-#EXTINF:-1,group-title="Sport",BEINSPORTS MAX 1 FHD
-http://secure.serkom.eu:80/bahri/12122018/10521
-#EXTINF:-1,group-title="Sport",BEINSPORTS MAX 2 FHD
-http://secure.serkom.eu:80/bahri/12122018/10520
-#EXTINF:-1,group-title="Sport",BEINSPORTS HABER FHD
-http://secure.serkom.eu:80/bahri/12122018/10519
-#EXTINF:-1,group-title="Sport",EUROSPORT 1 HD
-http://secure.serkom.eu:80/bahri/12122018/11718
-#EXTINF:-1,group-title="Sport",EUROSPORT 2 HD
-http://secure.serkom.eu:80/bahri/12122018/11719
-#EXTINF:-1,group-title="Sport",FIGHT NETWORK
-http://secure.serkom.eu:80/bahri/12122018/12036
-#EXTINF:-1,group-title="Sport",NBA TV
-http://secure.serkom.eu:80/bahri/12122018/10500
-#EXTINF:-1,group-title="ENTERTAINTMENT",FX
-http://secure.serkom.eu:80/bahri/12122018/16699
-#EXTINF:-1,group-title="MOVIE",beIN Movies Action HD
-http://secure.serkom.eu:80/bahri/12122018/10443
-#EXTINF:-1,group-title="MOVIE",beIN MOVIES ACTION 2 HD
-http://secure.serkom.eu:80/bahri/12122018/12495
-#EXTINF:-1,group-title="MOVIE",beIN Movies Premiere HD
-http://secure.serkom.eu:80/bahri/12122018/10447
-#EXTINF:-1,group-title="MOVIE",beIN MOVIES PREMIERE 2 HD
-http://secure.serkom.eu:80/bahri/12122018/12496
-#EXTINF:-1,group-title="ENTERTAINTMENT",H2
-http://secure.serkom.eu:80/bahri/12122018/33826
-#EXTINF:-1,group-title="MOVIE",Hallmark Channel HD
-http://secure.serkom.eu:80/bahri/12122018/33827
-#EXTINF:-1,group-title="MOVIE",Hallmark Movies & Mysteries HD
-http://secure.serkom.eu:80/bahri/12122018/33828
-#EXTINF:-1,group-title="MOVIE",HBO Comedy HD
-http://secure.serkom.eu:80/bahri/12122018/33829
-#EXTINF:-1,group-title="MOVIE",HBO HD
-http://secure.serkom.eu:80/bahri/12122018/33830
-#EXTINF:-1,group-title="MOVIE",HBO Signature
-http://secure.serkom.eu:80/bahri/12122018/33831
-#EXTINF:-1,group-title="MOVIE",HBO Zone HD
-http://secure.serkom.eu:80/bahri/12122018/33832
-#EXTINF:-1,group-title="ENTERTAINTMENT",Lifetime HD
-http://secure.serkom.eu:80/bahri/12122018/33838
-#EXTINF:-1,group-title="MUSIC",MTV Base HD
-http://secure.serkom.eu:80/bahri/12122018/33842
-#EXTINF:-1,group-title="MUSIC",MTV HD
-http://secure.serkom.eu:80/bahri/12122018/33843
-#EXTINF:-1,group-title="MUSIC",MTV Rocks
-http://secure.serkom.eu:80/bahri/12122018/33844
+#EXTINF:-1,group-title="Sport",beIN Sports 1 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 2 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 3 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 4 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 5 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 6 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 7 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 8 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 9 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 10 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_1_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_2_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_3_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Series_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_+2h_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
+#EXTINF:-1,group-title="MOVIE",MBC1
+http://62.210.247.151:8000/live/mantech2019774/421588911/41.ts
+#EXTINF:-1,group-title="MOVIE",MBC2
+http://62.210.247.151:8000/live/mantech2019774/421588911/42.ts
+#EXTINF:-1,group-title="MOVIE",MBC3
+http://62.210.247.151:8000/live/mantech2019774/421588911/43.ts
+#EXTINF:-1,group-title="MOVIE",MBC4
+http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
+#EXTINF:-1,group-title="MOVIE",MBC MAX
+http://62.210.247.151:8000/live/mantech2019774/421588911/46.ts
+#EXTINF:-1,group-title="MOVIE",MBC action
+http://62.210.247.151:8000/live/mantech2019774/421588911/45.ts
+#EXTINF:-1,group-title="MOVIE",MBC RAVIETY
+http://62.210.247.151:8000/live/mantech2019774/421588911/48.ts
+#EXTINF:-1,group-title="MOVIE",MBC DRAMA
+http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
+#EXTINF:-1,group-title="MOVIE",MBC Bolly
+http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
+
+
 
 
 
