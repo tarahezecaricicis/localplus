@@ -16,7 +16,7 @@ http://80.80.160.168/live/5/live.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1, tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
+#EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
@@ -26,7 +26,7 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
-#EXTINF:0, group-title="ENTERTAINTMENT",tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",Foodie Channel
+#EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="ENTERTAINTMENT",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",Greensboro TV Network
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
