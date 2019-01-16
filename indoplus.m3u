@@ -309,9 +309,37 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/800px-Fox_Crime_logo.svg.png" group-title="ENTERTAINTMENT",Fox Crime
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE",Sony Movie Channel (Opt-1)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
-
-
+#EXTINF:-1,group-title="Sport",BEINSPORTS 1 FHD
+http://secure.serkom.eu:80/bahri/12122018/10529
+#EXTINF:-1,group-title="Sport",BEINSPORTS 2 FHD
+http://secure.serkom.eu:80/bahri/12122018/10528
+#EXTINF:-1,group-title="Sport",BEINSPORTS 3 FHD
+http://secure.serkom.eu:80/bahri/12122018/10527
+#EXTINF:-1,group-title="Sport",BEINSPORTS 4 FHD
+http://secure.serkom.eu:80/bahri/12122018/10526
+#EXTINF:-1,group-title="Sport",BEINSPORTS MAX 1 FHD
+http://secure.serkom.eu:80/bahri/12122018/10521
+#EXTINF:-1,group-title="Sport",BEINSPORTS MAX 2 FHD
+http://secure.serkom.eu:80/bahri/12122018/10520
+#EXTINF:-1,group-title="Sport",BEINSPORTS HABER FHD
+http://secure.serkom.eu:80/bahri/12122018/10519
+#EXTINF:-1,group-title="Sport",EUROSPORT 1 HD
+http://secure.serkom.eu:80/bahri/12122018/11718
+#EXTINF:-1,group-title="Sport",EUROSPORT 2 HD
+http://secure.serkom.eu:80/bahri/12122018/11719
+#EXTINF:-1,group-title="Sport",FIGHT NETWORK
+http://secure.serkom.eu:80/bahri/12122018/12036
+#EXTINF:-1,group-title="Sport",NBA TV
+http://secure.serkom.eu:80/bahri/12122018/10500
+#EXTINF:-1,group-title="ENTERTAINTMENT",FX
+http://secure.serkom.eu:80/bahri/12122018/16699
+#EXTINF:-1,group-title="MOVIE",beIN Movies Action HD
+http://secure.serkom.eu:80/bahri/12122018/10443
+#EXTINF:-1,group-title="MOVIE",beIN MOVIES ACTION 2 HD
+http://secure.serkom.eu:80/bahri/12122018/12495
+#EXTINF:-1,group-title="MOVIE",beIN Movies Premiere HD
+http://secure.serkom.eu:80/bahri/12122018/10447
+#EXTINF:-1,group-title="MOVIE",beIN MOVIES PREMIERE 2 HD
+http://secure.serkom.eu:80/bahri/12122018/12496
 
