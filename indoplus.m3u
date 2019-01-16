@@ -124,18 +124,13 @@ http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
-#EXTINF:-1, group-title="KOREA",EBS
-http://119.194.58.213:9981/stream/channelid/1900573553?ticket=05F4A9E8D4B6D16F41515D46FC0FF369BDDB78A2&profile=pass
-#EXTINF:-1, group-title="KOREA", KBS1
-http://119.194.58.213:9981/stream/channelid/38105485?ticket=C9B291B812371A13570E524B2E1B3E022C38E6C4&profile=pass
+
 #EXTINF:-1,group-title="KOREA",KTVHD
 rtmp://218.38.152.31:1935/klive/klive.stream
 #EXTINF:0, group-title="KOREA",K+(Indo Sub)
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:0, group-title="KOREA",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1, group-title="KOREA",MBC
-http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 #EXTINF:0, group-title="KOREA",Sony One HD(Indo Sub)
 http://210.210.155.35/uq2663/h/h13/index.m3u8
 
