@@ -302,8 +302,22 @@ http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="Sport",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-
-
+#EXTINF:-1,group-title="RELIGION",MNC Muslim
+http://cdn-livetv1.metube.id/hls/mncmuslim_240/index.m3u8
+#EXTINF:-1,group-title="RELIGION",HIDAYAH
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+#EXTINF:-1,group-title="ENTERTAINTMENT",LIFE
+https://cdn-livetv2.metube.id/hls/life.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:.Net
+http://180.250.29.12/jhos/net.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Al-Jazeera
+http://180.250.29.21/jhos/aljazeera.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Arirang
+http://180.250.29.21/jhos/arirang.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:KBS World
+http://180.250.29.21/jhos/kbs.m3u8
+#EXTINF:-1 $ExtFilter="UseeTV",UseeTV:Rajawali TV
+http://180.250.29.12/jhos/rtv.m3u8
 
 
 
