@@ -2,14 +2,30 @@
 
 #EXTINF:0, group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:0, group-title="INDONESIA",ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:0, group-title="INDONESIA",BALI TV
+http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="INDONESIA",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:0, group-title="INDONESIA",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="INDONESIA",CELESTIAL MOVIE(Indo Sub)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="INDONESIA",CINEMA WORD(Indo Sub)
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:0, group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0, group-title="INDONESIA",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1, group-title="INDONESIA",DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="INDONESIA",DISNEY JUNIOR(INDO DUB)
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:0, group-title="INDONESIA",DMI TV
+http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="INDONESIA",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:0, group-title="INDONESIA",GLOBALTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png" group-title="INDONESIA",GLOBAL TV
@@ -20,10 +36,18 @@ http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomai
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:0, group-title="INDONESIA",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0, group-title="INDONESIA",JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="INDONESIA",JAKTV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, group-title="INDONESIA",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="INDONESIA",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="INDONESIA",KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:0, group-title="INDONESIA",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="INDONESIA",KOMPASTV
@@ -44,6 +68,8 @@ http://id8.indostreamingtv.com/live/tv66/index.m3u8
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="INDONESIA",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,group-title="MOVIE",THRILL HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:0, group-title="INDONESIA",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="INDONESIA",TRANS7
@@ -54,61 +80,31 @@ http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=0
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0, group-title="INDONESIA",TVRI SPORTS HD
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-#EXTINF:-1,group-title="INDONESIA",DAAITV
-http://ez-tracker.net/tvz/DAAITV
-#EXTINF:-1,group-title="INDONESIA",Bali TV
-http://ez-tracker.net/tvz/Bali
-#EXTINF:-1,group-title="INDONESIA",JAKARTA GLOBE
-http://ez-tracker.net/tvz/JAKARTA_GLOBE
-#EXTINF:-1,group-title="INDONESIA",RODJA TV
-http://ez-tracker.net/tvz/Rodja_TV
-#EXTINF:-1,group-title="INDONESIA",TABALONG TV
-http://ez-tracker.net/tvz/Tabalong_TV
-#EXTINF:-1,group-title="INDONESIA",Saling Sapa
-http://ez-tracker.net/tvz/Saling_Sapa
-#EXTINF:-1,group-title="INDONESIA",Inspira TV
-http://ez-tracker.net/tvz/Inspira_TV
-#EXTINF:-1,group-title="INDONESIA",Nabawi TV
-http://ez-tracker.net/tvz/Nabawi_TV
-#EXTINF:-1,group-title="INDONESIA",More TV
-http://ez-tracker.net/tvz/More
-#EXTINF:-1,group-title="INDONESIA",SFI
-http://ez-tracker.net/tvz/SFI
-#EXTINF:-1,group-title="INDONESIA",INTV
-http://ez-tracker.net/tvzINTV
 #EXTINF:-1,group-title="INDONESIA",DANG TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1,group-title="INDONESIA",Kitanesia
-http://ez-tracker.net/tvz/Kitanesia
-#EXTINF:-1,group-title="INDONESIA",MKTV
-http://ez-tracker.net/tvz/MKTV
-#EXTINF:-1,group-title="INDONESIA",HOME & LIVING
-http://ez-tracker.net/tvz/home_living
-#EXTINF:-1,group-title="INDONESIA",ELSHINTA TV
-http://ez-tracker.net/tvz/Elshinta
-#EXTINF:-1,group-title="INDONESIA",BLifeStyle
-http://ez-tracker.net/tvz/BLifeStyle
-#EXTINF:-1,group-title="INDONESIA",TV BMW
-http://ez-tracker.net/tvz/BMW
-#EXTINF:-1,group-title="INDONESIA",BMS TV
-http://ez-tracker.net/tvz/BMS
-#EXTINF:-1,group-title="INDONESIA",Suara Surabaya
-http://ez-tracker.net/tvz/Suara_Surabaya
-#EXTINF:-1,group-title="INDONESIA",BKIDS
-http://ez-tracker.net/tvz/BKids
-#EXTINF:-1,group-title="INDONESIA",NM KIDS
-http://ez-tracker.net/tvz/NM_KIDS
-#EXTINF:-1,group-title="INDONESIA",Kartoon Circus
-http://ez-tracker.net/tvz/kc
-#EXTINF:-1,group-title="INDONESIA",ADI TV
-http://ez-tracker.net/tvz/ADI_TV
-#EXTINF:-1,group-title="INDONESIA",Prima TV Banjarmasin
-http://ez-tracker.net/tvz/Prima_TV
 #EXTINF:-1,group-title="INDONESIA",BAYU TV
 http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1,group-title="INDONESIA",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0, group-title="INDONESIA",K+(Indo Sub)
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:0, group-title="INDONESIA",Sony One HD(Indo Sub)
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:0, group-title="RELIGION",RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:0, group-title="INDONESIA",SALING SAPA TV
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:0, group-title="INDONESIA",TV 9 Nusantara SURABAYA
+http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
 
+#EXTINF:0, group-title="PLAYLIST 1",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="PLAYLIST 1",&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="PLAYLIST 1",&Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="PLAYLIST 1",&TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
 
