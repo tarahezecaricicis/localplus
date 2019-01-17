@@ -183,9 +183,9 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0, group-title="LOKAL",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",TRANS7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKAL",TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0, group-title="LOKALHD",TRANS7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0, group-title="LOKALHD",TVRI SPORTS HD
