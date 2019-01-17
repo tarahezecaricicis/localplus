@@ -337,6 +337,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:0, group-title="Sport",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
+#EXTINF:-1,group-title="Sport",NBA HD
+http://195.154.220.71:3333/Metege2/Skype15082018/72
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT
