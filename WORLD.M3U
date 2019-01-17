@@ -1,5 +1,116 @@
 #EXTM3U
 
+#EXTINF:0, group-title="INDONESIA",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:0, group-title="LOKALHD",BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:0, group-title="LOKALHD",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:0, group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0, group-title="LOKALHD",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:0, group-title="LOKALHD",GLOBALTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png" group-title="INDONESIA",GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",INTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:0, group-title="INDONESIA",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",KOMPASTV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:0, group-title="LOKALHD",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:0, group-title="INDONESIA",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/rcti.png" group-title="INDONESIA",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",RCTIHD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:0, group-title="INDONESIA",RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="INDONESIA",TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="LOKALHD",TRANS7
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
+#EXTINF:0, group-title="LOKALHD",TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+#EXTINF:-1,group-title="INDONESIA",DAAITV
+http://ez-tracker.net/tvz/DAAITV
+#EXTINF:-1,group-title="INDONESIA",Bali TV
+http://ez-tracker.net/tvz/Bali
+#EXTINF:-1,group-title="INDONESIA",JAKARTA GLOBE
+http://ez-tracker.net/tvz/JAKARTA_GLOBE
+#EXTINF:-1,group-title="INDONESIA",RODJA TV
+http://ez-tracker.net/tvz/Rodja_TV
+#EXTINF:-1,group-title="INDONESIA",TABALONG TV
+http://ez-tracker.net/tvz/Tabalong_TV
+#EXTINF:-1,group-title="INDONESIA",Saling Sapa
+http://ez-tracker.net/tvz/Saling_Sapa
+#EXTINF:-1,group-title="INDONESIA",Inspira TV
+http://ez-tracker.net/tvz/Inspira_TV
+#EXTINF:-1,group-title="INDONESIA",Nabawi TV
+http://ez-tracker.net/tvz/Nabawi_TV
+#EXTINF:-1,group-title="INDONESIA",More TV
+http://ez-tracker.net/tvz/More
+#EXTINF:-1,group-title="INDONESIA",SFI
+http://ez-tracker.net/tvz/SFI
+#EXTINF:-1,group-title="INDONESIA",INTV
+http://ez-tracker.net/tvzINTV
+#EXTINF:-1,group-title="INDONESIA",DANG TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1,group-title="INDONESIA",Kitanesia
+http://ez-tracker.net/tvz/Kitanesia
+#EXTINF:-1,group-title="INDONESIA",MKTV
+http://ez-tracker.net/tvz/MKTV
+#EXTINF:-1,group-title="INDONESIA",HOME & LIVING
+http://ez-tracker.net/tvz/home_living
+#EXTINF:-1,group-title="INDONESIA",ELSHINTA TV
+http://ez-tracker.net/tvz/Elshinta
+#EXTINF:-1,group-title="INDONESIA",BLifeStyle
+http://ez-tracker.net/tvz/BLifeStyle
+#EXTINF:-1,group-title="INDONESIA",TV BMW
+http://ez-tracker.net/tvz/BMW
+#EXTINF:-1,group-title="INDONESIA",BMS TV
+http://ez-tracker.net/tvz/BMS
+#EXTINF:-1,group-title="INDONESIA",Suara Surabaya
+http://ez-tracker.net/tvz/Suara_Surabaya
+#EXTINF:-1,group-title="INDONESIA",BKIDS
+http://ez-tracker.net/tvz/BKids
+#EXTINF:-1,group-title="INDONESIA",NM KIDS
+http://ez-tracker.net/tvz/NM_KIDS
+#EXTINF:-1,group-title="INDONESIA",Kartoon Circus
+http://ez-tracker.net/tvz/kc
+#EXTINF:-1,group-title="INDONESIA",ADI TV
+http://ez-tracker.net/tvz/ADI_TV
+#EXTINF:-1,group-title="INDONESIA",Prima TV Banjarmasin
+http://ez-tracker.net/tvz/Prima_TV
+#EXTINF:-1,group-title="INDONESIA",BAYU TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1,group-title="INDONESIA",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
 #EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
 
