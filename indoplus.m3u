@@ -13,8 +13,6 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1,group-title="ENTERTAINTMENT",E! Entertainment
-http://62.210.189.214:1202/jamie/jamie/160
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
@@ -435,48 +433,6 @@ http://195.154.220.71:3333/Metege2/Skype15082018/344
 http://195.154.220.71:3333/Metege2/Skype15082018/130
 #EXTINF:-1,group-title="MOVIE",Sky_Movies_Premiere_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/142
-#EXTINF:-1,group-title="KIDS",Nicktoons
-http://62.210.189.214:1202/jamie/jamie/180
-#EXTINF:-1,group-title="KIDS",Disney XD
-http://62.210.189.214:1202/jamie/jamie/183
-#EXTINF:-1,group-title="KIDS",Disney Channel
-http://62.210.189.214:1202/jamie/jamie/181
-#EXTINF:-1,group-title="KIDS",Nickelodeon
-http://62.210.189.214:1202/jamie/jamie/224
-#EXTINF:-1,group-title="KIDS",Nick Jr
-http://62.210.189.214:1202/jamie/jamie/222
-#EXTINF:-1,group-title="KIDS",Boomerang
-http://62.210.189.214:1202/jamie/jamie/223
-#EXTINF:-1,group-title="KIDS",Baby TV
-http://62.210.189.214:1202/jamie/jamie/225
-#EXTINF:-1,group-title="EDUTAINTMENT",Discovery
-http://62.210.189.214:1202/jamie/jamie/166
-#EXTINF:-1,group-title="EDUTAINTMENT",Discovery History
-http://62.210.189.214:1202/jamie/jamie/165
-#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Science
-http://62.210.189.214:1202/jamie/jamie/168
-#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Shed
-http://62.210.189.214:1202/jamie/jamie/169
-#EXTINF:-1,group-title="EDUTAINTMENT",Discovery Turbo
-http://62.210.189.214:1202/jamie/jamie/170
-#EXTINF:-1,group-title="ENTERTAINTMENT",DMAX
-http://62.210.189.214:1202/jamie/jamie/176
-#EXTINF:-1,group-title="ENTERTAINTMENT",Quest
-http://62.210.189.214:1202/jamie/jamie/198
-#EXTINF:-1,group-title="ENTERTAINTMENT",ID Investigation
-http://62.210.189.214:1202/jamie/jamie/171
-#EXTINF:-1,group-title="ENTERTAINTMENT",Crime & Investigation
-http://62.210.189.214:1202/jamie/jamie/172
-#EXTINF:-1,group-title="EDUTAINTMENT",National Geographic UK
-http://62.210.189.214:1202/jamie/jamie/124
-#EXTINF:-1,group-title="EDUTAINTMENT",Nat Geo Wild
-http://62.210.189.214:1202/jamie/jamie/139
-#EXTINF:-1,group-title="EDUTAINTMENT",Animal Planet
-http://62.210.189.214:1202/jamie/jamie/173
-#EXTINF:-1,group-title="ENTERTAINTMENT",History
-http://62.210.189.214:1202/jamie/jamie/163
-#EXTINF:-1,group-title="ENTERTAINTMENT",H2 UK
-http://62.210.189.214:1202/jamie/jamie/164
 
 
 
