@@ -1,3331 +1,3175 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="Sport"beIN Sports 1 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 2 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 2 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 3 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 4 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 4 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 5 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 5 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 6 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 6 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 7 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 7 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 8 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 8 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 9 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 9 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
 
-#EXTINF:-1,group-title="Sport"beIN Sports 10 HD
+#EXTINF:-1,group-title="PLAYLIST 1",beIN Sports 10 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
 
-#EXTINF:-1,group-title="Sport"Sky Moto GP HD
+#EXTINF:-1,group-title="PLAYLIST 1",Sky Moto GP HD
 http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/94.ts
 
-#EXTINF:-1,group-title="Sport"Sky Sport F1 HD
+#EXTINF:-1,group-title="PLAYLIST 1",Sky Sport F1 HD
 http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/98.ts
 
-#EXTINF:-1,group-title="Sport"Sky Sport3 HD
+#EXTINF:-1,group-title="PLAYLIST 1",Sky Sport3 HD
 http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/101.ts
 
-#EXTINF:-1,group-title="Sport"Sky Sport2 HD
+#EXTINF:-1,group-title="PLAYLIST 1",Sky Sport2 HD
 http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/100.ts
 
-#EXTINF:-1,group-title="Sport"Sky Sport1 HD
+#EXTINF:-1,group-title="PLAYLIST 1",Sky Sport1 HD
 http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/99.ts
 
-#EXTINF:-1,=== PLAYLIST 2 ===
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/30.ts
 
-#EXTINF:-1,beIN Sports Low 1
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/17.ts
 
-#EXTINF:-1,beIN Sports Low 2
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 2
 http://62.210.247.151:8000/live/mantech2019774/421588911/18.ts
 
-#EXTINF:-1,beIN Sports Low 3
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 3
 http://62.210.247.151:8000/live/mantech2019774/421588911/19.ts
 
-#EXTINF:-1,beIN Sports Low 4
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 4
 http://62.210.247.151:8000/live/mantech2019774/421588911/20.ts
 
-#EXTINF:-1,beIN Sports Low 5
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 5
 http://62.210.247.151:8000/live/mantech2019774/421588911/21.ts
 
-#EXTINF:-1,beIN Sports Low 6
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 6
 http://62.210.247.151:8000/live/mantech2019774/421588911/22.ts
 
-#EXTINF:-1,beIN Sports Low 7
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports Low 7
 http://62.210.247.151:8000/live/mantech2019774/421588911/23.ts
 
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/31.ts
 
-#EXTINF:-1,BEIN SPORTS 2
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 2
 http://62.210.247.151:8000/live/mantech2019774/421588911/32.ts
 
-#EXTINF:-1,BEIN SPORTS 3
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 3
 http://62.210.247.151:8000/live/mantech2019774/421588911/33.ts
 
-#EXTINF:-1,BEIN SPORTS 6
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 6
 http://62.210.247.151:8000/live/mantech2019774/421588911/36.ts
 
-#EXTINF:-1,BEIN SPORTS 7
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 7
 http://62.210.247.151:8000/live/mantech2019774/421588911/37.ts
 
-#EXTINF:-1,BEIN SPORTS 8
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 8
 http://62.210.247.151:8000/live/mantech2019774/421588911/38.ts
 
-#EXTINF:-1,BEIN SPORTS 9
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN SPORTS 9
 http://62.210.247.151:8000/live/mantech2019774/421588911/39.ts
 
-#EXTINF:-1,beIN Sports 4 HD
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports 4 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/4.ts
 
-#EXTINF:-1,beIN Sports 5 HD
+#EXTINF:-1,group-title="PLAYLIST 2",beIN Sports 5 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/5.ts
 
-#EXTINF:-1,BEIN MOVIES 1 HD
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN MOVIES 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/24.ts
 
-#EXTINF:-1,BEIN MOVIES 2 HD
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN MOVIES 2 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/25.ts
 
-#EXTINF:-1,BEIN MOVIES 3 HD
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN MOVIES 3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/26.ts
 
-#EXTINF:-1,BEIN MOVIES 4 HD
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN MOVIES 4 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/27.ts
 
-#EXTINF:-1,BEIN Series-HD1
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN Series-HD1
 http://62.210.247.151:8000/live/mantech2019774/421588911/28.ts
 
-#EXTINF:-1,BEIN Series-HD2
+#EXTINF:-1,group-title="PLAYLIST 2",BEIN Series-HD2
 http://62.210.247.151:8000/live/mantech2019774/421588911/29.ts
 
-#EXTINF:-1,OSN_BoxOffice_1_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_BoxOffice_1_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
 
-#EXTINF:-1,OSN_BoxOffice_2_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_BoxOffice_2_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
 
-#EXTINF:-1,OSN_BoxOffice_3_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_BoxOffice_3_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
 
-#EXTINF:-1,OSN_Series_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_Series_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
 
-#EXTINF:-1,OSN_Movies_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_Movies_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
 
-#EXTINF:-1,OSN_Movies_First_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_Movies_First_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
 
-#EXTINF:-1,OSN_Movies_First_+2h_HD
+#EXTINF:-1,group-title="PLAYLIST 2",OSN_Movies_First_+2h_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
 
-#EXTINF:-1,Mbc1
+#EXTINF:-1,group-title="PLAYLIST 2",Mbc1
 http://62.210.247.151:8000/live/mantech2019774/421588911/41.ts
 
-#EXTINF:-1,Mbc2
+#EXTINF:-1,group-title="PLAYLIST 2",Mbc2
 http://62.210.247.151:8000/live/mantech2019774/421588911/42.ts
 
-#EXTINF:-1,Mbc3
+#EXTINF:-1,group-title="PLAYLIST 2",Mbc3
 http://62.210.247.151:8000/live/mantech2019774/421588911/43.ts
 
-#EXTINF:-1,Mbc4
+#EXTINF:-1,group-title="PLAYLIST 2",Mbc4
 http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
 
-#EXTINF:-1,mbc MAX
+#EXTINF:-1,group-title="PLAYLIST 2",mbc MAX
 http://62.210.247.151:8000/live/mantech2019774/421588911/46.ts
 
-#EXTINF:-1,mbc action
+#EXTINF:-1,group-title="PLAYLIST 2",mbc action
 http://62.210.247.151:8000/live/mantech2019774/421588911/45.ts
 
-#EXTINF:-1,mbc VARIETY
+#EXTINF:-1,group-title="PLAYLIST 2",mbc VARIETY
 http://62.210.247.151:8000/live/mantech2019774/421588911/48.ts
 
-#EXTINF:-1,mbc DRAMA
+#EXTINF:-1,group-title="PLAYLIST 2",mbc DRAMA
 http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
 
-#EXTINF:-1,mbc Bolly
+#EXTINF:-1,group-title="PLAYLIST 2",mbc Bolly
 http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
 
-#EXTINF:-1,Al-Fajer TV 5
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 5
 http://62.210.247.151:8000/live/mantech2019774/421588911/54.ts
 
-#EXTINF:-1,Al-Fajer TV 4
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 4
 http://62.210.247.151:8000/live/mantech2019774/421588911/53.ts
 
-#EXTINF:-1,Al-Fajer TV 3
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 3
 http://62.210.247.151:8000/live/mantech2019774/421588911/52.ts
 
-#EXTINF:-1,Al-Fajer TV 2 1080
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 2 1080
 http://62.210.247.151:8000/live/mantech2019774/421588911/59.ts
 
-#EXTINF:-1,Al-Fajer TV 2
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 2
 http://62.210.247.151:8000/live/mantech2019774/421588911/51.ts
 
-#EXTINF:-1,Al-Fajer TV 1
+#EXTINF:-1,group-title="PLAYLIST 2",Al-Fajer TV 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/50.ts
 
-#EXTINF:-1,RayaHD3
+#EXTINF:-1,group-title="PLAYLIST 2",RayaHD3
 http://62.210.247.151:8000/live/mantech2019774/421588911/75.ts
 
-#EXTINF:-1,PBCLive
+#EXTINF:-1,group-title="PLAYLIST 2",PBCLive
 http://62.210.247.151:8000/live/mantech2019774/421588911/71.ts
 
-#EXTINF:-1,najah
+#EXTINF:-1,group-title="PLAYLIST 2",najah
 http://62.210.247.151:8000/live/mantech2019774/421588911/69.ts
 
-#EXTINF:-1,Musawa
+#EXTINF:-1,group-title="PLAYLIST 2",Musawa
 http://62.210.247.151:8000/live/mantech2019774/421588911/78.ts
 
-#EXTINF:-1,MawwalHD
+#EXTINF:-1,group-title="PLAYLIST 2",MawwalHD
 http://62.210.247.151:8000/live/mantech2019774/421588911/82.ts
 
-#EXTINF:-1,MaanHD
+#EXTINF:-1,group-title="PLAYLIST 2",MaanHD
 http://62.210.247.151:8000/live/mantech2019774/421588911/79.ts
 
-#EXTINF:-1,ftv
+#EXTINF:-1,group-title="PLAYLIST 2",ftv
 http://62.210.247.151:8000/live/mantech2019774/421588911/77.ts
 
-#EXTINF:-1,bethlam tv hd
+#EXTINF:-1,group-title="PLAYLIST 2",bethlam tv hd
 http://62.210.247.151:8000/live/mantech2019774/421588911/66.ts
 
-#EXTINF:-1,Awdeh TV
+#EXTINF:-1,group-title="PLAYLIST 2",Awdeh TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/73.ts
 
-#EXTINF:-1,alsalam tv hd
+#EXTINF:-1,group-title="PLAYLIST 2",alsalam tv hd
 http://62.210.247.151:8000/live/mantech2019774/421588911/57.ts
 
-#EXTINF:-1,Almahed
+#EXTINF:-1,group-title="PLAYLIST 2",Almahed
 http://62.210.247.151:8000/live/mantech2019774/421588911/83.ts
 
-#EXTINF:-1,Al Aqsa
+#EXTINF:-1,group-title="PLAYLIST 2",Al Aqsa
 http://62.210.247.151:8000/live/mantech2019774/421588911/70.ts
 
-#EXTINF:-1,ajeyel tv hd
+#EXTINF:-1,group-title="PLAYLIST 2",ajeyel tv hd
 http://62.210.247.151:8000/live/mantech2019774/421588911/64.ts
 
-#EXTINF:-1,tyor
+#EXTINF:-1,group-title="PLAYLIST 2",tyor
 http://62.210.247.151:8000/live/mantech2019774/421588911/84.ts
 
-#EXTINF:-1,TOYOR-BABY
+#EXTINF:-1,group-title="PLAYLIST 2",TOYOR-BABY
 http://62.210.247.151:8000/live/mantech2019774/421588911/85.ts
 
-#EXTINF:-1,Majid Kids
+#EXTINF:-1,group-title="PLAYLIST 2",Majid Kids
 http://62.210.247.151:8000/live/mantech2019774/421588911/89.ts
 
-#EXTINF:-1,karameesh
+#EXTINF:-1,group-title="PLAYLIST 2",karameesh
 http://62.210.247.151:8000/live/mantech2019774/421588911/88.ts
 
-#EXTINF:-1,jeem tv
+#EXTINF:-1,group-title="PLAYLIST 2",jeem tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/91.ts
 
-#EXTINF:-1,CN Arabic
+#EXTINF:-1,group-title="PLAYLIST 2",CN Arabic
 http://62.210.247.151:8000/live/mantech2019774/421588911/87.ts
 
-#EXTINF:-1,baraeim tv
+#EXTINF:-1,group-title="PLAYLIST 2",baraeim tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/90.ts
 
-#EXTINF:-1,watantv
+#EXTINF:-1,group-title="PLAYLIST 2",watantv
 http://62.210.247.151:8000/live/mantech2019774/421588911/103.ts
 
-#EXTINF:-1,Russia Today
+#EXTINF:-1,group-title="PLAYLIST 2",Russia Today
 http://62.210.247.151:8000/live/mantech2019774/421588911/99.ts
 
-#EXTINF:-1,ps
+#EXTINF:-1,group-title="PLAYLIST 2",ps
 http://62.210.247.151:8000/live/mantech2019774/421588911/100.ts
 
-#EXTINF:-1,Mekameleen (Egypte)
+#EXTINF:-1,group-title="PLAYLIST 2",Mekameleen (Egypte)
 http://62.210.247.151:8000/live/mantech2019774/421588911/95.ts
 
-#EXTINF:-1,hadath
+#EXTINF:-1,group-title="PLAYLIST 2",hadath
 http://62.210.247.151:8000/live/mantech2019774/421588911/104.ts
 
-#EXTINF:-1,BBC Arabic News
+#EXTINF:-1,group-title="PLAYLIST 2",BBC Arabic News
 http://62.210.247.151:8000/live/mantech2019774/421588911/98.ts
 
-#EXTINF:-1,aqsatv
+#EXTINF:-1,group-title="PLAYLIST 2",aqsatv
 http://62.210.247.151:8000/live/mantech2019774/421588911/101.ts
 
-#EXTINF:-1,Alsharq
+#EXTINF:-1,group-title="PLAYLIST 2",Alsharq
 http://62.210.247.151:8000/live/mantech2019774/421588911/102.ts
 
-#EXTINF:-1,Aljazeera Mubasher
+#EXTINF:-1,group-title="PLAYLIST 2",Aljazeera Mubasher
 http://62.210.247.151:8000/live/mantech2019774/421588911/106.ts
 
-#EXTINF:-1,AlJazeera 1080 Full HD
+#EXTINF:-1,group-title="PLAYLIST 2",AlJazeera 1080 Full HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/93.ts
 
-#EXTINF:-1,ALJAZEERA (ARABIA)
+#EXTINF:-1,group-title="PLAYLIST 2",ALJAZEERA (ARABIA)
 http://62.210.247.151:8000/live/mantech2019774/421588911/92.ts
 
-#EXTINF:-1,alhiwar
+#EXTINF:-1,group-title="PLAYLIST 2",alhiwar
 http://62.210.247.151:8000/live/mantech2019774/421588911/94.ts
 
-#EXTINF:-1,alalam
+#EXTINF:-1,group-title="PLAYLIST 2",alalam
 http://62.210.247.151:8000/live/mantech2019774/421588911/107.ts
 
-#EXTINF:-1,Al Manar
+#EXTINF:-1,group-title="PLAYLIST 2",Al Manar
 http://62.210.247.151:8000/live/mantech2019774/421588911/97.ts
 
-#EXTINF:-1,Al Arabiya
+#EXTINF:-1,group-title="PLAYLIST 2",Al Arabiya
 http://62.210.247.151:8000/live/mantech2019774/421588911/105.ts
 
-#EXTINF:-1,qureen
+#EXTINF:-1,group-title="PLAYLIST 2",qureen
 http://62.210.247.151:8000/live/mantech2019774/421588911/110.ts
 
-#EXTINF:-1,Mekka tv
+#EXTINF:-1,group-title="PLAYLIST 2",Mekka tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/113.ts
 
-#EXTINF:-1,Zee Alwan
+#EXTINF:-1,group-title="PLAYLIST 2",Zee Alwan
 http://62.210.247.151:8000/live/mantech2019774/421588911/125.ts
 
-#EXTINF:-1,SharjahTV kalbla
+#EXTINF:-1,group-title="PLAYLIST 2",SharjahTV kalbla
 http://62.210.247.151:8000/live/mantech2019774/421588911/142.ts
 
-#EXTINF:-1,SharjahTV
+#EXTINF:-1,group-title="PLAYLIST 2",SharjahTV
 http://62.210.247.151:8000/live/mantech2019774/421588911/141.ts
 
-#EXTINF:-1,SAUDI 1
+#EXTINF:-1,group-title="PLAYLIST 2",SAUDI 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/152.ts
 
-#EXTINF:-1,SADA ELBALAD
+#EXTINF:-1,group-title="PLAYLIST 2",SADA ELBALAD
 http://62.210.247.151:8000/live/mantech2019774/421588911/132.ts
 
-#EXTINF:-1,qatartv
+#EXTINF:-1,group-title="PLAYLIST 2",qatartv
 http://62.210.247.151:8000/live/mantech2019774/421588911/151.ts
 
-#EXTINF:-1,OMEN TV sport
+#EXTINF:-1,group-title="PLAYLIST 2",OMEN TV sport
 http://62.210.247.151:8000/live/mantech2019774/421588911/156.ts
 
-#EXTINF:-1,OMEN TV live
+#EXTINF:-1,group-title="PLAYLIST 2",OMEN TV live
 http://62.210.247.151:8000/live/mantech2019774/421588911/154.ts
 
-#EXTINF:-1,OMEN TV Culture
+#EXTINF:-1,group-title="PLAYLIST 2",OMEN TV Culture
 http://62.210.247.151:8000/live/mantech2019774/421588911/155.ts
 
-#EXTINF:-1,OMEN TV 1
+#EXTINF:-1,group-title="PLAYLIST 2",OMEN TV 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/153.ts
 
-#EXTINF:-1,nile drama
+#EXTINF:-1,group-title="PLAYLIST 2",nile drama
 http://62.210.247.151:8000/live/mantech2019774/421588911/130.ts
 
-#EXTINF:-1,nahar TV
+#EXTINF:-1,group-title="PLAYLIST 2",nahar TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/131.ts
 
-#EXTINF:-1,nahar drama
+#EXTINF:-1,group-title="PLAYLIST 2",nahar drama
 http://62.210.247.151:8000/live/mantech2019774/421588911/129.ts
 
-#EXTINF:-1,KTV Plus
+#EXTINF:-1,group-title="PLAYLIST 2",KTV Plus
 http://62.210.247.151:8000/live/mantech2019774/421588911/149.ts
 
-#EXTINF:-1,KTV Ethraa
+#EXTINF:-1,group-title="PLAYLIST 2",KTV Ethraa
 http://62.210.247.151:8000/live/mantech2019774/421588911/147.ts
 
-#EXTINF:-1,KTV Al Majlis
+#EXTINF:-1,group-title="PLAYLIST 2",KTV Al Majlis
 http://62.210.247.151:8000/live/mantech2019774/421588911/150.ts
 
-#EXTINF:-1,KTV Al Arabi
+#EXTINF:-1,group-title="PLAYLIST 2",KTV Al Arabi
 http://62.210.247.151:8000/live/mantech2019774/421588911/148.ts
 
-#EXTINF:-1,KTV 2
+#EXTINF:-1,group-title="PLAYLIST 2",KTV 2
 http://62.210.247.151:8000/live/mantech2019774/421588911/146.ts
 
-#EXTINF:-1,KTV 1
+#EXTINF:-1,group-title="PLAYLIST 2",KTV 1
 http://62.210.247.151:8000/live/mantech2019774/421588911/145.ts
 
-#EXTINF:-1,Imagine Movies
+#EXTINF:-1,group-title="PLAYLIST 2",Imagine Movies
 http://62.210.247.151:8000/live/mantech2019774/421588911/128.ts
 
-#EXTINF:-1,Hura Iraq
+#EXTINF:-1,group-title="PLAYLIST 2",Hura Iraq
 http://62.210.247.151:8000/live/mantech2019774/421588911/116.ts
 
-#EXTINF:-1,Hura
+#EXTINF:-1,group-title="PLAYLIST 2",Hura
 http://62.210.247.151:8000/live/mantech2019774/421588911/117.ts
 
-#EXTINF:-1,FUNON tv
+#EXTINF:-1,group-title="PLAYLIST 2",FUNON tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/159.ts
 
-#EXTINF:-1,dubaizaman
+#EXTINF:-1,group-title="PLAYLIST 2",dubaizaman
 http://62.210.247.151:8000/live/mantech2019774/421588911/136.ts
 
-#EXTINF:-1,DUBAI TV
+#EXTINF:-1,group-title="PLAYLIST 2",DUBAI TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/134.ts
 
-#EXTINF:-1,Dubai sama
+#EXTINF:-1,group-title="PLAYLIST 2",Dubai sama
 http://62.210.247.151:8000/live/mantech2019774/421588911/137.ts
 
-#EXTINF:-1,DUBAI one
+#EXTINF:-1,group-title="PLAYLIST 2",DUBAI one
 http://62.210.247.151:8000/live/mantech2019774/421588911/133.ts
 
-#EXTINF:-1,Dubai Noor Dubai TV
+#EXTINF:-1,group-title="PLAYLIST 2",Dubai Noor Dubai TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/135.ts
 
-#EXTINF:-1,Betty tv
+#EXTINF:-1,group-title="PLAYLIST 2",Betty tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/124.ts
 
-#EXTINF:-1,B4u Plus
+#EXTINF:-1,group-title="PLAYLIST 2",B4u Plus
 http://62.210.247.151:8000/live/mantech2019774/421588911/127.ts
 
-#EXTINF:-1,B4u Aflam
+#EXTINF:-1,group-title="PLAYLIST 2",B4u Aflam
 http://62.210.247.151:8000/live/mantech2019774/421588911/126.ts
 
-#EXTINF:-1,Aldafra
+#EXTINF:-1,group-title="PLAYLIST 2",Aldafra
 http://62.210.247.151:8000/live/mantech2019774/421588911/143.ts
 
-#EXTINF:-1,alaraby tv
+#EXTINF:-1,group-title="PLAYLIST 2",alaraby tv
 http://62.210.247.151:8000/live/mantech2019774/421588911/120.ts
 
-#EXTINF:-1,Alaan TV
+#EXTINF:-1,group-title="PLAYLIST 2",Alaan TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/119.ts
 
-#EXTINF:-1,Al Rai
+#EXTINF:-1,group-title="PLAYLIST 2",Al Rai
 http://62.210.247.151:8000/live/mantech2019774/421588911/144.ts
 
-#EXTINF:-1,Al Aan TV
+#EXTINF:-1,group-title="PLAYLIST 2",Al Aan TV
 http://62.210.247.151:8000/live/mantech2019774/421588911/122.ts
 
-#EXTINF:-1,=== PLAYLIST 5  ===
+#EXTINF:-1,group-title=" PORTUGAL",RTP 1
 http://195.154.220.71:3333/Metege2/Skype15082018/4097
 
-#EXTINF:-1,PT: RTP 2
+#EXTINF:-1,group-title=" PORTUGAL",RTP 2
 http://195.154.220.71:3333/Metege2/Skype15082018/4098
 
-#EXTINF:-1,PT: SIC
+#EXTINF:-1,group-title=" PORTUGAL",SIC
 http://195.154.220.71:3333/Metege2/Skype15082018/4099
 
-#EXTINF:-1,PT: TVI
+#EXTINF:-1,group-title=" PORTUGAL",TVI
 http://195.154.220.71:3333/Metege2/Skype15082018/46
 
-#EXTINF:-1,PT: RTP 1 HD
+#EXTINF:-1,group-title=" PORTUGAL",RTP 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1347
 
-#EXTINF:-1,PT: RTP 2 HD
+#EXTINF:-1,group-title=" PORTUGAL",RTP 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2487
 
-#EXTINF:-1,PT: SIC HD
+#EXTINF:-1,group-title=" PORTUGAL",SIC HD
 http://195.154.220.71:3333/Metege2/Skype15082018/971
 
-#EXTINF:-1,PT: TVI HD
+#EXTINF:-1,group-title=" PORTUGAL",TVI HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1584
 
-#EXTINF:-1,PT: RTP 1 FHD
+#EXTINF:-1,group-title=" PORTUGAL",RTP 1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4158
 
-#EXTINF:-1,PT: SIC FHD
+#EXTINF:-1,group-title=" PORTUGAL",SIC FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4159
 
-#EXTINF:-1,PT: TVI FHD
+#EXTINF:-1,group-title=" PORTUGAL",TVI FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4111
 
-#EXTINF:-1,PT: RTP 1 LOW
+#EXTINF:-1,group-title=" PORTUGAL",RTP 1 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/43
 
-#EXTINF:-1,PT: RTP 2 LOW
+#EXTINF:-1,group-title=" PORTUGAL",RTP 2 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/44
 
-#EXTINF:-1,PT: SIC LOW
+#EXTINF:-1,group-title=" PORTUGAL",SIC LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/45
 
-#EXTINF:-1,PT: TVI LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVI LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4157
 
-#EXTINF:-1,PT: RTP 1 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",RTP 1 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4161
 
-#EXTINF:-1,PT: RTP 2 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",RTP 2 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4162
 
-#EXTINF:-1,PT: SIC HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",SIC HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4163
 
-#EXTINF:-1,PT: TVI HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVI HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4160
 
-#EXTINF:-1,PT: SIC NOTICIAS
+#EXTINF:-1,group-title=" PORTUGAL",SIC NOTICIAS
 http://195.154.220.71:3333/Metege2/Skype15082018/4101
 
-#EXTINF:-1,PT: SIC NOTICIAS HD
+#EXTINF:-1,group-title=" PORTUGAL",SIC NOTICIAS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1349
 
-#EXTINF:-1,PT: SIC NOTICIAS FHD
+#EXTINF:-1,group-title=" PORTUGAL",SIC NOTICIAS FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4165
 
-#EXTINF:-1,PT: SIC NOTICIAS LOW
+#EXTINF:-1,group-title=" PORTUGAL",SIC NOTICIAS LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/47
 
-#EXTINF:-1,PT: SIC NOTICIAS HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",SIC NOTICIAS HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4164
 
-#EXTINF:-1,PT: CMTV
+#EXTINF:-1,group-title=" PORTUGAL",CMTV
 http://195.154.220.71:3333/Metege2/Skype15082018/4091
 
-#EXTINF:-1,PT: CMTV HD
+#EXTINF:-1,group-title=" PORTUGAL",CMTV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1346
 
-#EXTINF:-1,PT: TVI 24
+#EXTINF:-1,group-title=" PORTUGAL",TVI 24
 http://195.154.220.71:3333/Metege2/Skype15082018/4178
 
-#EXTINF:-1,PT: TVI 24 LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVI 24 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/55
 
-#EXTINF:-1,PT: TVI 24 HD
+#EXTINF:-1,group-title=" PORTUGAL",TVI 24 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4184
 
-#EXTINF:-1,PT: RTP 3
+#EXTINF:-1,group-title=" PORTUGAL",RTP 3
 http://195.154.220.71:3333/Metege2/Skype15082018/4100
 
-#EXTINF:-1,PT: RTP 3*
+#EXTINF:-1,group-title=" PORTUGAL",RTP 3*
 http://195.154.220.71:3333/Metege2/Skype15082018/149
 
-#EXTINF:-1,PT: AR TV
+#EXTINF:-1,group-title=" PORTUGAL",AR TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2490
 
-#EXTINF:-1,PT: RTP MEMORIA
+#EXTINF:-1,group-title=" PORTUGAL",RTP MEMORIA
 http://195.154.220.71:3333/Metege2/Skype15082018/1506
 
-#EXTINF:-1,PT: SIC MULHER HD
+#EXTINF:-1,group-title=" PORTUGAL",SIC MULHER HD
 http://195.154.220.71:3333/Metege2/Skype15082018/67
 
-#EXTINF:-1,PT: SIC CARAS
+#EXTINF:-1,group-title=" PORTUGAL",SIC CARAS
 http://195.154.220.71:3333/Metege2/Skype15082018/4096
 
-#EXTINF:-1,PT: TVI FICÇÃO
+#EXTINF:-1,group-title=" PORTUGAL",TVI FICÇÃO
 http://195.154.220.71:3333/Metege2/Skype15082018/69
 
-#EXTINF:-1,PT: TVI FICÇÃO LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVI FICÇÃO LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4183
 
-#EXTINF:-1,PT: TVI FICÇÃO HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVI FICÇÃO HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4167
 
-#EXTINF:-1,PT: TVI REALITY
+#EXTINF:-1,group-title=" PORTUGAL",TVI REALITY
 http://195.154.220.71:3333/Metege2/Skype15082018/62
 
-#EXTINF:-1,PT: TVI REALITY CAMARA 2
+#EXTINF:-1,group-title=" PORTUGAL",TVI REALITY CAMARA 2
 http://195.154.220.71:3333/Metege2/Skype15082018/3906
 
-#EXTINF:-1,PT: TVI REALITY CAMARA 4
+#EXTINF:-1,group-title=" PORTUGAL",TVI REALITY CAMARA 4
 http://195.154.220.71:3333/Metege2/Skype15082018/3904
 
-#EXTINF:-1,PT: TVI REALITY MOSAICO
+#EXTINF:-1,group-title=" PORTUGAL",TVI REALITY MOSAICO
 http://195.154.220.71:3333/Metege2/Skype15082018/3903
 
-#EXTINF:-1,PT: TPA
+#EXTINF:-1,group-title=" PORTUGAL",TPA
 http://195.154.220.71:3333/Metege2/Skype15082018/1588
 
-#EXTINF:-1,PT: SIC K
+#EXTINF:-1,group-title=" PORTUGAL",SIC K
 http://195.154.220.71:3333/Metege2/Skype15082018/68
 
-#EXTINF:-1,PT: SIC RADICAL*
+#EXTINF:-1,group-title=" PORTUGAL",SIC RADICAL*
 http://195.154.220.71:3333/Metege2/Skype15082018/4090
 
-#EXTINF:-1,PT: SIC RADICAL
+#EXTINF:-1,group-title=" PORTUGAL",SIC RADICAL
 http://195.154.220.71:3333/Metege2/Skype15082018/3
 
-#EXTINF:-1,PT: PORTO CANAL
+#EXTINF:-1,group-title=" PORTUGAL",PORTO CANAL
 http://195.154.220.71:3333/Metege2/Skype15082018/4
 
-#EXTINF:-1,PT: PORTO CANAL*
+#EXTINF:-1,group-title=" PORTUGAL",PORTO CANAL*
 http://195.154.220.71:3333/Metege2/Skype15082018/4095
 
-#EXTINF:-1,PT: CANAL Q
+#EXTINF:-1,group-title=" PORTUGAL",CANAL Q
 http://195.154.220.71:3333/Metege2/Skype15082018/23
 
-#EXTINF:-1,PT: RTP MADEIRA
+#EXTINF:-1,group-title=" PORTUGAL",RTP MADEIRA
 http://195.154.220.71:3333/Metege2/Skype15082018/970
 
-#EXTINF:-1,PT: Localvisao TV HD
+#EXTINF:-1,group-title=" PORTUGAL",Localvisao TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1352
 
-#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
+#EXTINF:-1,group-title=" PORTUGAL",SANTUARIO DE FATIMA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/244
 
-#EXTINF:-1,PT: A BOLA TV*
+#EXTINF:-1,group-title=" PORTUGAL",A BOLA TV*
 http://195.154.220.71:3333/Metege2/Skype15082018/4180
 
-#EXTINF:-1,PT: SPORT TV +
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV +
 http://195.154.220.71:3333/Metege2/Skype15082018/61
 
-#EXTINF:-1,PT: SPORT TV + FHD
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV + FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/690
 
-#EXTINF:-1,PT: SPORT TV 1*
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1*
 http://195.154.220.71:3333/Metege2/Skype15082018/2480
 
-#EXTINF:-1,PT: SPORT TV 1**
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1**
 http://195.154.220.71:3333/Metege2/Skype15082018/3969
 
-#EXTINF:-1,PT: SPORT TV 1 HD
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4313
 
-#EXTINF:-1,PT: SPORT TV 1 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/685
 
-#EXTINF:-1,PT: SPORT TV 1 LOW
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/2481
 
-#EXTINF:-1,PT: Sport TV 1 FHD
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/1505
 
-#EXTINF:-1,PT: SPORT TV 1 FHD*
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1 FHD*
 http://195.154.220.71:3333/Metege2/Skype15082018/4109
 
-#EXTINF:-1,PT: SPORT TV 1 FHD**
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 1 FHD**
 http://195.154.220.71:3333/Metege2/Skype15082018/4115
 
-#EXTINF:-1,PT: SPORT TV 2
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 2
 http://195.154.220.71:3333/Metege2/Skype15082018/51
 
-#EXTINF:-1,PT: SPORT TV 2**
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 2**
 http://195.154.220.71:3333/Metege2/Skype15082018/3985
 
-#EXTINF:-1,PT: Sport TV 2 HD
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/686
 
-#EXTINF:-1,PT: SPORT TV 2 FHD.
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 2 FHD.
 http://195.154.220.71:3333/Metege2/Skype15082018/4207
 
-#EXTINF:-1,PT: SPORT TV 3
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 3
 http://195.154.220.71:3333/Metege2/Skype15082018/52
 
-#EXTINF:-1,PT: Sport TV 3 HD
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/687
 
-#EXTINF:-1,PT: SPORT TV 3 FHD.
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 3 FHD.
 http://195.154.220.71:3333/Metege2/Skype15082018/4208
 
-#EXTINF:-1,PT: Sport tv4
+#EXTINF:-1,group-title=" PORTUGAL",Sport tv4
 http://195.154.220.71:3333/Metege2/Skype15082018/53
 
-#EXTINF:-1,PT: Sport TV 4 HD
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 4 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/688
 
-#EXTINF:-1,PT: SPORT TV 4 FHD
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 4 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4133
 
-#EXTINF:-1,PT: Sport TV 5
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 5
 http://195.154.220.71:3333/Metege2/Skype15082018/59
 
-#EXTINF:-1,PT: SPORT TV 5 FHD
+#EXTINF:-1,group-title=" PORTUGAL",SPORT TV 5 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4134
 
-#EXTINF:-1,PT: Sport TV 5 HD
+#EXTINF:-1,group-title=" PORTUGAL",Sport TV 5 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/689
 
-#EXTINF:-1,PT: ELEVEN 1 FHD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4353
 
-#EXTINF:-1,PT: ELEVEN 1 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4359
 
-#EXTINF:-1,PT: ELEVEN 1 LOW
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 1 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4382
 
-#EXTINF:-1,PT: ELEVEN 1 SD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 1 SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4376
 
-#EXTINF:-1,PT: ELEVEN 2 FHD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 2 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4354
 
-#EXTINF:-1,PT: ELEVEN 2 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4360
 
-#EXTINF:-1,PT: ELEVEN 2 LOW
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 2 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4383
 
-#EXTINF:-1,PT: ELEVEN 2 SD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 2 SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4377
 
-#EXTINF:-1,PT: ELEVEN 3 FHD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 3 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4355
 
-#EXTINF:-1,PT: ELEVEN 3 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4361
 
-#EXTINF:-1,PT: ELEVEN 3 LOW
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 3 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4384
 
-#EXTINF:-1,PT: ELEVEN 3 SD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 3 SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4378
 
-#EXTINF:-1,PT: ELEVEN 4 FHD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 4 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4356
 
-#EXTINF:-1,PT: ELEVEN 4 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 4 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4362
 
-#EXTINF:-1,PT: ELEVEN 4 LOW
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 4 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4385
 
-#EXTINF:-1,PT: ELEVEN 5 FHD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 5 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4357
 
-#EXTINF:-1,PT: ELEVEN 5 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 5 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4363
 
-#EXTINF:-1,PT: ELEVEN 6 HD
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 6 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4364
 
-#EXTINF:-1,PT: ELEVEN 6 LOW
+#EXTINF:-1,group-title=" PORTUGAL",ELEVEN 6 LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4387
 
-#EXTINF:-1,PT: BENFICA TV
+#EXTINF:-1,group-title=" PORTUGAL",BENFICA TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3989
 
-#EXTINF:-1,PT: BENFICA TV FHD.
+#EXTINF:-1,group-title=" PORTUGAL",BENFICA TV FHD.
 http://195.154.220.71:3333/Metege2/Skype15082018/4209
 
-#EXTINF:-1,PT: BENFICA TV FHD
+#EXTINF:-1,group-title=" PORTUGAL",BENFICA TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/2488
 
-#EXTINF:-1,PT: BENFICA TV  LOW
+#EXTINF:-1,group-title=" PORTUGAL",BENFICA TV  LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/48
 
-#EXTINF:-1,PT: BENFICA TV HD
+#EXTINF:-1,group-title=" PORTUGAL",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
 
-#EXTINF:-1,PT: Sporting TV
+#EXTINF:-1,group-title=" PORTUGAL",Sporting TV
 http://195.154.220.71:3333/Metege2/Skype15082018/63
 
-#EXTINF:-1,PT: SPORTING TV FHD
+#EXTINF:-1,group-title=" PORTUGAL",SPORTING TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4140
 
-#EXTINF:-1,PT: SPORTING TV LOW
+#EXTINF:-1,group-title=" PORTUGAL",SPORTING TV LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4175
 
-#EXTINF:-1,PT: PFC
+#EXTINF:-1,group-title=" PORTUGAL",PFC
 http://195.154.220.71:3333/Metege2/Skype15082018/25
 
-#EXTINF:-1,PT: PFC*
+#EXTINF:-1,group-title=" PORTUGAL",PFC*
 http://195.154.220.71:3333/Metege2/Skype15082018/4093
 
-#EXTINF:-1,PT: EUROSPORT 1
+#EXTINF:-1,group-title=" PORTUGAL",EUROSPORT 1
 http://195.154.220.71:3333/Metege2/Skype15082018/27
 
-#EXTINF:-1,PT: Eurosport 1 HD
+#EXTINF:-1,group-title=" PORTUGAL",Eurosport 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1348
 
-#EXTINF:-1,PT: Eurosport 2
+#EXTINF:-1,group-title=" PORTUGAL",Eurosport 2
 http://195.154.220.71:3333/Metege2/Skype15082018/168
 
-#EXTINF:-1,PT: NBA HD
+#EXTINF:-1,group-title=" PORTUGAL",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
 
-#EXTINF:-1,PT: REAL MADRID TV
+#EXTINF:-1,group-title=" PORTUGAL",REAL MADRID TV
 http://195.154.220.71:3333/Metege2/Skype15082018/246
 
-#EXTINF:-1,PT: KOMBAT SPORT.
+#EXTINF:-1,group-title=" PORTUGAL",KOMBAT SPORT.
 http://195.154.220.71:3333/Metege2/Skype15082018/4212
 
-#EXTINF:-1,PT: Motorvision
+#EXTINF:-1,group-title=" PORTUGAL",Motorvision
 http://195.154.220.71:3333/Metege2/Skype15082018/150
 
-#EXTINF:-1,PT: Fuel TV
+#EXTINF:-1,group-title=" PORTUGAL",Fuel TV
 http://195.154.220.71:3333/Metege2/Skype15082018/176
 
-#EXTINF:-1,PT: CAÇA E PESCA
+#EXTINF:-1,group-title=" PORTUGAL",CAÇA E PESCA
 http://195.154.220.71:3333/Metege2/Skype15082018/134
 
-#EXTINF:-1,PT: TOROS TV
+#EXTINF:-1,group-title=" PORTUGAL",TOROS TV
 http://195.154.220.71:3333/Metege2/Skype15082018/58
 
-#EXTINF:-1,PT: TOROS TV HD
+#EXTINF:-1,group-title=" PORTUGAL",TOROS TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2489
 
-#EXTINF:-1,PT: TVCine 1
+#EXTINF:-1,group-title=" PORTUGAL",TVCine 1
 http://195.154.220.71:3333/Metege2/Skype15082018/76
 
-#EXTINF:-1,PT: TVCine 2
+#EXTINF:-1,group-title=" PORTUGAL",TVCine 2
 http://195.154.220.71:3333/Metege2/Skype15082018/77
 
-#EXTINF:-1,PT: TVCINE 3
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 3
 http://195.154.220.71:3333/Metege2/Skype15082018/131
 
-#EXTINF:-1,PT: TVCINE 4
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 4
 http://195.154.220.71:3333/Metege2/Skype15082018/132
 
-#EXTINF:-1,PT: TV Cine 1 HD
+#EXTINF:-1,group-title=" PORTUGAL",TV Cine 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/691
 
-#EXTINF:-1,PT: TVCINE 2 HD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/879
 
-#EXTINF:-1,PT: TVCINE 3 HD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/880
 
-#EXTINF:-1,PT: TVCINE 4 HD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 4 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/881
 
-#EXTINF:-1,PT: TVCINE 1 FHD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4136
 
-#EXTINF:-1,PT: TVCINE 2 FHD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 2 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4113
 
-#EXTINF:-1,PT: TVCINE 3 FHD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 3 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4114
 
-#EXTINF:-1,PT: TVCINE 4 FHD
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 4 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4172
 
-#EXTINF:-1,PT: TVCINE 1 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 1 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4187
 
-#EXTINF:-1,PT: TVCINE 2 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 2 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4188
 
-#EXTINF:-1,PT: TVCINE 4 HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",TVCINE 4 HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4190
 
-#EXTINF:-1,PT: HOLLYWOOD
+#EXTINF:-1,group-title=" PORTUGAL",HOLLYWOOD
 http://195.154.220.71:3333/Metege2/Skype15082018/963
 
-#EXTINF:-1,PT: HOLLYWOOD FHD.
+#EXTINF:-1,group-title=" PORTUGAL",HOLLYWOOD FHD.
 http://195.154.220.71:3333/Metege2/Skype15082018/4206
 
-#EXTINF:-1,PT: HOLLYWOOD FHD
+#EXTINF:-1,group-title=" PORTUGAL",HOLLYWOOD FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4179
 
-#EXTINF:-1,PT: HOLLYWOOD*
+#EXTINF:-1,group-title=" PORTUGAL",HOLLYWOOD*
 http://195.154.220.71:3333/Metege2/Skype15082018/54
 
-#EXTINF:-1,PT: CINEMUNDO
+#EXTINF:-1,group-title=" PORTUGAL",CINEMUNDO
 http://195.154.220.71:3333/Metege2/Skype15082018/78
 
-#EXTINF:-1,PT: CINEMUNDO HD
+#EXTINF:-1,group-title=" PORTUGAL",CINEMUNDO HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2909
 
-#EXTINF:-1,PT: FOX MOVIES
+#EXTINF:-1,group-title=" PORTUGAL",FOX MOVIES
 http://195.154.220.71:3333/Metege2/Skype15082018/167
 
-#EXTINF:-1,PT: AMC
+#EXTINF:-1,group-title=" PORTUGAL",AMC
 http://195.154.220.71:3333/Metege2/Skype15082018/158
 
-#EXTINF:-1,PT: AMC FHD
+#EXTINF:-1,group-title=" PORTUGAL",AMC FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4142
 
-#EXTINF:-1,PT: 24 KITCHEN
+#EXTINF:-1,group-title=" PORTUGAL",24 KITCHEN
 http://195.154.220.71:3333/Metege2/Skype15082018/175
 
-#EXTINF:-1,PT: 24 KITCHEN FHD
+#EXTINF:-1,group-title=" PORTUGAL",24 KITCHEN FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4221
 
-#EXTINF:-1,PT: 24 KITCHEN FHD*
+#EXTINF:-1,group-title=" PORTUGAL",24 KITCHEN FHD*
 http://195.154.220.71:3333/Metege2/Skype15082018/3228
 
-#EXTINF:-1,PT: MY CUISINE
+#EXTINF:-1,group-title=" PORTUGAL",MY CUISINE
 http://195.154.220.71:3333/Metege2/Skype15082018/4205
 
-#EXTINF:-1,PT: A&E
+#EXTINF:-1,group-title=" PORTUGAL",A&E
 http://195.154.220.71:3333/Metege2/Skype15082018/159
 
-#EXTINF:-1,PT: CBS REALITY
+#EXTINF:-1,group-title=" PORTUGAL",CBS REALITY
 http://195.154.220.71:3333/Metege2/Skype15082018/177
 
-#EXTINF:-1,PT: DISCOVERY CHANNEL
+#EXTINF:-1,group-title=" PORTUGAL",DISCOVERY CHANNEL
 http://195.154.220.71:3333/Metege2/Skype15082018/151
 
-#EXTINF:-1,PT: DISCOVERY SHOWCASE
+#EXTINF:-1,group-title=" PORTUGAL",DISCOVERY SHOWCASE
 http://195.154.220.71:3333/Metege2/Skype15082018/165
 
-#EXTINF:-1,PT: DISCOVERY SHOWCASE FHD
+#EXTINF:-1,group-title=" PORTUGAL",DISCOVERY SHOWCASE FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/3229
 
-#EXTINF:-1,PT: DOG TV FHD
+#EXTINF:-1,group-title=" PORTUGAL",DOG TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/2911
 
-#EXTINF:-1,PT: E! ENTERTAINMENT
+#EXTINF:-1,group-title=" PORTUGAL",E! ENTERTAINMENT
 http://195.154.220.71:3333/Metege2/Skype15082018/916
 
-#EXTINF:-1,PT: FOOD NETWORK
+#EXTINF:-1,group-title=" PORTUGAL",FOOD NETWORK
 http://195.154.220.71:3333/Metege2/Skype15082018/174
 
-#EXTINF:-1,PT: HISTÓRIA
+#EXTINF:-1,group-title=" PORTUGAL",HISTÓRIA
 http://195.154.220.71:3333/Metege2/Skype15082018/99
 
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+#EXTINF:-1,group-title=" PORTUGAL",NATIONAL GEOGRAPHIC
 http://195.154.220.71:3333/Metege2/Skype15082018/152
 
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1,group-title=" PORTUGAL",NATIONAL GEOGRAPHIC HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4173
 
-#EXTINF:-1,PT: ODISSEIA
+#EXTINF:-1,group-title=" PORTUGAL",ODISSEIA
 http://195.154.220.71:3333/Metege2/Skype15082018/164
 
-#EXTINF:-1,PT: TLC
+#EXTINF:-1,group-title=" PORTUGAL",TLC
 http://195.154.220.71:3333/Metege2/Skype15082018/915
 
-#EXTINF:-1,PT: TRACE URBAN
+#EXTINF:-1,group-title=" PORTUGAL",TRACE URBAN
 http://195.154.220.71:3333/Metege2/Skype15082018/884
 
-#EXTINF:-1,PT: TRAVEL CHANNEL
+#EXTINF:-1,group-title=" PORTUGAL",TRAVEL CHANNEL
 http://195.154.220.71:3333/Metege2/Skype15082018/2912
 
-#EXTINF:-1,PT: AXN
+#EXTINF:-1,group-title=" PORTUGAL",AXN
 http://195.154.220.71:3333/Metege2/Skype15082018/92
 
-#EXTINF:-1,PT: AXN FHD
+#EXTINF:-1,group-title=" PORTUGAL",AXN FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4126
 
-#EXTINF:-1,PT: AXN HD
+#EXTINF:-1,group-title=" PORTUGAL",AXN HD
 http://195.154.220.71:3333/Metege2/Skype15082018/965
 
 #EXTINF:-1,PT:_AXN_WHITE_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/966
 
-#EXTINF:-1,PT: AXN WHITE FHD
+#EXTINF:-1,group-title=" PORTUGAL",AXN WHITE FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4128
 
-#EXTINF:-1,PT: AXN BLACK FHD*
+#EXTINF:-1,group-title=" PORTUGAL",AXN BLACK FHD*
 http://195.154.220.71:3333/Metege2/Skype15082018/3232
 
-#EXTINF:-1,PT: AXN BLACK FHD
+#EXTINF:-1,group-title=" PORTUGAL",AXN BLACK FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4127
 
-#EXTINF:-1,PT: AXN BLACK LOW
+#EXTINF:-1,group-title=" PORTUGAL",AXN BLACK LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4200
 
-#EXTINF:-1,PT: FOX COMEDY
+#EXTINF:-1,group-title=" PORTUGAL",FOX COMEDY
 http://195.154.220.71:3333/Metege2/Skype15082018/156
 
-#EXTINF:-1,PT: FOX COMEDY FHD
+#EXTINF:-1,group-title=" PORTUGAL",FOX COMEDY FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4129
 
-#EXTINF:-1,PT: FOX COMEDY HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",FOX COMEDY HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4201
 
-#EXTINF:-1,PT: FOX MOVIES HD LOW
+#EXTINF:-1,group-title=" PORTUGAL",FOX MOVIES HD LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4195
 
-#EXTINF:-1,PT: Fox Crime
+#EXTINF:-1,group-title=" PORTUGAL",Fox Crime
 http://195.154.220.71:3333/Metege2/Skype15082018/157
 
-#EXTINF:-1,PT: FOX CRIME HD
+#EXTINF:-1,group-title=" PORTUGAL",FOX CRIME HD
 http://195.154.220.71:3333/Metege2/Skype15082018/968
 
-#EXTINF:-1,PT: FOX CRIME FHD
+#EXTINF:-1,group-title=" PORTUGAL",FOX CRIME FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4130
 
-#EXTINF:-1,PT: Fox HD
+#EXTINF:-1,group-title=" PORTUGAL",Fox HD
 http://195.154.220.71:3333/Metege2/Skype15082018/95
 
-#EXTINF:-1,PT: FOX HD (Alt.)
+#EXTINF:-1,group-title=" PORTUGAL",FOX HD (Alt.)
 http://195.154.220.71:3333/Metege2/Skype15082018/2824
 
-#EXTINF:-1,PT: FOX LIFE HD*
+#EXTINF:-1,group-title=" PORTUGAL",FOX LIFE HD*
 http://195.154.220.71:3333/Metege2/Skype15082018/969
 
-#EXTINF:-1,PT: FOX LIFE FHD
+#EXTINF:-1,group-title=" PORTUGAL",FOX LIFE FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4131
 
-#EXTINF:-1,PT: Syfy
+#EXTINF:-1,group-title=" PORTUGAL",Syfy
 http://195.154.220.71:3333/Metege2/Skype15082018/162
 
-#EXTINF:-1,PT: SYFY FHD
+#EXTINF:-1,group-title=" PORTUGAL",SYFY FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4138
 
-#EXTINF:-1,PT: TV SERIES
+#EXTINF:-1,group-title=" PORTUGAL",TV SERIES
 http://195.154.220.71:3333/Metege2/Skype15082018/133
 
-#EXTINF:-1,PT: TV SERIES FHD
+#EXTINF:-1,group-title=" PORTUGAL",TV SERIES FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4135
 
-#EXTINF:-1,PT: BABY TV
+#EXTINF:-1,group-title=" PORTUGAL",BABY TV
 http://195.154.220.71:3333/Metege2/Skype15082018/172
 
-#EXTINF:-1,PT: Baby First
+#EXTINF:-1,group-title=" PORTUGAL",Baby First
 http://195.154.220.71:3333/Metege2/Skype15082018/1466
 
-#EXTINF:-1,PT: CARTOON NETWORK
+#EXTINF:-1,group-title=" PORTUGAL",CARTOON NETWORK
 http://195.154.220.71:3333/Metege2/Skype15082018/2494
 
-#EXTINF:-1,PT: Canal Panda
+#EXTINF:-1,group-title=" PORTUGAL",Canal Panda
 http://195.154.220.71:3333/Metege2/Skype15082018/49
 
-#EXTINF:-1,PT: DISNEY CHANNEL
+#EXTINF:-1,group-title=" PORTUGAL",DISNEY CHANNEL
 http://195.154.220.71:3333/Metege2/Skype15082018/155
 
-#EXTINF:-1,PT: DISNEY CHANNEL LOW
+#EXTINF:-1,group-title=" PORTUGAL",DISNEY CHANNEL LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4326
 
-#EXTINF:-1,PT: Jim Jam
+#EXTINF:-1,group-title=" PORTUGAL",Jim Jam
 http://195.154.220.71:3333/Metege2/Skype15082018/154
 
-#EXTINF:-1,PT: Nickelodeon
+#EXTINF:-1,group-title=" PORTUGAL",Nickelodeon
 http://195.154.220.71:3333/Metege2/Skype15082018/153
 
-#EXTINF:-1,PT: Panda Biggs
+#EXTINF:-1,group-title=" PORTUGAL",Panda Biggs
 http://195.154.220.71:3333/Metege2/Skype15082018/171
 
-#EXTINF:-1,PT: VH1
+#EXTINF:-1,group-title=" PORTUGAL",VH1
 http://195.154.220.71:3333/Metege2/Skype15082018/4196
 
-#EXTINF:-1,PT: Mtv Portugal
+#EXTINF:-1,group-title=" PORTUGAL",Mtv Portugal
 http://195.154.220.71:3333/Metege2/Skype15082018/161
 
-#EXTINF:-1,PT: MCM POP
+#EXTINF:-1,group-title=" PORTUGAL",MCM POP
 http://195.154.220.71:3333/Metege2/Skype15082018/160
 
-#EXTINF:-1,PT: MCM TOP
+#EXTINF:-1,group-title=" PORTUGAL",MCM TOP
 http://195.154.220.71:3333/Metege2/Skype15082018/2491
 
-#EXTINF:-1,PT: ICONCERTS HD
+#EXTINF:-1,group-title=" PORTUGAL",ICONCERTS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4197
 
-#EXTINF:-1,PT: GLOBO
+#EXTINF:-1,group-title=" PORTUGAL",GLOBO
 http://195.154.220.71:3333/Metege2/Skype15082018/90
 
-#EXTINF:-1,PT: GLOBO PREMIUM
+#EXTINF:-1,group-title=" PORTUGAL",GLOBO PREMIUM
 http://195.154.220.71:3333/Metege2/Skype15082018/173
 
-#EXTINF:-1,PT: TV RECORD
+#EXTINF:-1,group-title=" PORTUGAL",TV RECORD
 http://195.154.220.71:3333/Metege2/Skype15082018/56
 
-#EXTINF:-1,PT: EURONEWS
+#EXTINF:-1,group-title=" PORTUGAL",EURONEWS
 http://195.154.220.71:3333/Metege2/Skype15082018/245
 
-#EXTINF:-1,PT: CANÇÃO NOVA HD
+#EXTINF:-1,group-title=" PORTUGAL",CANÇÃO NOVA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4154
 
-#EXTINF:-1,PT: Kuriakos TV FHD
+#EXTINF:-1,group-title=" PORTUGAL",Kuriakos TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/2914
 
-#EXTINF:-1,PT: AMC LOW
+#EXTINF:-1,group-title=" PORTUGAL",AMC LOW
 http://195.154.220.71:3333/Metege2/Skype15082018/4198
 
-#EXTINF:-1,PT: FUEL TV FHD
+#EXTINF:-1,group-title=" PORTUGAL",FUEL TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4192
 
-#EXTINF:-1,PT: LEIRIA
+#EXTINF:-1,group-title=" PORTUGAL",LEIRIA
 http://195.154.220.71:3333/Metege2/Skype15082018/4202
 
-#EXTINF:-1,PT: FASHION TV
+#EXTINF:-1,group-title=" PORTUGAL",FASHION TV
 http://195.154.220.71:3333/Metege2/Skype15082018/4316
 
-#EXTINF:-1,PT: FINE LIVING NETWORK FHD
+#EXTINF:-1,group-title=" PORTUGAL",FINE LIVING NETWORK FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4317
 
-#EXTINF:-1,ES: 13 tv
+#EXTINF:-1,group-title="SPAIN",13 tv
 http://195.154.220.71:3333/Metege2/Skype15082018/2451
 
-#EXTINF:-1,ES: 3/24
+#EXTINF:-1,group-title="SPAIN",3/24
 http://195.154.220.71:3333/Metege2/Skype15082018/2459
 
-#EXTINF:-1,ES: ALCARRIA  TV
+#EXTINF:-1,group-title="SPAIN",ALCARRIA  TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2425
 
-#EXTINF:-1,ES: AMC HD
+#EXTINF:-1,group-title="SPAIN",AMC HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2392
 
-#EXTINF:-1,ES: ANTENA 3
+#EXTINF:-1,group-title="SPAIN",ANTENA 3
 http://195.154.220.71:3333/Metege2/Skype15082018/906
 
-#EXTINF:-1,ES: ANTENA_3
+#EXTINF:-1,group-title="SPAIN",ANTENA_3
 http://195.154.220.71:3333/Metege2/Skype15082018/2406
 
-#EXTINF:-1,ES: BABY TV SD
+#EXTINF:-1,group-title="SPAIN",BABY TV SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2363
 
-#EXTINF:-1,ES: BARCA TV SD
+#EXTINF:-1,group-title="SPAIN",BARCA TV SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2379
 
-#EXTINF:-1,ES: BEIN SPORT HD
+#EXTINF:-1,group-title="SPAIN",BEIN SPORT HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4244
 
-#EXTINF:-1,ES: BEIN SPORT SD
+#EXTINF:-1,group-title="SPAIN",BEIN SPORT SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4245
 
-#EXTINF:-1,ES: B_GLOBAL
+#EXTINF:-1,group-title="SPAIN",B_GLOBAL
 http://195.154.220.71:3333/Metege2/Skype15082018/2438
 
-#EXTINF:-1,ES: CALLE 13 HD
+#EXTINF:-1,group-title="SPAIN",CALLE 13 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2387
 
-#EXTINF:-1,ES: CANAL COCINA SD
+#EXTINF:-1,group-title="SPAIN",CANAL COCINA SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2375
 
-#EXTINF:-1,ES: CANAL_SUR_ANDALUCIA
+#EXTINF:-1,group-title="SPAIN",CANAL_SUR_ANDALUCIA
 http://195.154.220.71:3333/Metege2/Skype15082018/2353
 
-#EXTINF:-1,ES: CAZA Y PESCA SD
+#EXTINF:-1,group-title="SPAIN",CAZA Y PESCA SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2460
 
-#EXTINF:-1,ES: CLAN SD
+#EXTINF:-1,group-title="SPAIN",CLAN SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2407
 
-#EXTINF:-1,ES: COMEDY CENTRAL HD
+#EXTINF:-1,group-title="SPAIN",COMEDY CENTRAL HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4238
 
-#EXTINF:-1,ES: CRIME & INVESTIGATION SD
+#EXTINF:-1,group-title="SPAIN",CRIME & INVESTIGATION SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2373
 
-#EXTINF:-1,ES: CUATRO SD
+#EXTINF:-1,group-title="SPAIN",CUATRO SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2405
 
-#EXTINF:-1,ES: Cordoba Internacional TV
+#EXTINF:-1,group-title="SPAIN",Cordoba Internacional TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2416
 
-#EXTINF:-1,ES: DISCOVERY CHANNEL SD
+#EXTINF:-1,group-title="SPAIN",DISCOVERY CHANNEL SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2475
 
-#EXTINF:-1,ES: DISNEY JUNIOR SD
+#EXTINF:-1,group-title="SPAIN",DISNEY JUNIOR SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2366
 
-#EXTINF:-1,ES: DISNEY XD SD
+#EXTINF:-1,group-title="SPAIN",DISNEY XD SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2365
 
-#EXTINF:-1,ES:  Diocesano
+#EXTINF:-1,group-title="SPAIN", Diocesano
 http://195.154.220.71:3333/Metege2/Skype15082018/2422
 
-#EXTINF:-1,ES: EXTREMADURA TV SD
+#EXTINF:-1,group-title="SPAIN",EXTREMADURA TV SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2443
 
-#EXTINF:-1,ES: Esperanza TV
+#EXTINF:-1,group-title="SPAIN",Esperanza TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2444
 
-#EXTINF:-1,ES: HISTORIA SD
+#EXTINF:-1,group-title="SPAIN",HISTORIA SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2370
 
-#EXTINF:-1,ES: HOLLYWOOD HD
+#EXTINF:-1,group-title="SPAIN",HOLLYWOOD HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2393
 
-#EXTINF:-1,ES: LA SEXTA HD
+#EXTINF:-1,group-title="SPAIN",LA SEXTA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2404
 
-#EXTINF:-1,ES: LIFE TV
+#EXTINF:-1,group-title="SPAIN",LIFE TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2430
 
-#EXTINF:-1,ES: LOGOS TV
+#EXTINF:-1,group-title="SPAIN",LOGOS TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2450
 
-#EXTINF:-1,ES: LUZ TV
+#EXTINF:-1,group-title="SPAIN",LUZ TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2423
 
-#EXTINF:-1,ES:  Lebrija TV
+#EXTINF:-1,group-title="SPAIN", Lebrija TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2427
 
-#EXTINF:-1,ES: Local Sevilla
+#EXTINF:-1,group-title="SPAIN",Local Sevilla
 http://195.154.220.71:3333/Metege2/Skype15082018/2442
 
-#EXTINF:-1,ES: MD 6
+#EXTINF:-1,group-title="SPAIN",MD 6
 http://195.154.220.71:3333/Metege2/Skype15082018/2421
 
-#EXTINF:-1,ES: MEGA 7
+#EXTINF:-1,group-title="SPAIN",MEGA 7
 http://195.154.220.71:3333/Metege2/Skype15082018/2413
 
-#EXTINF:-1,ES: MOVISTAR ACCION HD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR ACCION HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2398
 
-#EXTINF:-1,ES:  MOVISTAR ESTRENOS HD
+#EXTINF:-1,group-title="SPAIN", MOVISTAR ESTRENOS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/901
 
-#EXTINF:-1,ES: MOVISTAR MOTO GP HD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR MOTO GP HD
 http://195.154.220.71:3333/Metege2/Skype15082018/804
 
-#EXTINF:-1,ES: MOVISTAR MOTOGP SD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR MOTOGP SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2380
 
-#EXTINF:-1,ES: MOVISTAR SERIES SD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR SERIES SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2389
 
-#EXTINF:-1,ES: MOVISTAR TOROS SD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR TOROS SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2388
 
-#EXTINF:-1,ES: MOVISTAR XTRA SD
+#EXTINF:-1,group-title="SPAIN",MOVISTAR XTRA SD
 http://195.154.220.71:3333/Metege2/Skype15082018/902
 
-#EXTINF:-1,ES: Miami TV Spain
+#EXTINF:-1,group-title="SPAIN",Miami TV Spain
 http://195.154.220.71:3333/Metege2/Skype15082018/2431
 
-#EXTINF:-1,ES: NAT GEO WILD SD
+#EXTINF:-1,group-title="SPAIN",NAT GEO WILD SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2371
 
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC SD
+#EXTINF:-1,group-title="SPAIN",NATIONAL GEOGRAPHIC SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2372
 
-#EXTINF:-1,ES: NOVA SD
+#EXTINF:-1,group-title="SPAIN",NOVA SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2402
 
-#EXTINF:-1,ES: RTV Andorra
+#EXTINF:-1,group-title="SPAIN",RTV Andorra
 http://195.154.220.71:3333/Metege2/Skype15082018/2448
 
-#EXTINF:-1,ES: Sevilla FC
+#EXTINF:-1,group-title="SPAIN",Sevilla FC
 http://195.154.220.71:3333/Metege2/Skype15082018/2415
 
-#EXTINF:-1,ES: Solidaria TV
+#EXTINF:-1,group-title="SPAIN",Solidaria TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2441
 
-#EXTINF:-1,ES: TAQUILLA 10
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 10
 http://195.154.220.71:3333/Metege2/Skype15082018/2354
 
-#EXTINF:-1,ES: TAQUILLA 2
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 2
 http://195.154.220.71:3333/Metege2/Skype15082018/2360
 
-#EXTINF:-1,ES: TAQUILLA 3
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 3
 http://195.154.220.71:3333/Metege2/Skype15082018/2359
 
-#EXTINF:-1,ES: TAQUILLA 4
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 4
 http://195.154.220.71:3333/Metege2/Skype15082018/2358
 
-#EXTINF:-1,ES: TAQUILLA 5
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 5
 http://195.154.220.71:3333/Metege2/Skype15082018/2357
 
-#EXTINF:-1,ES: TAQUILLA 6
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 6
 http://195.154.220.71:3333/Metege2/Skype15082018/2356
 
-#EXTINF:-1,ES: TAQUILLA 9
+#EXTINF:-1,group-title="SPAIN",TAQUILLA 9
 http://195.154.220.71:3333/Metege2/Skype15082018/2355
 
-#EXTINF:-1,ES: TCM SD
+#EXTINF:-1,group-title="SPAIN",TCM SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4236
 
-#EXTINF:-1,ES: TELECINCO HD
+#EXTINF:-1,group-title="SPAIN",TELECINCO HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2401
 
-#EXTINF:-1,ES: TELEDEPORTE SD
+#EXTINF:-1,group-title="SPAIN",TELEDEPORTE SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2477
 
-#EXTINF:-1,ES: TNT SD
+#EXTINF:-1,group-title="SPAIN",TNT SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2471
 
-#EXTINF:-1,ES: TV 3  CATALUNYA
+#EXTINF:-1,group-title="SPAIN",TV 3  CATALUNYA
 http://195.154.220.71:3333/Metege2/Skype15082018/2436
 
-#EXTINF:-1,ES: TV 33 CATALUNYA
+#EXTINF:-1,group-title="SPAIN",TV 33 CATALUNYA
 http://195.154.220.71:3333/Metege2/Skype15082018/2435
 
-#EXTINF:-1,ES: TV3 CAT
+#EXTINF:-1,group-title="SPAIN",TV3 CAT
 http://195.154.220.71:3333/Metege2/Skype15082018/2439
 
-#EXTINF:-1,ES: TVE LA 2
+#EXTINF:-1,group-title="SPAIN",TVE LA 2
 http://195.154.220.71:3333/Metege2/Skype15082018/2408
 
-#EXTINF:-1,ES: Teleticino HD
+#EXTINF:-1,group-title="SPAIN",Teleticino HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2473
 
-#EXTINF:-1,ES: VIAJAR SD
+#EXTINF:-1,group-title="SPAIN",VIAJAR SD
 http://195.154.220.71:3333/Metege2/Skype15082018/2368
 
-#EXTINF:-1,ES: olcadiz
+#EXTINF:-1,group-title="SPAIN",olcadiz
 http://195.154.220.71:3333/Metege2/Skype15082018/2454
 
-#EXTINF:-1,ES: tv 8  cataluna
+#EXTINF:-1,group-title="SPAIN",tv 8  cataluna
 http://195.154.220.71:3333/Metege2/Skype15082018/2432
 
-#EXTINF:-1,RU: 26 REGION TV
+#EXTINF:-1,group-title="RUSIA",26 REGION TV
 http://195.154.220.71:3333/Metege2/Skype15082018/495
 
-#EXTINF:-1,RU: 3 STAR
+#EXTINF:-1,group-title="RUSIA",3 STAR
 http://195.154.220.71:3333/Metege2/Skype15082018/496
 
-#EXTINF:-1,RU: 5 +
+#EXTINF:-1,group-title="RUSIA",5 +
 http://195.154.220.71:3333/Metege2/Skype15082018/543
 
-#EXTINF:-1,RU: ATR
+#EXTINF:-1,group-title="RUSIA",ATR
 http://195.154.220.71:3333/Metege2/Skype15082018/498
 
-#EXTINF:-1,RU: B Y M
+#EXTINF:-1,group-title="RUSIA",B Y M
 http://195.154.220.71:3333/Metege2/Skype15082018/499
 
-#EXTINF:-1,RU: BMECTE  PO
+#EXTINF:-1,group-title="RUSIA",BMECTE  PO
 http://195.154.220.71:3333/Metege2/Skype15082018/501
 
-#EXTINF:-1,RU: CTPAHA  FM
+#EXTINF:-1,group-title="RUSIA",CTPAHA  FM
 http://195.154.220.71:3333/Metege2/Skype15082018/508
 
-#EXTINF:-1,RU: DW
+#EXTINF:-1,group-title="RUSIA",DW
 http://195.154.220.71:3333/Metege2/Skype15082018/1526
 
-#EXTINF:-1,RU: Futbol
+#EXTINF:-1,group-title="RUSIA",Futbol
 http://195.154.220.71:3333/Metege2/Skype15082018/759
 
-#EXTINF:-1,RU: Gameshow
+#EXTINF:-1,group-title="RUSIA",Gameshow
 http://195.154.220.71:3333/Metege2/Skype15082018/511
 
-#EXTINF:-1,RU: HAYIR
+#EXTINF:-1,group-title="RUSIA",HAYIR
 http://195.154.220.71:3333/Metege2/Skype15082018/512
 
-#EXTINF:-1,RU: HIT LIVE
+#EXTINF:-1,group-title="RUSIA",HIT LIVE
 http://195.154.220.71:3333/Metege2/Skype15082018/1530
 
-#EXTINF:-1,RU: HOBBIN
+#EXTINF:-1,group-title="RUSIA",HOBBIN
 http://195.154.220.71:3333/Metege2/Skype15082018/513
 
-#EXTINF:-1,RU: HTC
+#EXTINF:-1,group-title="RUSIA",HTC
 http://195.154.220.71:3333/Metege2/Skype15082018/525
 
-#EXTINF:-1,RU: HTC (nts)
+#EXTINF:-1,group-title="RUSIA",HTC (nts)
 http://195.154.220.71:3333/Metege2/Skype15082018/1527
 
-#EXTINF:-1,RU: HTH
+#EXTINF:-1,group-title="RUSIA",HTH
 http://195.154.220.71:3333/Metege2/Skype15082018/526
 
-#EXTINF:-1,RU: KPACHAR
+#EXTINF:-1,group-title="RUSIA",KPACHAR
 http://195.154.220.71:3333/Metege2/Skype15082018/529
 
-#EXTINF:-1,RU: KPACHAR TB
+#EXTINF:-1,group-title="RUSIA",KPACHAR TB
 http://195.154.220.71:3333/Metege2/Skype15082018/530
 
-#EXTINF:-1,RU: KPBIM  1  HD
+#EXTINF:-1,group-title="RUSIA",KPBIM  1  HD
 http://195.154.220.71:3333/Metege2/Skype15082018/531
 
-#EXTINF:-1,RU: KPBIM 24 HD
+#EXTINF:-1,group-title="RUSIA",KPBIM 24 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/532
 
-#EXTINF:-1,RU: KUIB TV
+#EXTINF:-1,group-title="RUSIA",KUIB TV
 http://195.154.220.71:3333/Metege2/Skype15082018/535
 
-#EXTINF:-1,RU: Luxury  HD
+#EXTINF:-1,group-title="RUSIA",Luxury  HD
 http://195.154.220.71:3333/Metege2/Skype15082018/536
 
-#EXTINF:-1,RU: MAKS 24
+#EXTINF:-1,group-title="RUSIA",MAKS 24
 http://195.154.220.71:3333/Metege2/Skype15082018/538
 
-#EXTINF:-1,RU: MNP
+#EXTINF:-1,group-title="RUSIA",MNP
 http://195.154.220.71:3333/Metege2/Skype15082018/539
 
-#EXTINF:-1,RU: MTV Television
+#EXTINF:-1,group-title="RUSIA",MTV Television
 http://195.154.220.71:3333/Metege2/Skype15082018/537
 
-#EXTINF:-1,RU: NKC
+#EXTINF:-1,group-title="RUSIA",NKC
 http://195.154.220.71:3333/Metege2/Skype15082018/544
 
-#EXTINF:-1,RU: NMOE TV
+#EXTINF:-1,group-title="RUSIA",NMOE TV
 http://195.154.220.71:3333/Metege2/Skype15082018/545
 
-#EXTINF:-1,RU: P6K
+#EXTINF:-1,group-title="RUSIA",P6K
 http://195.154.220.71:3333/Metege2/Skype15082018/552
 
-#EXTINF:-1,RU: PAANO WAHCOH
+#EXTINF:-1,group-title="RUSIA",PAANO WAHCOH
 http://195.154.220.71:3333/Metege2/Skype15082018/553
 
-#EXTINF:-1,RU: PBI  NN
+#EXTINF:-1,group-title="RUSIA",PBI  NN
 http://195.154.220.71:3333/Metege2/Skype15082018/554
 
-#EXTINF:-1,RU: Publika TV
+#EXTINF:-1,group-title="RUSIA",Publika TV
 http://195.154.220.71:3333/Metege2/Skype15082018/555
 
-#EXTINF:-1,RU: RADIO MONTE CARLO TV
+#EXTINF:-1,group-title="RUSIA",RADIO MONTE CARLO TV
 http://195.154.220.71:3333/Metege2/Skype15082018/556
 
-#EXTINF:-1,RU: Russia 1
+#EXTINF:-1,group-title="RUSIA",Russia 1
 http://195.154.220.71:3333/Metege2/Skype15082018/1520
 
-#EXTINF:-1,RU: TV 1000 Comedy HD
+#EXTINF:-1,group-title="RUSIA",TV 1000 Comedy HD
 http://195.154.220.71:3333/Metege2/Skype15082018/781
 
-#EXTINF:-1,RU: UA
+#EXTINF:-1,group-title="RUSIA",UA
 http://195.154.220.71:3333/Metege2/Skype15082018/493
 
-#EXTINF:-1,RU: Viasat History HD
+#EXTINF:-1,group-title="RUSIA",Viasat History HD
 http://195.154.220.71:3333/Metege2/Skype15082018/787
 
-#EXTINF:-1,DE: MUENCHEN TV
+#EXTINF:-1,group-title="GERMAN",MUENCHEN TV
 http://195.154.220.71:3333/Metege2/Skype15082018/857
 
-#EXTINF:-1,DE: OKTO
+#EXTINF:-1,group-title="GERMAN",OKTO
 http://195.154.220.71:3333/Metege2/Skype15082018/852
 
-#EXTINF:-1,DE: ORF 2
+#EXTINF:-1,group-title="GERMAN",ORF 2
 http://195.154.220.71:3333/Metege2/Skype15082018/851
 
-#EXTINF:-1,DE: RTL NITRO
+#EXTINF:-1,group-title="GERMAN",RTL NITRO
 http://195.154.220.71:3333/Metege2/Skype15082018/849
 
-#EXTINF:-1,DE: SKY CINEMA + 24 HD
+#EXTINF:-1,group-title="GERMAN",SKY CINEMA + 24 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/862
 
-#EXTINF:-1,DE: SKY KRIMI HD
+#EXTINF:-1,group-title="GERMAN",SKY KRIMI HD
 http://195.154.220.71:3333/Metege2/Skype15082018/632
 
-#EXTINF:-1,DE: SKY SELECT 1 HD
+#EXTINF:-1,group-title="GERMAN",SKY SELECT 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/650
 
-#EXTINF:-1,DE: ZDF HD
+#EXTINF:-1,group-title="GERMAN",ZDF HD
 http://195.154.220.71:3333/Metege2/Skype15082018/847
 
-#EXTINF:-1,IT: RAI 2 FHD
+#EXTINF:-1,group-title="ITALI",RAI 2 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/711
 
-#EXTINF:-1,UK: 5 USA
+#EXTINF:-1,group-title="ENGLAND",5 USA
 http://195.154.220.71:3333/Metege2/Skype15082018/289
 
-#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH FHD
+#EXTINF:-1,group-title="ENGLAND",AL JAZEERA NEWS ENGLISH FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/1195
 
-#EXTINF:-1,UK: BT SPORT 2 SD
+#EXTINF:-1,group-title="ENGLAND",BT SPORT 2 SD
 http://195.154.220.71:3333/Metege2/Skype15082018/4392
 
-#EXTINF:-1,UK: BT SPORT 1 FHD
+#EXTINF:-1,group-title="ENGLAND",BT SPORT 1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4393
 
-#EXTINF:-1,UK: ANIMAL PLANET
+#EXTINF:-1,group-title="ENGLAND",ANIMAL PLANET
 http://195.154.220.71:3333/Metege2/Skype15082018/1004
 
-#EXTINF:-1,UK: AT THE RACES
+#EXTINF:-1,group-title="ENGLAND",AT THE RACES
 http://195.154.220.71:3333/Metege2/Skype15082018/447
 
-#EXTINF:-1,UK: BABY TV
+#EXTINF:-1,group-title="ENGLAND",BABY TV
 http://195.154.220.71:3333/Metege2/Skype15082018/301
 
-#EXTINF:-1,UK: BBC 1 HD
+#EXTINF:-1,group-title="ENGLAND",BBC 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/127
 
-#EXTINF:-1,UK: BBC 2 HD
+#EXTINF:-1,group-title="ENGLAND",BBC 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/128
 
-#EXTINF:-1,UK: BBC 3 HD
+#EXTINF:-1,group-title="ENGLAND",BBC 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1194
 
-#EXTINF:-1,UK: BBC 4
+#EXTINF:-1,group-title="ENGLAND",BBC 4
 http://195.154.220.71:3333/Metege2/Skype15082018/449
 
-#EXTINF:-1,UK: BBC NEWS HD
+#EXTINF:-1,group-title="ENGLAND",BBC NEWS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2510
 
-#EXTINF:-1,UK: BBC 1 HD**
+#EXTINF:-1,group-title="ENGLAND",BBC 1 HD**
 http://195.154.220.71:3333/Metege2/Skype15082018/989
 
-#EXTINF:-1,UK: BBC 1 HD*
+#EXTINF:-1,group-title="ENGLAND",BBC 1 HD*
 http://195.154.220.71:3333/Metege2/Skype15082018/4222
 
-#EXTINF:-1,UK: BBC ONE SCOTLAND FHD
+#EXTINF:-1,group-title="ENGLAND",BBC ONE SCOTLAND FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/1473
 
-#EXTINF:-1,UK: BBC 2
+#EXTINF:-1,group-title="ENGLAND",BBC 2
 http://195.154.220.71:3333/Metege2/Skype15082018/990
 
-#EXTINF:-1,UK: BBC WORLD NEWS
+#EXTINF:-1,group-title="ENGLAND",BBC WORLD NEWS
 http://195.154.220.71:3333/Metege2/Skype15082018/129
 
-#EXTINF:-1,UK: BOX NATION  FHD
+#EXTINF:-1,group-title="ENGLAND",BOX NATION  FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/331
 
-#EXTINF:-1,UK: BOX OFFICE 1 HD
+#EXTINF:-1,group-title="ENGLAND",BOX OFFICE 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4348
 
-#EXTINF:-1,UK: BOX OFFICE 2 HD
+#EXTINF:-1,group-title="ENGLAND",BOX OFFICE 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4349
 
-#EXTINF:-1,UK: BOX OFFICE 3 HD
+#EXTINF:-1,group-title="ENGLAND",BOX OFFICE 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4350
 
-#EXTINF:-1,UK: BOX OFFICE HD
+#EXTINF:-1,group-title="ENGLAND",BOX OFFICE HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4352
 
-#EXTINF:-1,UK: BT SPORT 1 HD
+#EXTINF:-1,group-title="ENGLAND",BT SPORT 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/456
 
-#EXTINF:-1,UK: LIVERPOOL_FC_TV
+#EXTINF:-1,group-title="ENGLAND",LIVERPOOL_FC_TV
 http://195.154.220.71:3333/Metege2/Skype15082018/820
 
-#EXTINF:-1,UK: BT SPORT 3
+#EXTINF:-1,group-title="ENGLAND",BT SPORT 3
 http://195.154.220.71:3333/Metege2/Skype15082018/2485
 
-#EXTINF:-1,UK: BT SPORT ESPN HD*
+#EXTINF:-1,group-title="ENGLAND",BT SPORT ESPN HD*
 http://195.154.220.71:3333/Metege2/Skype15082018/103
 
-#EXTINF:-1,UK: CBS ACTION
+#EXTINF:-1,group-title="ENGLAND",CBS ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/462
 
-#EXTINF:-1,UK: CHANNEL 5
+#EXTINF:-1,group-title="ENGLAND",CHANNEL 5
 http://195.154.220.71:3333/Metege2/Skype15082018/825
 
-#EXTINF:-1,UK: CHELSEA TV HD
+#EXTINF:-1,group-title="ENGLAND",CHELSEA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/472
 
-#EXTINF:-1,UK: EDEN
+#EXTINF:-1,group-title="ENGLAND",EDEN
 http://195.154.220.71:3333/Metege2/Skype15082018/1467
 
-#EXTINF:-1,UK: EIR SPORT 1 HD
+#EXTINF:-1,group-title="ENGLAND",EIR SPORT 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/332
 
-#EXTINF:-1,UK: FOX
+#EXTINF:-1,group-title="ENGLAND",FOX
 http://195.154.220.71:3333/Metege2/Skype15082018/2500
 
-#EXTINF:-1,UK: FOX SPORT 2 HD
+#EXTINF:-1,group-title="ENGLAND",FOX SPORT 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/336
 
-#EXTINF:-1,UK: ALIBI
+#EXTINF:-1,group-title="ENGLAND",ALIBI
 http://195.154.220.71:3333/Metege2/Skype15082018/203
 
-#EXTINF:-1,UK: BT SPORT 2 FHD
+#EXTINF:-1,group-title="ENGLAND",BT SPORT 2 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4156
 
-#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
+#EXTINF:-1,group-title="ENGLAND",SKY MOVIES PREMIERE HD
 http://195.154.220.71:3333/Metege2/Skype15082018/281
 
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE FHD
+#EXTINF:-1,group-title="ENGLAND",SKY MOVIES SHOWCASE FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/139
 
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
+#EXTINF:-1,group-title="ENGLAND",SKY SPORTS GOLF HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1471
 
-#EXTINF:-1,UK: SKY SPORTS F1 FHD
+#EXTINF:-1,group-title="ENGLAND",SKY SPORTS F1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4388
 
-#EXTINF:-1,UK: SKY LIVING FHD
+#EXTINF:-1,group-title="ENGLAND",SKY LIVING FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/2496
 
-#EXTINF:-1,UK: SKY COMEDY
+#EXTINF:-1,group-title="ENGLAND",SKY COMEDY
 http://195.154.220.71:3333/Metege2/Skype15082018/144
 
-#EXTINF:-1,UK: CHANNEL 4 HD
+#EXTINF:-1,group-title="ENGLAND",CHANNEL 4 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/824
 
-#EXTINF:-1,UK: Sky Sports Action HD
+#EXTINF:-1,group-title="ENGLAND",Sky Sports Action HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2507
 
-#EXTINF:-1,UK: Sky Sports Premier League HD
+#EXTINF:-1,group-title="ENGLAND",Sky Sports Premier League HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1472
 
-#EXTINF:-1,UK:: Dave
+#EXTINF:-1,group-title="ENGLAND",Dave
 http://195.154.220.71:3333/Metege2/Skype15082018/2498
 
-#EXTINF:-1,|UK| EUROSPORT 2 HD
+#EXTINF:-1,group-title="ENGLAND",EUROSPORT 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/276
 
-#EXTINF:-1,|UK| Eir Sports 2
+#EXTINF:-1,group-title="ENGLAND",Eir Sports 2
 http://195.154.220.71:3333/Metege2/Skype15082018/125
 
-#EXTINF:-1,|UK| Kix Cartoon
+#EXTINF:-1,group-title="ENGLAND",Kix Cartoon
 http://195.154.220.71:3333/Metege2/Skype15082018/342
 
-#EXTINF:-1,|UK| SKY MOVIES ACTION
+#EXTINF:-1,group-title="ENGLAND",SKY MOVIES ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/277
 
-#EXTINF:-1,|UK| SKY MOVIES MODERN GREATS
+#EXTINF:-1,group-title="ENGLAND",SKY MOVIES MODERN GREATS
 http://195.154.220.71:3333/Metege2/Skype15082018/283
 
-#EXTINF:-1,|UK| SKY SPORTS 1 HD
+#EXTINF:-1,group-title="ENGLAND",SKY SPORTS 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/108
 
-#EXTINF:-1,|UK| Sky Cinema Hits
+#EXTINF:-1,group-title="ENGLAND",Sky Cinema Hits
 http://195.154.220.71:3333/Metege2/Skype15082018/344
 
-#EXTINF:-1,|UK| Sky Movies Sci-Fi HD
+#EXTINF:-1,group-title="ENGLAND",Sky Movies Sci-Fi HD
 http://195.154.220.71:3333/Metege2/Skype15082018/141
 
-#EXTINF:-1,|UK| Sky Movies Select HD
+#EXTINF:-1,group-title="ENGLAND",Sky Movies Select HD
 http://195.154.220.71:3333/Metege2/Skype15082018/140
 
-#EXTINF:-1,|UK| Sky Sports 2 HD
+#EXTINF:-1,group-title="ENGLAND",Sky Sports 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/109
 
-#EXTINF:-1,UK: SKY SPORT MIX HD
+#EXTINF:-1,group-title="ENGLAND",SKY SPORT MIX HD
 http://195.154.220.71:3333/Metege2/Skype15082018/484
 
-#EXTINF:-1,|UK| Sky_Movies_Action_&_Adventure_HD
+#EXTINF:-1,group-title="ENGLAND",Sky_Movies_Action_&_Adventure_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/130
 
-#EXTINF:-1,|UK| Sky_Movies_Premiere_HD
+#EXTINF:-1,group-title="ENGLAND",Sky_Movies_Premiere_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/142
 
-#EXTINF:-1,UK: SKY SPORTS CRICKET  HD
+#EXTINF:-1,group-title="ENGLAND",SKY SPORTS CRICKET  HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3231
 
-#EXTINF:-1,FR: 13EME RUE
+#EXTINF:-1,group-title="FRENCH",13EME RUE
 http://195.154.220.71:3333/Metege2/Skype15082018/2513
 
-#EXTINF:-1,FR: A La Carte 6
+#EXTINF:-1,group-title="FRENCH",A La Carte 6
 http://195.154.220.71:3333/Metege2/Skype15082018/872
 
-#EXTINF:-1,FR: A La Carte 8
+#EXTINF:-1,group-title="FRENCH",A La Carte 8
 http://195.154.220.71:3333/Metege2/Skype15082018/874
 
-#EXTINF:-1,FR: AB1 FHD
+#EXTINF:-1,group-title="FRENCH",AB1 FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/978
 
-#EXTINF:-1,FR: BOING
+#EXTINF:-1,group-title="FRENCH",BOING
 http://195.154.220.71:3333/Metege2/Skype15082018/715
 
-#EXTINF:-1,FR: BOOMERANG FHD
+#EXTINF:-1,group-title="FRENCH",BOOMERANG FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/716
 
-#EXTINF:-1,FR: Disney Channel
+#EXTINF:-1,group-title="FRENCH",Disney Channel
 http://195.154.220.71:3333/Metege2/Skype15082018/921
 
-#EXTINF:-1,FR: France 4
+#EXTINF:-1,group-title="FRENCH",France 4
 http://195.154.220.71:3333/Metege2/Skype15082018/1019
 
-#EXTINF:-1,FR: France O #
+#EXTINF:-1,group-title="FRENCH",France O #
 http://195.154.220.71:3333/Metege2/Skype15082018/1021
 
-#EXTINF:-1,FR: GULLI HD
+#EXTINF:-1,group-title="FRENCH",GULLI HD
 http://195.154.220.71:3333/Metege2/Skype15082018/977
 
-#EXTINF:-1,FR: PLANETE+ AE
+#EXTINF:-1,group-title="FRENCH",PLANETE+ AE
 http://195.154.220.71:3333/Metege2/Skype15082018/959
 
-#EXTINF:-1,FR: SFR 1
+#EXTINF:-1,group-title="FRENCH",SFR 1
 http://195.154.220.71:3333/Metege2/Skype15082018/807
 
-#EXTINF:-1,FR: SFR SPORT LIVE
+#EXTINF:-1,group-title="FRENCH",SFR SPORT LIVE
 http://195.154.220.71:3333/Metege2/Skype15082018/808
 
-#EXTINF:-1,FR: Science et Vie
+#EXTINF:-1,group-title="FRENCH",Science et Vie
 http://195.154.220.71:3333/Metege2/Skype15082018/891
 
-#EXTINF:-1,FR: TMC Cinema
+#EXTINF:-1,group-title="FRENCH",TMC Cinema
 http://195.154.220.71:3333/Metege2/Skype15082018/1518
 
-#EXTINF:-1,FR: Ushuaia HD
+#EXTINF:-1,group-title="FRENCH",Ushuaia HD
 http://195.154.220.71:3333/Metege2/Skype15082018/890
 
-#EXTINF:-1,FR: Voyage
+#EXTINF:-1,group-title="FRENCH",Voyage
 http://195.154.220.71:3333/Metege2/Skype15082018/961
 
-#EXTINF:-1,FR:BFM
+#EXTINF:-1,group-title="FRENCH",BFM
 http://195.154.220.71:3333/Metege2/Skype15082018/670
 
-#EXTINF:-1,FR:CHASSE_ET_PECHE
+#EXTINF:-1,group-title="FRENCH",CHASSE_ET_PECHE
 http://195.154.220.71:3333/Metege2/Skype15082018/668
 
-#EXTINF:-1,FR:DISCOVERY_SCIENCE_HD
+#EXTINF:-1,group-title="FRENCH",DISCOVERY_SCIENCE_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/672
 
-#EXTINF:-1,|FR| 6 TER HD
+#EXTINF:-1,group-title="FRENCH",6 TER HD
 http://195.154.220.71:3333/Metege2/Skype15082018/237
 
-#EXTINF:-1,|FR| ACTION
+#EXTINF:-1,group-title="FRENCH",ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/384
 
-#EXTINF:-1,|FR| BEINSPORT 3
+#EXTINF:-1,group-title="FRENCH",BEINSPORT 3
 http://195.154.220.71:3333/Metege2/Skype15082018/254
 
-#EXTINF:-1,|FR| C NEWS
+#EXTINF:-1,group-title="FRENCH",C NEWS
 http://195.154.220.71:3333/Metege2/Skype15082018/255
 
-#EXTINF:-1,|FR| CANAL +  FAMILY HD
+#EXTINF:-1,group-title="FRENCH",CANAL +  FAMILY HD
 http://195.154.220.71:3333/Metege2/Skype15082018/265
 
-#EXTINF:-1,|FR| CANAL + FHD
+#EXTINF:-1,group-title="FRENCH",CANAL + FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/249
 
-#EXTINF:-1,|FR| CANAL + SERIES HD
+#EXTINF:-1,group-title="FRENCH",CANAL + SERIES HD
 http://195.154.220.71:3333/Metege2/Skype15082018/266
 
-#EXTINF:-1,|FR| CANAL+_SPORTS_HD
+#EXTINF:-1,group-title="FRENCH",CANAL+_SPORTS_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/148
 
-#EXTINF:-1,|FR| CINE + EMOTION
+#EXTINF:-1,group-title="FRENCH",CINE + EMOTION
 http://195.154.220.71:3333/Metege2/Skype15082018/268
 
-#EXTINF:-1,|FR| CINE + FAMIZ
+#EXTINF:-1,group-title="FRENCH",CINE + FAMIZ
 http://195.154.220.71:3333/Metege2/Skype15082018/269
 
-#EXTINF:-1,|FR| CINE + FRISSON HD
+#EXTINF:-1,group-title="FRENCH",CINE + FRISSON HD
 http://195.154.220.71:3333/Metege2/Skype15082018/267
 
-#EXTINF:-1,|FR| CINE + PREMIER FHD
+#EXTINF:-1,group-title="FRENCH",CINE + PREMIER FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/270
 
-#EXTINF:-1,|FR| ComÃ©die+ HD
+#EXTINF:-1,group-title="FRENCH",ComÃ©die+ HD
 http://195.154.220.71:3333/Metege2/Skype15082018/383
 
-#EXTINF:-1,|FR| EQUIDIA  LIVE FHD
+#EXTINF:-1,group-title="FRENCH",EQUIDIA  LIVE FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/263
 
-#EXTINF:-1,|FR| FOOT + HD 24/24
+#EXTINF:-1,group-title="FRENCH",FOOT + HD 24/24
 http://195.154.220.71:3333/Metege2/Skype15082018/264
 
-#EXTINF:-1,|FR| FRANCE_4_HD
+#EXTINF:-1,group-title="FRENCH",FRANCE_4_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/147
 
-#EXTINF:-1,|FR| France 2 HD
+#EXTINF:-1,group-title="FRENCH",France 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/82
 
-#EXTINF:-1,|FR| France 3 HD
+#EXTINF:-1,group-title="FRENCH",France 3 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/83
 
-#EXTINF:-1,|FR| France 5 HD
+#EXTINF:-1,group-title="FRENCH",France 5 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/84
 
-#EXTINF:-1,|FR| HD1
+#EXTINF:-1,group-title="FRENCH",HD1
 http://195.154.220.71:3333/Metege2/Skype15082018/241
 
-#EXTINF:-1,|FR| L'EQUIPE21
+#EXTINF:-1,group-title="FRENCH",L'EQUIPE21
 http://195.154.220.71:3333/Metege2/Skype15082018/146
 
-#EXTINF:-1,|FR| NRJ 12 HD
+#EXTINF:-1,group-title="FRENCH",NRJ 12 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/242
 
-#EXTINF:-1,|FR| NRJ HITS HD
+#EXTINF:-1,group-title="FRENCH",NRJ HITS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/256
 
-#EXTINF:-1,|FR| NT1 HD
+#EXTINF:-1,group-title="FRENCH",NT1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/236
 
-#EXTINF:-1,|FR| PLANÃˆTE+ HD
+#EXTINF:-1,group-title="FRENCH",PLANÃˆTE+ HD
 http://195.154.220.71:3333/Metege2/Skype15082018/387
 
-#EXTINF:-1,|FR| PlanÃ¨te+ CI FHD
+#EXTINF:-1,group-title="FRENCH",PlanÃ¨te+ CI FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/386
 
-#EXTINF:-1,|FR| RTL 9
+#EXTINF:-1,group-title="FRENCH",RTL 9
 http://195.154.220.71:3333/Metege2/Skype15082018/243
 
-#EXTINF:-1,FR: SFR SPORT 1 hd
+#EXTINF:-1,group-title="FRENCH",SFR SPORT 1 hd
 http://195.154.220.71:3333/Metege2/Skype15082018/217
 
-#EXTINF:-1,|FR| SFR SPORT 2
+#EXTINF:-1,group-title="FRENCH",SFR SPORT 2
 http://195.154.220.71:3333/Metege2/Skype15082018/218
 
-#EXTINF:-1,|FR| TEVA HD
+#EXTINF:-1,group-title="FRENCH",TEVA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/248
 
-#EXTINF:-1,|FR| TF1 HD
+#EXTINF:-1,group-title="FRENCH",TF1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/65
 
-#EXTINF:-1,|FR| TIJI HD
+#EXTINF:-1,group-title="FRENCH",TIJI HD
 http://195.154.220.71:3333/Metege2/Skype15082018/273
 
-#EXTINF:-1,|FR| TMC
+#EXTINF:-1,group-title="FRENCH",TMC
 http://195.154.220.71:3333/Metege2/Skype15082018/239
 
-#EXTINF:-1,|FR| W9
+#EXTINF:-1,group-title="FRENCH",W9
 http://195.154.220.71:3333/Metege2/Skype15082018/240
 
-#EXTINF:-1,MK: 24 Vesti
+#EXTINF:-1,group-title="MACEDONIA", 24 Vesti
 http://195.154.220.71:3333/Metege2/Skype15082018/3170
 
-#EXTINF:-1,MK: Alfa TV
+#EXTINF:-1,group-title="MACEDONIA", Alfa TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3174
 
-#EXTINF:-1,MK: MRT 1
+#EXTINF:-1,group-title="MACEDONIA", MRT 1
 http://195.154.220.71:3333/Metege2/Skype15082018/3169
 
-#EXTINF:-1,MK: MRT 2
+#EXTINF:-1,group-title="MACEDONIA", MRT 2
 http://195.154.220.71:3333/Metege2/Skype15082018/3168
 
-#EXTINF:-1,MK: Telma
+#EXTINF:-1,group-title="MACEDONIA", Telma
 http://195.154.220.71:3333/Metege2/Skype15082018/3175
 
-#EXTINF:-1,EX-YU: Pink Classic
+#EXTINF:-1,group-title="YUGOSLAVIA",Pink Classic
 http://195.154.220.71:3333/Metege2/Skype15082018/1848
 
-#EXTINF:-1,EX-YU: Pink Music
+#EXTINF:-1,group-title="YUGOSLAVIA",Pink Music
 http://195.154.220.71:3333/Metege2/Skype15082018/1850
 
-#EXTINF:-1,CH: RSI La 1
+#EXTINF:-1,group-title="SWITZERLAND",RSI La 1
 http://195.154.220.71:3333/Metege2/Skype15082018/1556
 
-#EXTINF:-1,CH: RSI La 2
+#EXTINF:-1,group-title="SWITZERLAND",RSI La 2
 http://195.154.220.71:3333/Metege2/Skype15082018/1557
 
-#EXTINF:-1,CH: RTS DEUX HD
+#EXTINF:-1,group-title="SWITZERLAND",RTS DEUX HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1555
 
-#EXTINF:-1,CH: RTS UN HD
+#EXTINF:-1,group-title="SWITZERLAND",RTS UN HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1554
 
-#EXTINF:-1,CH: SRF 1
+#EXTINF:-1,group-title="SWITZERLAND",SRF 1
 http://195.154.220.71:3333/Metege2/Skype15082018/1558
 
-#EXTINF:-1,CH: SRF 2
+#EXTINF:-1,group-title="SWITZERLAND",SRF 2
 http://195.154.220.71:3333/Metege2/Skype15082018/1559
 
-#EXTINF:-1,CH: SRF INFO HD
+#EXTINF:-1,group-title="SWITZERLAND",SRF INFO HD
 http://195.154.220.71:3333/Metege2/Skype15082018/4013
 
-#EXTINF:-1,CH: Tele Basel
+#EXTINF:-1,group-title="SWITZERLAND",Tele Basel
 http://195.154.220.71:3333/Metege2/Skype15082018/1560
 
-#EXTINF:-1,IR: ITV 1 HD
+#EXTINF:-1,group-title="IRAN",ITV 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1190
 
-#EXTINF:-1,IR: ITV 2 HD
+#EXTINF:-1,group-title="IRAN",ITV 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/1193
 
-#EXTINF:-1,IR: ITV 3
+#EXTINF:-1,group-title="IRAN",ITV 3
 http://195.154.220.71:3333/Metege2/Skype15082018/2495
 
-#EXTINF:-1,IR: ITV 4 HD
+#EXTINF:-1,group-title="IRAN",ITV 4 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2331
 
-#EXTINF:-1,IR: ITV BE HD
+#EXTINF:-1,group-title="IRAN",ITV BE HD
 http://195.154.220.71:3333/Metege2/Skype15082018/822
 
-#EXTINF:-1,AV: Voldemort : Orings of the heir (DUB)
-https://lh3.googleusercontent.com/cAXkE3OWVcGNpDVoU-Nf4B64dJu6tQiXESlKZhMaco6WaYp4WyuMY903UB1i8a59VwTU1ZptM5AdYdIeqA=m37
-
-#EXTINF:-1,DR: 12 Horas (DUB)
-http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-
-#EXTINF:-1,DR: BRAVEN (LEG)
-https://lh3.googleusercontent.com/zWK4ZURhRJ3WsCOF8b7O5zNFuOd2CHlxzyNV_8K2wHX9HAPWVdphXFlhxAqmCgSsG3GpjmlAg1hw0DPupQ=m22
-
-#EXTINF:-1,DR: THE PRICE (2017)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4345.mp4
-
-#EXTINF:-1,DR: 12 INDOMÁVEIS (2018)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4423.mkv
-
-#EXTINF:-1,DR: 7 DIAS EM ENTEBBE (2018)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4422.mkv
-
-#EXTINF:-1,AC: ARRANHA CÉUS - CORAGEM SEM LIMITE (2018)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4420.mkv
-
-#EXTINF:-1,AC: HOMEM FORMIGA E A VESPA (2018)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4419.mkv
-
-#EXTINF:-1,AC: XXX REATIVADO (2017) (LEG)
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4342.mp4
-
-#EXTINF:-1,TER: THE PREDATOR (2018) - eng
-http://195.154.220.71:3333/movie/Metege2/Skype15082018/4421.mkv
-
-#EXTINF:-1,TER: 8mm . Oito Milimetros (Dub)
-http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-
-#EXTINF:-1,BE: LA UNE
+#EXTINF:-1,group-title="BELGIUM",LA UNE
 http://195.154.220.71:3333/Metege2/Skype15082018/720
 
-#EXTINF:-1,BE: RTL TVI
+#EXTINF:-1,group-title="BELGIUM",RTL TVI
 http://195.154.220.71:3333/Metege2/Skype15082018/717
 
-#EXTINF:-1,AR: 2M-MAROC
+#EXTINF:-1,group-title="ARGENTINE",2M-MAROC
 http://195.154.220.71:3333/Metege2/Skype15082018/3042
 
-#EXTINF:-1,AR: AD-Sports1
+#EXTINF:-1,group-title="ARGENTINE",AD-Sports1
 http://195.154.220.71:3333/Metege2/Skype15082018/2931
 
-#EXTINF:-1,AR: AD-Sports2
+#EXTINF:-1,group-title="ARGENTINE",AD-Sports2
 http://195.154.220.71:3333/Metege2/Skype15082018/2932
 
-#EXTINF:-1,AR: AL HURRA IRAQ
+#EXTINF:-1,group-title="ARGENTINE",AL HURRA IRAQ
 http://195.154.220.71:3333/Metege2/Skype15082018/3048
 
-#EXTINF:-1,AR: AL MAGHARIBIATWO
+#EXTINF:-1,group-title="ARGENTINE",AL MAGHARIBIATWO
 http://195.154.220.71:3333/Metege2/Skype15082018/3070
 
-#EXTINF:-1,AR: AL MAGHRABIA
+#EXTINF:-1,group-title="ARGENTINE",AL MAGHRABIA
 http://195.154.220.71:3333/Metege2/Skype15082018/3071
 
-#EXTINF:-1,AR: AL MANAR
+#EXTINF:-1,group-title="ARGENTINE",AL MANAR
 http://195.154.220.71:3333/Metege2/Skype15082018/3072
 
-#EXTINF:-1,AR: AL NAHAR ALYAWM
+#EXTINF:-1,group-title="ARGENTINE",AL NAHAR ALYAWM
 http://195.154.220.71:3333/Metege2/Skype15082018/3073
 
-#EXTINF:-1,AR: AL NAHAR DRAMA
+#EXTINF:-1,group-title="ARGENTINE",AL NAHAR DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/3074
 
-#EXTINF:-1,AR: AL NAHAR SPORTS
+#EXTINF:-1,group-title="ARGENTINE",AL NAHAR SPORTS
 http://195.154.220.71:3333/Metege2/Skype15082018/3075
 
-#EXTINF:-1,AR: AL NAHAR TV
+#EXTINF:-1,group-title="ARGENTINE",AL NAHAR TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3076
 
-#EXTINF:-1,AR: AL RESALAH
+#EXTINF:-1,group-title="ARGENTINE",AL RESALAH
 http://195.154.220.71:3333/Metege2/Skype15082018/3077
 
-#EXTINF:-1,AR: AL SHARQIA NEWS
+#EXTINF:-1,group-title="ARGENTINE",AL SHARQIA NEWS
 http://195.154.220.71:3333/Metege2/Skype15082018/3049
 
-#EXTINF:-1,AR: AL SHARQIA TV
+#EXTINF:-1,group-title="ARGENTINE",AL SHARQIA TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3050
 
-#EXTINF:-1,AR: ALBAGHDADIA 1
+#EXTINF:-1,group-title="ARGENTINE",ALBAGHDADIA 1
 http://195.154.220.71:3333/Metege2/Skype15082018/3051
 
-#EXTINF:-1,AR: ALBASRA IRAQ
+#EXTINF:-1,group-title="ARGENTINE",ALBASRA IRAQ
 http://195.154.220.71:3333/Metege2/Skype15082018/3057
 
-#EXTINF:-1,AR: ALGERIE 3
+#EXTINF:-1,group-title="ARGENTINE",ALGERIE 3
 http://195.154.220.71:3333/Metege2/Skype15082018/2994
 
-#EXTINF:-1,AR: ALJADID
+#EXTINF:-1,group-title="ARGENTINE",ALJADID
 http://195.154.220.71:3333/Metege2/Skype15082018/3078
 
-#EXTINF:-1,AR: ALMANAR
+#EXTINF:-1,group-title="ARGENTINE",ALMANAR
 http://195.154.220.71:3333/Metege2/Skype15082018/3058
 
-#EXTINF:-1,AR: ART AFLAM 1
+#EXTINF:-1,group-title="ARGENTINE",ART AFLAM 1
 http://195.154.220.71:3333/Metege2/Skype15082018/3085
 
-#EXTINF:-1,AR: ART AFLAM 2
+#EXTINF:-1,group-title="ARGENTINE",ART AFLAM 2
 http://195.154.220.71:3333/Metege2/Skype15082018/3084
 
-#EXTINF:-1,AR: ART Hekayat 2
+#EXTINF:-1,group-title="ARGENTINE",ART Hekayat 2
 http://195.154.220.71:3333/Metege2/Skype15082018/2971
 
-#EXTINF:-1,AR: Abu Dhabi
+#EXTINF:-1,group-title="ARGENTINE",Abu Dhabi
 http://195.154.220.71:3333/Metege2/Skype15082018/3106
 
-#EXTINF:-1,AR: Abu Dhabi Drama
+#EXTINF:-1,group-title="ARGENTINE",Abu Dhabi Drama
 http://195.154.220.71:3333/Metege2/Skype15082018/3107
 
-#EXTINF:-1,AR: Abu Dhabi Emarat
+#EXTINF:-1,group-title="ARGENTINE",Abu Dhabi Emarat
 http://195.154.220.71:3333/Metege2/Skype15082018/3108
 
-#EXTINF:-1,AR: Ajyal TV
+#EXTINF:-1,group-title="ARGENTINE",Ajyal TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3013
 
-#EXTINF:-1,AR: Al-Oula-MAROC
+#EXTINF:-1,group-title="ARGENTINE",Al-Oula-MAROC
 http://195.154.220.71:3333/Metege2/Skype15082018/3102
 
-#EXTINF:-1,AR: AlHaddaf
+#EXTINF:-1,group-title="ARGENTINE",AlHaddaf
 http://195.154.220.71:3333/Metege2/Skype15082018/2995
 
-#EXTINF:-1,AR: Alarabya Alhadath
+#EXTINF:-1,group-title="ARGENTINE",Alarabya Alhadath
 http://195.154.220.71:3333/Metege2/Skype15082018/3005
 
-#EXTINF:-1,AR: Aljadeed LIVE
+#EXTINF:-1,group-title="ARGENTINE",Aljadeed LIVE
 http://195.154.220.71:3333/Metege2/Skype15082018/3000
 
-#EXTINF:-1,AR: Aljazeera
+#EXTINF:-1,group-title="ARGENTINE",Aljazeera
 http://195.154.220.71:3333/Metege2/Skype15082018/2936
 
-#EXTINF:-1,AR: Aljazeera-Mubasher
+#EXTINF:-1,group-title="ARGENTINE",Aljazeera-Mubasher
 http://195.154.220.71:3333/Metege2/Skype15082018/3039
 
-#EXTINF:-1,AR: Alkarma TV
+#EXTINF:-1,group-title="ARGENTINE",Alkarma TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3011
 
-#EXTINF:-1,AR: Alkass 1 HD
+#EXTINF:-1,group-title="ARGENTINE",Alkass 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2937
 
-#EXTINF:-1,AR: Alkass 2 HD
+#EXTINF:-1,group-title="ARGENTINE",Alkass 2 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2938
 
-#EXTINF:-1,AR: Alkass 4HD
+#EXTINF:-1,group-title="ARGENTINE",Alkass 4HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2940
 
-#EXTINF:-1,AR: Arriadia Maroc
+#EXTINF:-1,group-title="ARGENTINE",Arriadia Maroc
 http://195.154.220.71:3333/Metege2/Skype15082018/3040
 
-#EXTINF:-1,AR: Assadissa
+#EXTINF:-1,group-title="ARGENTINE",Assadissa
 http://195.154.220.71:3333/Metege2/Skype15082018/3045
 
-#EXTINF:-1,AR: BBC-Arabia
+#EXTINF:-1,group-title="ARGENTINE",BBC-Arabia
 http://195.154.220.71:3333/Metege2/Skype15082018/2943
 
-#EXTINF:-1,AR: BBC-News
+#EXTINF:-1,group-title="ARGENTINE",BBC-News
 http://195.154.220.71:3333/Metege2/Skype15082018/2944
 
-#EXTINF:-1,AR: BBC.ARABIC
+#EXTINF:-1,group-title="ARGENTINE",BBC.ARABIC
 http://195.154.220.71:3333/Metege2/Skype15082018/2945
 
-#EXTINF:-1,AR: BEIN SPORT HD1
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD1
 http://195.154.220.71:3333/Metege2/Skype15082018/3153
 
-#EXTINF:-1,AR: BEIN SPORT HD10
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD10
 http://195.154.220.71:3333/Metege2/Skype15082018/3145
 
-#EXTINF:-1,AR: BEIN SPORT HD3
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD3
 http://195.154.220.71:3333/Metege2/Skype15082018/3152
 
-#EXTINF:-1,AR: BEIN SPORT HD4
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD4
 http://195.154.220.71:3333/Metege2/Skype15082018/3151
 
-#EXTINF:-1,AR: BEIN SPORT HD5
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD5
 http://195.154.220.71:3333/Metege2/Skype15082018/3150
 
-#EXTINF:-1,AR: BEIN SPORT HD7
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD7
 http://195.154.220.71:3333/Metege2/Skype15082018/3148
 
-#EXTINF:-1,AR: BEIN SPORT HD8
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD8
 http://195.154.220.71:3333/Metege2/Skype15082018/3147
 
-#EXTINF:-1,AR: BEIN SPORT HD9
+#EXTINF:-1,group-title="ARGENTINE",BEIN SPORT HD9
 http://195.154.220.71:3333/Metege2/Skype15082018/3146
 
-#EXTINF:-1,AR: BEIN_SPORTS_1HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_1HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3142
 
-#EXTINF:-1,AR: BEIN_SPORTS_3HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_3HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3140
 
-#EXTINF:-1,AR: BEIN_SPORTS_4HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_4HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3139
 
-#EXTINF:-1,AR: BEIN_SPORTS_6HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_6HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3137
 
-#EXTINF:-1,AR: BEIN_SPORTS_8HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_8HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3135
 
-#EXTINF:-1,AR: BEIN_SPORTS_9HD
+#EXTINF:-1,group-title="ARGENTINE",BEIN_SPORTS_9HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3134
 
-#EXTINF:-1,AR: BeINMOVIES-4HD
+#EXTINF:-1,group-title="ARGENTINE",BeINMOVIES-4HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3127
 
-#EXTINF:-1,AR: BeinMovies 1HD
+#EXTINF:-1,group-title="ARGENTINE",BeinMovies 1HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3130
 
-#EXTINF:-1,AR: CARTON NETWORK
+#EXTINF:-1,group-title="ARGENTINE",CARTON NETWORK
 http://195.154.220.71:3333/Metege2/Skype15082018/3055
 
-#EXTINF:-1,AR: CBC DRAMA
+#EXTINF:-1,group-title="ARGENTINE",CBC DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/2948
 
-#EXTINF:-1,AR: Cairo Cinema
+#EXTINF:-1,group-title="ARGENTINE",Cairo Cinema
 http://195.154.220.71:3333/Metege2/Skype15082018/3090
 
-#EXTINF:-1,AR: Cairo-Aflam
+#EXTINF:-1,group-title="ARGENTINE",Cairo-Aflam
 http://195.154.220.71:3333/Metege2/Skype15082018/3089
 
-#EXTINF:-1,AR: CairoDrama
+#EXTINF:-1,group-title="ARGENTINE",CairoDrama
 http://195.154.220.71:3333/Metege2/Skype15082018/3091
 
-#EXTINF:-1,AR: Cartoon Network
+#EXTINF:-1,group-title="ARGENTINE",Cartoon Network
 http://195.154.220.71:3333/Metege2/Skype15082018/2946
 
-#EXTINF:-1,AR: DMC HD
+#EXTINF:-1,group-title="ARGENTINE",DMC HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3094
 
-#EXTINF:-1,AR: DUBAI DRAMA
+#EXTINF:-1,group-title="ARGENTINE",DUBAI DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/2949
 
-#EXTINF:-1,AR: DUBAI ONE
+#EXTINF:-1,group-title="ARGENTINE",DUBAI ONE
 http://195.154.220.71:3333/Metege2/Skype15082018/2950
 
-#EXTINF:-1,AR: DUBAI RACING
+#EXTINF:-1,group-title="ARGENTINE",DUBAI RACING
 http://195.154.220.71:3333/Metege2/Skype15082018/2951
 
-#EXTINF:-1,AR: DUBAI SPORT HD
+#EXTINF:-1,group-title="ARGENTINE",DUBAI SPORT HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2954
 
-#EXTINF:-1,AR: DUBAI TV
+#EXTINF:-1,group-title="ARGENTINE",DUBAI TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2955
 
-#EXTINF:-1,AR: DUBAI ZAMAN
+#EXTINF:-1,group-title="ARGENTINE",DUBAI ZAMAN
 http://195.154.220.71:3333/Metege2/Skype15082018/2956
 
-#EXTINF:-1,AR: EIN SPORT HD6
+#EXTINF:-1,group-title="ARGENTINE",EIN SPORT HD6
 http://195.154.220.71:3333/Metege2/Skype15082018/3149
 
-#EXTINF:-1,AR: ETTOUNSIA
+#EXTINF:-1,group-title="ARGENTINE",ETTOUNSIA
 http://195.154.220.71:3333/Metege2/Skype15082018/2988
 
-#EXTINF:-1,AR: France24
+#EXTINF:-1,group-title="ARGENTINE",France24
 http://195.154.220.71:3333/Metege2/Skype15082018/2957
 
-#EXTINF:-1,AR:  IRAQ tv
+#EXTINF:-1,group-title="ARGENTINE", IRAQ tv
 http://195.154.220.71:3333/Metege2/Skype15082018/3066
 
-#EXTINF:-1,AR: IRAQIA SPORT
+#EXTINF:-1,group-title="ARGENTINE",IRAQIA SPORT
 http://195.154.220.71:3333/Metege2/Skype15082018/3060
 
-#EXTINF:-1,AR: KBCAlgeria
+#EXTINF:-1,group-title="ARGENTINE",KBCAlgeria
 http://195.154.220.71:3333/Metege2/Skype15082018/3037
 
-#EXTINF:-1,AR: KTV CH1
+#EXTINF:-1,group-title="ARGENTINE",KTV CH1
 http://195.154.220.71:3333/Metege2/Skype15082018/3035
 
-#EXTINF:-1,AR: Kino Comedy HD
+#EXTINF:-1,group-title="ARGENTINE",Kino Comedy HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3099
 
-#EXTINF:-1,AR: Kuwait-1
+#EXTINF:-1,group-title="ARGENTINE",Kuwait-1
 http://195.154.220.71:3333/Metege2/Skype15082018/3086
 
-#EXTINF:-1,AR: Kuwait-2
+#EXTINF:-1,group-title="ARGENTINE",Kuwait-2
 http://195.154.220.71:3333/Metege2/Skype15082018/3087
 
-#EXTINF:-1,AR: Kuwait-Alarabi
+#EXTINF:-1,group-title="ARGENTINE",Kuwait-Alarabi
 http://195.154.220.71:3333/Metege2/Skype15082018/3088
 
-#EXTINF:-1,AR: LBC
+#EXTINF:-1,group-title="ARGENTINE",LBC
 http://195.154.220.71:3333/Metege2/Skype15082018/3061
 
-#EXTINF:-1,AR: LBC SAT
+#EXTINF:-1,group-title="ARGENTINE",LBC SAT
 http://195.154.220.71:3333/Metege2/Skype15082018/3030
 
-#EXTINF:-1,AR: LDC
+#EXTINF:-1,group-title="ARGENTINE",LDC
 http://195.154.220.71:3333/Metege2/Skype15082018/3062
 
-#EXTINF:-1,AR: LDC MOVIES
+#EXTINF:-1,group-title="ARGENTINE",LDC MOVIES
 http://195.154.220.71:3333/Metege2/Skype15082018/3063
 
-#EXTINF:-1,AR: LEBANON
+#EXTINF:-1,group-title="ARGENTINE",LEBANON
 http://195.154.220.71:3333/Metege2/Skype15082018/3064
 
-#EXTINF:-1,AR: LIBYA 218
+#EXTINF:-1,group-title="ARGENTINE",LIBYA 218
 http://195.154.220.71:3333/Metege2/Skype15082018/3029
 
-#EXTINF:-1,AR: LIBYA AL Rasmiya
+#EXTINF:-1,group-title="ARGENTINE",LIBYA AL Rasmiya
 http://195.154.220.71:3333/Metege2/Skype15082018/3028
 
-#EXTINF:-1,AR: LIBYA ONE
+#EXTINF:-1,group-title="ARGENTINE",LIBYA ONE
 http://195.154.220.71:3333/Metege2/Skype15082018/3026
 
-#EXTINF:-1,AR: MBC 1 HD
+#EXTINF:-1,group-title="ARGENTINE",MBC 1 HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2965
 
-#EXTINF:-1,AR: MBC 3 KIDS
+#EXTINF:-1,group-title="ARGENTINE",MBC 3 KIDS
 http://195.154.220.71:3333/Metege2/Skype15082018/2966
 
-#EXTINF:-1,AR: MBC Drama HD
+#EXTINF:-1,group-title="ARGENTINE",MBC Drama HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2973
 
-#EXTINF:-1,AR: MBC MASR 1
+#EXTINF:-1,group-title="ARGENTINE",MBC MASR 1
 http://195.154.220.71:3333/Metege2/Skype15082018/2958
 
-#EXTINF:-1,AR: MBC MASR 2
+#EXTINF:-1,group-title="ARGENTINE",MBC MASR 2
 http://195.154.220.71:3333/Metege2/Skype15082018/2959
 
-#EXTINF:-1,AR: MBC MAX
+#EXTINF:-1,group-title="ARGENTINE",MBC MAX
 http://195.154.220.71:3333/Metege2/Skype15082018/2960
 
-#EXTINF:-1,AR: MBC_2
+#EXTINF:-1,group-title="ARGENTINE",MBC_2
 http://195.154.220.71:3333/Metege2/Skype15082018/2962
 
-#EXTINF:-1,AR: MBC_3
+#EXTINF:-1,group-title="ARGENTINE",MBC_3
 http://195.154.220.71:3333/Metege2/Skype15082018/2963
 
-#EXTINF:-1,AR: MBC_4
+#EXTINF:-1,group-title="ARGENTINE",MBC_4
 http://195.154.220.71:3333/Metege2/Skype15082018/2964
 
-#EXTINF:-1,AR: MBC_ACTION
+#EXTINF:-1,group-title="ARGENTINE",MBC_ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/2968
 
-#EXTINF:-1,AR: MBC_BOLLYWOOD
+#EXTINF:-1,group-title="ARGENTINE",MBC_BOLLYWOOD
 http://195.154.220.71:3333/Metege2/Skype15082018/2969
 
-#EXTINF:-1,AR: MODY KIDS
+#EXTINF:-1,group-title="ARGENTINE",MODY KIDS
 http://195.154.220.71:3333/Metege2/Skype15082018/3019
 
-#EXTINF:-1,AR: MTV LEBANON
+#EXTINF:-1,group-title="ARGENTINE",MTV LEBANON
 http://195.154.220.71:3333/Metege2/Skype15082018/3083
 
-#EXTINF:-1,AR: MTV LEBONAN
+#EXTINF:-1,group-title="ARGENTINE",MTV LEBONAN
 http://195.154.220.71:3333/Metege2/Skype15082018/3015
 
-#EXTINF:-1,AR: Majid Kids HD
+#EXTINF:-1,group-title="ARGENTINE",Majid Kids HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3023
 
-#EXTINF:-1,AR: Mekameleen 1
+#EXTINF:-1,group-title="ARGENTINE",Mekameleen 1
 http://195.154.220.71:3333/Metege2/Skype15082018/3001
 
-#EXTINF:-1,AR: Melody Classic
+#EXTINF:-1,group-title="ARGENTINE",Melody Classic
 http://195.154.220.71:3333/Metege2/Skype15082018/3103
 
-#EXTINF:-1,AR: Moga-Cinema
+#EXTINF:-1,group-title="ARGENTINE",Moga-Cinema
 http://195.154.220.71:3333/Metege2/Skype15082018/3092
 
-#EXTINF:-1,AR: MogaComedy
+#EXTINF:-1,group-title="ARGENTINE",MogaComedy
 http://195.154.220.71:3333/Metege2/Skype15082018/3093
 
-#EXTINF:-1,AR: NATIONAL GEO ABUT DHABI
+#EXTINF:-1,group-title="ARGENTINE",NATIONAL GEO ABUT DHABI
 http://195.154.220.71:3333/Metege2/Skype15082018/2970
 
-#EXTINF:-1,AR: NATIONAL1
+#EXTINF:-1,group-title="ARGENTINE",NATIONAL1
 http://195.154.220.71:3333/Metege2/Skype15082018/2992
 
-#EXTINF:-1,AR: NATIONAL2
+#EXTINF:-1,group-title="ARGENTINE",NATIONAL2
 http://195.154.220.71:3333/Metege2/Skype15082018/2990
 
-#EXTINF:-1,AR: NBN
+#EXTINF:-1,group-title="ARGENTINE",NBN
 http://195.154.220.71:3333/Metege2/Skype15082018/3065
 
-#EXTINF:-1,AR: NESSMATV
+#EXTINF:-1,group-title="ARGENTINE",NESSMATV
 http://195.154.220.71:3333/Metege2/Skype15082018/2986
 
-#EXTINF:-1,AR: NILE CINEMA
+#EXTINF:-1,group-title="ARGENTINE",NILE CINEMA
 http://195.154.220.71:3333/Metege2/Skype15082018/2922
 
-#EXTINF:-1,AR: NILE COMEDY
+#EXTINF:-1,group-title="ARGENTINE",NILE COMEDY
 http://195.154.220.71:3333/Metege2/Skype15082018/2923
 
-#EXTINF:-1,AR: NILE DRAMA
+#EXTINF:-1,group-title="ARGENTINE",NILE DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/2924
 
-#EXTINF:-1,AR: NILE LIFE
+#EXTINF:-1,group-title="ARGENTINE",NILE LIFE
 http://195.154.220.71:3333/Metege2/Skype15082018/2925
 
-#EXTINF:-1,AR: NILE SPORT
+#EXTINF:-1,group-title="ARGENTINE",NILE SPORT
 http://195.154.220.71:3333/Metege2/Skype15082018/2926
 
-#EXTINF:-1,AR: ON E LIVE HD
+#EXTINF:-1,group-title="ARGENTINE",ON E LIVE HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3096
 
-#EXTINF:-1,AR: ON TV
+#EXTINF:-1,group-title="ARGENTINE",ON TV
 http://195.154.220.71:3333/Metege2/Skype15082018/2967
 
-#EXTINF:-1,AR: OSN BOX OFFICE 1
+#EXTINF:-1,group-title="ARGENTINE",OSN BOX OFFICE 1
 http://195.154.220.71:3333/Metege2/Skype15082018/3118
 
-#EXTINF:-1,AR: OSN DISCOVERY HD
+#EXTINF:-1,group-title="ARGENTINE",OSN DISCOVERY HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3110
 
-#EXTINF:-1,AR: OSN ORBIT CINEMA2
+#EXTINF:-1,group-title="ARGENTINE",OSN ORBIT CINEMA2
 http://195.154.220.71:3333/Metege2/Skype15082018/3115
 
-#EXTINF:-1,AR: OSN-ELYOM
+#EXTINF:-1,group-title="ARGENTINE",OSN-ELYOM
 http://195.154.220.71:3333/Metege2/Skype15082018/3113
 
-#EXTINF:-1,AR: OSN_MOVIES HD
+#EXTINF:-1,group-title="ARGENTINE",OSN_MOVIES HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3121
 
-#EXTINF:-1,AR: OSN_MOVIES_DRAMA
+#EXTINF:-1,group-title="ARGENTINE",OSN_MOVIES_DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/3119
 
-#EXTINF:-1,AR: OSN_ON_DEMAND_EXTRA
+#EXTINF:-1,group-title="ARGENTINE",OSN_ON_DEMAND_EXTRA
 http://195.154.220.71:3333/Metege2/Skype15082018/3114
 
-#EXTINF:-1,AR: OTV LIBANON
+#EXTINF:-1,group-title="ARGENTINE",OTV LIBANON
 http://195.154.220.71:3333/Metege2/Skype15082018/3052
 
-#EXTINF:-1,AR: Palestine-HQ
+#EXTINF:-1,group-title="ARGENTINE",Palestine-HQ
 http://195.154.220.71:3333/Metege2/Skype15082018/3097
 
-#EXTINF:-1,AR: Qanat Al Hayat
+#EXTINF:-1,group-title="ARGENTINE",Qanat Al Hayat
 http://195.154.220.71:3333/Metege2/Skype15082018/3009
 
-#EXTINF:-1,AR: Rotana
+#EXTINF:-1,group-title="ARGENTINE",Rotana
 http://195.154.220.71:3333/Metege2/Skype15082018/2975
 
-#EXTINF:-1,AR: Rotana Classic
+#EXTINF:-1,group-title="ARGENTINE",Rotana Classic
 http://195.154.220.71:3333/Metege2/Skype15082018/2977
 
-#EXTINF:-1,AR: Rotana Clip
+#EXTINF:-1,group-title="ARGENTINE",Rotana Clip
 http://195.154.220.71:3333/Metege2/Skype15082018/2978
 
-#EXTINF:-1,AR: Rotana Masriya
+#EXTINF:-1,group-title="ARGENTINE",Rotana Masriya
 http://195.154.220.71:3333/Metege2/Skype15082018/2979
 
-#EXTINF:-1,AR: Rotana-Khalijia
+#EXTINF:-1,group-title="ARGENTINE",Rotana-Khalijia
 http://195.154.220.71:3333/Metege2/Skype15082018/2980
 
-#EXTINF:-1,AR: Rotana-Music
+#EXTINF:-1,group-title="ARGENTINE",Rotana-Music
 http://195.154.220.71:3333/Metege2/Skype15082018/2981
 
-#EXTINF:-1,AR: SAMA DUBAI
+#EXTINF:-1,group-title="ARGENTINE",SAMA DUBAI
 http://195.154.220.71:3333/Metege2/Skype15082018/2927
 
-#EXTINF:-1,AR: SAMIRA-TV
+#EXTINF:-1,group-title="ARGENTINE",SAMIRA-TV
 http://195.154.220.71:3333/Metege2/Skype15082018/3046
 
-#EXTINF:-1,AR: SAUDI QURAN
+#EXTINF:-1,group-title="ARGENTINE",SAUDI QURAN
 http://195.154.220.71:3333/Metege2/Skype15082018/3054
 
-#EXTINF:-1,AR: SAUDI SUNNEH
+#EXTINF:-1,group-title="ARGENTINE",SAUDI SUNNEH
 http://195.154.220.71:3333/Metege2/Skype15082018/3056
 
-#EXTINF:-1,AR: SAUDIA THAQAFIYA HD
+#EXTINF:-1,group-title="ARGENTINE",SAUDIA THAQAFIYA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/3100
 
-#EXTINF:-1,AR: SHARJAH
+#EXTINF:-1,group-title="ARGENTINE",SHARJAH
 http://195.154.220.71:3333/Metege2/Skype15082018/3067
 
-#EXTINF:-1,AR: SHARQIA KARBALA
+#EXTINF:-1,group-title="ARGENTINE",SHARQIA KARBALA
 http://195.154.220.71:3333/Metege2/Skype15082018/3068
 
-#EXTINF:-1,AR: SPACE TOON
+#EXTINF:-1,group-title="ARGENTINE",SPACE TOON
 http://195.154.220.71:3333/Metege2/Skype15082018/3080
 
-#EXTINF:-1,AR: SYRIA
+#EXTINF:-1,group-title="ARGENTINE",SYRIA
 http://195.154.220.71:3333/Metege2/Skype15082018/2928
 
-#EXTINF:-1,AR: SYRIA DRAMA
+#EXTINF:-1,group-title="ARGENTINE",SYRIA DRAMA
 http://195.154.220.71:3333/Metege2/Skype15082018/2929
 
-#EXTINF:-1,AR: Sat 7 Kids
+#EXTINF:-1,group-title="ARGENTINE",Sat 7 Kids
 http://195.154.220.71:3333/Metege2/Skype15082018/3002
 
-#EXTINF:-1,AR: Starworld
+#EXTINF:-1,group-title="ARGENTINE",Starworld
 http://195.154.220.71:3333/Metege2/Skype15082018/2985
 
-#EXTINF:-1,AR: TAHA
+#EXTINF:-1,group-title="ARGENTINE",TAHA
 http://195.154.220.71:3333/Metege2/Skype15082018/3098
 
-#EXTINF:-1,AR: TEN
+#EXTINF:-1,group-title="ARGENTINE",TEN
 http://195.154.220.71:3333/Metege2/Skype15082018/3104
 
-#EXTINF:-1,AR: TIME COMEDY
+#EXTINF:-1,group-title="ARGENTINE",TIME COMEDY
 http://195.154.220.71:3333/Metege2/Skype15082018/3082
 
-#EXTINF:-1,AR: TOYOR_AL-JANAH
+#EXTINF:-1,group-title="ARGENTINE",TOYOR_AL-JANAH
 http://195.154.220.71:3333/Metege2/Skype15082018/2983
 
-#EXTINF:-1,AR: Tounesna
+#EXTINF:-1,group-title="ARGENTINE",Tounesna
 http://195.154.220.71:3333/Metege2/Skype15082018/2991
 
-#EXTINF:-1,AR: ZEE ALWAN HD
+#EXTINF:-1,group-title="ARGENTINE",ZEE ALWAN HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2930
 
-#EXTINF:-1,IND: ZEE CLASSIC
-http://195.154.220.71:3333/Metege2/Skype15082018/1546
-
-#EXTINF:-1,XXX: Balkan Erotic
-http://195.154.220.71:3333/Metege2/Skype15082018/909
-
-#EXTINF:-1,XXX: Brazzers 2
-http://195.154.220.71:3333/Metege2/Skype15082018/3892
-
-#EXTINF:-1,XXX: Brazzers Europe
-http://195.154.220.71:3333/Metege2/Skype15082018/3890
-
-#EXTINF:-1,XXX: DUSK TV SD
-http://195.154.220.71:3333/Metege2/Skype15082018/911
-
-#EXTINF:-1,XXX: HOT
-http://195.154.220.71:3333/Metege2/Skype15082018/60
-
-#EXTINF:-1,XXX: HotClub 4
-http://195.154.220.71:3333/Metege2/Skype15082018/938
-
-#EXTINF:-1,XXX: HotClub 5
-http://195.154.220.71:3333/Metege2/Skype15082018/939
-
-#EXTINF:-1,XXX: HotClub 6
-http://195.154.220.71:3333/Metege2/Skype15082018/940
-
-#EXTINF:-1,XXX: HotClub 9
-http://195.154.220.71:3333/Metege2/Skype15082018/943
-
-#EXTINF:-1,XXX: Hustler FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/1025
-
-#EXTINF:-1,XXX: Meiden Van Holland
-http://195.154.220.71:3333/Metege2/Skype15082018/910
-
-#EXTINF:-1,XXX: Moviesinema Erotik 2
-http://195.154.220.71:3333/Metege2/Skype15082018/958
-
-#EXTINF:-1,XXX: PINK EROTIK 2
-http://195.154.220.71:3333/Metege2/Skype15082018/813
-
-#EXTINF:-1,XXX: PINK EROTIK 3
-http://195.154.220.71:3333/Metege2/Skype15082018/814
-
-#EXTINF:-1,XXX: PINK EROTIK 4
-http://195.154.220.71:3333/Metege2/Skype15082018/815
-
-#EXTINF:-1,XXX: PINK EROTIK 5
-http://195.154.220.71:3333/Metege2/Skype15082018/816
-
-#EXTINF:-1,XXX: PINK EROTIK 6
-http://195.154.220.71:3333/Metege2/Skype15082018/817
-
-#EXTINF:-1,XXX: PINK EROTIK 7
-http://195.154.220.71:3333/Metege2/Skype15082018/818
-
-#EXTINF:-1,XXX: PINK EROTIK 8
-http://195.154.220.71:3333/Metege2/Skype15082018/819
-
-#EXTINF:-1,XXX: PLAYBOY TV*
-http://195.154.220.71:3333/Metege2/Skype15082018/4092
-
-#EXTINF:-1,XXX: PASSIE XXX
-http://195.154.220.71:3333/Metege2/Skype15082018/1497
-
-#EXTINF:-1,XXX: Primafila 20 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/923
-
-#EXTINF:-1,XXX: Primafila 21 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/924
-
-#EXTINF:-1,XXX: Primafila 21 HD5
-http://195.154.220.71:3333/Metege2/Skype15082018/928
-
-#EXTINF:-1,XXX: Primafila 22 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/925
-
-#EXTINF:-1,XXX: Primafila 24 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/927
-
-#EXTINF:-1,XXX: Primafila 26 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/929
-
-#EXTINF:-1,XXX: Primafila 27 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/930
-
-#EXTINF:-1,XXX: Primafila 28 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/931
-
-#EXTINF:-1,XXX: Primafila Hot HD
-http://195.154.220.71:3333/Metege2/Skype15082018/922
-
-#EXTINF:-1,XXX: Private TV
-http://195.154.220.71:3333/Metege2/Skype15082018/1356
-
-#EXTINF:-1,XXX: XXL
-http://195.154.220.71:3333/Metege2/Skype15082018/1357
-
-#EXTINF:-1,XXX: XXX2
-http://195.154.220.71:3333/Metege2/Skype15082018/1024
-
-#EXTINF:-1,XXX: XXX25
-http://195.154.220.71:3333/Metege2/Skype15082018/844
-
-#EXTINF:-1,|XXX| Hot Club 1 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/345
-
-#EXTINF:-1,|XXX| Hot Club 2 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/346
-
-#EXTINF:-1,|XXX| PENTHOUSE FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/136
-
-#EXTINF:-1,|XXX| PLAYBOY TV
-http://195.154.220.71:3333/Metege2/Skype15082018/26
-
-#EXTINF:-1,XXX: REDLIGHT FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/135
-
-#EXTINF:-1,XXX: VENUS
-http://195.154.220.71:3333/Metege2/Skype15082018/91
-
-#EXTINF:-1,=== PLAYLIST 7  ===
+#EXTINF:-1,group-title="PLAYLIST 2",group-title="PLAYLIST 2",AMC 
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1916
 
-#EXTINF:-1,Animal Planet [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Animal Planet [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1915
 
-#EXTINF:-1,Aparecida [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Aparecida [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1914
 
-#EXTINF:-1,AXN [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",AXN [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1912
 
-#EXTINF:-1,Baby TV [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Baby TV [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1911
 
-#EXTINF:-1,Band News [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Band News [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1910
 
-#EXTINF:-1,Band Sports [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Band Sports [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1909
 
-#EXTINF:-1,Bandeirantes [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Bandeirantes [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1908
 
-#EXTINF:-1,Canal Brasil [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Canal Brasil [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1904
 
-#EXTINF:-1,Canal Sony [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Canal Sony [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1900
 
-#EXTINF:-1,Cinemax [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Cinemax [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1898
 
-#EXTINF:-1,CNN Espanol [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",CNN Espanol [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1897
 
-#EXTINF:-1,CNN Internacional [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",CNN Internacional [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1896
 
-#EXTINF:-1,Discovery Channel [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Channel [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1891
 
-#EXTINF:-1,Discovery H&H [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery H&H [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1890
 
-#EXTINF:-1,Discovery Kids [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Kids [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1889
 
-#EXTINF:-1,Disney [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Disney [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1888
 
-#EXTINF:-1,Disney XD [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Disney XD [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1887
 
-#EXTINF:-1,ESPN [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",ESPN [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1883
 
-#EXTINF:-1,Food Network [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Food Network [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1881
 
-#EXTINF:-1,Futura [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Futura [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1876
 
-#EXTINF:-1,Gloob [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Gloob [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1872
 
-#EXTINF:-1,H2 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",H2 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1870
 
-#EXTINF:-1,HBO [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",HBO [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1869
 
-#EXTINF:-1,HBO Signature [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",HBO Signature [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1865
 
-#EXTINF:-1,HBO2 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",HBO2 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1864
 
-#EXTINF:-1,ID - Investigation Discovery [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",ID - Investigation Discovery [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1862
 
-#EXTINF:-1,MAX Prime [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",MAX Prime [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1858
 
-#EXTINF:-1,MegaPix [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",MegaPix [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1855
 
-#EXTINF:-1,NatGeo Kids [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",NatGeo Kids [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1851
 
-#EXTINF:-1,NatGeo Wild [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",NatGeo Wild [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1850
 
-#EXTINF:-1,National Geographic [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",National Geographic [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1849
 
-#EXTINF:-1,NHK [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",NHK [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1848
 
-#EXTINF:-1,Nickelodeon [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Nickelodeon [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1846
 
-#EXTINF:-1,Premiere 6 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 6 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1839
 
-#EXTINF:-1,Premiere 7 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 7 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1838
 
-#EXTINF:-1,Premiere 8 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 8 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1837
 
-#EXTINF:-1,RBS TV Porto Alegre [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",RBS TV Porto Alegre [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1832
 
-#EXTINF:-1,Record News [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Record News [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1831
 
-#EXTINF:-1,RECORDTV [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",RECORDTV [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1830
 
-#EXTINF:-1,Rede Brasil [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Rede Brasil [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1829
 
-#EXTINF:-1,Rede TV [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Rede TV [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1828
 
-#EXTINF:-1,SporTV [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1816
 
-#EXTINF:-1,SporTV 2 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV 2 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1819
 
-#EXTINF:-1,SporTV 3 [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV 3 [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1818
 
-#EXTINF:-1,Telecine Premium [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Premium [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1807
 
-#EXTINF:-1,Telecine Touch [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Touch [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1806
 
-#EXTINF:-1,TLC [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",TLC [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1803
 
-#EXTINF:-1,TV Cultura [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",TV Cultura [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1796
 
-#EXTINF:-1,TV Justica [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",TV Justica [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1794
 
-#EXTINF:-1,TV Tribuna Santos [SD CS]
+#EXTINF:-1,group-title="PLAYLIST 2",TV Tribuna Santos [SD CS]
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1789
 
-#EXTINF:-1,AMC SD
+#EXTINF:-1,group-title="PLAYLIST 2",AMC SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/333
 
-#EXTINF:-1,Animal Planet SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Animal Planet SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/332
 
-#EXTINF:-1,AXN SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",AXN SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/330
 
-#EXTINF:-1,Baby TV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Baby TV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/329
 
-#EXTINF:-1,BAND CAMPINAS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",BAND CAMPINAS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1545
 
-#EXTINF:-1,Band News SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Band News SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/328
 
-#EXTINF:-1,Band SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Band SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/327
 
-#EXTINF:-1,Band Sports SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Band Sports SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/326
 
-#EXTINF:-1,BIS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",BIS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/324
 
-#EXTINF:-1,Boomerang SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Boomerang SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/322
 
-#EXTINF:-1,Cartoon Network SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Cartoon Network SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/319
 
-#EXTINF:-1,Cinemax SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Cinemax SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/317
 
-#EXTINF:-1,CNN INTERNACIONAL SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",CNN INTERNACIONAL SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1690
 
-#EXTINF:-1,Combate SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Combate SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/314
 
-#EXTINF:-1,Comedy Central SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Comedy Central SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/313
 
-#EXTINF:-1,Cultura SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Cultura SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/312
 
-#EXTINF:-1,Curta! SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Curta! SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/311
 
-#EXTINF:-1,Discovery Channel SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Channel SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/310
 
-#EXTINF:-1,Discovery Civilization SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Civilization SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/309
 
-#EXTINF:-1,Discovery Home & Health SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Home & Health SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/308
 
-#EXTINF:-1,Discovery Kids SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Kids SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/307
 
-#EXTINF:-1,Discovery Science SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Science SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/306
 
-#EXTINF:-1,Discovery Turbo SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Discovery Turbo SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/305
 
-#EXTINF:-1,DISCOVERY WORLD SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",DISCOVERY WORLD SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1692
 
-#EXTINF:-1,Disney Channel SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Disney Channel SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/304
 
-#EXTINF:-1,Disney JR SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Disney JR SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/303
 
-#EXTINF:-1,Disney XD SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Disney XD SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/302
 
-#EXTINF:-1,E! SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",E! SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/297
 
-#EXTINF:-1,ESPN + SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",ESPN + SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/210
 
-#EXTINF:-1,ESPN Brasil SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",ESPN Brasil SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/301
 
-#EXTINF:-1,ESPN SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",ESPN SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/300
 
-#EXTINF:-1,FOOD NETWORK SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",FOOD NETWORK SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/294
 
-#EXTINF:-1,Fox Life SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox Life SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/293
 
-#EXTINF:-1,Fox Premium 1 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox Premium 1 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/2027
 
-#EXTINF:-1,Fox Premium 2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox Premium 2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/2028
 
-#EXTINF:-1,Fox SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/292
 
-#EXTINF:-1,Fox Sports 2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox Sports 2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/196
 
-#EXTINF:-1,Fox Sports SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Fox Sports SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/197
 
-#EXTINF:-1,Futura SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Futura SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/291
 
-#EXTINF:-1,FX SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",FX SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/290
 
-#EXTINF:-1,Globo Brasilia SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Globo Brasilia SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/209
 
-#EXTINF:-1,GLOBO CAMPINAS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",GLOBO CAMPINAS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1531
 
-#EXTINF:-1,GLOBO EPTV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",GLOBO EPTV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1525
 
-#EXTINF:-1,Globo News SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Globo News SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/289
 
-#EXTINF:-1,Globo SP SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Globo SP SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/286
 
-#EXTINF:-1,Gloob SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Gloob SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/285
 
-#EXTINF:-1,GNT SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",GNT SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/284
 
-#EXTINF:-1,H2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",H2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/283
 
-#EXTINF:-1,HBO 2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO 2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/282
 
-#EXTINF:-1,HBO Family SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO Family SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/281
 
-#EXTINF:-1,HBO Plus E SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO Plus E SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/280
 
-#EXTINF:-1,HBO Plus SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO Plus SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/279
 
-#EXTINF:-1,HBO SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/278
 
-#EXTINF:-1,HBO Signature SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",HBO Signature SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/277
 
-#EXTINF:-1,ID SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",ID SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/275
 
-#EXTINF:-1,Lifetime SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Lifetime SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/273
 
-#EXTINF:-1,Mais Globosat SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Mais Globosat SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/272
 
-#EXTINF:-1,Max Prime E SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Max Prime E SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/271
 
-#EXTINF:-1,Max Prime SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Max Prime SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/270
 
-#EXTINF:-1,MAX SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",MAX SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/269
 
-#EXTINF:-1,Max UP SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Max UP SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/268
 
-#EXTINF:-1,Megapix SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Megapix SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/267
 
-#EXTINF:-1,MTV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",MTV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/266
 
-#EXTINF:-1,Multishow SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Multishow SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/265
 
-#EXTINF:-1,NatGeo Kids SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",NatGeo Kids SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/263
 
-#EXTINF:-1,NatGeo Wild SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",NatGeo Wild SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/262
 
-#EXTINF:-1,National Geographic SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",National Geographic SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/261
 
-#EXTINF:-1,NHK SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",NHK SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1710
 
-#EXTINF:-1,Nick Jr. SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Nick Jr. SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/260
 
-#EXTINF:-1,Nickelodeon SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Nickelodeon SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/259
 
-#EXTINF:-1,Off SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Off SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/257
 
-#EXTINF:-1,Paramount SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Paramount SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/256
 
-#EXTINF:-1,PLAYBOY SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",PLAYBOY SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/214
 
-#EXTINF:-1,Premiere 1 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 1 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/254
 
-#EXTINF:-1,Premiere 2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/253
 
-#EXTINF:-1,Premiere 3 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 3 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/252
 
-#EXTINF:-1,Premiere 4 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 4 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/251
 
-#EXTINF:-1,Premiere 5 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 5 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/250
 
-#EXTINF:-1,Premiere 6 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 6 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/249
 
-#EXTINF:-1,Premiere 7 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere 7 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/248
 
-#EXTINF:-1,Premiere Clubes SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Premiere Clubes SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/246
 
-#EXTINF:-1,Prime Box Brazil SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Prime Box Brazil SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/245
 
-#EXTINF:-1,RBS TV Porto Alegre SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",RBS TV Porto Alegre SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/199
 
-#EXTINF:-1,Record News SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Record News SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/243
 
-#EXTINF:-1,RECORD TV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",RECORD TV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/242
 
-#EXTINF:-1,Rede Brasil SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Rede Brasil SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/241
 
-#EXTINF:-1,REDE TV 1 SD
+#EXTINF:-1,group-title="PLAYLIST 2",REDE TV 1 SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1567
 
-#EXTINF:-1,Rede TV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Rede TV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/200
 
-#EXTINF:-1,Rede Vida SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Rede Vida SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/240
 
-#EXTINF:-1,SBT CAMPINAS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",SBT CAMPINAS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1717
 
-#EXTINF:-1,Sextreme SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Sextreme SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/238
 
-#EXTINF:-1,Sexy hot SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Sexy hot SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/237
 
-#EXTINF:-1,Sony SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Sony SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/236
 
-#EXTINF:-1,Space SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Space SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/235
 
-#EXTINF:-1,SporTV 2 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV 2 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/234
 
-#EXTINF:-1,SporTV 3 SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV 3 SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/233
 
-#EXTINF:-1,SporTV SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",SporTV SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/232
 
-#EXTINF:-1,Studio Universal SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Studio Universal SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/231
 
-#EXTINF:-1,SYFY SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",SYFY SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/230
 
-#EXTINF:-1,TBS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TBS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/229
 
-#EXTINF:-1,TCM SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TCM SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/202
 
-#EXTINF:-1,Telecine Action SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Action SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/228
 
-#EXTINF:-1,Telecine Cult SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Cult SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/227
 
-#EXTINF:-1,Telecine Fun SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Fun SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/226
 
-#EXTINF:-1,Telecine Pipoca SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Pipoca SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/225
 
-#EXTINF:-1,Telecine Premium SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Premium SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/224
 
-#EXTINF:-1,Telecine Touch SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Telecine Touch SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/223
 
-#EXTINF:-1,The History Channel SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",The History Channel SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/222
 
-#EXTINF:-1,TLC SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TLC SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/221
 
-#EXTINF:-1,TNT SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TNT SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/203
 
-#EXTINF:-1,TNT Series SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TNT Series SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/201
 
-#EXTINF:-1,TV Brasil SD
+#EXTINF:-1,group-title="PLAYLIST 2",TV Brasil SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/219
 
-#EXTINF:-1,TV Diário Fortaleza SD
+#EXTINF:-1,group-title="PLAYLIST 2",TV Diário Fortaleza SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/217
 
-#EXTINF:-1,TV GLOBO MG SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TV GLOBO MG SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1534
 
-#EXTINF:-1,TV Ra-tim-bum SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TV Ra-tim-bum SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/204
 
-#EXTINF:-1,TV Rio Largo (Maceió) SD
+#EXTINF:-1,group-title="PLAYLIST 2",TV Rio Largo (Maceió) SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/205
 
-#EXTINF:-1,TV Terceiro Anjo SD
+#EXTINF:-1,group-title="PLAYLIST 2",TV Terceiro Anjo SD
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/211
 
-#EXTINF:-1,TV Vitória (Record ES) SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",TV Vitória (Record ES) SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/215
 
-#EXTINF:-1,Universal Channel SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Universal Channel SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/216
 
-#EXTINF:-1,VENUS SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",VENUS SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1547
 
-#EXTINF:-1,VH1 Mega Hits SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",VH1 Mega Hits SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/208
 
-#EXTINF:-1,VIVA SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",VIVA SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1539
 
-#EXTINF:-1,Warner Channel SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",Warner Channel SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/207
 
-#EXTINF:-1,WOOHOO SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",WOOHOO SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1736
 
-#EXTINF:-1,ZOOMOO SD (S)
+#EXTINF:-1,group-title="PLAYLIST 2",ZOOMOO SD (S)
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1546
 
-#EXTINF:-1,A Pantera Cor de Rosa - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",A Pantera Cor de Rosa - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1926
 
-#EXTINF:-1,Aladdin - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Aladdin - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1930
 
-#EXTINF:-1,As Aventuras de Tintin - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",As Aventuras de Tintin - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1946
 
-#EXTINF:-1,Bibo pai e Bobi filho - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Bibo pai e Bobi filho - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1927
 
-#EXTINF:-1,Bicudo O Lobisomen - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Bicudo O Lobisomen - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1928
 
-#EXTINF:-1,Bita e os Animais - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Bita e os Animais - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1931
 
-#EXTINF:-1,Coragem O Cão Covarde - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Coragem O Cão Covarde - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1925
 
-#EXTINF:-1,Corrida Maluca - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Corrida Maluca - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1933
 
-#EXTINF:-1,Denis o Pimentinha - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Denis o Pimentinha - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1934
 
-#EXTINF:-1,Esquilo Sem Grilo - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Esquilo Sem Grilo - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1935
 
-#EXTINF:-1,3 Palavrinhas - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",3 Palavrinhas - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1929
 
-#EXTINF:-1,Formiga Atômica - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Formiga Atômica - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1936
 
-#EXTINF:-1,Frankenstein Jr - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Frankenstein Jr - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1937
 
-#EXTINF:-1,Os Flintstones 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Os Flintstones 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1919
 
-#EXTINF:-1,Jonny Quest - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Jonny Quest - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1939
 
-#EXTINF:-1,O INSPETOR - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",O INSPETOR - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1940
 
-#EXTINF:-1,O Maskara - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",O Maskara - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1941
 
-#EXTINF:-1,Patrulha Canina - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Patrulha Canina - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1942
 
-#EXTINF:-1,Peppa Pig - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Peppa Pig - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1943
 
-#EXTINF:-1,Recruta Zero - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Recruta Zero - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1944
 
-#EXTINF:-1,WALLY GATOR - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",WALLY GATOR - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1945
 
-#EXTINF:-1,Ligeirinho - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Ligeirinho - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1924
 
-#EXTINF:-1,O Xodó da Vovó - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",O Xodó da Vovó - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1922
 
-#EXTINF:-1,Mosquete Mosquito e Moscardo - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Mosquete Mosquito e Moscardo - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1923
 
-#EXTINF:-1,Maguila o Gorila - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Maguila o Gorila - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1921
 
-#EXTINF:-1,Pepe Legal 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Pepe Legal 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1918
 
-#EXTINF:-1,Eu Sou o Maximo - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Eu Sou o Maximo - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1920
 
-#EXTINF:-1,Caverna do Dragão - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Caverna do Dragão - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1932
 
-#EXTINF:-1,A VACA E O FRANGO - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",A VACA E O FRANGO - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1947
 
-#EXTINF:-1,Coelho Ricochete - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Coelho Ricochete - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1948
 
-#EXTINF:-1,Gasparzinho - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Gasparzinho - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1949
 
-#EXTINF:-1,Manda Chuva - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Manda Chuva - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1950
 
-#EXTINF:-1,Os Jetsons - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Os Jetsons - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1951
 
-#EXTINF:-1,DuckTales - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",DuckTales - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1953
 
-#EXTINF:-1,Scooby Doo - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Scooby Doo - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1952
 
-#EXTINF:-1,Tubarão 1977 - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Tubarão 1977 - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1954
 
-#EXTINF:-1,Bob Esponja - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Bob Esponja - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1955
 
-#EXTINF:-1,Cavalo de fogo - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Cavalo de fogo - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1956
 
-#EXTINF:-1,Dora A Aventureira - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Dora A Aventureira - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1957
 
-#EXTINF:-1,O Príncipe Dragão - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",O Príncipe Dragão - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1958
 
-#EXTINF:-1,Os Melhores da Hanna-Barbera - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Os Melhores da Hanna-Barbera - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1959
 
-#EXTINF:-1,A Pequena Sereia - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",A Pequena Sereia - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1960
 
-#EXTINF:-1,Tartaruga Touche e Dum Dum - 24 Horas
+#EXTINF:-1,group-title="PLAYLIST 2",Tartaruga Touche e Dum Dum - 24 Horas
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1961
 
-#EXTINF:-1,=== PLAYLIST 8 ===
+#EXTINF:-1,group-title="ARAB",group-title="ARAB",MAKKAH
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9395.ts
 
-#EXTINF:-1,beIN MAX 1HD
+#EXTINF:-1,group-title="ARAB",beIN MAX 1HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9138.ts
 
-#EXTINF:-1,beIN MAX 1HD Server2
+#EXTINF:-1,group-title="ARAB",beIN MAX 1HD Server2
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9139.ts
 
-#EXTINF:-1,beIN MAX 1HD Server3
+#EXTINF:-1,group-title="ARAB",beIN MAX 1HD Server3
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9143.ts
 
-#EXTINF:-1,beIN MAX 1HD Server4
+#EXTINF:-1,group-title="ARAB",beIN MAX 1HD Server4
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9328.ts
 
-#EXTINF:-1,beIN MAX 1SD
+#EXTINF:-1,group-title="ARAB",beIN MAX 1SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9155.ts
 
-#EXTINF:-1,beIN MAX 2HD
+#EXTINF:-1,group-title="ARAB",beIN MAX 2HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9141.ts
 
-#EXTINF:-1,beIN MAX 2HD Server2
+#EXTINF:-1,group-title="ARAB",beIN MAX 2HD Server2
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9144.ts
 
-#EXTINF:-1,beIN MAX 2HD Server3
+#EXTINF:-1,group-title="ARAB",beIN MAX 2HD Server3
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9329.ts
 
-#EXTINF:-1,beIN MAX 2SD
+#EXTINF:-1,group-title="ARAB",beIN MAX 2SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9156.ts
 
-#EXTINF:-1,beIN SPORTS 1 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/96.ts
 
-#EXTINF:-1,beIN SPORTS 2 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/97.ts
 
-#EXTINF:-1,beIN SPORTS 3 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 3 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/98.ts
 
-#EXTINF:-1,beIN SPORTS 4 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 4 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/99.ts
 
-#EXTINF:-1,beIN SPORTS 5 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 5 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/100.ts
 
-#EXTINF:-1,beIN SPORTS 6 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 6 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/101.ts
 
-#EXTINF:-1,beIN SPORTS 7 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 7 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/102.ts
 
-#EXTINF:-1,beIN SPORTS 8 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 8 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/103.ts
 
-#EXTINF:-1,beIN SPORTS 9 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 9 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/104.ts
 
-#EXTINF:-1,beIN SPORTS 10 HD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 10 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/105.ts
 
-#EXTINF:-1,beIN 1HD
+#EXTINF:-1,group-title="ARAB",beIN 1HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9145.ts
 
-#EXTINF:-1,beIN 2HD
+#EXTINF:-1,group-title="ARAB",beIN 2HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9146.ts
 
-#EXTINF:-1,beIN 3HD
+#EXTINF:-1,group-title="ARAB",beIN 3HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9147.ts
 
-#EXTINF:-1,beIN 4HD
+#EXTINF:-1,group-title="ARAB",beIN 4HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9148.ts
 
-#EXTINF:-1,beIN 5HD
+#EXTINF:-1,group-title="ARAB",beIN 5HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9149.ts
 
-#EXTINF:-1,beIN 6HD
+#EXTINF:-1,group-title="ARAB",beIN 6HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9150.ts
 
-#EXTINF:-1,beIN 7HD
+#EXTINF:-1,group-title="ARAB",beIN 7HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9151.ts
 
-#EXTINF:-1,beIN 8HD
+#EXTINF:-1,group-title="ARAB",beIN 8HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9152.ts
 
-#EXTINF:-1,beIN 9HD
+#EXTINF:-1,group-title="ARAB",beIN 9HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9153.ts
 
-#EXTINF:-1,beIN 10HD
+#EXTINF:-1,group-title="ARAB",beIN 10HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9337.ts
 
-#EXTINF:-1,beIN SPORTS 1 SD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 1 SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9049.ts
 
-#EXTINF:-1,beIN SPORTS 2 SD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 2 SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9050.ts
 
-#EXTINF:-1,beIN SPORTS 3 SD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 3 SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9051.ts
 
-#EXTINF:-1,beIN SPORTS 4 SD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 4 SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9052.ts
 
-#EXTINF:-1,beIN SPORTS 5 SD
+#EXTINF:-1,group-title="ARAB",beIN SPORTS 5 SD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9053.ts
 
-#EXTINF:-1,beIN 1 LOW
+#EXTINF:-1,group-title="ARAB",beIN 1 LOW
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9088.ts
 
-#EXTINF:-1,beIN 2 LOW
+#EXTINF:-1,group-title="ARAB",beIN 2 LOW
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9089.ts
 
-#EXTINF:-1,beIN 3 LOW
+#EXTINF:-1,group-title="ARAB",beIN 3 LOW
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9090.ts
 
-#EXTINF:-1,beIN 4 LOW
+#EXTINF:-1,group-title="ARAB",beIN 4 LOW
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9091.ts
 
-#EXTINF:-1,beIN 5 LOW
+#EXTINF:-1,group-title="ARAB",beIN 5 LOW
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9092.ts
 
-#EXTINF:-1,beoutQ 1HD
+#EXTINF:-1,group-title="ARAB",beoutQ 1HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9082.ts
 
-#EXTINF:-1,beoutQ 2HD
+#EXTINF:-1,group-title="ARAB",beoutQ 2HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9083.ts
 
-#EXTINF:-1,beoutQ 3HD
+#EXTINF:-1,group-title="ARAB",beoutQ 3HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9084.ts
 
-#EXTINF:-1,beoutQ 4HD
+#EXTINF:-1,group-title="ARAB",beoutQ 4HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9085.ts
 
-#EXTINF:-1,beoutQ 5HD
+#EXTINF:-1,group-title="ARAB",beoutQ 5HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9379.ts
 
-#EXTINF:-1,AD Sport 1 HD
+#EXTINF:-1,group-title="ARAB",AD Sport 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9133.ts
 
-#EXTINF:-1,AD Sport 2 HD
+#EXTINF:-1,group-title="ARAB",AD Sport 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9134.ts
 
-#EXTINF:-1,AD Sport 3 HD
+#EXTINF:-1,group-title="ARAB",AD Sport 3 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9135.ts
 
-#EXTINF:-1,AD Sport 4 HD
+#EXTINF:-1,group-title="ARAB",AD Sport 4 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9136.ts
 
-#EXTINF:-1,Alkass 1
+#EXTINF:-1,group-title="ARAB",Alkass 1
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9157.ts
 
-#EXTINF:-1,Alkass 2
+#EXTINF:-1,group-title="ARAB",Alkass 2
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9158.ts
 
-#EXTINF:-1,Alkass 3
+#EXTINF:-1,group-title="ARAB",Alkass 3
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9159.ts
 
-#EXTINF:-1,Alkass 4
+#EXTINF:-1,group-title="ARAB",Alkass 4
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9160.ts
 
-#EXTINF:-1,Alfajr 1HD
+#EXTINF:-1,group-title="ARAB",Alfajr 1HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9331.ts
 
-#EXTINF:-1,Alfajr 2HD
+#EXTINF:-1,group-title="ARAB",Alfajr 2HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9332.ts
 
-#EXTINF:-1,Alfajr 3HD
+#EXTINF:-1,group-title="ARAB",Alfajr 3HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9333.ts
 
-#EXTINF:-1,Alfajr 4HD
+#EXTINF:-1,group-title="ARAB",Alfajr 4HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9334.ts
 
-#EXTINF:-1,Alfajr 5HD
+#EXTINF:-1,group-title="ARAB",Alfajr 5HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9335.ts
 
-#EXTINF:-1,Bein Movies 1 HD
+#EXTINF:-1,group-title="ARAB",Bein Movies 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9094.ts
 
-#EXTINF:-1,Bein Movies 2 HD
+#EXTINF:-1,group-title="ARAB",Bein Movies 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9095.ts
 
-#EXTINF:-1,Bein Movies 3 HD
+#EXTINF:-1,group-title="ARAB",Bein Movies 3 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9096.ts
 
-#EXTINF:-1,Bein Movies 4 HD
+#EXTINF:-1,group-title="ARAB",Bein Movies 4 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9097.ts
 
-#EXTINF:-1,Bein Movies 1 Low
+#EXTINF:-1,group-title="ARAB",Bein Movies 1 Low
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9098.ts
 
-#EXTINF:-1,Bein Movies 2 Low
+#EXTINF:-1,group-title="ARAB",Bein Movies 2 Low
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9099.ts
 
-#EXTINF:-1,Bein Movies 3 Low
+#EXTINF:-1,group-title="ARAB",Bein Movies 3 Low
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9100.ts
 
-#EXTINF:-1,Bein Movies 4 Low
+#EXTINF:-1,group-title="ARAB",Bein Movies 4 Low
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9101.ts
 
-#EXTINF:-1,beIN Series 1 HD
+#EXTINF:-1,group-title="ARAB",beIN Series 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9126.ts
 
-#EXTINF:-1,beIN Series 2 HD
+#EXTINF:-1,group-title="ARAB",beIN Series 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9127.ts
 
-#EXTINF:-1,beIN jeem
+#EXTINF:-1,group-title="ARAB",beIN jeem
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9131.ts
 
-#EXTINF:-1,beIN Drama
+#EXTINF:-1,group-title="ARAB",beIN Drama
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9130.ts
 
-#EXTINF:-1,beIN CN Arabia
+#EXTINF:-1,group-title="ARAB",beIN CN Arabia
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9129.ts
 
-#EXTINF:-1,beIN Baraem
+#EXTINF:-1,group-title="ARAB",beIN Baraem
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9128.ts
 
-#EXTINF:-1,beIN Fatafeat
+#EXTINF:-1,group-title="ARAB",beIN Fatafeat
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9140.ts
 
-#EXTINF:-1,ART Aflam 1
+#EXTINF:-1,group-title="ARAB",ART Aflam 1
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9338.ts
 
-#EXTINF:-1,ART Aflam 2
+#EXTINF:-1,group-title="ARAB",ART Aflam 2
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9339.ts
 
-#EXTINF:-1,ART Cinema
+#EXTINF:-1,group-title="ARAB",ART Cinema
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9340.ts
 
-#EXTINF:-1,ART Hikayat 1
+#EXTINF:-1,group-title="ARAB",ART Hikayat 1
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9341.ts
 
-#EXTINF:-1,ART Hikayat 2
+#EXTINF:-1,group-title="ARAB",ART Hikayat 2
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9342.ts
 
-#EXTINF:-1,OSN Yahala 1 HD
+#EXTINF:-1,group-title="ARAB",OSN Yahala 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9105.ts
 
-#EXTINF:-1,OSN Yahala 2 HD
+#EXTINF:-1,group-title="ARAB",OSN Yahala 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9104.ts
 
-#EXTINF:-1,OSN Yahala Cinema HD
+#EXTINF:-1,group-title="ARAB",OSN Yahala Cinema HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9103.ts
 
-#EXTINF:-1,OSN Movies Thriller
+#EXTINF:-1,group-title="ARAB",OSN Movies Thriller
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9367.ts
 
-#EXTINF:-1,OSN Movies Drama
+#EXTINF:-1,group-title="ARAB",OSN Movies Drama
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9368.ts
 
-#EXTINF:-1,OSN Movies HD
+#EXTINF:-1,group-title="ARAB",OSN Movies HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9109.ts
 
-#EXTINF:-1,OSN Movies  2 HD
+#EXTINF:-1,group-title="ARAB",OSN Movies  2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9114.ts
 
-#EXTINF:-1,OSN Movies First HD
+#EXTINF:-1,group-title="ARAB",OSN Movies First HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9111.ts
 
-#EXTINF:-1,OSN Movies Action HD
+#EXTINF:-1,group-title="ARAB",OSN Movies Action HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9112.ts
 
-#EXTINF:-1,OSN Movies Action  2 HD
+#EXTINF:-1,group-title="ARAB",OSN Movies Action  2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9113.ts
 
-#EXTINF:-1,OSN Box Office 1 HD
+#EXTINF:-1,group-title="ARAB",OSN Box Office 1 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9117.ts
 
-#EXTINF:-1,OSN Box Office 2 HD
+#EXTINF:-1,group-title="ARAB",OSN Box Office 2 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9116.ts
 
-#EXTINF:-1,OSN Box Office 3 HD
+#EXTINF:-1,group-title="ARAB",OSN Box Office 3 HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9115.ts
 
-#EXTINF:-1,OSN WWE HD
+#EXTINF:-1,group-title="ARAB",OSN WWE HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9118.ts
 
-#EXTINF:-1,OSN Nat Geo Wild
+#EXTINF:-1,group-title="ARAB",OSN Nat Geo Wild
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9106.ts
 
-#EXTINF:-1,KSA Sports 1HD
+#EXTINF:-1,group-title="ARAB",KSA Sports 1HD
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9397.ts
 
-#EXTINF:-1,ASO Sport
+#EXTINF:-1,group-title="ARAB",ASO Sport
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9124.ts
 
-#EXTINF:-1,ON Sport
+#EXTINF:-1,group-title="ARAB",ON Sport
 http://livesports-server.tk:8000/live/GhostsArmy/2151555/9125.ts
