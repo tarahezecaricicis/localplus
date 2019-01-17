@@ -9,6 +9,14 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EDUTAINTMENT",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7675
+#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY TURBO
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7672
+#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SCIENCE
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7674
+#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SHED
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7650
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",Discovery ID
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
@@ -31,10 +39,18 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",H2
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7667
+#EXTINF:-1, group-title="ENTERTAINTMENT",HISTORY
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7668
 #EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",MOVIE1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7670
+#EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7669
 #EXTINF:0, tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="ENTERTAINTMENT",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Syfy-HD-Logo.svg" group-title="ENTERTAINTMENT",SY FY HD
@@ -107,14 +123,28 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0, group-title="KIDS",CARTOONITO
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7662
+#EXTINF:0, group-title="KIDS",CBBC
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7803
+#EXTINF:0, group-title="KIDS",CBEEBIES
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="KIDS",Da Vinci Learning
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="KIDS",DISNEY CHANNEL
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7687
 #EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR(INDO DUB)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,group-title="KIDS",Kix Cartoon
 http://195.154.220.71:3333/Metege2/Skype15082018/342
+#EXTINF:0, group-title="KIDS",NICK JR TOO
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7637
+#EXTINF:0, group-title="KIDS",NICK JUNIOR
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7684
+#EXTINF:0, group-title="KIDS",NICKELODEON
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7686
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="KIDS",MY KIDS
@@ -272,8 +302,18 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1, group-title="MUSIC",MTV BASE
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5295
 #EXTINF:-1, group-title="MUSIC",MTV CLASIC
 http://newstream.mine.nu:8000/live/lui.tuzze/i4SttrDxlC/5248.ts
+#EXTINF:-1, group-title="MUSIC",MTV CLASIC UK
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5248
+#EXTINF:-1, group-title="MUSIC",MTV DANCE
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5297
+#EXTINF:-1, group-title="MUSIC",MTV HITS
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5294
+#EXTINF:-1, group-title="MUSIC",MTV ROCK
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5296
 #EXTINF:0, group-title="MUSIC",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:0, group-title="MUSIC",MUSIC TOP
@@ -336,14 +376,22 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1, group-title="Sport",FOX RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1, group-title="Sport",INTER MILAN TV
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/147
+#EXTINF:0, group-title="Sport",LAZIO CHANNEL
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/148
 #EXTINF:0, group-title="Sport",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
+#EXTINF:0, group-title="Sport",MILAN CHANNEL
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/142
 #EXTINF:-1,group-title="Sport",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
 #EXTINF:-1,group-title="FOOTBAL CLUB",REAL MADRID TV
 http://195.154.220.71:3333/Metege2/Skype15082018/246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0, group-title="Sport",ROMA CHANNEL
+http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/168
 #EXTINF:0, group-title="Sport",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT+
