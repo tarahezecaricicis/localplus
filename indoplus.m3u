@@ -115,6 +115,8 @@ http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,group-title="KIDS",Kix Cartoon
+http://195.154.220.71:3333/Metege2/Skype15082018/342
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="KIDS",MY KIDS
@@ -329,6 +331,8 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1,group-title="FOOTBAL CLUB",BENFICA TV HD
+http://195.154.220.71:3333/Metege2/Skype15082018/2482
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0,group-title="Sport",FLOW SPORTS
@@ -339,6 +343,8 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 http://persik.by/stream/808/284814/276.m3u8
 #EXTINF:-1,group-title="Sport",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
+#EXTINF:-1,group-title="FOOTBAL CLUB",REAL MADRID TV
+http://195.154.220.71:3333/Metege2/Skype15082018/246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0, group-title="Sport",SETANTA SPORT
@@ -347,9 +353,11 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:0,group-title="Sport",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,group-title="FOOTBAL CLUB",SPORTING TV FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4140
 #EXTINF:0,group-title="Sport",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:0,group-title="Sport",Sevilla FC
+#EXTINF:0,group-title="FOOTBAL CLUB",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="Sport",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
@@ -404,7 +412,7 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/41.ts
 #EXTINF:-1,group-title="MOVIE",MBC2
 http://62.210.247.151:8000/live/mantech2019774/421588911/42.ts
-#EXTINF:-1,group-title="MOVIE",MBC3
+#EXTINF:-1,group-title="KIDS",MBC3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/43.ts
 #EXTINF:-1,group-title="MOVIE",MBC4
 http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
@@ -412,16 +420,22 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/46.ts
 #EXTINF:-1,group-title="MOVIE",MBC action
 http://62.210.247.151:8000/live/mantech2019774/421588911/45.ts
-#EXTINF:-1,group-title="MOVIE",MBC RAVIETY
+#EXTINF:-1,group-title="MOVIE",MBC VARIETY
 http://62.210.247.151:8000/live/mantech2019774/421588911/48.ts
 #EXTINF:-1,group-title="MOVIE",MBC DRAMA
 http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
 #EXTINF:-1,group-title="MOVIE",MBC Bolly
 http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
-
-
-
-
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES ACTION
+http://195.154.220.71:3333/Metege2/Skype15082018/277
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES MODERN GREATS
+http://195.154.220.71:3333/Metege2/Skype15082018/283
+#EXTINF:-1,group-title="MOVIE",Sky Cinema Hits
+http://195.154.220.71:3333/Metege2/Skype15082018/344
+#EXTINF:-1,group-title="MOVIE",Sky_Movies_Action_&_Adventure_HD
+http://195.154.220.71:3333/Metege2/Skype15082018/130
+#EXTINF:-1,group-title="MOVIE",Sky_Movies_Premiere_HD
+http://195.154.220.71:3333/Metege2/Skype15082018/142
 
 
 
