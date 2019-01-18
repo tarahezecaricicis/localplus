@@ -1,14 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="EDUTAINTMENT",ANIMAL PLANET CST
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1, ttvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="EDUTAINTMENT",ANIMAL PLANET EST 
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="EDUTAINTMENT",DISCOVERY CHANNEL EST
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EDUTAINTMENT",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
+
+
+
+#EXTINF:-1, group-title="ENTERTAINTMENT",AMC FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4142
+#EXTINF:-1,tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET CST
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, ttvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET EST 
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="ENTERTAINTMENT",DISCOVERY CHANNEL EST
+http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7675
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY TURBO
@@ -25,6 +28,10 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",FOX COMEDY FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4129
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="ENTERTAINTMENT",Fox Premium Cinema
@@ -47,6 +54,8 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7668
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",MOVIE1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="ENTERTAINTMENT",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7670
 #EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
@@ -66,12 +75,13 @@ http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1, group-title="MOVIE",CHINESE MOVIE
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="MOVIE",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="MOVIE",FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
 #EXTINF:0,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIE",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0,tvg-logo= "https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528"group-title="MOVIE",FOX MOVIES COMEDY
@@ -110,8 +120,21 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,group-title="MOVIE",thrill HD(Indo Sub)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1, group-title="MOVIE",CHINESE MOVIE
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_1_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_2_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
+#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_3_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Series_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
+#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_+2h_HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
+
 #EXTINF:-1, group-title="MOVIE",WGN O
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
@@ -368,6 +391,26 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1,group-title="Sport",beIN Sports 1 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 2 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 3 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 4 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 5 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 6 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 7 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 8 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 9 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
+#EXTINF:-1,group-title="Sport",beIN Sports 10 HD
+http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
 #EXTINF:-1,group-title="FOOTBAL CLUB",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
 #EXTINF:0,group-title="Sport",ESPN
@@ -376,13 +419,13 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1, group-title="Sport",FOX RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, group-title="Sport",INTER MILAN TV
+#EXTINF:-1, group-title="FOOTBAL CLUB",INTER MILAN TV
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/147
-#EXTINF:0, group-title="Sport",LAZIO CHANNEL
+#EXTINF:0, group-title="FOOTBAL CLUB",LAZIO CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/148
 #EXTINF:0, group-title="Sport",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
-#EXTINF:0, group-title="Sport",MILAN CHANNEL
+#EXTINF:0, group-title="FOOTBAL CLUB",MILAN CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/142
 #EXTINF:-1,group-title="Sport",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
@@ -390,7 +433,7 @@ http://195.154.220.71:3333/Metege2/Skype15082018/72
 http://195.154.220.71:3333/Metege2/Skype15082018/246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0, group-title="Sport",ROMA CHANNEL
+#EXTINF:0, group-title="FOOTBAL CLUB",ROMA CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/168
 #EXTINF:0, group-title="Sport",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
@@ -419,40 +462,8 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
 
 
-#EXTINF:-1,group-title="Sport",beIN Sports 1 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 2 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 3 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 4 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 5 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 6 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 7 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 8 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 9 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 10 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_1_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_2_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_3_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Series_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_+2h_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
+
+
 #EXTINF:-1,group-title="MOVIE",MBC1
 http://62.210.247.151:8000/live/mantech2019774/421588911/41.ts
 #EXTINF:-1,group-title="MOVIE",MBC2
@@ -481,6 +492,26 @@ http://195.154.220.71:3333/Metege2/Skype15082018/344
 http://195.154.220.71:3333/Metege2/Skype15082018/130
 #EXTINF:-1,group-title="MOVIE",Sky_Movies_Premiere_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/142
+#EXTINF:0,group-title="FOOTBALL CLUB",LIVERPOOL FC TV
+http://195.154.220.71:3333/Metege2/Skype15082018/820
+#EXTINF:0,group-title="FOOTBALL CLUB",CHELSEA TV HD
+http://195.154.220.71:3333/Metege2/Skype15082018/472
+#EXTINF:0,group-title="ENTERTAINTMENT",AXN FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4126
+#EXTINF:0,group-title="ENTERTAINTMENT",AXN WHITE FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4128
+#EXTINF:0,group-title="ENTERTAINTMENT",AXN BLACK FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4127
+
+
+
+
+
+
+
+
+
+
 
 
 
