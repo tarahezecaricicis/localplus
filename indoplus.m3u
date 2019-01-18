@@ -385,73 +385,73 @@ http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 #EXTINF:0, group-title="RELIGION",TV 9 Nusantara SURABAYA
 http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
 
-#EXTINF:0,group-title="Sport",ABU DHABI SPORT
+#EXTINF:0,group-title="SPORT",ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0,group-title="Sport",ABU DHABI SPORT 2
+#EXTINF:0,group-title="SPORT",ABU DHABI SPORT 2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0, group-title="Sport",ASTRO SUPER SPORT3
+#EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,group-title="Sport",beIN Sports 1 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 2 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 3 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 4 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 5 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 6 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 7 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 8 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 9 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
-#EXTINF:-1,group-title="Sport",beIN Sports 10 HD
+#EXTINF:-1,group-title="SPORT",beIN Sports 10 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
-#EXTINF:-1,group-title="FOOTBAL CLUB",BENFICA TV HD
+#EXTINF:-1,group-title="FOOTBALL CLUB",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
-#EXTINF:-1,group-title="Sport",BOX NATION  FHD
+#EXTINF:-1,group-title="SPORT",BOX NATION  FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/331
-#EXTINF:0,group-title="Sport",ESPN
+#EXTINF:0,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0,group-title="Sport",FLOW SPORTS
+#EXTINF:0,group-title="SPORT",FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1, group-title="Sport",FOX RACING
+#EXTINF:-1, group-title="SPORT",FOX RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, group-title="FOOTBAL CLUB",INTER MILAN TV
+#EXTINF:-1, group-title="FOOTBALL CLUB",INTER MILAN TV
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/147
-#EXTINF:0, group-title="FOOTBAL CLUB",LAZIO CHANNEL
+#EXTINF:0, group-title="FOOTBALL CLUB",LAZIO CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/148
-#EXTINF:0, group-title="Sport",M4T4 Sport
+#EXTINF:0, group-title="SPORT",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
-#EXTINF:0, group-title="FOOTBAL CLUB",MILAN CHANNEL
+#EXTINF:0, group-title="FOOTBALL CLUB",MILAN CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/142
-#EXTINF:-1,group-title="Sport",NBA HD
+#EXTINF:-1,group-title="SPORT",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
-#EXTINF:-1,group-title="FOOTBAL CLUB",REAL MADRID TV
+#EXTINF:-1,group-title="FOOTBALL CLUB",REAL MADRID TV
 http://195.154.220.71:3333/Metege2/Skype15082018/246
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Sport",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0, group-title="FOOTBAL CLUB",ROMA CHANNEL
+#EXTINF:0, group-title="FOOTBALL CLUB",ROMA CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/168
-#EXTINF:0, group-title="Sport",SETANTA SPORT
+#EXTINF:0, group-title="SPORT",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:0, group-title="Sport",SETANTA SPORT+
+#EXTINF:0, group-title="SPORT",SETANTA SPORT+
 http://ott-cdn.ucom.am/s82/03.m3u8
-#EXTINF:0,group-title="Sport",SPORTSMAX
+#EXTINF:0,group-title="SPORT",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1,group-title="FOOTBAL CLUB",SPORTING TV FHD
+#EXTINF:-1,group-title="FOOTBALL CLUB",SPORTING TV FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4140
-#EXTINF:0,group-title="Sport",Stadium Sports Network
+#EXTINF:0,group-title="SPORT",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:0,group-title="FOOTBAL CLUB",Sevilla FC
+#EXTINF:0,group-title="FOOTBALL CLUB",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="Sport",TVRI SPORT HD
+#EXTINF:0, group-title="SPORT",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="Sport",Xcorps TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="SPORT",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREA",Arirang
