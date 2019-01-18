@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-
-
-
 #EXTINF:-1, group-title="ENTERTAINTMENT",AMC FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4142
 #EXTINF:-1,tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET
@@ -24,6 +21,8 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7650
 http://195.154.220.71:3333/Metege2/Skype15082018/400
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1, group-title="ENTERTAINTMENT",E! ENTERTAINMENT
+http://195.154.220.71:3333/Metege2/Skype15082018/916
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
@@ -37,8 +36,10 @@ http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="ENTERTAINTMENT",Fox Premium Comedy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX (Asia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX TH
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX US
+US: FX	Waiting	http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1207
 #EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="ENTERTAINTMENT",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",Greensboro TV Network
@@ -63,6 +64,8 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7669
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Syfy-HD-Logo.svg" group-title="ENTERTAINTMENT",SY FY HD
 http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Syfy-HD-Logo.svg" group-title="ENTERTAINTMENT",SY FY FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/4138
 #EXTINF:-1, group-title="ENTERTAINTMENT",SONY TURBO
 http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="ENTERTAINTMENT",TLC
@@ -80,7 +83,6 @@ http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="MOVIE",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
 #EXTINF:0,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIE",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:0,tvg-logo= "https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528"group-title="MOVIE",FOX MOVIES COMEDY
@@ -133,7 +135,6 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
 #EXTINF:-1,group-title="MOVIE",OSN_Movies_First_+2h_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
-
 #EXTINF:-1, group-title="MOVIE",WGN O
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
@@ -412,6 +413,8 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
 #EXTINF:-1,group-title="FOOTBAL CLUB",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
+#EXTINF:-1,group-title="Sport",BOX NATION  FHD
+http://195.154.220.71:3333/Metege2/Skype15082018/331
 #EXTINF:0,group-title="Sport",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0,group-title="Sport",FLOW SPORTS
@@ -483,6 +486,8 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/277
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES DISNEY
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/639
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES MODERN GREATS
 http://195.154.220.71:3333/Metege2/Skype15082018/283
 #EXTINF:-1,group-title="MOVIE",Sky Cinema Hits
@@ -491,6 +496,14 @@ http://195.154.220.71:3333/Metege2/Skype15082018/344
 http://195.154.220.71:3333/Metege2/Skype15082018/130
 #EXTINF:-1,group-title="MOVIE",Sky_Movies_Premiere_HD
 http://195.154.220.71:3333/Metege2/Skype15082018/142
+#EXTINF:-1,group-title="MOVIE",Sky Movies Sci Fi
+http://195.154.220.71:3333/Metege2/Skype15082018/141
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES THRILLER
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/595
+#EXTINF:-1,group-title="MOVIE",STAR PLUS HD
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1197
+#EXTINF:-1,group-title="ENTERTAINTMENT",TNT
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
 #EXTINF:0,group-title="FOOTBALL CLUB",LIVERPOOL FC TV
 http://195.154.220.71:3333/Metege2/Skype15082018/820
 #EXTINF:0,group-title="FOOTBALL CLUB",CHELSEA TV HD
