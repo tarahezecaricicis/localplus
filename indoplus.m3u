@@ -78,6 +78,11 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1,group-title="ENTERTAINTMENT",TNT
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
 
+#EXTINF:-1,group-title="MOVIE",BEIN MOVIES HD1
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/819
+
+
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
@@ -93,6 +98,8 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0, tvg-logo="http://logos.wikia.com/wiki/Hello_(TV_channel)?file=Hello_TV.png" group-title="MOVIE",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
@@ -134,6 +141,8 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
 #EXTINF:-1,group-title="MOVIE",OSN MOVIES HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
+#EXTINF:-1,group-title="MOVIE",OSN MOVIES ACTION HD
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/334
 #EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
 #EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST+2h HD
