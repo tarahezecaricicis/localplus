@@ -133,14 +133,11 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
 #EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST+2h HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
-#EXTINF:-1, group-title="MOVIE",WGN O
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="MOVIE",HORRORS 
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
 
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
@@ -172,8 +169,6 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 #EXTINF:0, group-title="KIDS",OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS",Pluto After School Cartoons
-http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1, group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
@@ -182,7 +177,7 @@ http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/Fa
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:0, group-title="KOREA",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:0, group-title="KOREA",Sony One HD(Indo Sub)
+#EXTINF:0, group-title="KOREA",SONY ONE HD(Indo Sub)
 http://210.210.155.35/uq2663/h/h13/index.m3u8
 
 #EXTINF:0, group-title="LOKAL",ANTV
@@ -241,56 +236,8 @@ http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=0
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0, group-title="LOKALHD",TVRI SPORTS HD
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-#EXTINF:-1,group-title="LOKAL",DAAITV
-http://ez-tracker.net/tvz/DAAITV
-#EXTINF:-1,group-title="LOKAL",Bali TV
-http://ez-tracker.net/tvz/Bali
-#EXTINF:-1,group-title="LOKAL",JAKARTA GLOBE
-http://ez-tracker.net/tvz/JAKARTA_GLOBE
-#EXTINF:-1,group-title="LOKAL",RODJA TV
-http://ez-tracker.net/tvz/Rodja_TV
-#EXTINF:-1,group-title="LOKAL",TABALONG TV
-http://ez-tracker.net/tvz/Tabalong_TV
-#EXTINF:-1,group-title="LOKAL",Saling Sapa
-http://ez-tracker.net/tvz/Saling_Sapa
-#EXTINF:-1,group-title="LOKAL",Inspira TV
-http://ez-tracker.net/tvz/Inspira_TV
-#EXTINF:-1,group-title="LOKAL",Nabawi TV
-http://ez-tracker.net/tvz/Nabawi_TV
-#EXTINF:-1,group-title="LOKAL",More TV
-http://ez-tracker.net/tvz/More
-#EXTINF:-1,group-title="LOKAL",SFI
-http://ez-tracker.net/tvz/SFI
-#EXTINF:-1,group-title="LOKAL",INTV
-http://ez-tracker.net/tvzINTV
 #EXTINF:-1,group-title="LOKAL",DANG TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1,group-title="LOKAL",Kitanesia
-http://ez-tracker.net/tvz/Kitanesia
-#EXTINF:-1,group-title="LOKAL",MKTV
-http://ez-tracker.net/tvz/MKTV
-#EXTINF:-1,group-title="LOKAL",HOME & LIVING
-http://ez-tracker.net/tvz/home_living
-#EXTINF:-1,group-title="LOKAL",ELSHINTA TV
-http://ez-tracker.net/tvz/Elshinta
-#EXTINF:-1,group-title="LOKAL",BLifeStyle
-http://ez-tracker.net/tvz/BLifeStyle
-#EXTINF:-1,group-title="LOKAL",TV BMW
-http://ez-tracker.net/tvz/BMW
-#EXTINF:-1,group-title="LOKAL",BMS TV
-http://ez-tracker.net/tvz/BMS
-#EXTINF:-1,group-title="LOKAL",Suara Surabaya
-http://ez-tracker.net/tvz/Suara_Surabaya
-#EXTINF:-1,group-title="LOKAL",BKIDS
-http://ez-tracker.net/tvz/BKids
-#EXTINF:-1,group-title="LOKAL",NM KIDS
-http://ez-tracker.net/tvz/NM_KIDS
-#EXTINF:-1,group-title="LOKAL",Kartoon Circus
-http://ez-tracker.net/tvz/kc
-#EXTINF:-1,group-title="LOKAL",ADI TV
-http://ez-tracker.net/tvz/ADI_TV
-#EXTINF:-1,group-title="LOKAL",Prima TV Banjarmasin
-http://ez-tracker.net/tvz/Prima_TV
 #EXTINF:-1,group-title="LOKAL",BAYU TV
 http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1,group-title="LOKAL",TVKU
