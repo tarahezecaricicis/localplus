@@ -6,14 +6,14 @@
 
 #EXTINF:-1, group-title="ENTERTAINTMENT",AMC FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4142
-#EXTINF:-1,tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET CST
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET
+http://195.154.220.71:3333/Metege2/Skype15082018/1004
 #EXTINF:-1, ttvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET EST 
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="ENTERTAINTMENT",DISCOVERY CHANNEL EST
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7675
+http://195.154.220.71:3333/Metege2/Skype15082018/151
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY TURBO
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7672
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SCIENCE
@@ -21,15 +21,14 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7674
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SHED
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7650
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",Discovery ID
-http://80.80.160.168/live/5/live.m3u8
+http://195.154.220.71:3333/Metege2/Skype15082018/400
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+http://195.154.220.71:3333/Metege2/Skype15082018/4316
+#EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX
 #EXTINF:-1, group-title="ENTERTAINTMENT",FOX COMEDY FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4129
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
