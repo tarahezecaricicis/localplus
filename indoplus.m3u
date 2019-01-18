@@ -17,34 +17,33 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7672
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7674
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SHED
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7650
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",Discovery ID
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",DISCOVERY ID
 http://195.154.220.71:3333/Metege2/Skype15082018/400
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",E! ENTERTAINMENT
 http://195.154.220.71:3333/Metege2/Skype15082018/916
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",Fish Channel
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",FISH CHANNEL
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="ENTERTAINTMENT",FTV
 http://195.154.220.71:3333/Metege2/Skype15082018/4316
 #EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX
 #EXTINF:-1, group-title="ENTERTAINTMENT",FOX COMEDY FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/4129
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",Fox Life (Asia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",FOX LIFE (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="ENTERTAINTMENT",Fox Premium Cinema
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="ENTERTAINTMENT",FOX PREMIUM CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="ENTERTAINTMENT",Fox Premium Comedy (Asia)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="ENTERTAINTMENT",FOX PREMIUM COMEDY (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX TH
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX US
 US: FX	Waiting	http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1207
-#EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="ENTERTAINTMENT",Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",Greensboro TV Network
+#EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="ENTERTAINTMENT",FOODIE CHANNEL
+#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",GREENSBORO TV NETWORK
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD Fashion
+#EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",H2
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7667
@@ -106,7 +105,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="MOVIE",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="MOVIE",&Prive HD
+#EXTINF:0, group-title="MOVIE",&PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="MOVIE",&TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
@@ -116,29 +115,29 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
 #EXTINF:0, group-title="MOVIE",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0, group-title="MOVIE",Sony Movies
+#EXTINF:0, group-title="MOVIE",SONY MOVIES
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,group-title="MOVIE",thrill HD(Indo Sub)
+#EXTINF:0,group-title="MOVIE",RHRILL HD(Indo Sub)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_1_HD
+#EXTINF:-1,group-title="MOVIE",OSN BOXOFFICE 1 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_2_HD
+#EXTINF:-1,group-title="MOVIE",OSN BOXOFFICE 2 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
-#EXTINF:-1,group-title="MOVIE",OSN_BoxOffice_3_HD
+#EXTINF:-1,group-title="MOVIE",OSN BOXOFFICE 3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Series_HD
+#EXTINF:-1,group-title="MOVIE",OSN SERIES_HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_HD
+#EXTINF:-1,group-title="MOVIE",OSN MOVIES HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_HD
+#EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
-#EXTINF:-1,group-title="MOVIE",OSN_Movies_First_+2h_HD
+#EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST+2h HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
 #EXTINF:-1, group-title="MOVIE",WGN O
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:0, group-title="MOVIE",Zee Cinema HD
+#EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="MOVIE",HORRORS 
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
