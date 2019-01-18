@@ -432,7 +432,7 @@ http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/142
 http://195.154.220.71:3333/Metege2/Skype15082018/72
 #EXTINF:-1,group-title="FOOTBALL CLUB",REAL MADRID TV
 http://195.154.220.71:3333/Metege2/Skype15082018/246
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0, group-title="FOOTBALL CLUB",ROMA CHANNEL
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/168
@@ -448,11 +448,11 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://195.154.220.71:3333/Metege2/Skype15082018/4140
 #EXTINF:0,group-title="SPORT",Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:0,group-title="FOOTBALL CLUB",Sevilla FC
+#EXTINF:0,group-title="FOOTBALL CLUB",SEVILLA FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, group-title="SPORT",TVRI SPORT HD
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="SPORT",Xcorps TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="SPORT",XCORPS TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREA",Arirang
@@ -477,13 +477,13 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/43.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
 #EXTINF:-1,group-title="MOVIE",MBC MAX
 http://62.210.247.151:8000/live/mantech2019774/421588911/46.ts
-#EXTINF:-1,group-title="MOVIE",MBC action
+#EXTINF:-1,group-title="MOVIE",MBC ACTION
 http://62.210.247.151:8000/live/mantech2019774/421588911/45.ts
 #EXTINF:-1,group-title="MOVIE",MBC VARIETY
 http://62.210.247.151:8000/live/mantech2019774/421588911/48.ts
 #EXTINF:-1,group-title="MOVIE",MBC DRAMA
 http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
-#EXTINF:-1,group-title="MOVIE",MBC Bolly
+#EXTINF:-1,group-title="MOVIE",MBC BOLLY
 http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/277
@@ -491,13 +491,13 @@ http://195.154.220.71:3333/Metege2/Skype15082018/277
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/639
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES MODERN GREATS
 http://195.154.220.71:3333/Metege2/Skype15082018/283
-#EXTINF:-1,group-title="MOVIE",Sky Cinema Hits
+#EXTINF:-1,group-title="MOVIE",SKY CINEMA HITS
 http://195.154.220.71:3333/Metege2/Skype15082018/344
-#EXTINF:-1,group-title="MOVIE",Sky_Movies_Action_&_Adventure_HD
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES ACTION & ADVENTURE HD
 http://195.154.220.71:3333/Metege2/Skype15082018/130
-#EXTINF:-1,group-title="MOVIE",Sky_Movies_Premiere_HD
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES PREMIER HD
 http://195.154.220.71:3333/Metege2/Skype15082018/142
-#EXTINF:-1,group-title="MOVIE",Sky Movies Sci Fi
+#EXTINF:-1,group-title="MOVIE",SKY MOVIES SCI FI
 http://195.154.220.71:3333/Metege2/Skype15082018/141
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES THRILLER
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/595
