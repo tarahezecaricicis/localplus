@@ -299,34 +299,115 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/103.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/94.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 4
-http://62.210.76.207:443/live/osama2019/abdo2019/96.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/107.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 9
-http://62.210.76.207:443/live/osama2019/abdo2019/101.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 10 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
-#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 1
-http://62.210.76.207:443/live/osama2019/abdo2019/8.ts
-#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
-http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
+
+
+#EXTINF:-1,group-title="SPORT",BE IN SPORT MAX HD1
+http://m-iptv.net:6204/Hejazi/Hejazi/7048
+
+#EXTINF:-1,group-title="SPORT",BE IN SPORT MAX HD2
+http://m-iptv.net:6204/Hejazi/Hejazi/7049
+
+#EXTINF:-1,group-title="SPORT",BE IN SPORT MAX HD1(backup)
+http://m-iptv.net:6204/Hejazi/Hejazi/14404
+
+#EXTINF:-1,group-title="SPORT",BE IN SPORT MAX HD2(backup)
+http://m-iptv.net:6204/Hejazi/Hejazi/14403
+
+#EXTINF:-1,group-title="SPORT",Bein Sport Max SD1
+http://m-iptv.net:6204/Hejazi/Hejazi/14402
+
+#EXTINF:-1,group-title="SPORT",Bein Sport Max SD2
+http://m-iptv.net:6204/Hejazi/Hejazi/14401
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD
+http://m-iptv.net:6204/Hejazi/Hejazi/2568
+
+#EXTINF:-1,group-title="SPORT",Bein Sport News HD
+http://m-iptv.net:6204/Hejazi/Hejazi/2567
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD1 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/127
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD2 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/128
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD3 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/129
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD4 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/130
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD5 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/132
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD6 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/133
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD8 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/135
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD7 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/134
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD9 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/186
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD10 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/187
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD11 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/188
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD12 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/189
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD13 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/1694
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD14 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/2555
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD15 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/4763
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD16 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/4762
+
+#EXTINF:-1,group-title="SPORT",Bein Sport NBA HD
+http://m-iptv.net:6204/Hejazi/Hejazi/6434
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD1 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9022
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD2 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9021
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD3 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9020
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD4 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9019
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD5 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9018
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD6 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9017
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD7 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9016
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD8 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9015
+
+#EXTINF:-1,group-title="SPORT",group-title="SPORT",Bein Sport HD9 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9014
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD10 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9013
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD11 EN 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9012
 #EXTINF:-1,group-title="SPORT",Bein Sports Max SD 1
 http://62.210.76.207:443/live/osama2019/abdo2019/10.ts
 #EXTINF:-1,group-title="SPORT",Bein Sports Max SD 2
