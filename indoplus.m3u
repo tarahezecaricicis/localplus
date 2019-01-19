@@ -334,6 +334,8 @@ http://persik.by/stream/808/284814/276.m3u8
 http://195.154.220.71:3333/Metege2/Skype15082018/72
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,group-title="FOOTBALL CLUB",REAL MADRID TV
+http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/246
 #EXTINF:0, group-title="SPORT",SKY SPORT SUPER HD
 ES: MOVISTAR MOTOGP SD	Waiting	http://195.154.220.71:3333/Metege2/Skype15082018/2380
 #EXTINF:0,group-title="SPORT",SPORTSMAX
