@@ -12,14 +12,6 @@ http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY
 http://195.154.220.71:3333/Metege2/Skype15082018/151
-#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY TURBO
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7672
-#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SCIENCE
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7674
-#EXTINF:-1, group-title="ENTERTAINTMENT",DISCOVERY SHED
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7650
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTERTAINTMENT",DISCOVERY ID
-http://195.154.220.71:3333/Metege2/Skype15082018/400
 #EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1, group-title="ENTERTAINTMENT",E! ENTERTAINMENT
@@ -31,8 +23,6 @@ http://195.154.220.71:3333/Metege2/Skype15082018/4316
 #EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/800px-Fox_Crime_logo.svg.png" group-title="ENTERTAINTMENT",Fox Crime
 http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",FOX COMEDY FHD
-http://195.154.220.71:3333/Metege2/Skype15082018/4129
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",FOX LIFE (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="ENTERTAINTMENT",FOX PREMIUM CINEMA
@@ -48,9 +38,6 @@ US: FX	Waiting	http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/12
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",H2
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7667
-#EXTINF:-1, group-title="ENTERTAINTMENT",HISTORY
 http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7668
 #EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
@@ -58,10 +45,6 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="ENTERTAINTMENT",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7670
-#EXTINF:-1, group-title="ENTERTAINTMENT",NAT GEO
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7669
 #EXTINF:0, tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="ENTERTAINTMENT",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Syfy-HD-Logo.svg" group-title="ENTERTAINTMENT",SY FY HD
@@ -84,21 +67,15 @@ http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/819
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1, group-title="MOVIE",CHINESE MOVIE
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="MOVIE",CINEMA WORD(Indo Sub)
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:0,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIE",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0,tvg-logo= "https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528"group-title="MOVIE",FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0, tvg-logo="http://logos.wikia.com/wiki/Hello_(TV_channel)?file=Hello_TV.png" group-title="MOVIE",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
-#EXTINF:-1, group-title="MOVIE",HBO
-http://appleiptv.ddns.net:8880/ferruh/broturk/4984
 #EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="MOVIE",HBO SIGNATURE
@@ -147,8 +124,6 @@ http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/334
 http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
 #EXTINF:-1,group-title="MOVIE",OSN MOVIES FIRST+2h HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
-#EXTINF:-1,group-title="MOVIE",OSN MOVIES KIDS HD
-http://appleiptv.ddns.net:8880/ferruh/broturk/6301
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
@@ -158,28 +133,14 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1905
 #EXTINF:0, group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0, group-title="KIDS",CARTOONITO
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7662
-#EXTINF:0, group-title="KIDS",CBBC
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7803
-#EXTINF:0, group-title="KIDS",CBEEBIES
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="KIDS",Da Vinci Learning
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="KIDS",DISNEY CHANNEL
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7687
 #EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR(INDO DUB)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS",Kids TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1,group-title="KIDS",Kix Cartoon
 http://195.154.220.71:3333/Metege2/Skype15082018/342
-#EXTINF:0, group-title="KIDS",NICK JR TOO
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7637
-#EXTINF:0, group-title="KIDS",NICK JUNIOR
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7684
-#EXTINF:0, group-title="KIDS",NICKELODEON
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7686
 #EXTINF:0, group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0, group-title="KIDS",MY KIDS
@@ -255,8 +216,6 @@ http://id8.indostreamingtv.com/live/tv77/index.m3u8
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
 #EXTINF:-1,group-title="LOKAL",DANG TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1,group-title="LOKAL",BAYU TV
-http://wms.klikhost.com/bayutv/live/playlist.m3u8
 #EXTINF:-1,group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
@@ -287,18 +246,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:0, group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1, group-title="MUSIC",MTV BASE
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5295
-#EXTINF:-1, group-title="MUSIC",MTV CLASIC
-http://newstream.mine.nu:8000/live/lui.tuzze/i4SttrDxlC/5248.ts
-#EXTINF:-1, group-title="MUSIC",MTV CLASIC UK
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5248
-#EXTINF:-1, group-title="MUSIC",MTV DANCE
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5297
-#EXTINF:-1, group-title="MUSIC",MTV HITS
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5294
-#EXTINF:-1, group-title="MUSIC",MTV ROCK
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/5296
 #EXTINF:0, group-title="MUSIC",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:0, group-title="MUSIC",MUSIC TOP
@@ -321,8 +268,6 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,group-title="NEWS",FOX5 NEWS
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1,group-title="NEWS",FOX29
 http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News
@@ -373,8 +318,6 @@ http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
 http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 10 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
-#EXTINF:-1,group-title="FOOTBALL CLUB",BARCA TV HD
-http://appleiptv.ddns.net:8880/ferruh/broturk/6273
 #EXTINF:-1,group-title="FOOTBALL CLUB",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
 #EXTINF:-1,group-title="SPORT",BOX NATION  FHD
@@ -385,24 +328,12 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1, group-title="SPORT",FOX RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1, group-title="FOOTBALL CLUB",INTER MILAN TV
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/147
-#EXTINF:0, group-title="FOOTBALL CLUB",LAZIO CHANNEL
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/148
 #EXTINF:0, group-title="SPORT",M4T4 Sport
 http://persik.by/stream/808/284814/276.m3u8
-#EXTINF:-1,group-title="SPORT",MOVISTAR F1 FHD
-http://appleiptv.ddns.net:8880/ferruh/broturk/6253
-#EXTINF:0, group-title="FOOTBALL CLUB",MILAN CHANNEL
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/142
 #EXTINF:-1,group-title="SPORT",NBA HD
 http://195.154.220.71:3333/Metege2/Skype15082018/72
-#EXTINF:-1,group-title="SPORT",KOMBAT SPORT
-http://195.154.220.71:3333/Metege2/Skype15082018/246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0, group-title="FOOTBALL CLUB",ROMA TV
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/168
 #EXTINF:0, group-title="SPORT",SKY SPORT SUPER HD
 ES: MOVISTAR MOTOGP SD	Waiting	http://195.154.220.71:3333/Metege2/Skype15082018/2380
 #EXTINF:0,group-title="SPORT",SPORTSMAX
