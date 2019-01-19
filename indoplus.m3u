@@ -299,25 +299,93 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/1.ts
+http://62.210.76.207:443/live/osama2019/abdo2019/103.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/2.ts
+http://62.210.76.207:443/live/osama2019/abdo2019/94.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/3.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 4
+http://62.210.76.207:443/live/osama2019/abdo2019/96.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 4 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/34.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 5 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/35.ts
+http://62.210.76.207:443/live/osama2019/abdo2019/107.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 6 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/6.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 7 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/7.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 8 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/8.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 9
+http://62.210.76.207:443/live/osama2019/abdo2019/101.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 9 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/9.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports 10 HD
 http://62.210.247.151:8000/live/mantech2019774/421588911/40.ts
+#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 1
+http://62.210.76.207:443/live/osama2019/abdo2019/8.ts
+#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
+http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
+#EXTINF:-1,group-title="SPORT",Bein Sports Max SD 1
+http://62.210.76.207:443/live/osama2019/abdo2019/10.ts
+#EXTINF:-1,group-title="SPORT",Bein Sports Max SD 2
+http://62.210.76.207:443/live/osama2019/abdo2019/11.ts
+#EXTINF:-1,group-title="SPORT",beout Q 1 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/22.ts
+#EXTINF:-1,group-title="SPORT",beout Q 1 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/12.ts
+#EXTINF:-1,group-title="SPORT",beout Q 2 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/23.ts
+#EXTINF:-1,group-title="SPORT",beout Q 2 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/13.ts
+#EXTINF:-1,group-title="SPORT",beout Q 3 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/24.ts
+#EXTINF:-1,group-title="SPORT",beout Q 3 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/14.ts
+#EXTINF:-1,group-title="SPORT",beout Q 4 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/25.ts
+#EXTINF:-1,group-title="SPORT",beout Q 4 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/15.ts
+#EXTINF:-1,group-title="SPORT",beout Q 5 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/26.ts
+#EXTINF:-1,group-title="SPORT",beout Q 5 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/16.ts
+#EXTINF:-1,group-title="SPORT",beout Q 6 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/27.ts
+#EXTINF:-1,group-title="SPORT",beout Q 6 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/17.ts
+#EXTINF:-1,group-title="SPORT",beout Q 7 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/28.ts
+#EXTINF:-1,group-title="SPORT",beout Q 7 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/18.ts
+#EXTINF:-1,group-title="SPORT",beout Q 8 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/29.ts
+#EXTINF:-1,group-title="SPORT",beout Q 8 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/19.ts
+#EXTINF:-1,group-title="SPORT",beout Q 9 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/30.ts
+#EXTINF:-1,group-title="SPORT",beout Q 9 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/20.ts
+#EXTINF:-1,group-title="SPORT",beout Q 10 SD
+http://62.210.76.207:443/live/osama2019/abdo2019/31.ts
+#EXTINF:-1,group-title="SPORT",beout Q 10 HD
+http://62.210.76.207:443/live/osama2019/abdo2019/21.ts
+#EXTINF:-1,group-title="MOVIE",BEOUT Q Action
+http://62.210.76.207:443/live/osama2019/abdo2019/32.ts
+#EXTINF:-1,group-title="MOVIE",BEOUT Q Action  2
+http://62.210.76.207:443/live/osama2019/abdo2019/33.ts
+#EXTINF:-1,group-title="MOVIE",BEOUT Q Movies
+http://62.210.76.207:443/live/osama2019/abdo2019/35.ts
+#EXTINF:-1,group-title="MOVIE",BEOUT Q Movies  2
+http://62.210.76.207:443/live/osama2019/abdo2019/36.ts
+#EXTINF:-1,group-title="MOVIE",BEOUT Q Kids
+http://62.210.76.207:443/live/osama2019/abdo2019/34.ts
+
+
+
+
+
+
 #EXTINF:-1,group-title="FOOTBALL CLUB",BENFICA TV HD
 http://195.154.220.71:3333/Metege2/Skype15082018/2482
 #EXTINF:-1,group-title="SPORT",BOX NATION  FHD
