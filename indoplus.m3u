@@ -326,54 +326,63 @@ http://62.210.76.207:443/live/osama2019/abdo2019/8.ts
 #EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
 http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD1 720P
-http://m-iptv.net:6204/Hejazi/Hejazi/9022
+#EXTINF:-1,group-title="SPORT",Bein Sport HD1 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/127
+
+##EXTINF:-1,group-title="SPORT",Bein Sport HD2 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/128
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD3 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/129
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD4 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/130
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD5 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/132
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD6 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/133
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD8 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/135
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD7 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/134
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD9 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/186
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD10 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/187
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD11 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/188
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD12 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/189
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD13 EN 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/1694
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD14 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/2555
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD15 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/4763
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD16 Fr 1080i
+http://m-iptv.net:6204/Hejazi/Hejazi/4762
+
+#EXTINF:-1,group-title="SPORT",Bein Sport NBA HD
+http://m-iptv.net:6204/Hejazi/Hejazi/6434
 
 
 
 
 
 
-#EXTINF:-1,group-title="SPORT",beout Q 1 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/22.ts
-#EXTINF:-1,group-title="SPORT",beout Q 1 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/12.ts
-#EXTINF:-1,group-title="SPORT",beout Q 2 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/23.ts
-#EXTINF:-1,group-title="SPORT",beout Q 2 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/13.ts
-#EXTINF:-1,group-title="SPORT",beout Q 3 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/24.ts
-#EXTINF:-1,group-title="SPORT",beout Q 3 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/14.ts
-#EXTINF:-1,group-title="SPORT",beout Q 4 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/25.ts
-#EXTINF:-1,group-title="SPORT",beout Q 4 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/15.ts
-#EXTINF:-1,group-title="SPORT",beout Q 5 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/26.ts
-#EXTINF:-1,group-title="SPORT",beout Q 5 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/16.ts
-#EXTINF:-1,group-title="SPORT",beout Q 6 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/27.ts
-#EXTINF:-1,group-title="SPORT",beout Q 6 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/17.ts
-#EXTINF:-1,group-title="SPORT",beout Q 7 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/28.ts
-#EXTINF:-1,group-title="SPORT",beout Q 7 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/18.ts
-#EXTINF:-1,group-title="SPORT",beout Q 8 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/29.ts
-#EXTINF:-1,group-title="SPORT",beout Q 8 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/19.ts
-#EXTINF:-1,group-title="SPORT",beout Q 9 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/30.ts
-#EXTINF:-1,group-title="SPORT",beout Q 9 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/20.ts
-#EXTINF:-1,group-title="SPORT",beout Q 10 SD
-http://62.210.76.207:443/live/osama2019/abdo2019/31.ts
-#EXTINF:-1,group-title="SPORT",beout Q 10 HD
-http://62.210.76.207:443/live/osama2019/abdo2019/21.ts
+
 #EXTINF:-1,group-title="MOVIE",BEOUT Q Action
 http://62.210.76.207:443/live/osama2019/abdo2019/32.ts
 #EXTINF:-1,group-title="MOVIE",BEOUT Q Action  2
