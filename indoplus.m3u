@@ -329,7 +329,7 @@ http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
 #EXTINF:-1,group-title="SPORT",Bein Sport HD1 1080i
 http://m-iptv.net:6204/Hejazi/Hejazi/127
 
-##EXTINF:-1,group-title="SPORT",Bein Sport HD2 1080i
+#EXTINF:-1,group-title="SPORT",Bein Sport HD2 1080i
 http://m-iptv.net:6204/Hejazi/Hejazi/128
 
 #EXTINF:-1,group-title="SPORT",Bein Sport HD3 1080i
