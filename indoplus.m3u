@@ -325,6 +325,15 @@ http://103.242.13.90:5555/udp/239.4.1.148:10000
 http://62.210.76.207:443/live/osama2019/abdo2019/8.ts
 #EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
 http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
+
+#EXTINF:-1,group-title="SPORT",Bein Sport HD1 720P
+http://m-iptv.net:6204/Hejazi/Hejazi/9022
+
+
+
+
+
+
 #EXTINF:-1,group-title="SPORT",beout Q 1 SD
 http://62.210.76.207:443/live/osama2019/abdo2019/22.ts
 #EXTINF:-1,group-title="SPORT",beout Q 1 HD
@@ -377,8 +386,12 @@ http://62.210.76.207:443/live/osama2019/abdo2019/36.ts
 http://62.210.76.207:443/live/osama2019/abdo2019/34.ts
 #EXTINF:-1,group-title="SPORT",BOX NATION  FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/331
+#EXTINF:0,group-title="SPORT",ELEVEN SPORT 1 HD
+http://188.80.171.33:9981/stream/channelid/1589393498?ticket=54C81E7CF35D0C74D965BAC2CD20A17F2ADA4879&profile=pass
 #EXTINF:0,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,group-title="SPORT",EUROSPORT 2 HD
+http://188.80.171.33:9981/stream/channelid/364574937?ticket=FEF2395AAA0CCDF302C2C8B7AFBC3ECB9E48FE46&profile=pass
 #EXTINF:0,group-title="SPORT",FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1, group-title="SPORT",FOX RACING
