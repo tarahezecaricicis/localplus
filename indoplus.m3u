@@ -230,22 +230,26 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,group-title="MOVIE",THRILL HD(Indo Sub)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0,group-title="MOVIE",OSN BOXOFFICE 1 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/10.ts
-#EXTINF:0,group-title="MOVIE",OSN BOXOFFICE 2 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/11.ts
-#EXTINF:0,group-title="MOVIE",OSN BOXOFFICE 3 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/12.ts
-#EXTINF:0,group-title="MOVIE",OSN SERIES_HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/16.ts
-#EXTINF:0,group-title="MOVIE",OSN MOVIES HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/15.ts
-#EXTINF:0,group-title="MOVIE",OSN MOVIES ACTION HD
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/334
-#EXTINF:0,group-title="MOVIE",OSN MOVIES FIRST HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/14.ts
-#EXTINF:0,group-title="MOVIE",OSN MOVIES FIRST+2h HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/13.ts
+#EXTINF:0,group-title="MOVIE",OSN Movies HD
+http://m-iptv.net:6204/Hejazi/Hejazi/248
+
+#EXTINF:0,group-title="MOVIE",OSN Movies Action HD
+http://m-iptv.net:6204/Hejazi/Hejazi/139
+
+#EXTINF:0,group-title="MOVIE",OSN Movies Disney HD
+http://m-iptv.net:6204/Hejazi/Hejazi/9606
+
+#EXTINF:0,group-title="MOVIE",OSN Movies First HD
+http://m-iptv.net:6204/Hejazi/Hejazi/3519
+
+#EXTINF:0,group-title="MOVIE",OSN Movies Thriller HD
+http://m-iptv.net:6204/Hejazi/Hejazi/147
+
+#EXTINF:0,group-title="MOVIE",OSN Movies Comedy HD
+http://m-iptv.net:6204/Hejazi/Hejazi/2152
+
+#EXTINF:0,group-title="MOVIE",OSN Movies Kids HD
+http://m-iptv.net:6204/Hejazi/Hejazi/4055
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
@@ -322,9 +326,9 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:-1,group-title="SPORT",Bein Sports Max HD 1
-http://62.210.76.207:443/live/osama2019/abdo2019/8.ts
+http://m-iptv.net:6204/Hejazi/Hejazi/7048
 #EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
-http://62.210.76.207:443/live/osama2019/abdo2019/9.ts
+http://m-iptv.net:6204/Hejazi/Hejazi/7049
 
 #EXTINF:-1,group-title="SPORT",Bein Sport HD1 1080i
 http://m-iptv.net:6204/Hejazi/Hejazi/127
@@ -381,16 +385,7 @@ http://m-iptv.net:6204/Hejazi/Hejazi/6434
 
 
 
-#EXTINF:-1,group-title="MOVIE",BEOUT Q Action
-http://62.210.76.207:443/live/osama2019/abdo2019/32.ts
-#EXTINF:-1,group-title="MOVIE",BEOUT Q Action  2
-http://62.210.76.207:443/live/osama2019/abdo2019/33.ts
-#EXTINF:-1,group-title="MOVIE",BEOUT Q Movies
-http://62.210.76.207:443/live/osama2019/abdo2019/35.ts
-#EXTINF:-1,group-title="MOVIE",BEOUT Q Movies  2
-http://62.210.76.207:443/live/osama2019/abdo2019/36.ts
-#EXTINF:-1,group-title="KIDS",BEOUT Q Kids
-http://62.210.76.207:443/live/osama2019/abdo2019/34.ts
+
 #EXTINF:-1,group-title="SPORT",BOX NATION  FHD
 http://195.154.220.71:3333/Metege2/Skype15082018/331
 #EXTINF:0,group-title="SPORT",ELEVEN SPORT 1 HD
@@ -429,30 +424,17 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 
 
+#EXTINF:-1,group-title="MOVIE",Bein Movies HD1
+http://m-iptv.net:6204/Hejazi/Hejazi/2151
 
+#EXTINF:-1,group-title="MOVIE",Bein Movies HD2
+http://m-iptv.net:6204/Hejazi/Hejazi/2303
 
+#EXTINF:-1,group-title="MOVIE",Bein Movies HD3
+http://m-iptv.net:6204/Hejazi/Hejazi/4068
 
-
-
-
-#EXTINF:-1,group-title="MOVIE",MBC1
-http://62.210.247.151:8000/live/mantech2019774/421588911/41.ts
-#EXTINF:-1,group-title="MOVIE",MBC2
-http://62.210.247.151:8000/live/mantech2019774/421588911/42.ts
-#EXTINF:-1,group-title="KIDS",MBC3 HD
-http://62.210.247.151:8000/live/mantech2019774/421588911/43.ts
-#EXTINF:-1,group-title="MOVIE",MBC4
-http://62.210.247.151:8000/live/mantech2019774/421588911/44.ts
-#EXTINF:-1,group-title="MOVIE",MBC MAX
-http://62.210.247.151:8000/live/mantech2019774/421588911/46.ts
-#EXTINF:-1,group-title="MOVIE",MBC ACTION
-http://62.210.247.151:8000/live/mantech2019774/421588911/45.ts
-#EXTINF:-1,group-title="MOVIE",MBC VARIETY
-http://62.210.247.151:8000/live/mantech2019774/421588911/48.ts
-#EXTINF:-1,group-title="MOVIE",MBC DRAMA
-http://62.210.247.151:8000/live/mantech2019774/421588911/47.ts
-#EXTINF:-1,group-title="MOVIE",MBC BOLLY
-http://62.210.247.151:8000/live/mantech2019774/421588911/49.ts
+#EXTINF:-1,group-title="MOVIE",Bein Movies HD4
+http://m-iptv.net:6204/Hejazi/Hejazi/2712
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES ACTION
 http://195.154.220.71:3333/Metege2/Skype15082018/277
 #EXTINF:-1,group-title="MOVIE",SKY MOVIES DISNEY
