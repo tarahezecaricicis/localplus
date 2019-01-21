@@ -327,59 +327,47 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 1
-http://m-iptv.net:6204/Hejazi/Hejazi/7048
-#EXTINF:-1,group-title="SPORT",Bein Sports Max HD 2
-http://m-iptv.net:6204/Hejazi/Hejazi/7049
+#EXTINF:-1,group-title="SPORT",beIN Sports Max 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/21.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD1 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/127
-#EXTINF:-1,group-title="SPORT",Bein Sport HD2 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/128
-#EXTINF:-1,group-title="SPORT",Bein Sport HD3 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/129
+#EXTINF:-1,group-title="SPORT",beIN Sports Max 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/22.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD4 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/130
+#EXTINF:-1,group-title="SPORT",beIN Sports MAX 1 FHD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/23.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD5 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/132
+#EXTINF:-1,group-title="SPORT",beIN Sports MAX 2 FHD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/24.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD6 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/133
+#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/1.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD8 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/135
+#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/2.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD7 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/134
+#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/3.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD9 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/186
+#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/4.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD10 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/187
+#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/5.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD11 EN 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/188
+#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/6.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD12 EN 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/189
+#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/7.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD13 EN 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/1694
+#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/8.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD14 Fr 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/2555
+#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/9.ts
 
-#EXTINF:-1,group-title="SPORT",Bein Sport HD15 Fr 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/4763
-
-#EXTINF:-1,group-title="SPORT",Bein Sport HD16 Fr 1080i
-http://m-iptv.net:6204/Hejazi/Hejazi/4762
-
-#EXTINF:-1,group-title="SPORT",Bein Sport NBA HD
-http://m-iptv.net:6204/Hejazi/Hejazi/6434
+#EXTINF:-1,group-title="SPORT",beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/10.ts
 
 
 
