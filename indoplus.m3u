@@ -232,26 +232,41 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,group-title="MOVIE",THRILL HD(Indo Sub)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0,group-title="MOVIE",OSN Movies HD
-http://m-iptv.net:6204/Hejazi/Hejazi/248
 
-#EXTINF:0,group-title="MOVIE",OSN Movies Action HD
-http://m-iptv.net:6204/Hejazi/Hejazi/139
+#EXTINF:0,group-title="MOVIE",OSN Movies Kids HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/25.ts
 
-#EXTINF:0,group-title="MOVIE",OSN Movies Disney HD
-http://m-iptv.net:6204/Hejazi/Hejazi/9606
+#EXTINF:0,group-title="MOVIE",OSN Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/26.ts
 
-#EXTINF:0,group-title="MOVIE",OSN Movies First HD
-http://m-iptv.net:6204/Hejazi/Hejazi/3519
+#EXTINF:0,group-title="MOVIE",OSN Movies  2h (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/27.ts
 
-#EXTINF:0,group-title="MOVIE",OSN Movies Thriller HD
-http://m-iptv.net:6204/Hejazi/Hejazi/147
+#EXTINF:0,group-title="MOVIE",OSN Movies Action HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/28.ts
 
-#EXTINF:0,group-title="MOVIE",OSN Movies Comedy HD
-http://m-iptv.net:6204/Hejazi/Hejazi/2152
+#EXTINF:0,group-title="MOVIE",beIN Movies 1HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/29.ts
 
-#EXTINF:0,group-title="MOVIE",OSN Movies Kids HD
-http://m-iptv.net:6204/Hejazi/Hejazi/4055
+#EXTINF:0,group-title="MOVIE",beIN Movies 2HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/30.ts
+
+#EXTINF:0,group-title="MOVIE",beIN Movies 3HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/31.ts
+
+#EXTINF:0,group-title="MOVIE",beIN Movies 4HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/32.ts
+
+#EXTINF:0,group-title="MOVIE",OSN Box Office 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/33.ts
+
+#EXTINF:0,group-title="MOVIE",OSN Box Office 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/34.ts
+
+#EXTINF:0,group-title="MOVIE",OSN WWE HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/36.ts
+
+
 #EXTINF:0, group-title="MOVIE",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
