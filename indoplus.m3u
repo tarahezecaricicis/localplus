@@ -394,8 +394,12 @@ http://voxtv.dynns.com:8000/UKC/UKC2018/470
 http://voxtv.dynns.com:8000/UKC/UKC2018/1722
 #EXTINF:0,group-title="ENTERTAINTMENT",DISCOVERY HISTORY
 http://voxtv.dynns.com:8000/UKC/UKC2018/1725
-
-
+#EXTINF:0,group-title="SPORT",SKY SPORTS ACTION HD
+http://voxtv.dynns.com:8000/UKC/UKC2018/199
+#EXTINF:0,group-title="SPORT",SKY SPORTS GOLF HD
+http://voxtv.dynns.com:8000/UKC/UKC2018/200
+#EXTINF:0,group-title="SPORT",SKY SPORTS FOOTBALL HD
+http://voxtv.dynns.com:8000/UKC/UKC2018/201
 
 
 
