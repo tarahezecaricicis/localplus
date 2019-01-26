@@ -300,44 +300,38 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1,group-title="SPORT",beIN Sports MAX 1
-http://207.180.235.76:8000/live/herolive/herolive1/470.ts
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/23.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports MAX 2
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/24.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
-http://207.180.235.76:8000/live/herolive/herolive1/458.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD(FR)
+http://daddyiptv.com:8000/live/riza1/1234/452.m3u8
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
-http://207.180.235.76:8000/live/herolive/herolive1/459.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD(FR)
+http://daddyiptv.com:8000/live/riza1/1234/451.m3u8
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
-http://207.180.235.76:8000/live/herolive/herolive1/460.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD(FR)
+http://daddyiptv.com:8000/live/riza1/1234/450.m3u8
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD
-http://207.180.235.76:8000/live/herolive/herolive1/461.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/4.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD
-http://207.180.235.76:8000/live/herolive/herolive1/462.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/5.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD (AR)
-http://207.180.235.76:8000/live/herolive/herolive1/463.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/6.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD
-http://207.180.235.76:8000/live/herolive/herolive1/464.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/7.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD
-http://207.180.235.76:8000/live/herolive/herolive1/465.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/8.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD
-http://207.180.235.76:8000/live/herolive/herolive1/466.ts
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/9.ts
+#EXTINF:-1,group-title="SPORT",beIN Sports 10 HD(AR)
+http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/10.ts
 
 #EXTINF:0,group-title="SPORT",ELEVEN SPORT 1 HD
 http://188.80.171.33:9981/stream/channelid/1589393498?ticket=54C81E7CF35D0C74D965BAC2CD20A17F2ADA4879&profile=pass
@@ -400,8 +394,46 @@ http://voxtv.dynns.com:8000/UKC/UKC2018/199
 http://voxtv.dynns.com:8000/UKC/UKC2018/200
 #EXTINF:0,group-title="SPORT",SKY SPORTS FOOTBALL HD
 http://voxtv.dynns.com:8000/UKC/UKC2018/201
+#EXTINF:0,group-title="SPORT",SKY SPORTS MAIN EVENT
+http://daddyiptv.com:8000/live/riza1/1234/2156.m3u8
+#EXTINF:0,group-title="SPORT",SKY SPORTS 1 HD
+http://daddyiptv.com:8000/live/riza1/1234/2156.m3u8
+#EXTINF:0,group-title="SPORT",SKY SPORTS 2 HD
+http://daddyiptv.com:8000/live/riza1/1234/2155.m3u8
+#EXTINF:0,group-title="SPORT",SKY SPORTS 3 HD
+http://daddyiptv.com:8000/live/riza1/1234/2154.m3u8
+#EXTINF:0,group-title="SPORT",SKY SPORTS 4 HD
+http://daddyiptv.com:8000/live/riza1/1234/2153.m3u8
+#EXTINF:0,group-title="SPORT",SKY SPORTS 5 HD
+http://daddyiptv.com:8000/live/riza1/1234/2152.m3u8
+#EXTINF:0, group-title="MOVIE",FILM ACTION
+https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/541.ts
+#EXTINF:0, group-title="MOVIE",FILM ROMANCE
+https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/542.ts
+#EXTINF:0, group-title="MOVIE",FILM HORROR
+https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/543.ts
+#EXTINF:0, group-title="KIDS",TOM N JERRY
+https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/531.ts
+#EXTINF:0, group-title="MOVIE",Cinemax HD
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/14
 
+#EXTINF:0, group-title="MOVIE",Cinemax 2 HD
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/15
 
+#EXTINF:0, group-title="MOVIE",CineStar TV
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/26
+
+#EXTINF:0, group-title="MOVIE",CineStar TV Fantasy
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/27
+
+#EXTINF:0, group-title="MOVIE",CineStar TV Action & Thriller
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/28
+
+#EXTINF:0, group-title="MOVIE",CineStar TV Premiere 1 HD
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/29
+
+#EXTINF:0, group-title="MOVIE",CineStar TV Premiere 2 HD
+http://185.180.12.73:80/QStalker/Ip5gOEoeSw/30
 
 
 
