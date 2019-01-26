@@ -298,7 +298,8 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-
+#EXTINF:-1,group-title="SPORT",beIN Sports Haber
+http://www.nilsattv.com:8080/mert1/mert1234/2477
 #EXTINF:-1,group-title="SPORT",beIN Sports MAX 1
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/23.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports MAX 2
@@ -434,6 +435,25 @@ http://185.180.12.73:80/QStalker/Ip5gOEoeSw/29
 
 #EXTINF:0, group-title="MOVIE",CineStar TV Premiere 2 HD
 http://185.180.12.73:80/QStalker/Ip5gOEoeSw/30
+#EXTINF:0, group-title="ENTERTAINTMENT",HISTORY
+http://www.nilsattv.com:8080/mert1/mert1234/1647
+#EXTINF:0, group-title="ENTERTAINTMENT",H2
+http://voxtv.dynns.com:8000/UKC/UKC2018/1722
+#EXTINF:0, group-title="ENTERTAINTMENT",WILD TV
+http://www.nilsattv.com:8080/mert1/mert1234/1743
+
+#EXTINF:0, group-title="MUSIC",MTV
+http://www.nilsattv.com:8080/mert1/mert1234/882
+#EXTINF:0, group-title="MUSIC",MTV LIVE
+http://www.nilsattv.com:8080/mert1/mert1234/1729
+#EXTINF:0, group-title="MUSIC",MTV HITS
+http://www.nilsattv.com:8080/mert1/mert1234/1651
+#EXTINF:0, group-title="MUSIC",MTV ROCKS
+http://www.nilsattv.com:8080/mert1/mert1234/1652
+#EXTINF:0, group-title="MUSIC",MTV DANCE
+http://www.nilsattv.com:8080/mert1/mert1234/2127
+
+
 
 
 
