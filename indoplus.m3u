@@ -305,14 +305,14 @@ http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/23.ts
 #EXTINF:-1,group-title="SPORT",beIN Sports MAX 2
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/24.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD(FR)
-http://daddyiptv.com:8000/live/riza1/1234/452.m3u8
+#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
+http://magnum-ott.net:80/live/firat/firat/18114.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD(FR)
-http://daddyiptv.com:8000/live/riza1/1234/451.m3u8
+#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
+http://magnum-ott.net:80/live/firat/firat/18113.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD(FR)
-http://daddyiptv.com:8000/live/riza1/1234/450.m3u8
+#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
+http://magnum-ott.net:80/live/firat/firat/18112.ts
 
 #EXTINF:-1,group-title="SPORT",beIN Sports 4 HD(AR)
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/4.ts
