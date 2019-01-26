@@ -1,457 +1,3671 @@
-#EXTM3U
+#EXTINF:-1,group-title="ARAB",ART AFLAM 1
+http://magnum-ott.net:80/live/firat/firat/984.ts
 
+#EXTINF:-1,group-title="ARAB",ART AFLAM 2
+http://magnum-ott.net:80/live/firat/firat/983.ts
 
-#EXTINF:-1, ttvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="ENTERTAINTMENT",ANIMAL PLANET EST 
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,group-title="ENTERTAINTMENT",CRIME DISTRICT
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="ENTERTAINTMENT",DISCOVERY CHANNEL EST
-http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,group-title="ARAB",ART CINEMA
+http://magnum-ott.net:80/live/firat/firat/982.ts
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="ENTERTAINTMENT",DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1,group-title="ARAB",ART HEKAYAT 1
+http://magnum-ott.net:80/live/firat/firat/981.ts
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENTERTAINTMENT",FISH CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,group-title="ARAB",ART HEKAYAT 2
+http://magnum-ott.net:80/live/firat/firat/980.ts
 
-#EXTINF:-1, tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINTMENT",FOX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/800px-Fox_Crime_logo.svg.png" group-title="ENTERTAINTMENT",Fox Crime
-http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/800px-Fox_life_logo.svg.png" group-title="ENTERTAINTMENT",FOX LIFE (Asia)
-http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="ENTERTAINTMENT",FOX PREMIUM CINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="ENTERTAINTMENT",FOX PREMIUM COMEDY (Asia)
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX TH
-http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINTMENT",FX US
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1207
-#EXTINF:0, tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png",group-title="ENTERTAINTMENT",FOODIE CHANNEL
-#EXTINF:-1 tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/131345529/f51b5b8d-209e-43ab-b2b8-59ea73158b19.png",group-title="ENTERTAINTMENT",GREENSBORO TV NETWORK
-http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:0, tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="ENTERTAINTMENT",HD FASHION
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-http://newstream.mine.nu:8000/lui.tuzze/i4SttrDxlC/7668
-#EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",HOLLYWOOD SWITCH
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="ENTERTAINTMENT",MOVIE1
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1, tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="ENTERTAINTMENT",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="ENTERTAINTMENT",NHK World
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Syfy-HD-Logo.svg" group-title="ENTERTAINTMENT",SY FY HD
-http://ip.clientmarket.top:8080/live/eismann68@gmail.com/tfk8ZR1WgC/892.ts
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Kidz HD
+http://magnum-ott.net:80/live/firat/firat/31291.ts
 
-#EXTINF:-1, group-title="ENTERTAINTMENT",SONY TURBO
-http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="ENTERTAINTMENT",TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="ENTERTAINTMENT",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,group-title="ENTERTAINTMENT",TNT
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
+#EXTINF:-1,MYHD PREMIUM - Animal Planet HD
+http://magnum-ott.net:80/live/firat/firat/31293.ts
 
+#EXTINF:-1,MYHD PREMIUM - Discovery SC HD
+http://magnum-ott.net:80/live/firat/firat/31288.ts
 
+#EXTINF:-1,MYHD PREMIUM - PLANET EARTH HD
+http://magnum-ott.net:80/live/firat/firat/31253.ts
 
-#EXTINF:0,group-title="FOOTBALL CLUB",REAL MADRID TV
-http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/246
-#EXTINF:0,group-title="FOOTBALL CLUB",SEVILLA FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MYHD PREMIUM - FILM BOX HD
+http://magnum-ott.net:80/live/firat/firat/31284.ts
 
+#EXTINF:-1,MYHD PREMIUM - FOX REWAYAT HD
+http://magnum-ott.net:80/live/firat/firat/31278.ts
 
+#EXTINF:-1,MYHD PREMIUM - FOX CRIME HD
+http://magnum-ott.net:80/live/firat/firat/31281.ts
 
-#EXTINF:0, group-title="KIDS",BOOMERANG
-http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1905
-#EXTINF:0, group-title="KIDS",CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="KIDS",Da Vinci Learning
-http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
-#EXTINF:0, tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS",DISNEY JUNIOR(INDO DUB)
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="KIDS",Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,MYHD PREMIUM - FX HD
+http://magnum-ott.net:80/live/firat/firat/31277.ts
 
-#EXTINF:0, group-title="KIDS",MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:0, group-title="KIDS",MY KIDS
-http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:0, group-title="KIDS",OKTO
-http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1, group-title="KIDS",TCT KIDS
-http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1,MYHD PREMIUM - STAR MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/31252.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREA",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="KOREA",CBS (Opt-2)
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:0, group-title="KOREA",K+(Indo Sub)
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA",K+
-http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
-#EXTINF:0, group-title="KOREA",KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:0, group-title="KOREA",MBC Dramanet
-http://119.194.58.213:9981/stream/channelid/746534861?ticket=A718900663BE036CE8F502A36CDB94BACEB48F32&profile=pass
-#EXTINF:0, group-title="KOREA",SONY ONE HD(Indo Sub)
-http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:-1,MYHD PREMIUM - STAR WORLD HD
+http://magnum-ott.net:80/live/firat/firat/31251.ts
 
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Movies HD
+http://magnum-ott.net:80/live/firat/firat/31290.ts
 
+#EXTINF:-1,MYHD PREMIUM - Docubox HD
+http://magnum-ott.net:80/live/firat/firat/31287.ts
 
+#EXTINF:-1,MYHD PREMIUM - Fight Box HD
+http://magnum-ott.net:80/live/firat/firat/31285.ts
 
+#EXTINF:-1,MYHD PREMIUM - FOX ACTION MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/31282.ts
 
-#EXTINF:0, group-title="LOKAL",ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:0, group-title="LOKALHD",BERITA SATU HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:0, group-title="LOKALHD",BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:0, group-title="LOKAL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0, group-title="LOKALHD",CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:0, group-title="LOKALHD",GLOBALTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png" group-title="LOKAL",GLOBAL TV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",INEWS
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",INTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:0, group-title="LOKAL",INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",JAK TV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",JAKTV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",KOMPASTV
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-#EXTINF:0, group-title="LOKALHD",METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:0, group-title="LOKAL",METRO TV
-http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",MNC
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",NET TV
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, tvg-logo="http://devanyahya.web.id/tvg-logo/rcti.png" group-title="LOKAL",RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",RCTIHD
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
-#EXTINF:0, group-title="LOKAL",RAJAWALI TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",TRANS TV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",TRANS7
-http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKAL",TV ONE
-http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0, group-title="LOKALHD",TRANS7
-http://id8.indostreamingtv.com/live/tv77/index.m3u8
-#EXTINF:0, group-title="LOKALHD",TVRI SPORTS HD
-http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-#EXTINF:-1,group-title="LOKAL",DANG TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1,group-title="LOKAL",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,MYHD PREMIUM - FOX FAMILY MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/31280.ts
 
-#EXTINF:2,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/67/TV1_Malaisie_Logo.png" group-title="Malaysia",RTM TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:2,tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia",RTM TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
-#EXTINF:2,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_Yj54H0OMsK6pdpgI-T4TbYVgHUpVLwUH3RSNDETIyjxsltf" group-title="Malaysia",RTM TV OKEY
-http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
-#EXTINF:2,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkq-dPPM5kb243pbbGAs68EUjeOqbImVln8IlwrlyEFIgqYXk" group-title="Malaysia",ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:2,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfDaUGGoV5M6kSFPF_ul4dZNa8pHhkX3n5ENqlryBjmCPTemAv" group-title="Malaysia",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1,MYHD PREMIUM - FOX LIFE HD
+http://magnum-ott.net:80/live/firat/firat/31279.ts
 
-#EXTINF:0, group-title="MOVIE",&FLIX HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="MOVIE",&PICTURES HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="MOVIE",&PRIVE HD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="MOVIE",&TV HD
-http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,group-title="MOVIE",BEIN MOVIES HD1
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/819
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUTV 
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIE",CELESTIAL MOVIE(Indo Sub)
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0,tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif" group-title="MOVIE",CINEMA WORD(Indo Sub)
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:0,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIE",FOX PREMIUM MOVIES
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:0, tvg-logo="http://logos.wikia.com/wiki/Hello_(TV_channel)?file=Hello_TV.png" group-title="MOVIE",HELLO TV HD
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:0, group-title="MOVIE",HBO
-http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/278
-#EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="MOVIE",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="MOVIE",HBO SIGNATURE
-http://new.iptvbr.tv:8080/AppSDO3/pI8XPW3a8i/1865
-#EXTINF:0, group-title="MOVIE",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1, tvg-logo="https://www.clipartmax.com/max/m2K9A0m2K9d3N4K9" group-title="MOVIE",HOLLYWOOD MOVIES
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="MOVIE",KIX SD(Indo Sub)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Kix_logo_2.jpg/revision/latest?cb=20140723150333" group-title="MOVIE",KIX HD(Indo Sub)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1, group-title="MOVIE",MOVIES PALA
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0, group-title="MOVIE",RAI MOVIES HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0, group-title="MOVIE",JAPAN MOVIE
-http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
-#EXTINF:0, group-title="MOVIE",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0, group-title="MOVIE",SONY MOVIES
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,group-title="MOVIE",THRILL HD(Indo Sub)
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,MYHD PREMIUM - GULLI BIL ARABIE HD
+http://magnum-ott.net:80/live/firat/firat/31275.ts
 
+#EXTINF:-1,MYHD PREMIUM - ITV CHOICE HD
+http://magnum-ott.net:80/live/firat/firat/31274.ts
 
+#EXTINF:-1,MYHD PREMIUM - LAAB WA JAD HD
+http://magnum-ott.net:80/live/firat/firat/31273.ts
 
+#EXTINF:-1,MYHD PREMIUM - NAHAR DRAMA HD
+http://magnum-ott.net:80/live/firat/firat/31255.ts
 
-#EXTINF:0, group-title="MOVIE",WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:0, group-title="MOVIE",ZEE CINEMA HD
-http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,MYHD PREMIUM - NAHAR ONE HD
+http://magnum-ott.net:80/live/firat/firat/31254.ts
 
-#EXTINF:0, group-title="MUSIC",B4U MUSIK
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:0, group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1, group-title="MUSIC",DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1, group-title="MUSIC",ENERGY
-http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
-#EXTINF:-1, group-title="MUSIC",FOX PORTAL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-#EXTINF:-1, group-title="MUSIC",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:0, group-title="MUSIC",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0, group-title="MUSIC",MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0, group-title="MUSIC",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:-1, group-title="MUSIC",MiX Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:0, group-title="MUSIC",ONE HD 
-http://rtmp.one.by:1300
-#EXTINF:0, group-title="MUSIC",XITE MUSIC
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,MYHD PREMIUM - MUSIC ALWAYS HD
+http://magnum-ott.net:80/live/firat/firat/31260.ts
 
+#EXTINF:-1,MYHD PREMIUM - MUSIC24 HD
+http://magnum-ott.net:80/live/firat/firat/31258.ts
 
-#EXTINF:-1, group-title="NEWS",ABC NEWS
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="NEWS",Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS",Bloomberg
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0, group-title="NEWS",BTV NEWS
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:0, group-title="NEWS",CHANNEL NEWS ASIA
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,group-title="NEWS",FOX29
-http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0, group-title="NEWS",7 NEWS
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NEWS",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
+http://magnum-ott.net:80/live/firat/firat/31250.ts
 
-#EXTINF:0, group-title="RELIGION",ASWAJA TV
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF:0, group-title="RELIGION",DMI TV
-http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="RELIGION",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:0, group-title="RELIGION",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:0, group-title="RELIGION",QURAN TV
-http://livesports-server.tk:8000/live/GhostsArmy/2151555/9395.ts
-#EXTINF:0, group-title="RELIGION",RODJA TV
-http://rr2.dens.tv/s/s14/index1.m3u8
-#EXTINF:0, group-title="RELIGION",SALING SAPA TV
-http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="RELIGION",TV 9 Nusantara SURABAYA
-http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
+#EXTINF:-1,MYHD PREMIUM - MY CINEMA HD
+http://magnum-ott.net:80/live/firat/firat/31257.ts
 
-#EXTINF:0,group-title="SPORT",ABU DHABI SPORT
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0,group-title="SPORT",ABU DHABI SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0, group-title="SPORT",ASTRO SUPER SPORT3
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,group-title="SPORT",beIN Sports Haber
-http://www.nilsattv.com:8080/mert1/mert1234/2477
-#EXTINF:-1,group-title="SPORT",beIN Sports MAX 1
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/23.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports MAX 2
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/24.ts
+#EXTINF:-1,group-title="ARAB",ROTANA AFLAM HD
+http://magnum-ott.net:80/live/firat/firat/21268.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 1 HD
+#EXTINF:-1,group-title="ARAB",ROTANA CINEMA HD
+http://magnum-ott.net:80/live/firat/firat/21267.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA CLASSIC HD
+http://magnum-ott.net:80/live/firat/firat/21266.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA KHALIJIA HD
+http://magnum-ott.net:80/live/firat/firat/21265.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA MASRIYA HD
+http://magnum-ott.net:80/live/firat/firat/21264.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA MUSIC HD
+http://magnum-ott.net:80/live/firat/firat/21263.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA
+http://magnum-ott.net:80/live/firat/firat/966.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA CINEMA
+http://magnum-ott.net:80/live/firat/firat/964.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA CINEMA KSA
+http://magnum-ott.net:80/live/firat/firat/963.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA CLASSIC
+http://magnum-ott.net:80/live/firat/firat/962.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA CLIP
+http://magnum-ott.net:80/live/firat/firat/965.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA DRAMA
+http://magnum-ott.net:80/live/firat/firat/961.ts
+
+#EXTINF:-1,group-title="ARAB",ROTANA KHALIJIAH
+http://magnum-ott.net:80/live/firat/firat/960.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 1 HD
+http://magnum-ott.net:80/live/firat/firat/22039.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 2 HD
+http://magnum-ott.net:80/live/firat/firat/22038.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 3 HD
+http://magnum-ott.net:80/live/firat/firat/22037.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 4 HD
+http://magnum-ott.net:80/live/firat/firat/22036.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 5 HD
+http://magnum-ott.net:80/live/firat/firat/22035.ts
+
+#EXTINF:-1,group-title="ARAB",ABUDHABI SPORTS 6 HD
+http://magnum-ott.net:80/live/firat/firat/22034.ts
+
+#EXTINF:-1,group-title="ARAB",4K - BEIN MOVIES 1 HD
+http://magnum-ott.net:80/live/firat/firat/27974.ts
+
+#EXTINF:-1,group-title="ARAB",4K - BEIN MOVIES 2 HD
+http://magnum-ott.net:80/live/firat/firat/27973.ts
+
+#EXTINF:-1,group-title="ARAB",4K - BEIN MOVIES 3 HD
+http://magnum-ott.net:80/live/firat/firat/27972.ts
+
+#EXTINF:-1,group-title="ARAB",4K - BEIN MOVIES 4 HD
+http://magnum-ott.net:80/live/firat/firat/27971.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN AMC HD
+http://magnum-ott.net:80/live/firat/firat/27954.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN FOX ACTION MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/27948.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN FOX FAMILY MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/27947.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SERIES 1 HD
+http://magnum-ott.net:80/live/firat/firat/27969.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SERIES 2 HD
+http://magnum-ott.net:80/live/firat/firat/27968.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN BARAEM HD
+http://magnum-ott.net:80/live/firat/firat/27964.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN DRAMA 1 HD
+http://magnum-ott.net:80/live/firat/firat/27967.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN FOX HD
+http://magnum-ott.net:80/live/firat/firat/27960.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN BEJUNIOR
+http://magnum-ott.net:80/live/firat/firat/27963.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN BOOMERANG HD
+http://magnum-ott.net:80/live/firat/firat/27953.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN CARTON NETWORK HD
+http://magnum-ott.net:80/live/firat/firat/27962.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN FATAFEAT
+http://magnum-ott.net:80/live/firat/firat/27961.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN JEEM HD
+http://magnum-ott.net:80/live/firat/firat/27958.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN DISCOVERY KIDS HD
+http://magnum-ott.net:80/live/firat/firat/27952.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN DISCOVERY LIFE HD
+http://magnum-ott.net:80/live/firat/firat/27951.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN DISCOVERY MAX HD
+http://magnum-ott.net:80/live/firat/firat/27950.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN DISCOVERY TURBO XTRA
+http://magnum-ott.net:80/live/firat/firat/27949.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN GOURMETHD
+http://magnum-ott.net:80/live/firat/firat/27965.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN HGTV HD
+http://magnum-ott.net:80/live/firat/firat/27959.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN NAT GEO
+http://magnum-ott.net:80/live/firat/firat/27957.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN NAT PEOPLE
+http://magnum-ott.net:80/live/firat/firat/27956.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN NAT WILD
+http://magnum-ott.net:80/live/firat/firat/27955.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN TRAVEL HD
+http://magnum-ott.net:80/live/firat/firat/27966.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN DABANGA
+http://magnum-ott.net:80/live/firat/firat/19151.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN DRAMA
+http://magnum-ott.net:80/live/firat/firat/19150.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN MONAWAAT
+http://magnum-ott.net:80/live/firat/firat/19149.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN MUSIC
+http://magnum-ott.net:80/live/firat/firat/19148.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN S24
+http://magnum-ott.net:80/live/firat/firat/19157.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN SPORT
+http://magnum-ott.net:80/live/firat/firat/19147.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN TV
+http://magnum-ott.net:80/live/firat/firat/19146.ts
+
+#EXTINF:-1,group-title="ARAB",SUDANIA 24 HD
+http://magnum-ott.net:80/live/firat/firat/19145.ts
+
+#EXTINF:-1,group-title="ARAB",NEELAIN SPORT
+http://magnum-ott.net:80/live/firat/firat/19152.ts
+
+#EXTINF:-1,group-title="ARAB",BLUE NILE
+http://magnum-ott.net:80/live/firat/firat/19153.ts
+
+#EXTINF:-1,group-title="ARAB",ASHOROOQ TV
+http://magnum-ott.net:80/live/firat/firat/19154.ts
+
+#EXTINF:-1,group-title="ARAB",TAYBA ACHBAL
+http://magnum-ott.net:80/live/firat/firat/20955.ts
+
+#EXTINF:-1,group-title="ARAB",TAYBA QURAN
+http://magnum-ott.net:80/live/firat/firat/19142.ts
+
+#EXTINF:-1,group-title="ARAB",TAYBA SCHOOL
+http://magnum-ott.net:80/live/firat/firat/19141.ts
+
+#EXTINF:-1,group-title="ARAB",TAYBA TV
+http://magnum-ott.net:80/live/firat/firat/19140.ts
+
+#EXTINF:-1,group-title="ARAB",RED SEA
+http://magnum-ott.net:80/live/firat/firat/20954.ts
+
+#EXTINF:-1,group-title="ARAB",SUDAN SPORT HD
+http://magnum-ott.net:80/live/firat/firat/20950.ts
+
+#EXTINF:-1,group-title="ARAB",KASSALA
+http://magnum-ott.net:80/live/firat/firat/20948.ts
+
+#EXTINF:-1,group-title="ARAB",AL HILAL
+http://magnum-ott.net:80/live/firat/firat/20947.ts
+
+#EXTINF:-1,group-title="ARAB",KHARTOUM
+http://magnum-ott.net:80/live/firat/firat/20946.ts
+
+#EXTINF:-1,group-title="ARAB",TARTEEL
+http://magnum-ott.net:80/live/firat/firat/19143.ts
+
+#EXTINF:-1,group-title="ARAB",AL GEZIRA
+http://magnum-ott.net:80/live/firat/firat/19139.ts
+
+#EXTINF:-1,group-title="OSN2",OSN NICKELODEON HD
+http://magnum-ott.net:80/live/firat/firat/31105.ts
+
+#EXTINF:-1,group-title="OSN2",ART AFLAM 1
+http://magnum-ott.net:80/live/firat/firat/31134.ts
+
+#EXTINF:-1,group-title="OSN2",ART AFLAM 2
+http://magnum-ott.net:80/live/firat/firat/31133.ts
+
+#EXTINF:-1,group-title="OSN2",ART CINEMA
+http://magnum-ott.net:80/live/firat/firat/31132.ts
+
+#EXTINF:-1,group-title="OSN2",ART HEKAYAT
+http://magnum-ott.net:80/live/firat/firat/31131.ts
+
+#EXTINF:-1,group-title="OSN2",ART HEKAYAT 2
+http://magnum-ott.net:80/live/firat/firat/31130.ts
+
+#EXTINF:-1,group-title="OSN2",OSN YAHALA OULA HD
+http://magnum-ott.net:80/live/firat/firat/31092.ts
+
+#EXTINF:-1,group-title="OSN2",OSN YAHALA CINEMA HD
+http://magnum-ott.net:80/live/firat/firat/31094.ts
+
+#EXTINF:-1,group-title="OSN2",OSN YAHALA HD
+http://magnum-ott.net:80/live/firat/firat/31093.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ALFA MUSALSALAT HD
+http://magnum-ott.net:80/live/firat/firat/31123.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ALFA ALYOUM HD
+http://magnum-ott.net:80/live/firat/firat/31126.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ALFA CINEMA 1 HD
+http://magnum-ott.net:80/live/firat/firat/31125.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ALFA CINEMA 2 HD
+http://magnum-ott.net:80/live/firat/firat/31124.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ALFA MUSIC NOW HD
+http://magnum-ott.net:80/live/firat/firat/31122.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES KIDS HD
+http://magnum-ott.net:80/live/firat/firat/31109.ts
+
+#EXTINF:-1,group-title="OSN2",OSN DISCOVERY HD
+http://magnum-ott.net:80/live/firat/firat/31120.ts
+
+#EXTINF:-1,group-title="OSN2",OSN DISCOVERY SC HD
+http://magnum-ott.net:80/live/firat/firat/31119.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ANIMAL PLANET HD
+http://magnum-ott.net:80/live/firat/firat/31121.ts
+
+#EXTINF:-1,group-title="OSN2",OSN NAT GEO WILD HD
+http://magnum-ott.net:80/live/firat/firat/31107.ts
+
+#EXTINF:-1,group-title="OSN2",OSN NAT PEOPLE HD
+http://magnum-ott.net:80/live/firat/firat/31106.ts
+
+#EXTINF:-1,group-title="OSN2",OSN HISTORY HD
+http://magnum-ott.net:80/live/firat/firat/31116.ts
+
+#EXTINF:-1,group-title="OSN2",OSN TRAVEL HD
+http://magnum-ott.net:80/live/firat/firat/31096.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES ACTION HD
+http://magnum-ott.net:80/live/firat/firat/31113.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES DISNEY HD
+http://magnum-ott.net:80/live/firat/firat/31112.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/31110.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES FIRST HD
+http://magnum-ott.net:80/live/firat/firat/31111.ts
+
+#EXTINF:-1,group-title="OSN2",OSN MOVIES THRILLER HD
+http://magnum-ott.net:80/live/firat/firat/31108.ts
+
+#EXTINF:-1,group-title="OSN2",OSN SERIES COMEDY HD
+http://magnum-ott.net:80/live/firat/firat/31104.ts
+
+#EXTINF:-1,group-title="OSN2",OSN SERIES FIRST HD
+http://magnum-ott.net:80/live/firat/firat/31103.ts
+
+#EXTINF:-1,group-title="OSN2",OSN SERIES HD
+http://magnum-ott.net:80/live/firat/firat/31102.ts
+
+#EXTINF:-1,group-title="OSN2",OSN STAR MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/31101.ts
+
+#EXTINF:-1,group-title="OSN2",OSN STAR WORLD HD
+http://magnum-ott.net:80/live/firat/firat/31100.ts
+
+#EXTINF:-1,group-title="OSN2",OSN SYFY HD
+http://magnum-ott.net:80/live/firat/firat/31099.ts
+
+#EXTINF:-1,group-title="OSN2",OSN TLC HD
+http://magnum-ott.net:80/live/firat/firat/31097.ts
+
+#EXTINF:-1,group-title="OSN2",BEIN OUTDOOR HD
+http://magnum-ott.net:80/live/firat/firat/31129.ts
+
+#EXTINF:-1,group-title="OSN2",OSN FIRST HBO HD
+http://magnum-ott.net:80/live/firat/firat/31117.ts
+
+#EXTINF:-1,group-title="OSN2",OSN ITV CHOICE
+http://magnum-ott.net:80/live/firat/firat/31115.ts
+
+#EXTINF:-1,group-title="OSN2",OSN LIVING HD
+http://magnum-ott.net:80/live/firat/firat/31114.ts
+
+#EXTINF:-1,group-title="OSN2",OSN DISNEY JUNIOR HD
+http://magnum-ott.net:80/live/firat/firat/31118.ts
+
+#EXTINF:-1,group-title="OSN2",OSN WWE HD
+http://magnum-ott.net:80/live/firat/firat/31095.ts
+
+#EXTINF:-1,group-title="ARAB",ME SAT
+http://magnum-ott.net:80/live/firat/firat/689.ts
+
+#EXTINF:-1,group-title="ARAB",MIRACLE TV
+http://magnum-ott.net:80/live/firat/firat/696.ts
+
+#EXTINF:-1,group-title="ARAB",AGHAPY TV
+http://magnum-ott.net:80/live/firat/firat/694.ts
+
+#EXTINF:-1,group-title="ARAB",AL HAYAT CRISTIAN
+http://magnum-ott.net:80/live/firat/firat/690.ts
+
+#EXTINF:-1,group-title="ARAB",AL KARMA TV
+http://magnum-ott.net:80/live/firat/firat/695.ts
+
+#EXTINF:-1,group-title="ARAB",CTV
+http://magnum-ott.net:80/live/firat/firat/688.ts
+
+#EXTINF:-1,group-title="ARAB",SAT 7 ARABIC
+http://magnum-ott.net:80/live/firat/firat/692.ts
+
+#EXTINF:-1,group-title="ARAB",SAT 7 KIDS
+http://magnum-ott.net:80/live/firat/firat/691.ts
+
+#EXTINF:-1,group-title="ARAB",AL MALAKOOT
+http://magnum-ott.net:80/live/firat/firat/697.ts
+
+#EXTINF:-1,group-title="ARAB",AL FADY
+http://magnum-ott.net:80/live/firat/firat/693.ts
+
+#EXTINF:-1,group-title="ARAB",AL HORREYA TV
+http://magnum-ott.net:80/live/firat/firat/19160.ts
+
+#EXTINF:-1,group-title="ARAB",NOURSAT CHRISTIAN
+http://magnum-ott.net:80/live/firat/firat/39440.ts
+
+#EXTINF:-1,group-title="ARAB",KOOGI TV
+http://magnum-ott.net:80/live/firat/firat/39439.ts
+
+#EXTINF:-1,group-title="ARAB",LOGOS TV
+http://magnum-ott.net:80/live/firat/firat/39441.ts
+
+#EXTINF:-1,group-title="ARAB",RESALA HD
+http://magnum-ott.net:80/live/firat/firat/21269.ts
+
+#EXTINF:-1,group-title="ARAB",AL RESALA
+http://magnum-ott.net:80/live/firat/firat/879.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJD 1
+http://magnum-ott.net:80/live/firat/firat/883.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJD 2
+http://magnum-ott.net:80/live/firat/firat/882.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJD 3
+http://magnum-ott.net:80/live/firat/firat/881.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJD 4
+http://magnum-ott.net:80/live/firat/firat/880.ts
+
+#EXTINF:-1,group-title="ARAB",AL RAHMA TV
+http://magnum-ott.net:80/live/firat/firat/884.ts
+
+#EXTINF:-1,group-title="ARAB",AL-QURAIN
+http://magnum-ott.net:80/live/firat/firat/633.ts
+
+#EXTINF:-1,group-title="ARAB",BIN OUTHAYMINE
+http://magnum-ott.net:80/live/firat/firat/891.ts
+
+#EXTINF:-1,group-title="ARAB",DAAWA
+http://magnum-ott.net:80/live/firat/firat/890.ts
+
+#EXTINF:-1,group-title="ARAB",SAFA
+http://magnum-ott.net:80/live/firat/firat/889.ts
+
+#EXTINF:-1,group-title="ARAB",TANASOH
+http://magnum-ott.net:80/live/firat/firat/888.ts
+
+#EXTINF:-1,group-title="ARAB",MECCA TV
+http://magnum-ott.net:80/live/firat/firat/878.ts
+
+#EXTINF:-1,group-title="ARAB",AL HAQIQA
+http://magnum-ott.net:80/live/firat/firat/875.ts
+
+#EXTINF:-1,group-title="ARAB",AHEL AL QURAN
+http://magnum-ott.net:80/live/firat/firat/874.ts
+
+#EXTINF:-1,group-title="ARAB",WESAL
+http://magnum-ott.net:80/live/firat/firat/873.ts
+
+#EXTINF:-1,group-title="ARAB",AL SIRAT
+http://magnum-ott.net:80/live/firat/firat/872.ts
+
+#EXTINF:-1,group-title="ARAB",ALAFASY
+http://magnum-ott.net:80/live/firat/firat/871.ts
+
+#EXTINF:-1,group-title="ARAB",PALESTINE LIVE
+http://magnum-ott.net:80/live/firat/firat/617.ts
+
+#EXTINF:-1,group-title="ARAB",PALESTINE NEWS
+http://magnum-ott.net:80/live/firat/firat/618.ts
+
+#EXTINF:-1,group-title="ARAB",PALESTINE SPORT
+http://magnum-ott.net:80/live/firat/firat/619.ts
+
+#EXTINF:-1,group-title="ARAB",PALESTINE TODAY
+http://magnum-ott.net:80/live/firat/firat/620.ts
+
+#EXTINF:-1,group-title="ARAB",PALESTINE TV
+http://magnum-ott.net:80/live/firat/firat/616.ts
+
+#EXTINF:-1,group-title="ARAB",MAAN TV
+http://magnum-ott.net:80/live/firat/firat/622.ts
+
+#EXTINF:-1,group-title="ARAB",AL QUDS
+http://magnum-ott.net:80/live/firat/firat/621.ts
+
+#EXTINF:-1,group-title="ARAB",FALASTINIAH TV
+http://magnum-ott.net:80/live/firat/firat/615.ts
+
+#EXTINF:-1,group-title="ARAB",AWDEH TV
+http://magnum-ott.net:80/live/firat/firat/614.ts
+
+#EXTINF:-1,group-title="ARAB",ANNAJAH NBC
+http://magnum-ott.net:80/live/firat/firat/613.ts
+
+#EXTINF:-1,group-title="ARAB",AL RAYYAN HD
+http://magnum-ott.net:80/live/firat/firat/577.ts
+
+#EXTINF:-1,group-title="ARAB",AL RAYYAN
+http://magnum-ott.net:80/live/firat/firat/575.ts
+
+#EXTINF:-1,group-title="ARAB",QATAR TV HD
+http://magnum-ott.net:80/live/firat/firat/574.ts
+
+#EXTINF:-1,group-title="ARAB",LEBANON TV
+http://magnum-ott.net:80/live/firat/firat/780.ts
+
+#EXTINF:-1,group-title="ARAB",LBC HD
+http://magnum-ott.net:80/live/firat/firat/21270.ts
+
+#EXTINF:-1,group-title="ARAB",LBC SAT
+http://magnum-ott.net:80/live/firat/firat/779.ts
+
+#EXTINF:-1,group-title="ARAB",LDC
+http://magnum-ott.net:80/live/firat/firat/778.ts
+
+#EXTINF:-1,group-title="ARAB",OTV TV
+http://magnum-ott.net:80/live/firat/firat/777.ts
+
+#EXTINF:-1,group-title="ARAB",MTV LEBANON
+http://magnum-ott.net:80/live/firat/firat/776.ts
+
+#EXTINF:-1,group-title="ARAB",MTV LEBANON HD
+http://magnum-ott.net:80/live/firat/firat/19161.ts
+
+#EXTINF:-1,group-title="ARAB",NBN LEBANON HD
+http://magnum-ott.net:80/live/firat/firat/27423.ts
+
+#EXTINF:-1,group-title="ARAB",FUTURE TV
+http://magnum-ott.net:80/live/firat/firat/775.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAYADEEN
+http://magnum-ott.net:80/live/firat/firat/928.ts
+
+#EXTINF:-1,group-title="ARAB",AL MANAR
+http://magnum-ott.net:80/live/firat/firat/917.ts
+
+#EXTINF:-1,group-title="ARAB",ALAAN TV LEBANON
+http://magnum-ott.net:80/live/firat/firat/774.ts
+
+#EXTINF:-1,group-title="ARAB",AGHANI AGHANI TV
+http://magnum-ott.net:80/live/firat/firat/773.ts
+
+#EXTINF:-1,group-title="ARAB",HEYA TV
+http://magnum-ott.net:80/live/firat/firat/772.ts
+
+#EXTINF:-1,group-title="ARAB",AL ASRAR TV
+http://magnum-ott.net:80/live/firat/firat/771.ts
+
+#EXTINF:-1,group-title="ARAB",AL WAAD
+http://magnum-ott.net:80/live/firat/firat/770.ts
+
+#EXTINF:-1,group-title="ARAB",AL NADA TV
+http://magnum-ott.net:80/live/firat/firat/769.ts
+
+#EXTINF:-1,group-title="ARAB",AL JADEED
+http://magnum-ott.net:80/live/firat/firat/766.ts
+
+#EXTINF:-1,group-title="ARAB",TELELIBAN TV
+http://magnum-ott.net:80/live/firat/firat/763.ts
+
+#EXTINF:-1,group-title="ARAB",AL QANAT
+http://magnum-ott.net:80/live/firat/firat/768.ts
+
+#EXTINF:-1,group-title="ARAB",ANB TV
+http://magnum-ott.net:80/live/firat/firat/765.ts
+
+#EXTINF:-1,group-title="ARAB",MAESTRO
+http://magnum-ott.net:80/live/firat/firat/762.ts
+
+#EXTINF:-1,group-title="ARAB",YEMEN SAMA
+http://magnum-ott.net:80/live/firat/firat/588.ts
+
+#EXTINF:-1,group-title="ARAB",YEMEN TV
+http://magnum-ott.net:80/live/firat/firat/587.ts
+
+#EXTINF:-1,group-title="ARAB",YEMEN SHABAB
+http://magnum-ott.net:80/live/firat/firat/586.ts
+
+#EXTINF:-1,group-title="ARAB",SUHAIL TV
+http://magnum-ott.net:80/live/firat/firat/585.ts
+
+#EXTINF:-1,group-title="ARAB",SHEBA TV
+http://magnum-ott.net:80/live/firat/firat/584.ts
+
+#EXTINF:-1,group-title="ARAB",YEMEN TODAY
+http://magnum-ott.net:80/live/firat/firat/583.ts
+
+#EXTINF:-1,group-title="ARAB",ADEN TV
+http://magnum-ott.net:80/live/firat/firat/582.ts
+
+#EXTINF:-1,group-title="ARAB",OMAN TV
+http://magnum-ott.net:80/live/firat/firat/580.ts
+
+#EXTINF:-1,group-title="ARAB",AL ISTIQAMA
+http://magnum-ott.net:80/live/firat/firat/579.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA DRAMA
+http://magnum-ott.net:80/live/firat/firat/611.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA EDUCATION
+http://magnum-ott.net:80/live/firat/firat/610.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA TV
+http://magnum-ott.net:80/live/firat/firat/608.ts
+
+#EXTINF:-1,group-title="ARAB",AL EKHBARIYA AL SORIYA
+http://magnum-ott.net:80/live/firat/firat/609.ts
+
+#EXTINF:-1,group-title="ARAB",ALYAWM
+http://magnum-ott.net:80/live/firat/firat/20944.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA FM
+http://magnum-ott.net:80/live/firat/firat/20935.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA MEDICAL
+http://magnum-ott.net:80/live/firat/firat/20934.ts
+
+#EXTINF:-1,group-title="ARAB",SYRIA TV HD
+http://magnum-ott.net:80/live/firat/firat/20942.ts
+
+#EXTINF:-1,group-title="ARAB",SAMA TV
+http://magnum-ott.net:80/live/firat/firat/607.ts
+
+#EXTINF:-1,group-title="ARAB",DORAR
+http://magnum-ott.net:80/live/firat/firat/20941.ts
+
+#EXTINF:-1,group-title="ARAB",LANA
+http://magnum-ott.net:80/live/firat/firat/20940.ts
+
+#EXTINF:-1,group-title="ARAB",MARA7
+http://magnum-ott.net:80/live/firat/firat/20939.ts
+
+#EXTINF:-1,group-title="ARAB",MINBIJ
+http://magnum-ott.net:80/live/firat/firat/20938.ts
+
+#EXTINF:-1,group-title="ARAB",SHAM FM
+http://magnum-ott.net:80/live/firat/firat/20937.ts
+
+#EXTINF:-1,group-title="ARAB",SHAM TV
+http://magnum-ott.net:80/live/firat/firat/20936.ts
+
+#EXTINF:-1,group-title="ARAB",NOOR AL SHAM
+http://magnum-ott.net:80/live/firat/firat/606.ts
+
+#EXTINF:-1,group-title="ARAB",ORIENT TV
+http://magnum-ott.net:80/live/firat/firat/605.ts
+
+#EXTINF:-1,group-title="ARAB",IMAM REDA HD
+http://magnum-ott.net:80/live/firat/firat/685.ts
+
+#EXTINF:-1,group-title="ARAB",IRAQ NOW
+http://magnum-ott.net:80/live/firat/firat/684.ts
+
+#EXTINF:-1,group-title="ARAB",AL IRAQIA NEWS
+http://magnum-ott.net:80/live/firat/firat/641.ts
+
+#EXTINF:-1,group-title="ARAB",SAMARRAE
+http://magnum-ott.net:80/live/firat/firat/683.ts
+
+#EXTINF:-1,group-title="ARAB",AL AQILA
+http://magnum-ott.net:80/live/firat/firat/679.ts
+
+#EXTINF:-1,group-title="ARAB",AL GHADEER
+http://magnum-ott.net:80/live/firat/firat/678.ts
+
+#EXTINF:-1,group-title="ARAB",AL IRAQIA SPORT
+http://magnum-ott.net:80/live/firat/firat/676.ts
+
+#EXTINF:-1,group-title="ARAB",AL ANWAR
+http://magnum-ott.net:80/live/firat/firat/680.ts
+
+#EXTINF:-1,group-title="ARAB",AL MASSAR
+http://magnum-ott.net:80/live/firat/firat/674.ts
+
+#EXTINF:-1,group-title="ARAB",AL MANHAJ
+http://magnum-ott.net:80/live/firat/firat/675.ts
+
+#EXTINF:-1,group-title="ARAB",AL MASSAR AL OULA
+http://magnum-ott.net:80/live/firat/firat/673.ts
+
+#EXTINF:-1,group-title="ARAB",AL MASSAR ALOULA
+http://magnum-ott.net:80/live/firat/firat/662.ts
+
+#EXTINF:-1,group-title="ARAB",IQRAA
+http://magnum-ott.net:80/live/firat/firat/887.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHARQIA NEWS HD
+http://magnum-ott.net:80/live/firat/firat/667.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAWSLYA
+http://magnum-ott.net:80/live/firat/firat/672.ts
+
+#EXTINF:-1,group-title="ARAB",AL MINHAJ
+http://magnum-ott.net:80/live/firat/firat/670.ts
+
+#EXTINF:-1,group-title="ARAB",AL WALAA
+http://magnum-ott.net:80/live/firat/firat/671.ts
+
+#EXTINF:-1,group-title="ARAB",IRAQI EDUCATION
+http://magnum-ott.net:80/live/firat/firat/653.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHARQIYA HD
+http://magnum-ott.net:80/live/firat/firat/668.ts
+
+#EXTINF:-1,group-title="ARAB",AL IRAQIA TV
+http://magnum-ott.net:80/live/firat/firat/658.ts
+
+#EXTINF:-1,group-title="ARAB",AL RAFIDAYN
+http://magnum-ott.net:80/live/firat/firat/669.ts
+
+#EXTINF:-1,group-title="ARAB",AL RASHEED TV
+http://magnum-ott.net:80/live/firat/firat/665.ts
+
+#EXTINF:-1,group-title="ARAB",AL ITEJAH TV
+http://magnum-ott.net:80/live/firat/firat/664.ts
+
+#EXTINF:-1,group-title="ARAB",AL NOUJABA
+http://magnum-ott.net:80/live/firat/firat/663.ts
+
+#EXTINF:-1,group-title="ARAB",AL NAEEM
+http://magnum-ott.net:80/live/firat/firat/661.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHABAB TV
+http://magnum-ott.net:80/live/firat/firat/660.ts
+
+#EXTINF:-1,group-title="ARAB",AL FORAT TV
+http://magnum-ott.net:80/live/firat/firat/659.ts
+
+#EXTINF:-1,group-title="ARAB",HONA BAGHDAD
+http://magnum-ott.net:80/live/firat/firat/657.ts
+
+#EXTINF:-1,group-title="ARAB",BAGHDAD TV
+http://magnum-ott.net:80/live/firat/firat/656.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHARQIA NEWS
+http://magnum-ott.net:80/live/firat/firat/652.ts
+
+#EXTINF:-1,group-title="ARAB",AL AHD
+http://magnum-ott.net:80/live/firat/firat/651.ts
+
+#EXTINF:-1,group-title="ARAB",KARBALA TV
+http://magnum-ott.net:80/live/firat/firat/650.ts
+
+#EXTINF:-1,group-title="ARAB",AL SUMARIA TV
+http://magnum-ott.net:80/live/firat/firat/649.ts
+
+#EXTINF:-1,group-title="ARAB",AL AWHAD
+http://magnum-ott.net:80/live/firat/firat/648.ts
+
+#EXTINF:-1,group-title="ARAB",AL KAWTHAR
+http://magnum-ott.net:80/live/firat/firat/646.ts
+
+#EXTINF:-1,group-title="ARAB",ASIA TV
+http://magnum-ott.net:80/live/firat/firat/645.ts
+
+#EXTINF:-1,group-title="ARAB",DIJLAH TV
+http://magnum-ott.net:80/live/firat/firat/644.ts
+
+#EXTINF:-1,group-title="ARAB",EL IMAN TV
+http://magnum-ott.net:80/live/firat/firat/642.ts
+
+#EXTINF:-1,group-title="ARAB",AL ANBAR
+http://magnum-ott.net:80/live/firat/firat/640.ts
+
+#EXTINF:-1,group-title="ARAB",AL ESHRAQ TV
+http://magnum-ott.net:80/live/firat/firat/639.ts
+
+#EXTINF:-1,group-title="ARAB",AL TURKMENIA TV
+http://magnum-ott.net:80/live/firat/firat/635.ts
+
+#EXTINF:-1,group-title="ARAB",ALMASALAH
+http://magnum-ott.net:80/live/firat/firat/632.ts
+
+#EXTINF:-1,group-title="ARAB",BELADI
+http://magnum-ott.net:80/live/firat/firat/630.ts
+
+#EXTINF:-1,group-title="ARAB",DEWAN
+http://magnum-ott.net:80/live/firat/firat/629.ts
+
+#EXTINF:-1,group-title="ARAB",DUA TV
+http://magnum-ott.net:80/live/firat/firat/628.ts
+
+#EXTINF:-1,group-title="ARAB",ETIHAD TV
+http://magnum-ott.net:80/live/firat/firat/627.ts
+
+#EXTINF:-1,group-title="ARAB",I FILM
+http://magnum-ott.net:80/live/firat/firat/626.ts
+
+#EXTINF:-1,group-title="ARAB",AL THAQALAYN TV
+http://magnum-ott.net:80/live/firat/firat/625.ts
+
+#EXTINF:-1,group-title="ARAB",AL BASIRA
+http://magnum-ott.net:80/live/firat/firat/655.ts
+
+#EXTINF:-1,group-title="ARAB",LIBYA 218
+http://magnum-ott.net:80/live/firat/firat/704.ts
+
+#EXTINF:-1,group-title="ARAB",LIBYA AL RSMIA
+http://magnum-ott.net:80/live/firat/firat/701.ts
+
+#EXTINF:-1,group-title="ARAB",LIBYA PANORAMA HD
+http://magnum-ott.net:80/live/firat/firat/706.ts
+
+#EXTINF:-1,group-title="ARAB",KTV 1
+http://magnum-ott.net:80/live/firat/firat/596.ts
+
+#EXTINF:-1,group-title="ARAB",KTV 2
+http://magnum-ott.net:80/live/firat/firat/595.ts
+
+#EXTINF:-1,group-title="ARAB",KTV ETHRAA
+http://magnum-ott.net:80/live/firat/firat/590.ts
+
+#EXTINF:-1,group-title="ARAB",KTV PLUS
+http://magnum-ott.net:80/live/firat/firat/593.ts
+
+#EXTINF:-1,group-title="ARAB",KTV SPORT
+http://magnum-ott.net:80/live/firat/firat/594.ts
+
+#EXTINF:-1,group-title="ARAB",KTV SPORT HD
+http://magnum-ott.net:80/live/firat/firat/599.ts
+
+#EXTINF:-1,group-title="ARAB",KTV AL ARABI
+http://magnum-ott.net:80/live/firat/firat/592.ts
+
+#EXTINF:-1,group-title="ARAB",FUNOON TV
+http://magnum-ott.net:80/live/firat/firat/597.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHAHED TV
+http://magnum-ott.net:80/live/firat/firat/598.ts
+
+#EXTINF:-1,group-title="ARAB",ALRAI
+http://magnum-ott.net:80/live/firat/firat/21271.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJLIS
+http://magnum-ott.net:80/live/firat/firat/19159.ts
+
+#EXTINF:-1,group-title="ARAB",AL QURAIN
+http://magnum-ott.net:80/live/firat/firat/19158.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN AMEN
+http://magnum-ott.net:80/live/firat/firat/714.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN DERETNA
+http://magnum-ott.net:80/live/firat/firat/708.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN HD
+http://magnum-ott.net:80/live/firat/firat/727.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN MANASEER
+http://magnum-ott.net:80/live/firat/firat/716.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN NOW
+http://magnum-ott.net:80/live/firat/firat/717.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN SAMA
+http://magnum-ott.net:80/live/firat/firat/718.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN SPORT
+http://magnum-ott.net:80/live/firat/firat/719.ts
+
+#EXTINF:-1,group-title="ARAB",JORDAN TV
+http://magnum-ott.net:80/live/firat/firat/720.ts
+
+#EXTINF:-1,group-title="ARAB",ROYA HD
+http://magnum-ott.net:80/live/firat/firat/726.ts
+
+#EXTINF:-1,group-title="ARAB",KARAMEESH
+http://magnum-ott.net:80/live/firat/firat/725.ts
+
+#EXTINF:-1,group-title="ARAB",NOURSAT AL CHABAB
+http://magnum-ott.net:80/live/firat/firat/723.ts
+
+#EXTINF:-1,group-title="ARAB",ZWEINA BALADNA
+http://magnum-ott.net:80/live/firat/firat/722.ts
+
+#EXTINF:-1,group-title="ARAB",NOOR JORDAN
+http://magnum-ott.net:80/live/firat/firat/712.ts
+
+#EXTINF:-1,group-title="ARAB",MICKEY CHANNEL
+http://magnum-ott.net:80/live/firat/firat/954.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAJD KIDS HD
+http://magnum-ott.net:80/live/firat/firat/944.ts
+
+#EXTINF:-1,group-title="ARAB",CARTOON NETWORK
+http://magnum-ott.net:80/live/firat/firat/899.ts
+
+#EXTINF:-1,group-title="ARAB",SPACETOON
+http://magnum-ott.net:80/live/firat/firat/947.ts
+
+#EXTINF:-1,group-title="ARAB",TAHA KIDS
+http://magnum-ott.net:80/live/firat/firat/949.ts
+
+#EXTINF:-1,group-title="ARAB",TOYOR BABY
+http://magnum-ott.net:80/live/firat/firat/945.ts
+
+#EXTINF:-1,group-title="ARAB",JEEM KIDS
+http://magnum-ott.net:80/live/firat/firat/952.ts
+
+#EXTINF:-1,group-title="ARAB",TOYOR AL JANAH
+http://magnum-ott.net:80/live/firat/firat/946.ts
+
+#EXTINF:-1,group-title="ARAB",SEM SEM TV
+http://magnum-ott.net:80/live/firat/firat/898.ts
+
+#EXTINF:-1,group-title="ARAB",ATFAL & MAWAHEB
+http://magnum-ott.net:80/live/firat/firat/951.ts
+
+#EXTINF:-1,group-title="ARAB",BARAEM KIDS EUROPE
+http://magnum-ott.net:80/live/firat/firat/948.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI 1
+http://magnum-ott.net:80/live/firat/firat/910.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI 24
+http://magnum-ott.net:80/live/firat/firat/908.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI ANTI TERRORISM
+http://magnum-ott.net:80/live/firat/firat/905.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI FAMILY
+http://magnum-ott.net:80/live/firat/firat/907.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI QURAN
+http://magnum-ott.net:80/live/firat/firat/886.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI SPORT
+http://magnum-ott.net:80/live/firat/firat/904.ts
+
+#EXTINF:-1,group-title="ARAB",SAUDI SUNNAH
+http://magnum-ott.net:80/live/firat/firat/895.ts
+
+#EXTINF:-1,group-title="ARAB",KSA SPORTS 1 HD
+http://magnum-ott.net:80/live/firat/firat/19164.ts
+
+#EXTINF:-1,group-title="ARAB",KSA SPORTS 2 HD
+http://magnum-ott.net:80/live/firat/firat/26603.ts
+
+#EXTINF:-1,group-title="ARAB",KSA SPORTS PLUS 1 HD
+http://magnum-ott.net:80/live/firat/firat/26602.ts
+
+#EXTINF:-1,group-title="ARAB",KSA SPORTS PLUS 2 HD
+http://magnum-ott.net:80/live/firat/firat/26601.ts
+
+#EXTINF:-1,group-title="ARAB",AL AMAKEN DRAMA
+http://magnum-ott.net:80/live/firat/firat/906.ts
+
+#EXTINF:-1,group-title="ARAB",AL MERGAB
+http://magnum-ott.net:80/live/firat/firat/902.ts
+
+#EXTINF:-1,group-title="ARAB",MASDAR TV
+http://magnum-ott.net:80/live/firat/firat/900.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN INTERNATIONAL
+http://magnum-ott.net:80/live/firat/firat/730.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN INTERNATIONAL HD
+http://magnum-ott.net:80/live/firat/firat/732.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN QURAN
+http://magnum-ott.net:80/live/firat/firat/729.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN SPORTS 1 HD
+http://magnum-ott.net:80/live/firat/firat/735.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN SPORTS 2 HD
+http://magnum-ott.net:80/live/firat/firat/734.ts
+
+#EXTINF:-1,group-title="ARAB",BAHRAIN TV  HD
+http://magnum-ott.net:80/live/firat/firat/733.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAAREF
+http://magnum-ott.net:80/live/firat/firat/731.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI ONE
+http://magnum-ott.net:80/live/firat/firat/749.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI RACING 1 HD
+http://magnum-ott.net:80/live/firat/firat/757.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI RACING 2
+http://magnum-ott.net:80/live/firat/firat/744.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI RACING 3
+http://magnum-ott.net:80/live/firat/firat/743.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI SPORT 1 HD
+http://magnum-ott.net:80/live/firat/firat/758.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI SPORT 4
+http://magnum-ott.net:80/live/firat/firat/745.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI TV
+http://magnum-ott.net:80/live/firat/firat/747.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI TV HD
+http://magnum-ott.net:80/live/firat/firat/760.ts
+
+#EXTINF:-1,group-title="ARAB",DUBAI ZAMAN
+http://magnum-ott.net:80/live/firat/firat/748.ts
+
+#EXTINF:-1,group-title="ARAB",AD SPORT 1 HD
+http://magnum-ott.net:80/live/firat/firat/756.ts
+
+#EXTINF:-1,group-title="ARAB",ABU DHABI AL EMARAT HD
+http://magnum-ott.net:80/live/firat/firat/751.ts
+
+#EXTINF:-1,group-title="ARAB",ABU DHABI DRAMA HD
+http://magnum-ott.net:80/live/firat/firat/752.ts
+
+#EXTINF:-1,group-title="ARAB",ABU DHABI SPORT 2 HD
+http://magnum-ott.net:80/live/firat/firat/755.ts
+
+#EXTINF:-1,group-title="ARAB",ABU DHABI TV HD
+http://magnum-ott.net:80/live/firat/firat/753.ts
+
+#EXTINF:-1,group-title="ARAB",YAS SPORT HD
+http://magnum-ott.net:80/live/firat/firat/754.ts
+
+#EXTINF:-1,group-title="ARAB",SAMA DUBAI HD
+http://magnum-ott.net:80/live/firat/firat/759.ts
+
+#EXTINF:-1,group-title="ARAB",NOOR DUBAI
+http://magnum-ott.net:80/live/firat/firat/750.ts
+
+#EXTINF:-1,group-title="ARAB",HOD HOD TV
+http://magnum-ott.net:80/live/firat/firat/740.ts
+
+#EXTINF:-1,group-title="ARAB",AL WAHA TV
+http://magnum-ott.net:80/live/firat/firat/738.ts
+
+#EXTINF:-1,group-title="ARAB",NILE CINEMA
+http://magnum-ott.net:80/live/firat/firat/855.ts
+
+#EXTINF:-1,group-title="ARAB",NILE COMEDY
+http://magnum-ott.net:80/live/firat/firat/852.ts
+
+#EXTINF:-1,group-title="ARAB",NILE CULTURE
+http://magnum-ott.net:80/live/firat/firat/849.ts
+
+#EXTINF:-1,group-title="ARAB",NILE DRAMA
+http://magnum-ott.net:80/live/firat/firat/854.ts
+
+#EXTINF:-1,group-title="ARAB",NILE FAMILY
+http://magnum-ott.net:80/live/firat/firat/853.ts
+
+#EXTINF:-1,group-title="ARAB",NILE LIFE
+http://magnum-ott.net:80/live/firat/firat/850.ts
+
+#EXTINF:-1,group-title="ARAB",NILE NEWS
+http://magnum-ott.net:80/live/firat/firat/851.ts
+
+#EXTINF:-1,group-title="ARAB",NILE SPORT
+http://magnum-ott.net:80/live/firat/firat/848.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV
+http://magnum-ott.net:80/live/firat/firat/794.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV DRAMA
+http://magnum-ott.net:80/live/firat/firat/807.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV E
+http://magnum-ott.net:80/live/firat/firat/806.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV E HD
+http://magnum-ott.net:80/live/firat/firat/805.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV HD
+http://magnum-ott.net:80/live/firat/firat/804.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV LIVE
+http://magnum-ott.net:80/live/firat/firat/811.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV LIVE HD
+http://magnum-ott.net:80/live/firat/firat/810.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV SPORT
+http://magnum-ott.net:80/live/firat/firat/809.ts
+
+#EXTINF:-1,group-title="ARAB",ON TV SPORT HD
+http://magnum-ott.net:80/live/firat/firat/808.ts
+
+#EXTINF:-1,group-title="ARAB",DMC
+http://magnum-ott.net:80/live/firat/firat/793.ts
+
+#EXTINF:-1,group-title="ARAB",DMC DRAMA
+http://magnum-ott.net:80/live/firat/firat/792.ts
+
+#EXTINF:-1,group-title="ARAB",DMC HD
+http://magnum-ott.net:80/live/firat/firat/812.ts
+
+#EXTINF:-1,group-title="ARAB",DMC KIDS
+http://magnum-ott.net:80/live/firat/firat/950.ts
+
+#EXTINF:-1,group-title="ARAB",DMC MASRAHEYAT
+http://magnum-ott.net:80/live/firat/firat/791.ts
+
+#EXTINF:-1,group-title="ARAB",DMC NEWS
+http://magnum-ott.net:80/live/firat/firat/790.ts
+
+#EXTINF:-1,group-title="ARAB",DMC SPORTS
+http://magnum-ott.net:80/live/firat/firat/789.ts
+
+#EXTINF:-1,group-title="ARAB",CBC
+http://magnum-ott.net:80/live/firat/firat/860.ts
+
+#EXTINF:-1,group-title="ARAB",CBC DRAMA
+http://magnum-ott.net:80/live/firat/firat/798.ts
+
+#EXTINF:-1,group-title="ARAB",CBC EXTRA NEWS
+http://magnum-ott.net:80/live/firat/firat/858.ts
+
+#EXTINF:-1,group-title="ARAB",CBC SOFRA
+http://magnum-ott.net:80/live/firat/firat/859.ts
+
+#EXTINF:-1,group-title="ARAB",CHADA FM HD
+http://magnum-ott.net:80/live/firat/firat/7174.ts
+
+#EXTINF:-1,group-title="ARAB",CIMA TV
+http://magnum-ott.net:80/live/firat/firat/828.ts
+
+#EXTINF:-1,group-title="ARAB",CINEMA PRO
+http://magnum-ott.net:80/live/firat/firat/829.ts
+
+#EXTINF:-1,group-title="ARAB",DREAM
+http://magnum-ott.net:80/live/firat/firat/843.ts
+
+#EXTINF:-1,group-title="ARAB",PANORAMA DRAMA 1
+http://magnum-ott.net:80/live/firat/firat/801.ts
+
+#EXTINF:-1,group-title="ARAB",PANORAMA DRAMA 2
+http://magnum-ott.net:80/live/firat/firat/800.ts
+
+#EXTINF:-1,group-title="ARAB",PANORAMA FILM
+http://magnum-ott.net:80/live/firat/firat/830.ts
+
+#EXTINF:-1,group-title="ARAB",PANORAMA FOOD
+http://magnum-ott.net:80/live/firat/firat/799.ts
+
+#EXTINF:-1,group-title="ARAB",AL KAHERA WAL NAS  2
+http://magnum-ott.net:80/live/firat/firat/819.ts
+
+#EXTINF:-1,group-title="ARAB",AL KAHERA WE ALNASS
+http://magnum-ott.net:80/live/firat/firat/847.ts
+
+#EXTINF:-1,group-title="ARAB",AL KAHERA WEL NES
+http://magnum-ott.net:80/live/firat/firat/846.ts
+
+#EXTINF:-1,group-title="ARAB",MODY KIDS
+http://magnum-ott.net:80/live/firat/firat/953.ts
+
+#EXTINF:-1,group-title="ARAB",MTA INTERNATIONAL
+http://magnum-ott.net:80/live/firat/firat/876.ts
+
+#EXTINF:-1,group-title="ARAB",MTA MUSLIM TV
+http://magnum-ott.net:80/live/firat/firat/877.ts
+
+#EXTINF:-1,group-title="ARAB",MUSAWA TV
+http://magnum-ott.net:80/live/firat/firat/710.ts
+
+#EXTINF:-1,group-title="ARAB",ALHAYAT RED
+http://magnum-ott.net:80/live/firat/firat/17129.ts
+
+#EXTINF:-1,group-title="ARAB",ALHAYAT 2
+http://magnum-ott.net:80/live/firat/firat/787.ts
+
+#EXTINF:-1,group-title="ARAB",ALHAYAT WE ALNAS
+http://magnum-ott.net:80/live/firat/firat/786.ts
+
+#EXTINF:-1,group-title="ARAB",NABA TV
+http://magnum-ott.net:80/live/firat/firat/705.ts
+
+#EXTINF:-1,group-title="ARAB",MELODY CLASSIC
+http://magnum-ott.net:80/live/firat/firat/822.ts
+
+#EXTINF:-1,group-title="ARAB",AL BAIT BAITAK CINEMA
+http://magnum-ott.net:80/live/firat/firat/821.ts
+
+#EXTINF:-1,group-title="ARAB",AL HAYAT MUSLSALAT
+http://magnum-ott.net:80/live/firat/firat/856.ts
+
+#EXTINF:-1,group-title="ARAB",AL MASRAWIA AFLAM
+http://magnum-ott.net:80/live/firat/firat/813.ts
+
+#EXTINF:-1,group-title="ARAB",SADA EL BALAD
+http://magnum-ott.net:80/live/firat/firat/845.ts
+
+#EXTINF:-1,group-title="ARAB",SADA EL BALAD DRAMA
+http://magnum-ott.net:80/live/firat/firat/844.ts
+
+#EXTINF:-1,group-title="ARAB",STAR CINEMA 1
+http://magnum-ott.net:80/live/firat/firat/833.ts
+
+#EXTINF:-1,group-title="ARAB",STAR CINEMA 2
+http://magnum-ott.net:80/live/firat/firat/832.ts
+
+#EXTINF:-1,group-title="ARAB",TOK TOK AFLAM
+http://magnum-ott.net:80/live/firat/firat/782.ts
+
+#EXTINF:-1,group-title="ARAB",TOK TOK CINEMA
+http://magnum-ott.net:80/live/firat/firat/831.ts
+
+#EXTINF:-1,group-title="ARAB",AL NAHAR DRAMA
+http://magnum-ott.net:80/live/firat/firat/839.ts
+
+#EXTINF:-1,group-title="ARAB",AL NAHAR ONE
+http://magnum-ott.net:80/live/firat/firat/840.ts
+
+#EXTINF:-1,group-title="ARAB",AL MASRIYA
+http://magnum-ott.net:80/live/firat/firat/788.ts
+
+#EXTINF:-1,group-title="ARAB",NILE TV
+http://magnum-ott.net:80/live/firat/firat/19163.ts
+
+#EXTINF:-1,group-title="ARAB",MASPERO ZAMAN
+http://magnum-ott.net:80/live/firat/firat/797.ts
+
+#EXTINF:-1,group-title="ARAB",MEHWAR
+http://magnum-ott.net:80/live/firat/firat/835.ts
+
+#EXTINF:-1,group-title="ARAB",MEKAMELEEN
+http://magnum-ott.net:80/live/firat/firat/857.ts
+
+#EXTINF:-1,group-title="ARAB",EL SHARQ
+http://magnum-ott.net:80/live/firat/firat/834.ts
+
+#EXTINF:-1,group-title="ARAB",AL AHLY
+http://magnum-ott.net:80/live/firat/firat/866.ts
+
+#EXTINF:-1,group-title="ARAB",ESC
+http://magnum-ott.net:80/live/firat/firat/861.ts
+
+#EXTINF:-1,group-title="ARAB",AL GHAD TV
+http://magnum-ott.net:80/live/firat/firat/842.ts
+
+#EXTINF:-1,group-title="ARAB",MAZAZIKH TV
+http://magnum-ott.net:80/live/firat/firat/827.ts
+
+#EXTINF:-1,group-title="ARAB",ARABICA TV
+http://magnum-ott.net:80/live/firat/firat/826.ts
+
+#EXTINF:-1,group-title="ARAB",AL GHAD MUSHREQ TV
+http://magnum-ott.net:80/live/firat/firat/825.ts
+
+#EXTINF:-1,group-title="ARAB",AFRAH TV
+http://magnum-ott.net:80/live/firat/firat/824.ts
+
+#EXTINF:-1,group-title="ARAB",LTC
+http://magnum-ott.net:80/live/firat/firat/818.ts
+
+#EXTINF:-1,group-title="ARAB",AL DAWAEIA
+http://magnum-ott.net:80/live/firat/firat/815.ts
+
+#EXTINF:-1,group-title="ARAB",AL SHAREYYAH
+http://magnum-ott.net:80/live/firat/firat/814.ts
+
+#EXTINF:-1,group-title="ARAB",WATAN TV
+http://magnum-ott.net:80/live/firat/firat/796.ts
+
+#EXTINF:-1,group-title="ARAB",AZHARI TV
+http://magnum-ott.net:80/live/firat/firat/795.ts
+
+#EXTINF:-1,group-title="ARAB",ALTHANYA
+http://magnum-ott.net:80/live/firat/firat/785.ts
+
+#EXTINF:-1,group-title="ARAB",DIRECT
+http://magnum-ott.net:80/live/firat/firat/784.ts
+
+#EXTINF:-1,group-title="ARAB",SEHATY
+http://magnum-ott.net:80/live/firat/firat/783.ts
+
+#EXTINF:-1,group-title="ARAB",AL HADATH AL YOUM
+http://magnum-ott.net:80/live/firat/firat/836.ts
+
+#EXTINF:-1,group-title="ARAB",MBC 1
+http://magnum-ott.net:80/live/firat/firat/979.ts
+
+#EXTINF:-1,group-title="ARAB",MBC 2
+http://magnum-ott.net:80/live/firat/firat/978.ts
+
+#EXTINF:-1,group-title="ARAB",MBC 3
+http://magnum-ott.net:80/live/firat/firat/977.ts
+
+#EXTINF:-1,group-title="ARAB",MBC 4
+http://magnum-ott.net:80/live/firat/firat/976.ts
+
+#EXTINF:-1,group-title="ARAB",MBC ACTION
+http://magnum-ott.net:80/live/firat/firat/975.ts
+
+#EXTINF:-1,group-title="ARAB",MBC BOLLYWOOD
+http://magnum-ott.net:80/live/firat/firat/968.ts
+
+#EXTINF:-1,group-title="ARAB",MBC DRAMA
+http://magnum-ott.net:80/live/firat/firat/973.ts
+
+#EXTINF:-1,group-title="ARAB",MBC MASR
+http://magnum-ott.net:80/live/firat/firat/863.ts
+
+#EXTINF:-1,group-title="ARAB",MBC MASR 2
+http://magnum-ott.net:80/live/firat/firat/862.ts
+
+#EXTINF:-1,group-title="ARAB",MBC MAX
+http://magnum-ott.net:80/live/firat/firat/974.ts
+
+#EXTINF:-1,group-title="ARAB",ZEE ALWAN
+http://magnum-ott.net:80/live/firat/firat/959.ts
+
+#EXTINF:-1,group-title="ARAB",ZEE AFLAM
+http://magnum-ott.net:80/live/firat/firat/958.ts
+
+#EXTINF:-1,group-title="ARAB",B4U PLUS
+http://magnum-ott.net:80/live/firat/firat/956.ts
+
+#EXTINF:-1,group-title="ARAB",B4U AFLAM
+http://magnum-ott.net:80/live/firat/firat/957.ts
+
+#EXTINF:-1,group-title="ARAB",WANASAH TV
+http://magnum-ott.net:80/live/firat/firat/967.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC1 HD
+http://magnum-ott.net:80/live/firat/firat/31264.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC2 HD
+http://magnum-ott.net:80/live/firat/firat/31263.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC3 HD
+http://magnum-ott.net:80/live/firat/firat/31262.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC4 HD
+http://magnum-ott.net:80/live/firat/firat/31261.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC Action HD
+http://magnum-ott.net:80/live/firat/firat/31271.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC Bollywood HD
+http://magnum-ott.net:80/live/firat/firat/31270.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC DRAMA  HD
+http://magnum-ott.net:80/live/firat/firat/31269.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC Drama HD
+http://magnum-ott.net:80/live/firat/firat/31268.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC Masir2
+http://magnum-ott.net:80/live/firat/firat/31267.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC MAX HD
+http://magnum-ott.net:80/live/firat/firat/31266.ts
+
+#EXTINF:-1,MYHD PREMIUM - MBC Variety HD
+http://magnum-ott.net:80/live/firat/firat/31265.ts
+
+#EXTINF:-1,group-title="SPORTS",BEIN MAX 1 HD
+http://magnum-ott.net:80/live/firat/firat/39171.ts
+
+#EXTINF:-1,group-title="SPORTS",BEIN MAX 2 HD
+http://magnum-ott.net:80/live/firat/firat/39170.ts
+
+#EXTINF:-1,group-title="SPORTS",BEINMAX 1 FHD
+http://magnum-ott.net:80/live/firat/firat/39438.ts
+
+#EXTINF:-1,group-title="SPORTS",BEINMAX 1 HEVC/4K
+http://magnum-ott.net:80/live/firat/firat/39437.ts
+
+#EXTINF:-1,group-title="SPORTS",BEINMAX 2 FHD
+http://magnum-ott.net:80/live/firat/firat/39436.ts
+
+#EXTINF:-1,group-title="SPORTS",BEINMAX 2 HEVC/4K
+http://magnum-ott.net:80/live/firat/firat/39435.ts
+
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 1 1.2MB
 http://magnum-ott.net:80/live/firat/firat/18114.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 2 HD
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 2 1.2MB
 http://magnum-ott.net:80/live/firat/firat/18113.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 3 HD
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 3 1.2MB
 http://magnum-ott.net:80/live/firat/firat/18112.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 4 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/4.ts
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 5 1.2MB
+http://magnum-ott.net:80/live/firat/firat/18110.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 5 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/5.ts
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 6 1.2MB
+http://magnum-ott.net:80/live/firat/firat/18109.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 6 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/6.ts
+#EXTINF:-1,group-title="SPORTS",BEIN SPORT 8 1.2MB
+http://magnum-ott.net:80/live/firat/firat/18107.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 7 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/7.ts
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 1 HD
+http://magnum-ott.net:80/live/firat/firat/27921.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 8 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/8.ts
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 2 HD
+http://magnum-ott.net:80/live/firat/firat/27920.ts
 
-#EXTINF:-1,group-title="SPORT",beIN Sports 9 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/9.ts
-#EXTINF:-1,group-title="SPORT",beIN Sports 10 HD(AR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/10.ts
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 3 HD
+http://magnum-ott.net:80/live/firat/firat/27919.ts
 
-#EXTINF:0,group-title="SPORT",ELEVEN SPORT 1 HD
-http://188.80.171.33:9981/stream/channelid/1589393498?ticket=54C81E7CF35D0C74D965BAC2CD20A17F2ADA4879&profile=pass
-#EXTINF:0,group-title="SPORT",ESPN
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 4 HD
+http://magnum-ott.net:80/live/firat/firat/27918.ts
+
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 5 HD
+http://magnum-ott.net:80/live/firat/firat/27917.ts
+
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 6 HD
+http://magnum-ott.net:80/live/firat/firat/27916.ts
+
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 7 HD
+http://magnum-ott.net:80/live/firat/firat/27915.ts
+
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS 8 HD
+http://magnum-ott.net:80/live/firat/firat/27914.ts
+
+#EXTINF:-1,group-title="ARAB",QHD BEIN SPORTS NBA HD
+http://magnum-ott.net:80/live/firat/firat/27904.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN  SPORT HD
+http://magnum-ott.net:80/live/firat/firat/27902.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORT HD
+http://magnum-ott.net:80/live/firat/firat/27926.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORT NEWS HD
+http://magnum-ott.net:80/live/firat/firat/27925.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 1 HD
+http://magnum-ott.net:80/live/firat/firat/27901.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 2 HD
+http://magnum-ott.net:80/live/firat/firat/27900.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 3 HD
+http://magnum-ott.net:80/live/firat/firat/27899.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 4 HD
+http://magnum-ott.net:80/live/firat/firat/27898.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 5 HD
+http://magnum-ott.net:80/live/firat/firat/27897.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 6 HD
+http://magnum-ott.net:80/live/firat/firat/27896.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 7 HD
+http://magnum-ott.net:80/live/firat/firat/27895.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 8 HD
+http://magnum-ott.net:80/live/firat/firat/27894.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 9 HD
+http://magnum-ott.net:80/live/firat/firat/27893.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 10 HD
+http://magnum-ott.net:80/live/firat/firat/27892.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 11 HD EN
+http://magnum-ott.net:80/live/firat/firat/27891.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 12 HD EN
+http://magnum-ott.net:80/live/firat/firat/27890.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 13 HD
+http://magnum-ott.net:80/live/firat/firat/27889.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 14 HD
+http://magnum-ott.net:80/live/firat/firat/27888.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 15 HD
+http://magnum-ott.net:80/live/firat/firat/27887.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS 16 HD
+http://magnum-ott.net:80/live/firat/firat/27886.ts
+
+#EXTINF:-1,group-title="ARAB",BEIN SPORTS NBA HD
+http://magnum-ott.net:80/live/firat/firat/27884.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 1 HD
+http://magnum-ott.net:80/live/firat/firat/26378.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 2 HD
+http://magnum-ott.net:80/live/firat/firat/26377.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 3 HD
+http://magnum-ott.net:80/live/firat/firat/26376.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 4 HD
+http://magnum-ott.net:80/live/firat/firat/26375.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 5 HD
+http://magnum-ott.net:80/live/firat/firat/26374.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 6 HD
+http://magnum-ott.net:80/live/firat/firat/26373.ts
+
+#EXTINF:-1,group-title="ARAB",BEOUT Q 7 HD
+http://magnum-ott.net:80/live/firat/firat/26372.ts
+
+#EXTINF:-1,group-title="ARAB",ELMAHADRA
+http://magnum-ott.net:80/live/firat/firat/569.ts
+
+#EXTINF:-1,group-title="ARAB",ELMOURITANIA
+http://magnum-ott.net:80/live/firat/firat/568.ts
+
+#EXTINF:-1,group-title="ARAB",ELMOURITANIA 2
+http://magnum-ott.net:80/live/firat/firat/567.ts
+
+#EXTINF:-1,group-title="ARAB",ELWATANIA TV
+http://magnum-ott.net:80/live/firat/firat/566.ts
+
+#EXTINF:-1,group-title="ARAB",ALMOURABITOUNE
+http://magnum-ott.net:80/live/firat/firat/571.ts
+
+#EXTINF:-1,group-title="ARAB",SAHEL TV
+http://magnum-ott.net:80/live/firat/firat/565.ts
+
+#EXTINF:-1,group-title="ARAB",M TUNISIA
+http://magnum-ott.net:80/live/firat/firat/1009.ts
+
+#EXTINF:-1,group-title="ARAB",TUNISNA
+http://magnum-ott.net:80/live/firat/firat/1008.ts
+
+#EXTINF:-1,group-title="ARAB",HANNIBAL
+http://magnum-ott.net:80/live/firat/firat/1007.ts
+
+#EXTINF:-1,group-title="ARAB",ATTESSIA TV
+http://magnum-ott.net:80/live/firat/firat/1006.ts
+
+#EXTINF:-1,group-title="ARAB",ZITOUNA HEDAYA
+http://magnum-ott.net:80/live/firat/firat/1005.ts
+
+#EXTINF:-1,group-title="ARAB",AL JANOUBIA
+http://magnum-ott.net:80/live/firat/firat/1004.ts
+
+#EXTINF:-1,group-title="ARAB",TUNESIE TELEVISION
+http://magnum-ott.net:80/live/firat/firat/1003.ts
+
+#EXTINF:-1,group-title="ARAB",TUNISIA NATIONAL 1
+http://magnum-ott.net:80/live/firat/firat/1002.ts
+
+#EXTINF:-1,group-title="ARAB",TUNISIA NATIONAL 2
+http://magnum-ott.net:80/live/firat/firat/1001.ts
+
+#EXTINF:-1,group-title="ARAB",AL INSEN
+http://magnum-ott.net:80/live/firat/firat/1000.ts
+
+#EXTINF:-1,group-title="ARAB",ZAYTOONA TV
+http://magnum-ott.net:80/live/firat/firat/997.ts
+
+#EXTINF:-1,group-title="ARAB",TELVZA TV
+http://magnum-ott.net:80/live/firat/firat/998.ts
+
+#EXTINF:-1,group-title="ARAB",AL HIWAR ETTOUNSI
+http://magnum-ott.net:80/live/firat/firat/838.ts
+
+#EXTINF:-1,group-title="ARAB",NESSMA TV
+http://magnum-ott.net:80/live/firat/firat/999.ts
+
+#EXTINF:-1,group-title="ARAB",EN TV ALGERIE
+http://magnum-ott.net:80/live/firat/firat/1041.ts
+
+#EXTINF:-1,group-title="ARAB",CANAL ALGERIE
+http://magnum-ott.net:80/live/firat/firat/1040.ts
+
+#EXTINF:-1,group-title="ARAB",A3 ALGERIE
+http://magnum-ott.net:80/live/firat/firat/1039.ts
+
+#EXTINF:-1,group-title="ARAB",CHOUROUK TV HD
+http://magnum-ott.net:80/live/firat/firat/1038.ts
+
+#EXTINF:-1,group-title="ARAB",ECHOUROUK
+http://magnum-ott.net:80/live/firat/firat/1037.ts
+
+#EXTINF:-1,group-title="ARAB",ECHOUROUK NEWS
+http://magnum-ott.net:80/live/firat/firat/1035.ts
+
+#EXTINF:-1,group-title="ARAB",DZAIR NEWS
+http://magnum-ott.net:80/live/firat/firat/1034.ts
+
+#EXTINF:-1,group-title="ARAB",ECHOROUK BENNA
+http://magnum-ott.net:80/live/firat/firat/1032.ts
+
+#EXTINF:-1,group-title="ARAB",SAMIRA TV
+http://magnum-ott.net:80/live/firat/firat/1031.ts
+
+#EXTINF:-1,group-title="ARAB",EL HEDDAF
+http://magnum-ott.net:80/live/firat/firat/1030.ts
+
+#EXTINF:-1,group-title="ARAB",EL BILAD
+http://magnum-ott.net:80/live/firat/firat/1029.ts
+
+#EXTINF:-1,group-title="ARAB",EL DJAZAIRIA
+http://magnum-ott.net:80/live/firat/firat/1027.ts
+
+#EXTINF:-1,group-title="ARAB",ENNAHAR ALGERIE
+http://magnum-ott.net:80/live/firat/firat/1026.ts
+
+#EXTINF:-1,group-title="ARAB",AL HAYAT TV ALGERIE
+http://magnum-ott.net:80/live/firat/firat/41643.ts
+
+#EXTINF:-1,group-title="ARAB",DZAIR JANNAH
+http://magnum-ott.net:80/live/firat/firat/1025.ts
+
+#EXTINF:-1,group-title="ARAB",DZAIR TV
+http://magnum-ott.net:80/live/firat/firat/1024.ts
+
+#EXTINF:-1,group-title="ARAB",AL ANIS TV
+http://magnum-ott.net:80/live/firat/firat/1022.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAGHARIBIA
+http://magnum-ott.net:80/live/firat/firat/1021.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAGHARIBIA 2
+http://magnum-ott.net:80/live/firat/firat/1020.ts
+
+#EXTINF:-1,group-title="ARAB",BAHIA TV
+http://magnum-ott.net:80/live/firat/firat/1019.ts
+
+#EXTINF:-1,group-title="ARAB",BEUR TV
+http://magnum-ott.net:80/live/firat/firat/1018.ts
+
+#EXTINF:-1,group-title="ARAB",BERBERE JEUNESSE
+http://magnum-ott.net:80/live/firat/firat/1016.ts
+
+#EXTINF:-1,group-title="ARAB",BERBERE MUSIC
+http://magnum-ott.net:80/live/firat/firat/1015.ts
+
+#EXTINF:-1,group-title="ARAB",BERBERE TV
+http://magnum-ott.net:80/live/firat/firat/1014.ts
+
+#EXTINF:-1,group-title="ARAB",CNA
+http://magnum-ott.net:80/live/firat/firat/1013.ts
+
+#EXTINF:-1,group-title="ARAB",DZAIR 24
+http://magnum-ott.net:80/live/firat/firat/1012.ts
+
+#EXTINF:-1,group-title="ARAB",DZAIR 3
+http://magnum-ott.net:80/live/firat/firat/1011.ts
+
+#EXTINF:-1,group-title="ARAB",ALGERIE 4
+http://magnum-ott.net:80/live/firat/firat/7266.ts
+
+#EXTINF:-1,group-title="ARAB",ALGERIE 5
+http://magnum-ott.net:80/live/firat/firat/7265.ts
+
+#EXTINF:-1,group-title="ARAB",ENTV ALGERIE
+http://magnum-ott.net:80/live/firat/firat/19169.ts
+
+#EXTINF:-1,group-title="ARAB",AL OULA HD
+http://magnum-ott.net:80/live/firat/firat/1057.ts
+
+#EXTINF:-1,group-title="ARAB",ARRYADIA HD LIVE
+http://magnum-ott.net:80/live/firat/firat/1056.ts
+
+#EXTINF:-1,group-title="ARAB",AL OULA INTER
+http://magnum-ott.net:80/live/firat/firat/1053.ts
+
+#EXTINF:-1,group-title="ARAB",2M MAROC
+http://magnum-ott.net:80/live/firat/firat/1052.ts
+
+#EXTINF:-1,group-title="ARAB",ARRIADIA
+http://magnum-ott.net:80/live/firat/firat/1051.ts
+
+#EXTINF:-1,group-title="ARAB",ARRABIA
+http://magnum-ott.net:80/live/firat/firat/1050.ts
+
+#EXTINF:-1,group-title="ARAB",AL MAGHRIBIA
+http://magnum-ott.net:80/live/firat/firat/1049.ts
+
+#EXTINF:-1,group-title="ARAB",ASSADISSA
+http://magnum-ott.net:80/live/firat/firat/1048.ts
+
+#EXTINF:-1,group-title="ARAB",ASSABIA
+http://magnum-ott.net:80/live/firat/firat/1047.ts
+
+#EXTINF:-1,group-title="ARAB",MEDI 1 TV
+http://magnum-ott.net:80/live/firat/firat/1045.ts
+
+#EXTINF:-1,group-title="ARAB",AL ONS TV
+http://magnum-ott.net:80/live/firat/firat/7173.ts
+
+#EXTINF:-1,group-title="ARAB",TAMAZIGHT
+http://magnum-ott.net:80/live/firat/firat/1046.ts
+
+#EXTINF:-1,group-title="ARAB",MEDI1TV AFRIQUE HD
+http://magnum-ott.net:80/live/firat/firat/1055.ts
+
+#EXTINF:-1,group-title="ARAB",TELE MAROC
+http://magnum-ott.net:80/live/firat/firat/1044.ts
+
+#EXTINF:-1,group-title="ARAB",CANAL ATLAS
+http://magnum-ott.net:80/live/firat/firat/1043.ts
+
+#EXTINF:-1,group-title="ARAB",TNT 2M MAROC
+http://magnum-ott.net:80/live/firat/firat/14792.ts
+
+#EXTINF:-1,group-title="ARAB",TNT AL MAGHRIBIA
+http://magnum-ott.net:80/live/firat/firat/14789.ts
+
+#EXTINF:-1,group-title="ARAB",TNT AL OULA
+http://magnum-ott.net:80/live/firat/firat/14795.ts
+
+#EXTINF:-1,group-title="ARAB",TNT AL OULA HD
+http://magnum-ott.net:80/live/firat/firat/14794.ts
+
+#EXTINF:-1,group-title="ARAB",TNT AL OULA INTER
+http://magnum-ott.net:80/live/firat/firat/14793.ts
+
+#EXTINF:-1,group-title="ARAB",TNT ARRABIA
+http://magnum-ott.net:80/live/firat/firat/14790.ts
+
+#EXTINF:-1,group-title="ARAB",TNT ARRIADIA
+http://magnum-ott.net:80/live/firat/firat/14791.ts
+
+#EXTINF:-1,group-title="ARAB",TNT ASSABIA
+http://magnum-ott.net:80/live/firat/firat/14787.ts
+
+#EXTINF:-1,group-title="ARAB",TNT ASSADISSA
+http://magnum-ott.net:80/live/firat/firat/14788.ts
+
+#EXTINF:-1,group-title="ARAB",TNT MEDI 1 TV
+http://magnum-ott.net:80/live/firat/firat/14785.ts
+
+#EXTINF:-1,group-title="ARAB",TNT TAMAZIGHT
+http://magnum-ott.net:80/live/firat/firat/14786.ts
+
+#EXTINF:-1,group-title="ARAB",GM ALWAN HD
+http://magnum-ott.net:80/live/firat/firat/27468.ts
+
+#EXTINF:-1,group-title="ARAB",GM CHAABI
+http://magnum-ott.net:80/live/firat/firat/27463.ts
+
+#EXTINF:-1,group-title="ARAB",GM COMEDIA
+http://magnum-ott.net:80/live/firat/firat/27464.ts
+
+#EXTINF:-1,group-title="ARAB",GM MOVIES
+http://magnum-ott.net:80/live/firat/firat/27462.ts
+
+#EXTINF:-1,group-title="ARAB",GM MUSIC TV HD
+http://magnum-ott.net:80/live/firat/firat/27467.ts
+
+#EXTINF:-1,group-title="ARAB",GM TAMAZIGHT
+http://magnum-ott.net:80/live/firat/firat/27466.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  AFLAM
+http://magnum-ott.net:80/live/firat/firat/27461.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  AFLAM HD
+http://magnum-ott.net:80/live/firat/firat/27460.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  ANIME
+http://magnum-ott.net:80/live/firat/firat/27459.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  BOLLYWOOD
+http://magnum-ott.net:80/live/firat/firat/27458.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  CARTOO
+http://magnum-ott.net:80/live/firat/firat/27457.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  CLASSIC
+http://magnum-ott.net:80/live/firat/firat/27456.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  DOCUMENTAIRE
+http://magnum-ott.net:80/live/firat/firat/27455.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  HITS HD
+http://magnum-ott.net:80/live/firat/firat/27454.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  KOREAN
+http://magnum-ott.net:80/live/firat/firat/27453.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  MOVIES HD
+http://magnum-ott.net:80/live/firat/firat/27452.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  MUSIC HD
+http://magnum-ott.net:80/live/firat/firat/27451.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  SERIES
+http://magnum-ott.net:80/live/firat/firat/27450.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  SPORT HD
+http://magnum-ott.net:80/live/firat/firat/27449.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  TOURISME
+http://magnum-ott.net:80/live/firat/firat/27448.ts
+
+#EXTINF:-1,group-title="ARAB",S7T  TURK
+http://magnum-ott.net:80/live/firat/firat/27447.ts
+
+#EXTINF:-1,group-title="ARAB",HALA TV
+http://magnum-ott.net:80/live/firat/firat/19168.ts
+
+#EXTINF:-1,group-title="ARAB",HALABA TV
+http://magnum-ott.net:80/live/firat/firat/823.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA HD
+http://magnum-ott.net:80/live/firat/firat/941.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA
+http://magnum-ott.net:80/live/firat/firat/936.ts
+
+#EXTINF:-1,group-title="ARAB",AL ARABIYA
+http://magnum-ott.net:80/live/firat/firat/931.ts
+
+#EXTINF:-1,group-title="ARAB",AL ARABIYA AL HADATH
+http://magnum-ott.net:80/live/firat/firat/930.ts
+
+#EXTINF:-1,group-title="ARAB",AL ARABY HD
+http://magnum-ott.net:80/live/firat/firat/937.ts
+
+#EXTINF:-1,group-title="ARAB",BBC ARABIC
+http://magnum-ott.net:80/live/firat/firat/929.ts
+
+#EXTINF:-1,group-title="ARAB",FRANCE 24
+http://magnum-ott.net:80/live/firat/firat/922.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA ENGLISH
+http://magnum-ott.net:80/live/firat/firat/919.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA ENGLISH HD
+http://magnum-ott.net:80/live/firat/firat/940.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA DOCUMENTARY
+http://magnum-ott.net:80/live/firat/firat/920.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA DOCUMENTARY HD
+http://magnum-ott.net:80/live/firat/firat/939.ts
+
+#EXTINF:-1,group-title="ARAB",AL JAZEERA MUBASHER
+http://magnum-ott.net:80/live/firat/firat/935.ts
+
+#EXTINF:-1,group-title="ARAB",CHOUROUK NEWS HD
+http://magnum-ott.net:80/live/firat/firat/1036.ts
+
+#EXTINF:-1,group-title="ARAB",DW ARABIC
+http://magnum-ott.net:80/live/firat/firat/17707.ts
+
+#EXTINF:-1,group-title="ARAB",TRT ARABIC
+http://magnum-ott.net:80/live/firat/firat/17706.ts
+
+#EXTINF:-1,group-title="ARAB",AL HURRA
+http://magnum-ott.net:80/live/firat/firat/924.ts
+
+#EXTINF:-1,group-title="ARAB",AL HURRA IRAQ
+http://magnum-ott.net:80/live/firat/firat/637.ts
+
+#EXTINF:-1,group-title="ARAB",I24 NEWS FRENCH HD
+http://magnum-ott.net:80/live/firat/firat/918.ts
+
+#EXTINF:-1,group-title="ARAB",BBC WORLD NEWS
+http://magnum-ott.net:80/live/firat/firat/923.ts
+
+#EXTINF:-1,group-title="ARAB",QUEST ARABIA
+http://magnum-ott.net:80/live/firat/firat/912.ts
+
+#EXTINF:-1,group-title="ARAB",ABU DHABI NGC HD
+http://magnum-ott.net:80/live/firat/firat/938.ts
+
+#EXTINF:-1,group-title="ARAB",AL ALAM NEWS CHANNEL
+http://magnum-ott.net:80/live/firat/firat/934.ts
+
+#EXTINF:-1,group-title="ARAB",SKY NEWS ARABIA
+http://magnum-ott.net:80/live/firat/firat/933.ts
+
+#EXTINF:-1,group-title="ARAB",RT ARAB
+http://magnum-ott.net:80/live/firat/firat/926.ts
+
+#EXTINF:-1,group-title="ARAB",ANN TV
+http://magnum-ott.net:80/live/firat/firat/925.ts
+
+#EXTINF:-1,group-title="ARAB",CNBC ARABIYA
+http://magnum-ott.net:80/live/firat/firat/921.ts
+
+#EXTINF:-1,group-title="ARAB",AL HIWAR HD
+http://magnum-ott.net:80/live/firat/firat/916.ts
+
+#EXTINF:-1,group-title="ARAB",AL GHAD HD
+http://magnum-ott.net:80/live/firat/firat/915.ts
+
+#EXTINF:-1,group-title="ARAB",AL MUSTAKILA
+http://magnum-ott.net:80/live/firat/firat/914.ts
+
+#EXTINF:-1,group-title="ARAB",KAIFA
+http://magnum-ott.net:80/live/firat/firat/913.ts
+
+#EXTINF:-1,group-title="RUSIA",AMEDIA 1 HD
+http://magnum-ott.net:80/live/firat/firat/21440.ts
+
+#EXTINF:-1,group-title="RUSIA",AMEDIA 2
+http://magnum-ott.net:80/live/firat/firat/21439.ts
+
+#EXTINF:-1,group-title="RUSIA",AMEDIA HIT
+http://magnum-ott.net:80/live/firat/firat/21438.ts
+
+#EXTINF:-1,group-title="RUSIA",Amedia Premium
+http://magnum-ott.net:80/live/firat/firat/21437.ts
+
+#EXTINF:-1,group-title="RUSIA",ANIMAL PLANET HD
+http://magnum-ott.net:80/live/firat/firat/21436.ts
+
+#EXTINF:-1,group-title="RUSIA",CCTV
+http://magnum-ott.net:80/live/firat/firat/21435.ts
+
+#EXTINF:-1,group-title="RUSIA",CHANNEL ONE HD
+http://magnum-ott.net:80/live/firat/firat/21434.ts
+
+#EXTINF:-1,group-title="RUSIA",CTC
+http://magnum-ott.net:80/live/firat/firat/21433.ts
+
+#EXTINF:-1,group-title="RUSIA",DISCOVERY CHANNEL HD
+http://magnum-ott.net:80/live/firat/firat/21432.ts
+
+#EXTINF:-1,group-title="RUSIA",DOM KINO INTERNATIONAL
+http://magnum-ott.net:80/live/firat/firat/21431.ts
+
+#EXTINF:-1,group-title="RUSIA",DOM KINO PREMIUM HD
+http://magnum-ott.net:80/live/firat/firat/21430.ts
+
+#EXTINF:-1,group-title="RUSIA",EUROPA PLUS TV
+http://magnum-ott.net:80/live/firat/firat/21429.ts
+
+#EXTINF:-1,group-title="RUSIA",EUROSPORT 1 HD
+http://magnum-ott.net:80/live/firat/firat/21428.ts
+
+#EXTINF:-1,group-title="RUSIA",EUROSPORT 2 HD
+http://magnum-ott.net:80/live/firat/firat/21427.ts
+
+#EXTINF:-1,group-title="RUSIA",FOX HD
+http://magnum-ott.net:80/live/firat/firat/21426.ts
+
+#EXTINF:-1,group-title="RUSIA",FOX LIFE HD
+http://magnum-ott.net:80/live/firat/firat/21425.ts
+
+#EXTINF:-1,group-title="RUSIA",KINOPREMIERA HD
+http://magnum-ott.net:80/live/firat/firat/21424.ts
+
+#EXTINF:-1,group-title="RUSIA",KINOSERIYA HD
+http://magnum-ott.net:80/live/firat/firat/21423.ts
+
+#EXTINF:-1,group-title="RUSIA",KVN TV
+http://magnum-ott.net:80/live/firat/firat/21422.ts
+
+#EXTINF:-1,group-title="RUSIA",La Minor
+http://magnum-ott.net:80/live/firat/firat/21421.ts
+
+#EXTINF:-1,group-title="RUSIA",MATCH TV HD
+http://magnum-ott.net:80/live/firat/firat/21420.ts
+
+#EXTINF:-1,group-title="RUSIA",MATCH! ARENA HD
+http://magnum-ott.net:80/live/firat/firat/21419.ts
+
+#EXTINF:-1,group-title="RUSIA",MATCH! FOOTBALL 1 HD
+http://magnum-ott.net:80/live/firat/firat/21418.ts
+
+#EXTINF:-1,group-title="RUSIA",MATCH! FOOTBALL 3 HD
+http://magnum-ott.net:80/live/firat/firat/21416.ts
+
+#EXTINF:-1,group-title="RUSIA",MATCH! GAME HD
+http://magnum-ott.net:80/live/firat/firat/21415.ts
+
+#EXTINF:-1,group-title="RUSIA",MNOGO TV
+http://magnum-ott.net:80/live/firat/firat/21414.ts
+
+#EXTINF:-1,group-title="RUSIA",MTV RUSSIA HD
+http://magnum-ott.net:80/live/firat/firat/21413.ts
+
+#EXTINF:-1,group-title="RUSIA",NAT GEO HD
+http://magnum-ott.net:80/live/firat/firat/21412.ts
+
+#EXTINF:-1,group-title="RUSIA",NAT GEO WILD HD
+http://magnum-ott.net:80/live/firat/firat/21411.ts
+
+#EXTINF:-1,group-title="RUSIA",NICKELODEON
+http://magnum-ott.net:80/live/firat/firat/21410.ts
+
+#EXTINF:-1,group-title="RUSIA",NTV HD
+http://magnum-ott.net:80/live/firat/firat/21409.ts
+
+#EXTINF:-1,group-title="RUSIA",PARAMOUNT CHANNEL HD
+http://magnum-ott.net:80/live/firat/firat/21408.ts
+
+#EXTINF:-1,group-title="RUSIA",PARAMOUNT COMEDY HD
+http://magnum-ott.net:80/live/firat/firat/21407.ts
+
+#EXTINF:-1,group-title="RUSIA",RAZ TV
+http://magnum-ott.net:80/live/firat/firat/21406.ts
+
+#EXTINF:-1,group-title="RUSIA",RTG TV
+http://magnum-ott.net:80/live/firat/firat/21405.ts
+
+#EXTINF:-1,group-title="RUSIA",RTR PLANETA
+http://magnum-ott.net:80/live/firat/firat/21404.ts
+
+#EXTINF:-1,group-title="RUSIA",RUSSIA 1 HD
+http://magnum-ott.net:80/live/firat/firat/21403.ts
+
+#EXTINF:-1,group-title="RUSIA",RUSSIAN MUSIC BOX
+http://magnum-ott.net:80/live/firat/firat/21402.ts
+
+#EXTINF:-1,group-title="RUSIA",RUSSKAYA NOC
+http://magnum-ott.net:80/live/firat/firat/21401.ts
+
+#EXTINF:-1,group-title="RUSIA",SHANTON TV
+http://magnum-ott.net:80/live/firat/firat/21400.ts
+
+#EXTINF:-1,group-title="RUSIA",SPIKE KIDS
+http://magnum-ott.net:80/live/firat/firat/21399.ts
+
+#EXTINF:-1,group-title="RUSIA",STRASHNOE HD
+http://magnum-ott.net:80/live/firat/firat/21398.ts
+
+#EXTINF:-1,group-title="RUSIA",STV
+http://magnum-ott.net:80/live/firat/firat/21397.ts
+
+#EXTINF:-1,group-title="RUSIA",T24
+http://magnum-ott.net:80/live/firat/firat/21396.ts
+
+#EXTINF:-1,group-title="RUSIA",TELECAFE
+http://magnum-ott.net:80/live/firat/firat/21395.ts
+
+#EXTINF:-1,group-title="RUSIA",THT MUSIC
+http://magnum-ott.net:80/live/firat/firat/21394.ts
+
+#EXTINF:-1,group-title="RUSIA",TLC
+http://magnum-ott.net:80/live/firat/firat/21393.ts
+
+#EXTINF:-1,group-title="RUSIA",TNT HD
+http://magnum-ott.net:80/live/firat/firat/21392.ts
+
+#EXTINF:-1,group-title="RUSIA",TV 1000
+http://magnum-ott.net:80/live/firat/firat/21391.ts
+
+#EXTINF:-1,group-title="RUSIA",TV 1000 COMEDY HD
+http://magnum-ott.net:80/live/firat/firat/21390.ts
+
+#EXTINF:-1,group-title="RUSIA",TV 1000 MEGAHIT HD
+http://magnum-ott.net:80/live/firat/firat/21389.ts
+
+#EXTINF:-1,group-title="RUSIA",TV 1000 PREMIUM HD
+http://magnum-ott.net:80/live/firat/firat/21388.ts
+
+#EXTINF:-1,group-title="RUSIA",TV 3
+http://magnum-ott.net:80/live/firat/firat/21387.ts
+
+#EXTINF:-1,group-title="RUSIA",VIASAT HISTORY
+http://magnum-ott.net:80/live/firat/firat/21386.ts
+
+#EXTINF:-1,group-title="RUSIA",VIASAT NATURE
+http://magnum-ott.net:80/live/firat/firat/21385.ts
+
+#EXTINF:-1,group-title="RUSIA",ZEE TV RUSSIA
+http://magnum-ott.net:80/live/firat/firat/21384.ts
+
+#EXTINF:-1,group-title="GREECE",AB CHANNEL
+http://magnum-ott.net:80/live/firat/firat/14424.ts
+
+#EXTINF:-1,group-title="GREECE",ACTION 24
+http://magnum-ott.net:80/live/firat/firat/14423.ts
+
+#EXTINF:-1,group-title="GREECE",ALERT
+http://magnum-ott.net:80/live/firat/firat/14422.ts
+
+#EXTINF:-1,group-title="GREECE",ALPH
+http://magnum-ott.net:80/live/firat/firat/14421.ts
+
+#EXTINF:-1,group-title="GREECE",ANT 1
+http://magnum-ott.net:80/live/firat/firat/14420.ts
+
+#EXTINF:-1,group-title="GREECE",ATTICA
+http://magnum-ott.net:80/live/firat/firat/14418.ts
+
+#EXTINF:-1,group-title="GREECE",BLUSKY
+http://magnum-ott.net:80/live/firat/firat/14416.ts
+
+#EXTINF:-1,group-title="GREECE",CH 9
+http://magnum-ott.net:80/live/firat/firat/14415.ts
+
+#EXTINF:-1,group-title="GREECE",CHANNEL E
+http://magnum-ott.net:80/live/firat/firat/14414.ts
+
+#EXTINF:-1,group-title="GREECE",ERT 1
+http://magnum-ott.net:80/live/firat/firat/14412.ts
+
+#EXTINF:-1,group-title="GREECE",ERT 2
+http://magnum-ott.net:80/live/firat/firat/14411.ts
+
+#EXTINF:-1,group-title="GREECE",ERT 3
+http://magnum-ott.net:80/live/firat/firat/14410.ts
+
+#EXTINF:-1,group-title="GREECE",ERT HD
+http://magnum-ott.net:80/live/firat/firat/14409.ts
+
+#EXTINF:-1,group-title="GREECE",EXTRA
+http://magnum-ott.net:80/live/firat/firat/14408.ts
+
+#EXTINF:-1,group-title="GREECE",KONTRA
+http://magnum-ott.net:80/live/firat/firat/14407.ts
+
+#EXTINF:-1,group-title="GREECE",MAD
+http://magnum-ott.net:80/live/firat/firat/14406.ts
+
+#EXTINF:-1,group-title="GREECE",MAKEDONIA
+http://magnum-ott.net:80/live/firat/firat/14405.ts
+
+#EXTINF:-1,group-title="GREECE",MEGA
+http://magnum-ott.net:80/live/firat/firat/14404.ts
+
+#EXTINF:-1,group-title="GREECE",NICK
+http://magnum-ott.net:80/live/firat/firat/14403.ts
+
+#EXTINF:-1,group-title="GREECE",RISE
+http://magnum-ott.net:80/live/firat/firat/14401.ts
+
+#EXTINF:-1,group-title="GREECE",SKAI
+http://magnum-ott.net:80/live/firat/firat/14399.ts
+
+#EXTINF:-1,group-title="GREECE",SMILE
+http://magnum-ott.net:80/live/firat/firat/14398.ts
+
+#EXTINF:-1,group-title="GREECE",STAR
+http://magnum-ott.net:80/live/firat/firat/14397.ts
+
+#EXTINF:-1,group-title="GREECE",VOULI
+http://magnum-ott.net:80/live/firat/firat/14395.ts
+
+#EXTINF:-1,group-title="NEWS",BBC 1 HD
+http://magnum-ott.net:80/live/firat/firat/17402.ts
+
+#EXTINF:-1,group-title="ZEE",ZEE TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE TV SD
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",& TV SD
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZING TV
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE ETC
+http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE MAGIC
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE CAFE HD
+https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE CAFE SD
+https://z5ams.akamaized.net/zeecafesd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE ANMOL
+https://z5ams.akamaized.net/zeeanmol/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",ZEE LIVING FOOD
+https://z5ams.akamaized.net/livingfoodz/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,group-title="ZEE",POGO
+https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,COLORS
+https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_400k/chunklist.m3u8
+
+#EXTINF:-1,SONY SAB HD
+http://216.144.250.174/Sony_Sab_hD/index.m3u8
+
+#EXTINF:-1,SONY TV
+http://216.144.250.174/SonY_TV_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,STAR PLUS HD
+http://216.144.250.174/Star_Plus_Hd/index.m3u8
+
+#EXTINF:-1,BOOGLE BOLLYWOOD
+http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ARY DIGITAL
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+
+#EXTINF:-1,GEO TV
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+
+#EXTINF:-1,GEO TV LINK 2
+http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
+
+#EXTINF:-1,GEO KAHANI LINK 2
+http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
+
+#EXTINF:-1,ARY ZINDGI
+http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/chunklist.m3u8
+
+#EXTINF:-1,URDU 1
+http://stream.tapmad.com:1935/pitvlive/madina3.stream/chunklist_w1781165584.m3u8
+
+#EXTINF:-1,HUM MASALA
+http://stream.tapmad.com:1935/pitvlive/masala3.stream/chunklist.m3u8
+
+#EXTINF:-1,HUM SITARY
+http://stream.tapmad.com:1935/pitvlive/sitaray3.stream/chunklist_w2066366458.m3u8
+
+#EXTINF:-1,ATV
+http://stream.tapmad.com:1935/pitvlive/atv3.stream/chunklist_w942217114.m3u8
+
+#EXTINF:-1,TV ONE
+http://stream.tapmad.com:1935/pitvlive/tvone3.stream/chunklist.m3u8
+
+#EXTINF:-1,APLUS
+http://173.212.252.47:1935/Aplus%20Pakistan/AplusPK/chunklist.m3u8
+
+#EXTINF:-1,AAJ ENT 2
+http://stream.tapmad.com:1935/pitvlive/aajent3.stream/chunklist.m3u8
+
+#EXTINF:-1,PLAY TV
+http://stream.tapmad.com:1935/pitvlive/playmax3_240p.stream/chunklist.m3u8
+
+#EXTINF:-1,EXPRESS ENT
+http://stream.tapmad.com:1935/pitvlive/express3_240p.stream/chunklist.m3u8
+
+#EXTINF:-1,HEALTH TV
+http://stream.tapmad.com:1935/pitvlive/healthtv3.stream/chunklist.m3u8
+
+#EXTINF:-1,PTV HOME
+http://67.231.248.131:1935/live/PTVhome/chunklist.m3u8
+
+#EXTINF:-1,PTV GLOBAL
+http://stream.tapmad.com:1935/pitvlive/ptvglobal3_240p.stream/chunklist.m3u8
+
+#EXTINF:-1,ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1,DILSE TV
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:-1,PUNJAB TV
+http://stream.tapmad.com:1935/pitvlive/punjabtv3.stream/chunklist.m3u8
+
+#EXTINF:-1,WASEEB TV
+http://stream.tapmad.com:1935/pitvlive/waseeb3.stream/chunklist.m3u8
+
+#EXTINF:-1,KAY2 TV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1,SINDH TV
+http://stream.tapmad.com:1935/pitvlive/sindhtv3.stream/chunklist.m3u8
+
+#EXTINF:-1,AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?usertoken=f098051a-28ab-489f-8bfb-26df191617ec-1537439983120tmp
+
+#EXTINF:-1,MEHRAN TV
+http://stream.tapmad.com:1935/pitvlive/mehran3.stream/chunklist.m3u8
+
+#EXTINF:-1,PASHTO ONE
+http://stream.tapmad.com:1935/pitvlive/pushto13.stream/chunklist.m3u8
+
+#EXTINF:-1,AWAZ TV
+http://stream.tapmad.com:1935/pitvlive/awaztv3.stream/chunklist.m3u8
+
+#EXTINF:-1,PTV BOLAN
+http://stream.tapmad.com:1935/pitvlive/ptvbolan3.stream/chunklist.m3u8
+
+#EXTINF:-1,DHARTI TV
+http://streamer12.dstreamone.com/dhartitv/dhartitv/playlist.m3u8?SD
+
+#EXTINF:-1,WISH TV
+http://stream.tapmad.com:1935/pitvlive/vsh3.stream/chunklist_w1776235802.m3u8
+
+#EXTINF:-1,ZEE CENIMA HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ZEE CENIMA SD
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,& PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,& PICTURES SD
+http://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,& FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,& FLIX SD
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ZEE ACTOIN HD
+http://216.144.250.174/Zee_Acti0n_Hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ZEE ACTOIN
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,&PRIVE HD
+https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,ZEE ANMOL CENIMA
+https://z5ams.akamaized.net/zanmolcnm/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD
+http://z5ams.akamaized.net/classic/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,SONY MAX
+http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,STAR GOLD
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DESI HD PLUS
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1,CINE VOICE
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
+#EXTINF:-1,SONY SIX HD
+http://216.144.250.174/Sony_SIx_SD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,STAR SPORTS 1 HINDI
+http://150.242.21.2/starsportsthree.m3u8
+
+#EXTINF:-1,SONY TEN 3 HD
+http://216.144.250.174/Ten_Sports_03_hD/index.m3u8
+
+#EXTINF:-1,APNA PUNJAB
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+
+#EXTINF:-1,CANADA STAR
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+
+#EXTINF:-1,DESI BEATS
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:-1,URDU TV
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1,SSTV PUNJABI
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BOLLYWOOD CLASSIC
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:-1,BOLLYWOOD HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:-1,STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1,SONY MOVIES ENG
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1,FILMAZIA GLOBAL
+http://stream.tapmad.com:1935/pitvlive/filmmazia3_240p.stream/chunklist.m3u8
+
+#EXTINF:-1,FILMWORLD GLOBAL
+http://stream.tapmad.com:1935/pitvlive/filmworld3_240p.stream/chunklist.m3u8
+
+#EXTINF:-1,PTV SPORTS LINK 2
+https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8
+
+#EXTINF:-1,PTV SPORTS LINK 4
+http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
+
+#EXTINF:-1,TEN SPORTS
+https://live2-shaamtv.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
+
+#EXTINF:-1,GEO SUPER LINK 2
+http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8
+
+#EXTINF:-1,BT SPORTS 1HD
+http://163.172.46.35:8080/ind/wi/index.m3u8
+
+#EXTINF:-1,BT SPORTS 2HD
+https://vip7stream.pw/lba/123/g3/bt2.m3u8
+
+#EXTINF:-1,BT SPORTS 3HD
+https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+
+#EXTINF:-1,ARENA SPORTS
+http://51.15.6.67:8080/ptv/sports/index.m3u8
+
+#EXTINF:-1,AD SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1,AD SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1,DUBAI SPORTS
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1130000.m3u8
+
+#EXTINF:-1,ON SPORTS
+http://185.27.116.54:1935/livestream/sno/chunklist_w422482277.m3u8
+
+#EXTINF:-1,VIASAT SPORTS
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+
+#EXTINF:-1,TRT SPORTS
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8
+
+#EXTINF:-1,FOOTBALL RUSSIA 2
+http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+
+#EXTINF:-1,EURO SPORTS 1 RUS
+https://vip7stream.pw/lba/123/g3/eurosport1rus.m3u8
+
+#EXTINF:-1,DIGI SPORTS 3
+https://vip7stream.pw/lba/lba/123/g3/digi3ro.m3u8
+
+#EXTINF:-1,NBC GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF:-1,FIGHT TIME
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:-1,X SPORTS
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI DKI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI NASIONAL BANDUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SPORT
+http://rr2.dens.tv/s/s48/index.m3u8
+
+#EXTINF:-1,& FLIX
+http://z5ams.akamaized.net/andflixhd/playlist.m3u8
+
+#EXTINF:-1,& PICTURES
+http://z5ams.akamaized.net/andpicshd/playlist.m3u8
+
+#EXTINF:-1,& PRIVE
+http://z5ams.akamaized.net/andprivehd/playlist.m3u8
+
+#EXTINF:-1,& TV
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1,1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006.smil/playlist.m3u8
+
+#EXTINF:-1,3NEWS
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1,ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,ADSPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1,ADSPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1,AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1,AKHYAR
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
+
+#EXTINF:-1,AL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1,AL KASS SPORTS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1,AL KASS SPORTS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,AL KASS SPORTS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1,AL KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1,AL-AQSA PALESTINE TV
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+
+#EXTINF:-1,AL-JAZEERA (AR)
+http://rr2.dens.tv/s/s16/index.m3u8
+
+#EXTINF:-1,AL-JAZEERA (EN)
+http://rr2.dens.tv/s/s17/index.m3u8
+
+#EXTINF:-1,ALMIEN
+http://almientv.onlivestreaming.net/almientv/livestream/playlist.m3u8
+
+#EXTINF:-1,AL-QUR'AN KARIM
+http://rr2.dens.tv/s/s28/index.m3u8
+
+#EXTINF:-1,ANIPLUS
+http://rr1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:-1,ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+
+#EXTINF:-1,ASHIIL
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:-1,ASWAJA
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1,BANTEN TV
+http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
+
+#EXTINF:-1,BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1,BERITASATU
+http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/index.m3u8
+
+#EXTINF:-1,BLOOMBERG (US)
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,BMW TV
+http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,BR FERNSEHEN S�D
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+
+#EXTINF:-1,CAHAYA BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,CANAIS FILMES GOSPELS
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1,CAN��O NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+
+#EXTINF:-1,CCTV 4
+http://rr2.dens.tv/s/s19/index.m3u8
+
+#EXTINF:-1,CCTV PLUS LD
+http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
+
+#EXTINF:-1,CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/index.m3u8
+
+#EXTINF:-1,CGTN
+http://rr2.dens.tv/s/s20/index.m3u8
+
+#EXTINF:-1,CINEMA WORLD
+http://rr.dens.tv/h/h04/index.m3u8
+
+#EXTINF:-1,CMC (US)
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8
+
+#EXTINF:-1,CULTURA
+http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
+
+#EXTINF:-1,DA VINCI KIDS
+http://rr.dens.tv/h/h01/index.m3u8
+
+#EXTINF:-1,DAAI
+http://rr2.dens.tv/s/s13/index.m3u8
+
+#EXTINF:-1,DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1,DENS TV INFO
+http://tv.dens.tv/live/a/a01/index.m3u8
+
+#EXTINF:-1,DESI CHANNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1,DIGITAL TV
+http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/playlist.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1,DMI TV
+http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,DRAGON
+http://rr2.dens.tv/s/s29/index.m3u8
+
+#EXTINF:-1,DUBAI ONE
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1,DW (DE)
+http://rr2.dens.tv/s/s26/index.m3u8
+
+#EXTINF:-1,EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1,EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1,ELSHINTA TV
+http://rr2.dens.tv/s/s10/index.m3u8
+
+#EXTINF:-1,EURONEWS
+http://rr2.dens.tv/s/s15/index.m3u8
+
+#EXTINF:-1,FAMILIA TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+
+#EXTINF:-1,FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://rr2.dens.tv/s/s22/index.m3u8
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,HIDUP TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1,HOME & LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1,HR EVENT
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+
+#EXTINF:-1,HR FERNSEHEN
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1,I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://rr2.dens.tv/s/s04/index.m3u8
+
+#EXTINF:-1,INEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1,IN TV
+http://rr2.dens.tv/s/s46/index.m3u8
+
+#EXTINF:-1,JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,JEMBER1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+
+#EXTINF:-1,J'GO TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+
+#EXTINF:-1,JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,K+
+http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:-1,KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1,KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/index.m3u8
+
+#EXTINF:-1,KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,KIX
+http://rr.dens.tv/h/h07/index.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://rr2.dens.tv/s/s09/index.m3u8
+
+#EXTINF:-1,LEJEL HOME SHOPPING
+http://rr2.dens.tv/s/s42/index.m3u8
+
+#EXTINF:-1,MADANI TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:-1,MADU TV
+http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
+
+#EXTINF:-1,MAKKAH TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:-1,METRO TV
+http://rr2.dens.tv/s/s49/index.m3u8
+
+#EXTINF:-1,MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1,MK TV
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,MTA ORIGIN
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+
+#EXTINF:-1,MY KIDS
+http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8
+
+#EXTINF:-1,NABAWI TV
+http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
+#EXTINF:-1,NDR HAMBURG
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+
+#EXTINF:-1,NET
+http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:-1,NEWASIA
+http://rr1.dens.tv/h/h29/index.m3u8
+
+#EXTINF:-1,NHK WORLD
+http://rr.dens.tv/h/h23/index.m3u8
+
+#EXTINF:-1,NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+
+#EXTINF:-1,NU CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
+
+#EXTINF:-1,OCN
+http://198.144.156.93:9083/live/CA42-live1/_K/D2/_KD2CBjorpv-WJINk2GPqg==/live.m3u8
+
+#EXTINF:-1,OKEY TV
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:-1,PADANG TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+
+#EXTINF:-1,PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007.smil/playlist.m3u8
+
+#EXTINF:-1,PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+
+#EXTINF:-1,PHOENIX
+http://rr2.dens.tv/s/s21/index.m3u8
+
+#EXTINF:-1,PRIME ASIA
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,PULDAPII TV
+http://178.128.49.255/mobile/web.m3u8
+
+#EXTINF:-1,RADIO51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1,RAI GULP
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1,RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1,RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,REFORMED 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1,RODJA TV
+http://rr2.dens.tv/s/s14/index.m3u8
+
+#EXTINF:-1,RRI NET
+http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/playlist.m3u8
+
+#EXTINF:-1,RT
+http://rr2.dens.tv/s/s23/index.m3u8
+
+#EXTINF:-1,RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
+#EXTINF:-1,RTK 2
+http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+
+#EXTINF:-1,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+
+#EXTINF:-1,RTP
+http://rr2.dens.tv/s/s38/index.m3u8
+
+#EXTINF:-1,RTV
+http://rr2.dens.tv/s/s12/index.m3u8
+
+#EXTINF:-1,RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+
+#EXTINF:-1,SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+
+#EXTINF:-1,SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:-1,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:-1,SNRT - AL-AULA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+
+#EXTINF:-1,SNRT - AL-MAGHRIBIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1,SNRT - AR-RABIAA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+
+#EXTINF:-1,SNRT - AR-RIADIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1,SNRT - AS-SADISSA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+
+#EXTINF:-1,SNRT - AT-TAMAZIGHT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+
+#EXTINF:-1,SUNNAH NABAWIYAH
+http://rr2.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1,SURAU TV
+http://119.235.249.60:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1,TABALONG TV
+http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,TAGESSCHAU 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1,TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:-1,TBN ARMENIA
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+
+#EXTINF:-1,TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+
+#EXTINF:-1,TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+
+#EXTINF:-1,TELE M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/master.m3u8
+
+#EXTINF:-1,TELEBARN
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+
+#EXTINF:-1,THE INDONESIAN CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
+
+#EXTINF:-1,THE WEATHER CHANNEL
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,THRILL
+http://rr2.dens.tv/s/s34/index.m3u8
+
+#EXTINF:-1,TOONMAX
+http://rr2.dens.tv/s/s50/index.m3u8
+
+#EXTINF:-1,TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
+
+#EXTINF:-1,TRANS7
+http://rr2.dens.tv/s/s06/index.m3u8
+
+#EXTINF:-1,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1,TV CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
+
+#EXTINF:-1,TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+
+#EXTINF:-1,TV2
+http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+
+#EXTINF:-1,TV5 MONDE
+http://rr2.dens.tv/s/s24/index.m3u8
+
+#EXTINF:-1,TV9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+#EXTINF:-1,TVE
+http://rr2.dens.tv/s/s25/index.m3u8
+
+#EXTINF:-1,TVi
+http://rtm-live.glueapi.io/smil:rtmch004.smil/playlist.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,TVONE
+http://rr2.dens.tv/s/s02/index.m3u8
+
+#EXTINF:-1,TVR PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1,TVRI
+http://rr2.dens.tv/s/s11/index.m3u8
+
+#EXTINF:-1,U CHANNEL
+http://rr2.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1,UA TV
+http://rr2.dens.tv/s/s47/index.m3u8
+
+#EXTINF:-1,VOICE OF AMERICA (IN)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,VOICE OF AMERICA (AR)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1,WESAL TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1,WGN TV
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1,YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+#EXTINF:-1,YTN KOREA
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
+
+#EXTINF:-1,YTN LIFE
+http://slive.ytnweather.co.kr:1935/weather/weather_20140419_1/playlist.m3u8
+
+#EXTINF:-1,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1,ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/index.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ZEE CAFE
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1,group-title="INDOTV",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="INDOTV",METRO TV 1
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",METRO TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="INDOTV",METRO TV 3
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",KOMPAS TV 1
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",KOMPAS TV 2
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1,group-title="INDOTV",NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",ANTV 1
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,group-title="INDOTV",ANTV 2
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",TV ONE 1
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",TRANS TV 1
+http://210.210.155.35/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TRANS TV 2
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",TRANS7 1
+http://210.210.155.35/qwr9ew/s/s06/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TRANS7 2
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",INEWS
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI 1
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SPORT
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,group-title="INDOTV",ZEE BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1,group-title="INDOTV",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",RTV 1
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1,group-title="INDOTV",RTV 2
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",SALURAN FILM INDONESIA
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
+
+#EXTINF:-1,group-title="INDOTV",INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1,group-title="INDOTV",DAAI TV
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+
+#EXTINF:-1,group-title="INDOTV",AREK TV SURABAYA
+http://stream1.ninmedia.tv/live/xmedia-arektv.stream/media_w1337460548_9014.m3u8
+
+#EXTINF:-1,group-title="INDOTV",BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
+
+#EXTINF:-1,group-title="INDOTV",BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",TEGAR TV JOGJA
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+
+#EXTINF:-1,group-title="INDOTV",ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1,group-title="KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",DA VINCI LEARNING
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",DISCOVERY
+http://80.80.160.168/live/8/2500000/live.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",DISCOVERY SCIENCE
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,group-title="KNOWLEDGE",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1,group-title="LIFESTYLE",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+
+#EXTINF:-1,group-title="LIFESTYLE",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT"CELESTIAL MOVIES ID
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",THRILL TV ID
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",KIX ID
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",CCTV4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",RETRO TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="MOVIE",HBO ID
+http://210.210.155.35/uq2663/h/h231/index2.m3u8
+
+#EXTINF:-1,group-title="MOVIE",&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,group-title="MOVIE",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1,group-title="MOVIE",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,group-title="MOVIE",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,group-title="MOVIE",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1,group-title="MOVIE",SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1,group-title="MOVIE",SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,group-title="MOVIE",MY CINEMA ID
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1,group-title="MOVIE",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0,group-title="SPORT",EUROSPORT 2 HD
-http://188.80.171.33:9981/stream/channelid/364574937?ticket=FEF2395AAA0CCDF302C2C8B7AFBC3ECB9E48FE46&profile=pass
-#EXTINF:0,group-title="SPORT",FLOW SPORTS
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1, group-title="SPORT",FOX RACING
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0, group-title="SPORT",M4T4 Sport
-http://persik.by/stream/808/284814/276.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORT",RED BULL TV
+#EXTINF:-1,group-title="SPORT",ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 1
+http://45.58.62.92:8080
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 1
+http://210.210.155.35/uq2663/h/h19/index1.m3u8
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 2
+http://210.210.155.35/uq2663/h/h20/index1.m3u8
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 3
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1,group-title="SPORT",AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,group-title="SPORT",AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,group-title="SPORT",BT SPORT/ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+
+#EXTINF:-1,group-title="SPORT",SKY SPORT F1
+http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+
+#EXTINF:-1,group-title="SPORT",DUBAI SPORT HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1,group-title="SPORT",KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+
+#EXTINF:-1,group-title="SPORT",PODIUM TV
+http://highvolume102.streampartner.nl/podiumbv/smil:podiumbv.smil/chunklist_w1958898097_b2092000_slNL.m3u8
+
+#EXTINF:-1,group-title="SPORT",NBA TV
+http://31.220.0.134:8081/live/nba/playlist.m3u8
+
+#EXTINF:-1,group-title="SPORT",MU TV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+
+#EXTINF:-1,group-title="SPORT",CHELSEA TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+
+#EXTINF:-1,group-title="SPORT",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1,group-title="SPORT",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+
+#EXTINF:-1,group-title="SPORT",FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1,group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0,group-title="SPORT",SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,group-title="SPORT",ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:0,group-title="SPORT",STADIUM
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:0, group-title="SPORT",TVRI SPORT HD
-http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="SPORT",XCORPS TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1,group-title="SPORT",AUTOMOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
+#EXTINF:-1,group-title="SPORT",FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
+#EXTINF:-1,group-title="NEWS",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
+#EXTINF:-1,group-title="NEWS",JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES PREMIERE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1793
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA ACTION & ADVENTURE HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1796
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES DISNEY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1800
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES CRIME & THRILLER
-http://voxtv.dynns.com:8000/UKC/UKC2018/1809
-#EXTINF:-1,group-title="MOVIE",STAR PLUS HD
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1197
-#EXTINF:-1,group-title="MOVIE",CINEMA FAMILY HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1803
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA COMEDY HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1797
-#EXTINF:-1,group-title="MOVIE",Sky Cinema Sci-Fi & Horror HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5660
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA DRAMA & ROMANCE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1802
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA SELECT
-http://voxtv.dynns.com:8000/UKC/UKC2018/1808
+#EXTINF:-1,group-title="NEWS",CHANNEL NEWS ASIA
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+#EXTINF:-1,group-title="NEWS",ALJAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#EXTINF:-1,group-title="NEWS",DW CHANNEL
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+
+#EXTINF:-1,group-title="NEWS",NHK WORLD JAPAN
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1,group-title="NEWS",BLOOMBERG 1
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1,group-title="NEWS",BLOOMBERG 2
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,group-title="NEWS",ABC NEWS
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1,group-title="NEWS",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1,group-title="NEWS",BBC NEWS
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+
+#EXTINF:-1,group-title="NEWS",FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1,group-title="NEWS",RTE NEWS NOW
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1,group-title="NEWS",ARISE NEWS
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1,group-title="MUSIC",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1,group-title="MUSIC",XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+#EXTINF:-1,group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1,group-title="MUSIC",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,group-title="MUSIC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1,group-title="MUSIC",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1,group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1,group-title="MUSIC",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:-1,group-title="ASIA",SBS IN ID
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+
+#EXTINF:-1,group-title="ASIA",K-DRAMA ID
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1,group-title="ASIA",K+ ID
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1,group-title="ASIA",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1,group-title="ASIA",OKTO
+http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1,group-title="ASIA",SURIA
+http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
+
+#EXTINF:-1,group-title="ASIA",VASANTHAM
+http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+
+#EXTINF:-1,group-title="RELIGION",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,group-title="RELIGION",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1,group-title="RELIGION",SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1,group-title="RELIGION",RODJA TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+
+#EXTINF:-1,group-title="RELIGION",TV 9 Nusantara SURABAYA
+http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/233e8924-0c90-11e9-8256-c81f66f89318/dr9445/h/h18/01.m3u8
+
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+
+#EXTINF:-1,ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",AXN
+http://rr.dens.tv/h/h09/index2.m3u8
+
+#EXTINF:-1,BLOOMBERG TV
+http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",BLUE ANT EXTREME
+http://210.210.155.35/dr9445/h/h15/index2.m3u8
+
+#EXTINF:-1,group-title="KIDS",CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1,group-title="MOVIE",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/index2.m3u8
+
+#EXTINF:-1,group-title="MOVIE",CINEMA WORLD
+http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1,group-title="NEWS",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+#EXTINF:-1,group-title="INDOTV",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+
+#EXTINF:-1,group-title="INDOTV",DAAI TV
+http://rr2.dens.tv/s/s13/index1.m3u8
+
+#EXTINF:-1,group-title="KIDS",DA VINCI KIDS
+http://rr.dens.tv/h/h01/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",DISCOVERY CHANNEL
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+
+#EXTINF:-1,group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",DIVA
+http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",E!
+http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",eGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",ELSHINTA TV
+http://210.210.155.35/session/ff8392f2-11c8-11e9-84d4-b82a72d63267/qwr9ew/s/s10/02.m3u8
+
+#EXTINF:-1,group-title="SPORTS",FIGHT SPORTS
+http://rr.dens.tv/h/h05/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",FOX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8
+
+#EXTINF:-1,group-title="MOVIE",FOX ACTION MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",FOX CRIME HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
+
+#EXTINF:-1,group-title="MOVIE",FOX FAMILIY MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/index.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",FOX LIFE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u8
+
+#EXTINF:-1,group-title="MOVIE",FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",GTV
+http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="ENTERTAINMENT",HISTORY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",HITS ID
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1,group-title="INDOTV",INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+
+#EXTINF:-1,group-title="INDOTV",INTV
+http://210.210.155.35/session/9a0ed5e2-11c5-11e9-96db-c81f66f89318/qwr9ew/s/s46/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",JAK TV
+http://202.80.222.171/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="INDOTV",J'GO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1,group-title="ASIA",K+ ID
+http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1,group-title="ASIA",KBS WORLD ID
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+#EXTINF:-1,group-title="ASIA",K DRAMA 
+http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINMENT",KIX ID
+http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",KOMPAS TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINTMENT",LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINTMENT",LOVE NATURE 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
+
+#EXTINF:-1,group-title="RELIGION",MAKKAH LIVE
+http://rr2.dens.tv/s/s28/index2.m3u8
+
+#EXTINF:-1,group-title="RELIGION",MADINAH LIVE
+http://rr2.dens.tv/s/s27/index2.m3u8
+
+##EXTINF:-1,group-title="INDOTV",MNC TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1,group-title="FOOTBALL CLUB",MUTV
-http://voxtv.dynns.com:8000/UKC/UKC2018/470
-#EXTINF:0,group-title="ENTERTAINTMENT",H2
-http://voxtv.dynns.com:8000/UKC/UKC2018/1722
-#EXTINF:0,group-title="ENTERTAINTMENT",DISCOVERY HISTORY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1725
-#EXTINF:0,group-title="SPORT",SKY SPORTS ACTION HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/199
-#EXTINF:0,group-title="SPORT",SKY SPORTS GOLF HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/200
-#EXTINF:0,group-title="SPORT",SKY SPORTS FOOTBALL HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/201
-#EXTINF:0,group-title="SPORT",SKY SPORTS MAIN EVENT
-http://daddyiptv.com:8000/live/riza1/1234/2156.m3u8
-#EXTINF:0,group-title="SPORT",SKY SPORTS 1 HD
-http://daddyiptv.com:8000/live/riza1/1234/2156.m3u8
-#EXTINF:0,group-title="SPORT",SKY SPORTS 2 HD
-http://daddyiptv.com:8000/live/riza1/1234/2155.m3u8
-#EXTINF:0,group-title="SPORT",SKY SPORTS 3 HD
-http://daddyiptv.com:8000/live/riza1/1234/2154.m3u8
-#EXTINF:0,group-title="SPORT",SKY SPORTS 4 HD
-http://daddyiptv.com:8000/live/riza1/1234/2153.m3u8
-#EXTINF:0,group-title="SPORT",SKY SPORTS 5 HD
-http://daddyiptv.com:8000/live/riza1/1234/2152.m3u8
-#EXTINF:0, group-title="MOVIE",FILM ACTION
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/541.ts
-#EXTINF:0, group-title="MOVIE",FILM ROMANCE
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/542.ts
-#EXTINF:0, group-title="MOVIE",FILM HORROR
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/543.ts
-#EXTINF:0, group-title="KIDS",TOM N JERRY
-https://direkt.serveri.stream:8443/live/iphone/pa$$w0rd/531.ts
-#EXTINF:0, group-title="MOVIE",Cinemax HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/14
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
 
-#EXTINF:0, group-title="MOVIE",Cinemax 2 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/15
+#EXTINF:-1,group-title="MOVIE",MY CINEMA
+http://210.210.155.35/session/8682945e-e57f-11e8-8e07-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:0, group-title="MOVIE",CineStar TV
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/26
+#EXTINF:-1,group-title="KIDS",MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 
-#EXTINF:0, group-title="MOVIE",CineStar TV Fantasy
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/27
+#EXTINF:-1,group-title="ENTERTAINTMENT",NAT GEO CHANEL
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 
-#EXTINF:0, group-title="MOVIE",CineStar TV Action & Thriller
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/28
+#EXTINF:-1,group-title="ENTERTAINTMENT",NAT GEO WILD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
-#EXTINF:0, group-title="MOVIE",CineStar TV Premiere 1 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/29
+#EXTINF:-1,group-title="INDOTV",NET.TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:0, group-title="MOVIE",CineStar TV Premiere 2 HD
-http://185.180.12.73:80/QStalker/Ip5gOEoeSw/30
-#EXTINF:0, group-title="ENTERTAINTMENT",HISTORY
-http://www.nilsattv.com:8080/mert1/mert1234/1647
-#EXTINF:0, group-title="ENTERTAINTMENT",H2
-http://voxtv.dynns.com:8000/UKC/UKC2018/1722
-#EXTINF:0, group-title="ENTERTAINTMENT",WILD TV
-http://www.nilsattv.com:8080/mert1/mert1234/1743
+#EXTINF:-1,group-title="INDOTV",O CHANNNEL
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
-#EXTINF:0, group-title="MUSIC",MTV
-http://www.nilsattv.com:8080/mert1/mert1234/882
-#EXTINF:0, group-title="MUSIC",MTV LIVE
-http://www.nilsattv.com:8080/mert1/mert1234/1729
-#EXTINF:0, group-title="MUSIC",MTV HITS
-http://www.nilsattv.com:8080/mert1/mert1234/1651
-#EXTINF:0, group-title="MUSIC",MTV ROCKS
-http://www.nilsattv.com:8080/mert1/mert1234/1652
-#EXTINF:0, group-title="MUSIC",MTV DANCE
-http://www.nilsattv.com:8080/mert1/mert1234/2127
+#EXTINF:-1,group-title="INDOTV",RCTI
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+
+#EXTINF:-1,group-title="INDOTV",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1,group-title="INDOTV",RTV
+http://210.210.155.35/session/ba2a8236-11b1-11e9-9fb1-b82a72d63267/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1,group-title="INDOTV",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINTMENT",SONY CHANNEL
+http://rr.dens.tv/h/h06/index2.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINTMENT",SONY ONE
+http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/01.m3u8
+
+#EXTINF:-1,group-title="SPORTS",SUPERSOCCER TV
+http://210.210.155.35/session/31e596fe-11c5-11e9-80c3-b82a72d63267/uq2663/h/h20/01.m3u8
+
+#EXTINF:-1,group-title="MOVIE",THRILL
+http://rr2.dens.tv/s/s34/index2.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TRANS7
+http://rr2.dens.tv/s/s06/index2.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TRANSTV
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1,group-title="ENTERTAINTMENT",tvN HD ID
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TV ONE
+http://rr2.dens.tv/s/s02/index2.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI
+http://210.210.155.35/session/d0146e68-11d4-11e9-8180-c81f66f89318/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,group-title="INDOTV",TVRI SPORT
+http://210.210.155.35/session/4964fb22-11c9-11e9-84d4-b82a72d63267/qwr9ew/s/s48/01.m3u8
+
+#EXTINF:-1,group-title="ASIA",WAKU WAKU JAPAN ID
+http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
+
+#EXTINF:-1,group-title="MOVIE",ZEE BIOSKOP ID
+http://rr2.dens.tv/s/s32/index2.m3u8
+
+#EXTINF:-1,group-title="SPORTS",EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS",FOX SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS",FOX SPORTS 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS",FOX SPORTS 3
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS",NBCSN server 2
+http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/1785.ts
+
+#EXTINF:-1,group-title="SPORTS",SETANTA SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/index.m3u8
 
 
 
