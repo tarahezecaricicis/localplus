@@ -491,15 +491,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u
 #EXTINF:-1,group-title="PREMIUM ID",FOX MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",FOX SPORT 1
-http://210.210.155.35/uq2663/h/h19/index1.m3u8
-
-#EXTINF:-1,group-title="PREMIUM ID",FOX SPORT 2
-http://210.210.155.35/uq2663/h/h20/index1.m3u8
-
-#EXTINF:-1,group-title="PREMIUM ID",FOX SPORT 3
-http://210.210.155.35/uq2663/h/h21/index1.m3u8
-
 #EXTINF:-1,group-title="PREMIUM ID",GTV
 http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
