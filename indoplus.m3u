@@ -698,6 +698,15 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1,group-title="PREMIUM ID",KOMPAS TV
 http://rr2.dens.tv/s/s09/index2.m3u8
 
+#EXTINF:-1, group-title="PREMIUM ID", MOVIES NOW FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
+
+#EXTINF:-1, group-title="PREMIUM ID", MN PLUS FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
+ 
+#EXTINF:-1, group-title="PREMIUM ID", MNX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
+ 
 #EXTINF:-1,group-title="PREMIUM ID",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
@@ -746,6 +755,12 @@ http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",SONY CHANNEL
 http://rr.dens.tv/h/h06/index2.m3u8
 
+#EXTINF:-1, group-title="PREMIUM ID", SONY LE PLEX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
+ 
+#EXTINF:-1, group-title="PREMIUM ID", SONY PIX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
+
 #EXTINF:-1,group-title="PREMIUM ID",SONY ONE
 http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/01.m3u8
 
@@ -787,6 +802,12 @@ http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/
 
 #EXTINF:-1,group-title="PREMIUM ID",ZEE BIOSKOP(backup)
 http://rr2.dens.tv/s/s32/index2.m3u8
+
+#EXTINF:0, group-title="PREMIUM ID",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="PREMIUM ID",&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1,------ RELIGION ------
