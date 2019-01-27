@@ -864,9 +864,6 @@ http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/14.ts
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 2
 http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27900.ts
 
-#EXTINF:0, group-title="SPORT",beIN SPORT HD 2(FR)
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/15.ts
-
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 3
 http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27899.ts
 
@@ -893,6 +890,27 @@ http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27893.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 10
 http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27892.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 11 EN
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27891.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 12 EN
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27890.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 13
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27889.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 14
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27888.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 15
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27887.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 16
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27886.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT NBA
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/27884.ts
 
 #EXTINF:0,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
