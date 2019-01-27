@@ -425,9 +425,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",ANIMAX
 http://210.210.155.35/session/233e8924-0c90-11e9-8256-c81f66f89318/dr9445/h/h18/01.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",ANIMAX(backup)
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-
 #EXTINF:-1,group-title="PREMIUM ID",ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index2.m3u8
 
@@ -449,7 +446,7 @@ http://210.210.155.35/dr9445/h/h16/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID"CELESTIAL MOVIES
+#EXTINF:-1,group-title="PREMIUM ID",CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",CINEMA WORLD
