@@ -761,6 +761,9 @@ http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29608?token=GkQJ
 #EXTINF:-1,group-title="PREMIUM ID",NET.TV
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",NEWS ASIA CHANNEL
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",SBS IN ID
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
