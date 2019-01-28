@@ -597,6 +597,9 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 
 #EXTINF:-1,------ PREMIUM ID ------
+#EXTINF:-1,group-title="PREMIUM ID",AL JAZEERA
+http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",ANIMAL PLANET
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 
@@ -609,15 +612,23 @@ http://210.210.155.35/dr9445/h/h02/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",ANIPLUS(backup)
 http://rr1.dens.tv/h/h02/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="PREMIUM ID",ARIRANG HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",ASIAN FOOD CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ANTV
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",AXN
 http://rr.dens.tv/h/h09/index2.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",beIN SPORTS
-#EXTINF:-1 tvg-ID="" tvg-name="Astro" tvg-logo="https://imgur.com/KS6U7Cl.png",BEIN SPORT
+#EXTINF:-1,tvg-name="Astro" group-title="PREMIUM ID",beIN SPORTS
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29643?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="PREMIUM ID",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",BLOOMBERG TV
 http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
@@ -631,12 +642,17 @@ http://210.210.155.35/dr9445/h/h15/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",CINEMA WORLD
 http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
 
-
 #EXTINF:-1,group-title="PREMIUM ID",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+#EXTINF:-1,group-title="PREMIUM ID",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",DAAI TV
 http://rr2.dens.tv/s/s13/index1.m3u8
@@ -655,6 +671,12 @@ http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/
 
 #EXTINF:-1,group-title="PREMIUM ID",E!
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FIGHT SPORTS
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://i.imgur.com/rpmbmLS.png",FOX SPORT 1
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29623?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
@@ -682,6 +704,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u
 
 #EXTINF:-1,group-title="PREMIUM ID",FOX MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FRANCE 24
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",GTV
 http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -721,18 +746,24 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 
 #EXTINF:-1,group-title="PREMIUM ID",KOMPAS TV
 http://rr2.dens.tv/s/s09/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
  
 #EXTINF:-1,group-title="PREMIUM ID",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
-
 #EXTINF:-1,group-title="PREMIUM ID",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",METRO
+http://45.126.83.51/qwr9ew/s/s49/index2.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",MNC
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="PREMIUM ID",TV5 MONDE
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -755,11 +786,11 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1,group-title="PREMIUM ID",NEWS ASIA CHANNEL
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",SBS IN ID
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
-
 #EXTINF:-1,group-title="PREMIUM ID",O CHANNEL
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",PHOENIX HK
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",RCTI
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
@@ -769,6 +800,9 @@ http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34691.ts
 
 #EXTINF:-1,group-title="PREMIUM ID",RTV
 http://210.210.155.35/session/ba2a8236-11b1-11e9-9fb1-b82a72d63267/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SBS IN ID
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",SCTV
 http://rr2.dens.tv/s/s03/index2.m3u8
