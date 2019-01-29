@@ -712,7 +712,7 @@ http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1,group-title="PREMIUM ID",H2
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/17311.ts
+http://voxtv.dynns.com:8000/UKC/UKC2018/1722
 
 #EXTINF:-1,group-title="PREMIUM ID",HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
@@ -794,9 +794,6 @@ http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",RCTI
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
-
-#EXTINF:-1,group-title="PREMIUM ID",ROMEDY NOW
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34691.ts
 
 #EXTINF:-1,group-title="PREMIUM ID",RTV
 http://210.210.155.35/session/ba2a8236-11b1-11e9-9fb1-b82a72d63267/qwr9ew/s/s12/02.m3u8
