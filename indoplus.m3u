@@ -209,8 +209,6 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1,group-title="ENTERTAINTMENT",TNT
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1208
 
-
-
 #EXTINF:-1,------ FOOTBALL CLUB ------
 #EXTINF:0,group-title="FOOTBALL CLUB",SEVILLA FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
@@ -220,6 +218,191 @@ http://voxtv.dynns.com:8000/UKC/UKC2018/470
 
 #EXTINF:-1,group-title="FOOTBALL CLUB",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+
+#EXTINF:-1,------ JAPAN ------
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NHK WORLD PREMIUM
+http://122.155.180.8:5021/live/139
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - NHK G
+http://122.155.180.8:5021/live/309
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - NHK E??
+http://122.155.180.8:5021/live/310
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - NIPPON TV
+http://122.155.180.8:5021/live/312
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - TV ASAHI
+http://122.155.180.8:5021/live/313
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - FUJI TV
+http://122.155.180.8:5021/live/316
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - TBS
+http://122.155.180.8:5021/live/314
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - TV TOKYO
+http://122.155.180.8:5021/live/315
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANTO - TOKYO MX
+http://122.155.180.8:5021/live/311
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - NHK G
+http://122.155.180.8:5021/live/317
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - NHK E??
+http://122.155.180.8:5021/live/318
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - ABC ???
+http://122.155.180.8:5021/live/321
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - KANSAI TV
+http://122.155.180.8:5021/live/323
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - TVO
+http://122.155.180.8:5021/live/322
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - YTV
+http://122.155.180.8:5021/live/324
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - SUN
+http://122.155.180.8:5021/live/320
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KANSAI - MBS
+http://122.155.180.8:5021/live/319
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NHK BS1
+http://122.155.180.8:5021/live/301
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NHK BS PREMIUM
+http://122.155.180.8:5021/live/303
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS NTV
+http://122.155.180.8:5021/live/304
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NTV G+
+http://122.155.180.8:5021/live/207
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NTV PLUS
+http://122.155.180.8:5021/live/208
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NTV NEWS 24
+http://www.news24.jp/livestream/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS ASAHI
+http://122.155.180.8:5021/live/308
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  TV ASAHI 1
+http://122.155.180.8:5021/live/223
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  TV ASAHI 2
+http://122.155.180.8:5021/live/217
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS FUJI
+http://122.155.180.8:5021/live/307
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  FUJI TV ONE
+http://122.155.180.8:5021/live/212
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  FUJI TV NEXT
+http://122.155.180.8:5021/live/54
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS-TBS
+http://122.155.180.8:5021/live/305
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  TBS 1
+http://122.155.180.8:5021/live/221
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS TWELLEV
+http://122.155.180.8:5021/live/302
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  MTV JAPAN
+http://122.155.180.8:5021/live/52
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  SPACE SHOWER
+http://122.155.180.8:5021/live/51
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  MUSIC JAPAN
+http://122.155.180.8:5021/live/495
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  NIHON EIGA (????)
+http://122.155.180.8:5021/live/213
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  FAMILY GEKIJO (????)
+http://122.155.180.8:5021/live/493
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  MOVIE PLUS
+http://122.155.180.8:5021/live/497
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  STAR 1
+http://122.155.180.8:5021/live/326
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  STAR 2
+http://122.155.180.8:5021/live/191
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  STAR 3
+http://122.155.180.8:5021/live/193
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  WOWOW ??? (LIVE)
+http://122.155.180.8:5021/live/205
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  WOWOW ???? (PRIME)
+http://122.155.180.8:5021/live/325
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  ????? WOWOW (CINEFIL WOWOW)
+http://122.155.180.8:5021/live/209
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  J-SPORTS 1
+http://122.155.180.8:5021/live/415
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  J-SPORTS 2
+http://122.155.180.8:5021/live/416
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  J-SPORTS 3
+http://122.155.180.8:5021/live/410
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  J-SPORTS 4
+http://122.155.180.8:5021/live/411
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  EX SPORTS
+http://122.155.180.8:5021/live/414
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  GAORA
+http://122.155.180.8:5021/live/413
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  GOLF NETWORK
+http://122.155.180.8:5021/live/409
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  GREEN
+http://122.155.180.8:5021/live/412
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  TSURI VISION
+http://122.155.180.8:5021/live/55
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  FIGHTING SAMURAI
+http://122.155.180.8:5021/live/408
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  SKY A SPORTS
+http://122.155.180.8:5021/live/210
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  FOX SPORTS ENTERTAINMENT
+http://122.155.180.8:5021/live/57
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KBS WORLD JAPAN
+http://122.155.180.8:5021/live/216
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  KIDS CHANNEL
+http://122.155.180.8:5021/live/494
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  DISCOVERY CHANNEL
+http://122.155.180.8:5021/live/496
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  HISTORY
+http://122.155.180.8:5021/live/219
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN",  BS SKY PERFECT
+http://122.155.180.8:5021/live/58
+
 
 
 #EXTINF:-1,------ KIDS ------
