@@ -639,6 +639,9 @@ http://210.210.155.35/dr9445/h/h16/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",CARTOONITO
+http://212.56.139.219:9981/stream/channelid/55557450?ticket=1D9C1236DC6A11D248DC1CA214654DD078C72A69&profile=pass
+
 #EXTINF:-1,group-title="PREMIUM ID",CELESTIAL MOVIES
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
@@ -765,6 +768,9 @@ http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1,group-title="PREMIUM ID",TV5 MONDE
 http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",MOVIEPLEX HD
+http://192.99.150.25:25461/0803/0803/35965
+
 #EXTINF:-1,group-title="PREMIUM ID",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
@@ -791,6 +797,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",PHOENIX HK
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",RETROPLEX HD
+http://192.99.150.25:25461/0803/0803/35970
 
 #EXTINF:-1,group-title="PREMIUM ID",RCTI
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
