@@ -822,6 +822,9 @@ http://210.210.155.35/dr9445/h/h16/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/954943685690408960/EnxuOLmq_400x400.jpg" group-title="PREMIUM ID", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",CARTOONITO
 http://212.56.139.219:9981/stream/channelid/55557450?ticket=1D9C1236DC6A11D248DC1CA214654DD078C72A69&profile=pass
 
@@ -858,11 +861,17 @@ http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/
 #EXTINF:-1,group-title="PREMIUM ID",E!
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHqbDWr/egg.jpg" group-title="PREMIUM ID", eGG NETWORK 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
 #EXTINF:-1,group-title="PREMIUM ID",ELSHINTA TV
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d72Cvty/foodie.png" group-title="PREMIUM ID",FOODIE 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://i.imgur.com/rpmbmLS.png",FOX SPORT 1
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29623?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
@@ -898,7 +907,7 @@ http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1,group-title="PREMIUM ID",H2
-http://voxtv.dynns.com:8000/UKC/UKC2018/1722
+http://192.99.150.25:25461/0803/0803/21203
 
 #EXTINF:-1,group-title="PREMIUM ID",HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
