@@ -550,32 +550,11 @@ http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
 #EXTINF:0, group-title="MOVIE",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES PREMIERE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1793
-
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA ACTION & ADVENTURE HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1796
-
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES DISNEY
-http://voxtv.dynns.com:8000/UKC/UKC2018/1800
-
-#EXTINF:-1,group-title="MOVIE",SKY MOVIES CRIME & THRILLER
-http://voxtv.dynns.com:8000/UKC/UKC2018/1809
-
 #EXTINF:-1,group-title="MOVIE",STAR PLUS HD
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1197
 
 #EXTINF:-1,group-title="MOVIE",SKY CINEMA COMEDY HD
 http://voxtv.dynns.com:8000/UKC/UKC2018/1797
-
-#EXTINF:-1,group-title="MOVIE",Sky Cinema Sci-Fi & Horror HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5660
-
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA DRAMA & ROMANCE
-http://voxtv.dynns.com:8000/UKC/UKC2018/1802
-
-#EXTINF:-1,group-title="MOVIE",SKY CINEMA SELECT
-http://voxtv.dynns.com:8000/UKC/UKC2018/1808
 
 #EXTINF:0, group-title="MOVIE",SONY MOVIES
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
@@ -1010,10 +989,10 @@ http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:0, group-title="SPORT",beIN SPORT MAX 1 HD
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/23.ts
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/210.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT MAX 2 HD
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/24.ts
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/211.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HABER
 http://ip.avov4.us:8000/tunaabi/13122018/5675
@@ -1028,7 +1007,7 @@ http://force102.com:8080/furkansahin/0FlknOus8v/10899
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/15.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 3
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/3.ts
+http://145.239.204.63:8000/live/multaka/multaka123/91.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 3(FR)
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/16.ts
@@ -1046,16 +1025,19 @@ http://force102.com:8080/furkansahin/0FlknOus8v/10896
 http://force102.com:8080/furkansahin/0FlknOus8v/10895
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 8
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/8.ts
+http://145.239.204.63:8000/live/multaka/multaka123/96.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 9
 http://force102.com:8080/furkansahin/0FlknOus8v/10893
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 10
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/10.ts
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 12
 http://force102.com:8080/furkansahin/0FlknOus8v/10242
+
+#EXTINF:0, group-title="SPORT",beIN SPORT NBA
+http://145.239.204.63:8000/live/multaka/multaka123/105.ts
 
 #EXTINF:0,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
