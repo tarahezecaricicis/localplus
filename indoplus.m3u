@@ -1019,10 +1019,10 @@ http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/24.ts
 http://ip.avov4.us:8000/tunaabi/13122018/5675
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 1
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/1.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/2
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 2
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/2.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10899
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 2 FR
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/15.ts
@@ -1034,25 +1034,28 @@ http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/3.ts
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/16.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 4
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/4.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10898
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 5
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/5.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10897
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 6
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/6.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10896
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 7
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/7.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10895
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 8
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/8.ts
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 9
-http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/9.ts
+http://force102.com:8080/furkansahin/0FlknOus8v/10893
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 10
 http://www.freeiptvdaily.net:8000/live/7q1yvE0VEU/freeiptvdaily.tv/10.ts
+
+#EXTINF:0, group-title="SPORT",beIN SPORT HD 12
+http://force102.com:8080/furkansahin/0FlknOus8v/10242
 
 #EXTINF:0,group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
