@@ -775,7 +775,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u
 #EXTINF:-1,group-title="PREMIUM ID",FOX ACTION MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Fox_Crime_(Asia)#/media/File:Fox_Crime_logo.svg" group-title="PREMIUM ID",FOX CRIME HD
+#EXTINF:-1 tvg-logo="http://media-recherche.ina.fr/image/Z_O2JIAid0k6pVLxJPWrhUAEynho2r2p5KV96SSrx5ELdN94SQpqybUFYWUx1IDSuEyURmdkmr72-atug11EC1mUVC18suFQqb8I3P1WXSCQ56q8Yg4r9OZmgcR4Ht_w.jpg" group-title="PREMIUM ID",FOX CRIME HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",FOX FAMILY MOVIES
