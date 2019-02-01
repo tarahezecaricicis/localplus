@@ -648,8 +648,11 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 
 #EXTINF:-1,------ PREMIUM ID ------
+#EXTINF:-1,group-title="PREMIUM ID",ACTION MAX HD
+http://192.99.150.25:25461/0803/0803/35979
+
 #EXTINF:-1,group-title="PREMIUM ID",AL JAZEERA
-http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1,group-title="PREMIUM ID",AMC
 http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/521
@@ -704,6 +707,12 @@ http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/
 
 #EXTINF:-1,group-title="PREMIUM ID",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",Cinemax East HD
+http://192.99.150.25:25461/0803/0803/23625
+
+#EXTINF:-1,group-title="PREMIUM ID",Cinemax Action East HD
+http://192.99.150.25:25461/0803/0803/39702
 
 #EXTINF:-1,group-title="PREMIUM ID",CINEMA WORLD
 http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
