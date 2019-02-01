@@ -744,7 +744,7 @@ http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",FIGHT SPORTS
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="PREMIUM ID",FX US
+#EXTINF:-1,group-title="PREMIUM ID",FX US
 http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1207
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d72Cvty/foodie.png" group-title="PREMIUM ID",FOODIE 
