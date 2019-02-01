@@ -735,7 +735,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:-1,group-title="PREMIUM ID",DISNEY XD HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg" group-title="PREMIUM ID",DISNEY XD HD
 http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/7765
 
 #EXTINF:-1,group-title="PREMIUM ID",DIVA
