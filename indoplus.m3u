@@ -844,8 +844,14 @@ http://45.126.83.51/qwr9ew/s/s49/index2.m3u8
 #EXTINF:-1,group-title="PREMIUM ID",MNC
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1,group-title="PREMIUM ID",MoreMax HD
+http://192.99.150.25:25461/0803/0803/35978
+
 #EXTINF:-1,group-title="PREMIUM ID",TV5 MONDE
 http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",moviemax
+http://192.99.150.25:25461/0803/0803/35981
 
 #EXTINF:-1,group-title="PREMIUM ID",MOVIEPLEX HD
 http://192.99.150.25:25461/0803/0803/35965
