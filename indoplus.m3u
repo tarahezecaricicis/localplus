@@ -724,7 +724,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg" group-title="PREMIUM ID",DISNEY XD HD
-http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/7765
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29627?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
 #EXTINF:-1,group-title="PREMIUM ID",DIVA
 http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/01.m3u8
@@ -978,37 +978,30 @@ http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/211.ts
 #EXTINF:0, group-title="SPORT",beIN SPORT HABER
 http://ip.avov4.us:8000/tunaabi/13122018/5675
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 1
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3221
 
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 2
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 3
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3219
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 4
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3218
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 5
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3217
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 6
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3216
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 7
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3215
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 8
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3214
 
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 9
