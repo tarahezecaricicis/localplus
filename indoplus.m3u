@@ -482,10 +482,10 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1,------ MOVIE ------
 #EXTINF:0, group-title="MOVIE",&FLIX HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29555?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
 #EXTINF:0, group-title="MOVIE",&PICTURES HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29543?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
 #EXTINF:0, group-title="MOVIE",&PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -644,7 +644,292 @@ http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NEWS",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
+#EXTINF:-1,------ PREMIUM ID ------
+#EXTINF:-1 tvg-id="1" group-title="PREMIUM ID",AL JAZEERA INT
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
+#EXTINF:-1,group-title="PREMIUM ID",AMC
+http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/521
+
+#EXTINF:-1,group-title="PREMIUM ID",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="ANIMAX" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="PREMIUM ID",ANIMAX
+http://210.210.155.35/session/233e8924-0c90-11e9-8256-c81f66f89318/dr9445/h/h18/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ANIPLUS
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ANIPLUS(backup)
+http://rr1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="PREMIUM ID",ARIRANG HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ASIAN FOOD CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ANTV
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",AXN
+http://rr.dens.tv/h/h09/index2.m3u8
+
+#EXTINF:-1,tvg-name="Astro" group-title="PREMIUM ID",beIN SPORTS
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29643?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="PREMIUM ID",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",BLOOMBERG TV
+http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",BLUE ANT EXTREME
+http://210.210.155.35/dr9445/h/h15/index2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/954943685690408960/EnxuOLmq_400x400.jpg" group-title="PREMIUM ID", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",CARTOONITO
+http://212.56.139.219:9981/stream/channelid/55557450?ticket=1D9C1236DC6A11D248DC1CA214654DD078C72A69&profile=pass
+
+#EXTINF:-1,group-title="PREMIUM ID",CELESTIAL MOVIES
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",CINEMA WORLD
+http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+#EXTINF:-1,group-title="PREMIUM ID",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",DAAI TV
+http://rr2.dens.tv/s/s13/index1.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",DA VINCI LEARNING
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",DISCOVERY CHANNEL
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg" group-title="PREMIUM ID",DISNEY XD HD
+http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/7765
+
+#EXTINF:-1,group-title="PREMIUM ID",DIVA
+http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",E!
+http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHqbDWr/egg.jpg" group-title="PREMIUM ID", eGG NETWORK 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FIGHT SPORTS
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FX US
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1207
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d72Cvty/foodie.png" group-title="PREMIUM ID",FOODIE 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://i.imgur.com/rpmbmLS.png",FOX SPORT 1
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29623?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://i.imgur.com/6UEMwQv.png",FOX SPORT 2
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29622?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://i.imgur.com/BK1dvCH.png",FOX SPORT 3
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29621?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+
+#EXTINF:-1,group-title="PREMIUM ID",FOX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FOX ACTION MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://media-recherche.ina.fr/image/Z_O2JIAid0k6pVLxJPWrhUAEynho2r2p5KV96SSrx5ELdN94SQpqybUFYWUx1IDSuEyURmdkmr72-atug11EC1mUVC18suFQqb8I3P1WXSCQ56q8Yg4r9OZmgcR4Ht_w.jpg" group-title="PREMIUM ID",FOX CRIME HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FOX FAMILY MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FOX LIFE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",FRANCE 24
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",GTV
+http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="PREMIUM ID",H2
+http://xxultraxx.com:80/tvlink528/657445/11228
+
+#EXTINF:-1,group-title="PREMIUM ID",HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",HBO
+http://210.210.155.35/uq2663/h/h231/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",K+(backup)
+http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",KOMPAS TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
+ 
+#EXTINF:-1,group-title="PREMIUM ID",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",METRO
+http://45.126.83.51/qwr9ew/s/s49/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",MNC
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,group-title="PREMIUM ID",TV5 MONDE
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",NAT GEO
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",NAT GEO WILD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM ID" tvg-logo="https://imgur.com/0JqwVT2.png",NAT GEO PEOPLE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29608?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET.TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="PREMIUM ID",NET.TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",NEWS ASIA CHANNEL
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",O CHANNEL
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",PHOENIX HK
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",RCTI
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",RTV
+http://210.210.155.35/session/ba2a8236-11b1-11e9-9fb1-b82a72d63267/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SBS IN ID
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SONY CHANNEL
+http://rr.dens.tv/h/h06/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SONY ONE
+http://210.210.155.35/session/ac77433c-048b-11e9-8761-b82a72d63267/uq2663/h/h13/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",SUPERSOCCER TV
+http://210.210.155.35/session/31e596fe-11c5-11e9-80c3-b82a72d63267/uq2663/h/h20/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",THE INDONESIAN CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",THRILL TV
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",TRANS 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",TRANS TV
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",tvN HD
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",TV ONE
+http://rr2.dens.tv/s/s02/index2.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",TVRI
+http://210.210.155.35/session/d0146e68-11d4-11e9-8180-c81f66f89318/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",TVRI SPORT HD
+http://210.210.155.35/session/4964fb22-11c9-11e9-84d4-b82a72d63267/qwr9ew/s/s48/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",V CHANNEL
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",WAKU WAKU JAPAN ID
+http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",WARNER BROTHER TV
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29588?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,group-title="PREMIUM ID",WWE HD
+http://185.132.176.190:8080/fadel_20021/lhXUWicJTn/562
+
+#EXTINF:-1,group-title="PREMIUM ID",ZEE BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1,group-title="PREMIUM ID",ZEE BIOSKOP(backup)
+http://rr2.dens.tv/s/s32/index2.m3u8
+
+#EXTINF:0, group-title="PREMIUM ID",&FLIX HD
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29555?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:0, group-title="PREMIUM ID",&PRIVE HD
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29543?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
 
 
