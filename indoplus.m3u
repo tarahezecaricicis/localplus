@@ -981,9 +981,8 @@ http://ip.avov4.us:8000/tunaabi/13122018/5675
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 1
 http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3221
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 2
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
+http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3331
 
 #EXTINF:0, group-title="SPORT",beIN SPORT HD 3
 http://iptv-janberyan.com:25461/janberyan09022019/0157210213/3219
