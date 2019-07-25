@@ -312,10 +312,10 @@ http://eir5.pikaflik.co.uk:80/live?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid
 #EXTINF:-1,[078] TVRI SPORT HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Film",[065] &FLIX HD
+#EXTINF:-1,[065] &FLIX HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE",[066] &PRIVE HD
+#EXTINF:-1,[066] &PRIVE HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:-1,[067] 2 HD
