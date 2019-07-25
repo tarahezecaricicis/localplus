@@ -462,6 +462,147 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1,[112] ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
 
+#EXTINF:-1,[113] CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1,[113] ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1,[114] NAT GEO WILD HD
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=08AA798DEDB05D0F59455A5E303D7C7F368C3AD4&profile=pass
+
+#EXTINF:-1,[115] HISTORY HD
+http://203.153.218.26:9981/stream/channelid/855888891?ticket=736206EA3DFAFC3833BB41074FD4F1DFDC7AE261&profile=pass
+
+#EXTINF:-1,[116] DISCOVERY ASIA
+http://122.146.68.116:4046/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="INDONESIA",[117] VOA INDONESIA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",[118] CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JEPANG",[119] V ASAHI
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JEPANG",[120] TV TOKYO
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JEPANG",[121] History Channel [404p]
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+  
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO LOKAL",[122]ASTRO HELLO
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO INDIA",[123] ASTRO VAANAVIL
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO LOKAL",[124] ASTRO AWANI
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO LOKAL",[125] NAURA HD
+http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m02000000000013743124&ct=17950&tsum=44caaaf344841c3fa4d679942c191bae
+
+#EXTINF:-1,BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1,CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/index2.m3u8
+
+#EXTINF:-1,EURONEWS
+http://rr2.dens.tv/s/s15/index2.m3u8
+
+#EXTINF:-1,FRANCE24
+http://rr2.dens.tv/s/s22/index2.m3u8
+
+#EXTINF:-1,Al JAZEERA
+http://rr2.dens.tv/s/s17/index2.m3u8
+
+#EXTINF:0,RT
+#http://rr2.dens.tv/s/s23/index2.m3u8
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v5.m3u8
+
+#EXTINF:-1,TRT World
+#https://trtworld.ercdn.net/trtworld/trtworld_720p.m3u8
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8
+
+#EXTINF:-1,DW
+#http://rr2.dens.tv/s/s26/index2.m3u8
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+ 
+#EXTINF:-1,I NEWS
+http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,I NEWS HD
+http://202.80.222.171:80/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,I NEWS
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.pnggroup-title="INDONESIA",INEWS TV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA", CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="INDONESIA",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF::-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="INDONESIA",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="INDONESIA",BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="INDONESIA",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="INDONESIA",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="NEWS",  INEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+  
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="NEWS",BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.png" group-title="NEWS",  EURO NEWS
+http://rr2.dens.tv/s/s15/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"group-title="NEWS",  FRANCH 24
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1123px-Channel_NewsAsia_logo_%28shape_only%29.svg.png"group-title="NEWS",  CHANNEL NEWS ASIA
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="NEWS",  ALJAZEERA
+http://rr2.dens.tv/s/s17/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png"group-title="NEWS", DW TV
+http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/Phoenix-logo.svg.png"group-title="NEWS",  PHOENIX HK
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+
+
+
 
 
 
