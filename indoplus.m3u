@@ -601,6 +601,10 @@ http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/Phoenix-logo.svg.png"group-title="NEWS",  PHOENIX HK
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
+#EXTINF:-1,H2 FHD
+http://tv.factoryiptv.com:80/lene/lene/41485
+
+
 
 
 
