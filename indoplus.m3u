@@ -12,10 +12,10 @@ http://202.80.222.170/000001/2/ch14061215034900095272/1001.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="LOKAL",ANTV HD
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",AREMA TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-i-sNUL-D--A/WuJ-z9eVhwI/AAAAAAAAAXs/W2-ZcUbD9wQBjrahGHgQ_1Huc8bN_mUJQCEwYBhgL/s1600/unnamed.png" group-title="LOKAL",AREMA TV
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",ASJAWA TV
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/aa/aswaja_tv_id.png" group-title="LOKAL",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV
@@ -24,16 +24,16 @@ http://202.80.222.130/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=10
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",GTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL",GTV HD
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="LOKAL",GTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL",GTV HD
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.13" group-title="LOKAL",INDOSIAR
