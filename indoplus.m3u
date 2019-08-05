@@ -15,7 +15,7 @@ http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-i-sNUL-D--A/WuJ-z9eVhwI/AAAAAAAAAXs/W2-ZcUbD9wQBjrahGHgQ_1Huc8bN_mUJQCEwYBhgL/s1600/unnamed.png" group-title="LOKAL",AREMA TV
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g" group-title="LOKAL",ASWAJA TV
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple19/v4/d9/7d/1c/d97d1c29-b4d9-af7b-0ab4-b6d3fa73e593/mzl.skymjhuf.png/246x0w.jpg" group-title="LOKAL",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV
