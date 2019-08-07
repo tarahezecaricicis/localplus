@@ -586,6 +586,37 @@ http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/Phoenix-logo.svg.png"group-title="NEWS",PHOENIX HK
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_logo_animax_small.png" group-title="KIDS",ANIMAX HD
+http://45.126.83.51/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS",BIZNET Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180525/jwt/kisspng-disney-junior-disney-channel-the-walt-disney-compa-5b07c301320336.5663620515272353292049.jpg" group-title="KIDS",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KIDS",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/tt/toonmax_cn.png" group-title="KIDS",TOONMAX TV
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="MOVIES VOD",1 Buck (2017)
 #EXTVLCOPT:network-caching=1000
 http://cineplus.adetroniktv.com:8000/movie/VelaSoft/hDZDEWo33I/6062.mkv
