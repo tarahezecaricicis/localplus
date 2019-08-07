@@ -586,7 +586,7 @@ http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/Phoenix-logo.svg.png"group-title="NEWS",PHOENIX HK
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_logo_animax_small.png" group-title="KIDS",ANIMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX HD
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
