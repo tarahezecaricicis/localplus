@@ -674,7 +674,7 @@ http://redtv.cf:8080/jamietannerws/Reaper32/26668
 #EXTINF:0 group-title="SKY",26669
 http://redtv.cf:8080/jamietannerws/Reaper32/26669
 
-#EXTINF:0 group-title="SKY",26670
+#EXTINF:0 group-title="SKY",26670(1080)
 http://redtv.cf:8080/jamietannerws/Reaper32/26670
 
 #EXTINF:0 group-title="SKY",26671*
@@ -770,13 +770,13 @@ http://redtv.cf:8080/jamietannerws/Reaper32/26640
 #EXTINF:0 group-title="SKY",BT SPORTS ESPN HD LIVE
 http://redtv.cf:8080/jamietannerws/Reaper32/26638
 
-#EXTINF:0 group-title="SKY",SKY SPORTS ARENA
+#EXTINF:0 group-title="SKY",SKY SPORTS ARENA 1080
 http://redtv.cf:8080/jamietannerws/Reaper32/26634
 
-#EXTINF:0 group-title="SKY",SKY SPORTS ARENA*
+#EXTINF:0 group-title="SKY",SKY SPORTS ARENA SD
 http://redtv.cf:8080/jamietannerws/Reaper32/26633
 
-#EXTINF:0 group-title="SKY",SKY SPORTS THE ASHES
+#EXTINF:0 group-title="SKY",SKY SPORTS THE ASHES 1080
 http://redtv.cf:8080/jamietannerws/Reaper32/26632
 
 #EXTINF:0 group-title="SKY",WILLOW HD
