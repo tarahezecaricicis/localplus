@@ -662,151 +662,151 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 
-#EXTINF:0,26666
+#EXTINF:0 group-title="SKY",26666
 http://redtv.cf:8080/jamietannerws/Reaper32/26666
 
-#EXTINF:0,SKY CINEMA FAMILY
+#EXTINF:0 group-title="SKY",SKY CINEMA FAMILY
 http://redtv.cf:8080/jamietannerws/Reaper32/26667
 
-#EXTINF:0,SKY CINEMA FAMILY*
+#EXTINF:0 group-title="SKY",SKY CINEMA FAMILY*
 http://redtv.cf:8080/jamietannerws/Reaper32/26668
 
-#EXTINF:0,26669
+#EXTINF:0 group-title="SKY",26669
 http://redtv.cf:8080/jamietannerws/Reaper32/26669
 
-#EXTINF:0,26670
+#EXTINF:0 group-title="SKY",26670
 http://redtv.cf:8080/jamietannerws/Reaper32/26670
 
-#EXTINF:0,26671*
+#EXTINF:0 group-title="SKY",26671*
 http://redtv.cf:8080/jamietannerws/Reaper32/26671
 
-#EXTINF:0,26672
+#EXTINF:0 group-title="SKY",26672
 http://redtv.cf:8080/jamietannerws/Reaper32/26672
 
-#EXTINF:0,SKY CINEMA COMEDY
+#EXTINF:0 group-title="SKY",SKY CINEMA COMEDY
 http://redtv.cf:8080/jamietannerws/Reaper32/26673
 
-#EXTINF:0,SKY CINEMA COMEDY*
+#EXTINF:0 group-title="SKY",SKY CINEMA COMEDY*
 http://redtv.cf:8080/jamietannerws/Reaper32/26674
 
-#EXTINF:0,26675
+#EXTINF:0 group-title="SKY",26675
 http://redtv.cf:8080/jamietannerws/Reaper32/26675
 
-#EXTINF:0,26676
+#EXTINF:0 group-title="SKY",26676
 http://redtv.cf:8080/jamietannerws/Reaper32/26676
 
-#EXTINF:0,26677*
+#EXTINF:0 group-title="SKY",26677*
 http://redtv.cf:8080/jamietannerws/Reaper32/26677
 
-#EXTINF:0,26678*
+#EXTINF:0 group-title="SKY",26678*
 http://redtv.cf:8080/jamietannerws/Reaper32/26678
 
-#EXTINF:0,26679*
+#EXTINF:0 group-title="SKY",26679*
 http://redtv.cf:8080/jamietannerws/Reaper32/26679
 
-#EXTINF:0,26665
+#EXTINF:0 group-title="SKY",26665
 http://redtv.cf:8080/jamietannerws/Reaper32/26665
 
-#EXTINF:0,SKY CINEMA HITS
+#EXTINF:0 group-title="SKY",SKY CINEMA HITS
 http://redtv.cf:8080/jamietannerws/Reaper32/26664
 
-#EXTINF:0,SKY CINEMA HITS*
+#EXTINF:0 group-title="SKY",SKY CINEMA HITS*
 http://redtv.cf:8080/jamietannerws/Reaper32/26663
 
-#EXTINF:0,26662
+#EXTINF:0 group-title="SKY",26662
 http://redtv.cf:8080/jamietannerws/Reaper32/26662
 
-#EXTINF:0,26661
+#EXTINF:0 group-title="SKY",26661
 http://redtv.cf:8080/jamietannerws/Reaper32/26661
 
-#EXTINF:0,SKY CINEMA SCI FY & HORROR
+#EXTINF:0 group-title="SKY",SKY CINEMA SCI FY & HORROR
 http://redtv.cf:8080/jamietannerws/Reaper32/26660
 
-#EXTINF:0,26677
+#EXTINF:0 group-title="SKY",26677
 http://redtv.cf:8080/jamietannerws/Reaper32/26677
 
-#EXTINF:0,SKY CINEMA SCI FY & HORROR*
+#EXTINF:0 group-title="SKY",SKY CINEMA SCI FY & HORROR*
 http://redtv.cf:8080/jamietannerws/Reaper32/26659
 
-#EXTINF:0,26658
+#EXTINF:0 group-title="SKY",26658
 http://redtv.cf:8080/jamietannerws/Reaper32/26658
 
-#EXTINF:0,26657
+#EXTINF:0 group-title="SKY",26657
 http://redtv.cf:8080/jamietannerws/Reaper32/26657
 
-#EXTINF:0,26656
+#EXTINF:0 group-title="SKY",26656
 http://redtv.cf:8080/jamietannerws/Reaper32/26656
 
-#EXTINF:0,26655
+#EXTINF:0 group-title="SKY",26655
 http://redtv.cf:8080/jamietannerws/Reaper32/26655
 
-#EXTINF:0,TRUE ENTERTAINTMENT
+#EXTINF:0 group-title="SKY",TRUE ENTERTAINTMENT
 http://redtv.cf:8080/jamietannerws/Reaper32/26654
 
-#EXTINF:0,26653
+#EXTINF:0 group-title="SKY",26653
 http://redtv.cf:8080/jamietannerws/Reaper32/26653
 
-#EXTINF:0,26652
+#EXTINF:0 group-title="SKY",26652
 http://redtv.cf:8080/jamietannerws/Reaper32/26652
 
-#EXTINF:0,TCM MOVIES
+#EXTINF:0 group-title="SKY",TCM MOVIES
 http://redtv.cf:8080/jamietannerws/Reaper32/26651
 
-#EXTINF:0,26650
+#EXTINF:0 group-title="SKY",26650
 http://redtv.cf:8080/jamietannerws/Reaper32/26650
 
-#EXTINF:0,26658
+#EXTINF:0 group-title="SKY",26658
 http://redtv.cf:8080/jamietannerws/Reaper32/26658
 
 #EXTINF:0,MOVIES4MEN
 http://redtv.cf:8080/jamietannerws/Reaper32/26647
 
-#EXTINF:0,BT SPORTS 2 HD
+#EXTINF:0 group-title="SKY",BT SPORTS 2 HD
 http://redtv.cf:8080/jamietannerws/Reaper32/26642
 
-#EXTINF:0,BT SPORTS 3 HD
+#EXTINF:0 group-title="SKY",BT SPORTS 3 HD
 http://redtv.cf:8080/jamietannerws/Reaper32/26640
 
-#EXTINF:0,BT SPORTS ESPN HD LIVE
+#EXTINF:0 group-title="SKY",BT SPORTS ESPN HD LIVE
 http://redtv.cf:8080/jamietannerws/Reaper32/26638
 
-#EXTINF:0,SKY SPORTS ARENA
+#EXTINF:0 group-title="SKY",SKY SPORTS ARENA
 http://redtv.cf:8080/jamietannerws/Reaper32/26634
 
-#EXTINF:0,SKY SPORTS ARENA*
+#EXTINF:0 group-title="SKY",SKY SPORTS ARENA*
 http://redtv.cf:8080/jamietannerws/Reaper32/26633
 
-#EXTINF:0,SKY SPORTS THE ASHES
+#EXTINF:0 group-title="SKY",SKY SPORTS THE ASHES
 http://redtv.cf:8080/jamietannerws/Reaper32/26632
 
-#EXTINF:0,WILLOW HD
+#EXTINF:0 group-title="SKY",WILLOW HD
 http://redtv.cf:8080/jamietannerws/Reaper32/26631
 
-#EXTINF:0,SKY SPORTS F1
+#EXTINF:0 group-title="SKY",SKY SPORTS F1
 http://redtv.cf:8080/jamietannerws/Reaper32/26630
 
-#EXTINF:0,SKY SPORTS F1*
+#EXTINF:0 group-title="SKY",SKY SPORTS F1*
 http://redtv.cf:8080/jamietannerws/Reaper32/26629
 
-#EXTINF:0,26628
+#EXTINF:0 group-title="SKY",26628
 http://redtv.cf:8080/jamietannerws/Reaper32/26628
 
-#EXTINF:0,SKY SPORTS GOLF
+#EXTINF:0 group-title="SKY",SKY SPORTS GOLF
 http://redtv.cf:8080/jamietannerws/Reaper32/26626
 
-#EXTINF:0,26625
+#EXTINF:0 group-title="SKY",26625
 http://redtv.cf:8080/jamietannerws/Reaper32/26625
 
-#EXTINF:0,sky sports mix
+#EXTINF:0 group-title="SKY",sky sports mix
 http://redtv.cf:8080/jamietannerws/Reaper32/26624
 
-#EXTINF:0,sports mix*
+#EXTINF:0 group-title="SKY",sports mix*
 http://redtv.cf:8080/jamietannerws/Reaper32/26623
 
-#EXTINF:0,SKY SPORTS MAIN EVENT
+#EXTINF:0 group-title="SKY",SKY SPORTS MAIN EVENT
 http://redtv.cf:8080/jamietannerws/Reaper32/26622
 
-#EXTINF:0,SKY SPORTS MAIN EVENT*
+#EXTINF:0 group-title="SKY",SKY SPORTS MAIN EVENT*
 http://redtv.cf:8080/jamietannerws/Reaper32/26621
 
 
