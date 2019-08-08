@@ -713,8 +713,12 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tgq5zll86Ls/hqdefault.jpg" group-title="KIDS",MY KIDS
+http://210.210.155.35/uq2663/h/h43/index2.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.mlzhongguo.com/Upload/Image/Content/2014-06-10/201406101854256395.jpg" group-title="KIDS",TOONMAX TV
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+
 
 
 #EXTINF:-1 group-title="MUSIC",MiX Music
