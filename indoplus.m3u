@@ -899,16 +899,16 @@ http://redtv.cf:8080/jamietannerws/Reaper32/26622
 #EXTINF:0 group-title="SKY",SKY SPORTS MAIN EVENT*
 http://redtv.cf:8080/jamietannerws/Reaper32/26621
 
-#EXTINF:-1 group-title="MOVIES",23796
+#EXTINF:-1 group-title="MOVIES",FXM RETRO
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23796
 
-#EXTINF:-1 group-title="MOVIES",23797
+#EXTINF:-1 group-title="MOVIES",FX
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23797
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",F CHANNEL
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23798
 
-#EXTINF:-1 group-title="MOVIES",23799
+#EXTINF:-1 group-title="MOVIES",FX
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23799
 
 #EXTINF:-1 group-title="MOVIES",23800
@@ -932,14 +932,11 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23805
 #EXTINF:-1 group-title="MOVIES",BET STAR
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23806
 
-#EXTINF:-1 group-title="MOVIES",23808
+#EXTINF:-1 group-title="MOVIES",BBC AMERICA
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23808
 
 #EXTINF:-1 group-title="MOVIES" ,23809
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23809
-
-#EXTINF:-1 group-title="MOVIES" ,23810
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23810
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",A&E
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23811
@@ -947,11 +944,8 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23811
 #EXTINF:-1 group-title="KNOWLEDGE",ID
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23813
 
-#EXTINF:-1 group-title="MOVIES",23815
+#EXTINF:-1 group-title="KIDS",23815
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23815
-
-#EXTINF:-1 group-title="MOVIES",23816
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23816
 
 #EXTINF:-1 group-title="MOVIES",PARAMOUNT (MOVIE)
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23818
