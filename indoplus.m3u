@@ -165,6 +165,10 @@ http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?_res_tag_=video
 #EXTINF:-1 tvg-logo="" group-title="LOKAL",U CHANNEL
 http://rr2.dens.tv/s/s41/index1.m3u8
 
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",A&E
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23811
+
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
  
@@ -206,6 +210,15 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",EGG NETWORK HD
 http://45.126.83.51/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",FOX 5
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23708
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",FOX BUSSINESS
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23706
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",F CHANNEL
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23798
 
 #EXTINF:-1,group-title="ENTERTAINTMENT",FX US
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23797
@@ -252,6 +265,9 @@ http://210.210.155.35/uq2663/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD 
 http://202.80.222.130/000001/2/ch00000090990000001802/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 group-title="ENTERTAINTMENT",MOTOR TREND
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23734
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE
 http://bit.ly/2Orhp3s
 
@@ -260,6 +276,18 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE HD
 http://45.126.83.51/uq2663/h/h143/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",TLC
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",TNT
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",TRVL CHANNEL
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23726
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/10/21/1/imgbin-gem-tv-television-channel-logo-sony-s-axJ95nqd08y9vz7zE0YHfLtQp.jpg" group-title="ENTERTAINTMENT",SONY GEM HD
 http://45.126.83.51/uq2663/h/h19/index.m3u8
@@ -276,7 +304,11 @@ http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS",BTN
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23719
 
+#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23709
 
 #EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459528634_fox-sports-logo.png" group-title="SPORTS",Fox Sports
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/87.m3u8
@@ -290,11 +322,17 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23361.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/f1/3b/fbf13be9a4347264b95e04b66c0d0b56.png" group-title="SPORTS",Fox Sports 3 Full HD.
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23360.m3u8
 
-#EXTINF:-1 group-title="SPORTS",RED BULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS",LONGHORN NETWORK
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23720
+
+#EXTINF:-1 group-title="SPORTS",MLB NETWORK
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23703
 
 #EXTINF:-1 group-title="KIDS" ,Nickelodeon Full HD.
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23413.m3u8
+
+#EXTINF:-1 group-title="SPORTS",RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1,Telemundo Internacional
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/146.m3u8
@@ -564,24 +602,44 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://80.80.160.168/live/1/live.m3u8
 
 
+#EXTINF:-1 group-title="KNOWLEDGE",ANIMAL PLANET
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23740
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",NAT GEO WILD HD
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=08AA798DEDB05D0F59455A5E303D7C7F368C3AD4&profile=pass
+#EXTINF:-1 group-title="KNOWLEDGE",CRIME INVESTIGATION
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23739
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",HISTORY HD
-http://203.153.218.26:9981/stream/channelid/855888891?ticket=736206EA3DFAFC3833BB41074FD4F1DFDC7AE261&profile=pass
-
-#EXTINF:-1,group-title="KNOWLEDGE",H2
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23791
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23736
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
 http://122.146.68.116:4046/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="NEWS",VOA INDONESIA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY FAMILY
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23737
+
+#EXTINF:-1,group-title="KNOWLEDGE",H2
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23791
+
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23732
+
+#EXTINF:-1 group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23731
+
+#EXTINF:-1 group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23730
+
+#EXTINF:-1 group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23729
+
+#EXTINF:-1 group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC WILD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23727
+
+#EXTINF:-1 group-title="KNOWLEDGE",SCI FI
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23735
+
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC INDONESIA HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JEPANG",V ASAHI
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
@@ -604,14 +662,69 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",NAURA HD
 http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m02000000000013743124&ct=17950&tsum=44caaaf344841c3fa4d679942c191bae
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS",ABC
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23724
+
+#EXTINF:-1 group-title="NEWS",ABC NEWS LIVE
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23721
+
+#EXTINF:-1 group-title="NEWS",ABC NIGHTLINE
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23723
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al JAZEERA
+http://rr2.dens.tv/s/s17/index2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BERITA SATU
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",BLOOMBERG
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23718
+
+#EXTINF:-1 group-title="NEWS",CBN NEWS
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23717
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CHANNEL NEWS ASIA
 http://rr.dens.tv/h/h29/index2.m3u8
+
+#EXTINF:-1 group-title="NEWS",04WBZ
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23715
+
+#EXTINF:-1 group-title="NEWS",CNBC
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23713
+
+#EXTINF:-1 group-title="NEWS",CNBC WORLD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia ID" tvg-logo="" group-title="NEWS",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS",CNN NEWSROOM
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23712
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png"group-title="NEWS",DW*
+http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",EURONEWS
 http://rr2.dens.tv/s/s15/index2.m3u8
@@ -619,8 +732,20 @@ http://rr2.dens.tv/s/s15/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",FRANCE24
 http://rr2.dens.tv/s/s22/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al JAZEERA
-http://rr2.dens.tv/s/s17/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS
+http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS HD
+http://202.80.222.171:80/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NEWS",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="NEWS",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT
 #http://rr2.dens.tv/s/s23/index2.m3u8
@@ -629,32 +754,21 @@ https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="NEWS",VOA INDONESIA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia ID" tvg-logo="" group-title="NEWS",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS
-http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS HD
-http://202.80.222.171:80/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",I NEWS
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+
+
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NEWS",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS", CNBC INDONESIA HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="NEWS",KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
  
 #EXTINF::-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="LOKAL",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -692,6 +806,9 @@ http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/Phoenix-logo.svg.png"group-title="NEWS",PHOENIX HK
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX HD
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 
@@ -721,8 +838,30 @@ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 
 
 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 group-title="MUSIC",DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",FOX PORTAL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1 group-title="MUSIC",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:0 group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="MUSIC",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
 #EXTINF:-1 group-title="MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",MIX
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
@@ -730,174 +869,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
 
-#EXTINF:-1 group-title="MUSIC",MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:0 group-title="MUSIC",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1 group-title="MUSIC",FOX PORTAL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-
-#EXTINF:-1 group-title="MUSIC",MIX
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC",DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 group-title="MUSIC",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 
-#EXTINF:0 group-title="SKY",SKY CINEMA
-http://redtv.cf:8080/jamietannerws/Reaper32/26666
 
-#EXTINF:0 group-title="SKY",SKY CINEMA FAMILY
-http://redtv.cf:8080/jamietannerws/Reaper32/26667
-
-#EXTINF:0 group-title="SKY",SKY CINEMA FAMILY*
-http://redtv.cf:8080/jamietannerws/Reaper32/26668
-
-#EXTINF:0 group-title="SKY",SKY MOVIE DRAMA
-http://redtv.cf:8080/jamietannerws/Reaper32/26669
-
-#EXTINF:0 group-title="SKY",26670(1080)
-http://redtv.cf:8080/jamietannerws/Reaper32/26670
-
-#EXTINF:0 group-title="SKY",26671*
-http://redtv.cf:8080/jamietannerws/Reaper32/26671
-
-#EXTINF:0 group-title="SKY",26672
-http://redtv.cf:8080/jamietannerws/Reaper32/26672
-
-#EXTINF:0 group-title="SKY",SKY CINEMA COMEDY
-http://redtv.cf:8080/jamietannerws/Reaper32/26673
-
-#EXTINF:0 group-title="SKY",SKY CINEMA COMEDY*
-http://redtv.cf:8080/jamietannerws/Reaper32/26674
-
-#EXTINF:0 group-title="SKY",26675
-http://redtv.cf:8080/jamietannerws/Reaper32/26675
-
-#EXTINF:0 group-title="SKY",26676
-http://redtv.cf:8080/jamietannerws/Reaper32/26676
-
-#EXTINF:0 group-title="SKY",26677*
-http://redtv.cf:8080/jamietannerws/Reaper32/26677
-
-#EXTINF:0 group-title="SKY",26678*
-http://redtv.cf:8080/jamietannerws/Reaper32/26678
-
-#EXTINF:0 group-title="SKY",26679*
-http://redtv.cf:8080/jamietannerws/Reaper32/26679
-
-#EXTINF:0 group-title="SKY",26665
-http://redtv.cf:8080/jamietannerws/Reaper32/26665
-
-#EXTINF:0 group-title="SKY",SKY CINEMA HITS
-http://redtv.cf:8080/jamietannerws/Reaper32/26664
-
-#EXTINF:0 group-title="SKY",SKY CINEMA HITS*
-http://redtv.cf:8080/jamietannerws/Reaper32/26663
-
-#EXTINF:0 group-title="SKY",26662
-http://redtv.cf:8080/jamietannerws/Reaper32/26662
-
-#EXTINF:0 group-title="SKY",26661
-http://redtv.cf:8080/jamietannerws/Reaper32/26661
-
-#EXTINF:0 group-title="SKY",SKY CINEMA SCI FY & HORROR
-http://redtv.cf:8080/jamietannerws/Reaper32/26660
-
-#EXTINF:0 group-title="SKY",26677
-http://redtv.cf:8080/jamietannerws/Reaper32/26677
-
-#EXTINF:0 group-title="SKY",SKY CINEMA SCI FY & HORROR*
-http://redtv.cf:8080/jamietannerws/Reaper32/26659
-
-#EXTINF:0 group-title="SKY",26658
-http://redtv.cf:8080/jamietannerws/Reaper32/26658
-
-#EXTINF:0 group-title="SKY",26657
-http://redtv.cf:8080/jamietannerws/Reaper32/26657
-
-#EXTINF:0 group-title="SKY",26656
-http://redtv.cf:8080/jamietannerws/Reaper32/26656
-
-#EXTINF:0 group-title="SKY",26655
-http://redtv.cf:8080/jamietannerws/Reaper32/26655
-
-#EXTINF:0 group-title="SKY",TRUE ENTERTAINTMENT
-http://redtv.cf:8080/jamietannerws/Reaper32/26654
-
-#EXTINF:0 group-title="SKY",26653
-http://redtv.cf:8080/jamietannerws/Reaper32/26653
-
-#EXTINF:0 group-title="SKY",26652
-http://redtv.cf:8080/jamietannerws/Reaper32/26652
-
-#EXTINF:0 group-title="SKY",TCM MOVIES
-http://redtv.cf:8080/jamietannerws/Reaper32/26651
-
-#EXTINF:0 group-title="SKY",26650
-http://redtv.cf:8080/jamietannerws/Reaper32/26650
-
-#EXTINF:0 group-title="SKY",26658
-http://redtv.cf:8080/jamietannerws/Reaper32/26658
-
-#EXTINF:0,MOVIES4MEN
-http://redtv.cf:8080/jamietannerws/Reaper32/26647
-
-#EXTINF:0 group-title="SKY",BT SPORTS 2 HD
-http://redtv.cf:8080/jamietannerws/Reaper32/26642
-
-#EXTINF:0 group-title="SKY",BT SPORTS 3 HD
-http://redtv.cf:8080/jamietannerws/Reaper32/26640
-
-#EXTINF:0 group-title="SKY",BT SPORTS ESPN HD LIVE
-http://redtv.cf:8080/jamietannerws/Reaper32/26638
-
-#EXTINF:0 group-title="SKY",SKY SPORTS ARENA 1080
-http://redtv.cf:8080/jamietannerws/Reaper32/26634
-
-#EXTINF:0 group-title="SKY",SKY SPORTS ARENA SD
-http://redtv.cf:8080/jamietannerws/Reaper32/26633
-
-#EXTINF:0 group-title="SKY",SKY SPORTS THE ASHES 1080
-http://redtv.cf:8080/jamietannerws/Reaper32/26632
-
-#EXTINF:0 group-title="SKY",WILLOW HD
-http://redtv.cf:8080/jamietannerws/Reaper32/26631
-
-#EXTINF:0 group-title="SKY",SKY SPORTS F1
-http://redtv.cf:8080/jamietannerws/Reaper32/26630
-
-#EXTINF:0 group-title="SKY",SKY SPORTS F1*
-http://redtv.cf:8080/jamietannerws/Reaper32/26629
-
-#EXTINF:0 group-title="SKY",26628
-http://redtv.cf:8080/jamietannerws/Reaper32/26628
-
-#EXTINF:0 group-title="SKY",SKY SPORTS GOLF
-http://redtv.cf:8080/jamietannerws/Reaper32/26626
-
-#EXTINF:0 group-title="SKY",26625
-http://redtv.cf:8080/jamietannerws/Reaper32/26625
-
-#EXTINF:0 group-title="SKY",sky sports mix
-http://redtv.cf:8080/jamietannerws/Reaper32/26624
-
-#EXTINF:0 group-title="SKY",sports mix*
-http://redtv.cf:8080/jamietannerws/Reaper32/26623
-
-#EXTINF:0 group-title="SKY",SKY SPORTS MAIN EVENT
-http://redtv.cf:8080/jamietannerws/Reaper32/26622
-
-#EXTINF:0 group-title="SKY",SKY SPORTS MAIN EVENT*
-http://redtv.cf:8080/jamietannerws/Reaper32/26621
 
 #EXTINF:-1 group-title="MOVIES",FXM RETRO
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23796
