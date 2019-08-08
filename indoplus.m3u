@@ -631,34 +631,34 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 
 
-#EXTINF:-1, group-title="MUSIC",MiX Music
+#EXTINF:-1 group-title="MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 
-#EXTINF:-1, group-title="MUSIC",MUSIC TOP
+#EXTINF:-1 group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1, group-title="MUSIC",ONE HD 
+#EXTINF:-1 group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
 
-#EXTINF:-1, group-title="MUSIC",MUSIC CHOICE
+#EXTINF:-1 group-title="MUSIC",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0, group-title="MUSIC",M2O TV
+#EXTINF:0 group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1, group-title="MUSIC",FOX PORTAL
+#EXTINF:-1 group-title="MUSIC",FOX PORTAL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
-#EXTINF:-1, group-title="MUSIC",MIX
+#EXTINF:-1 group-title="MUSIC",MIX
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:-1, group-title="MUSIC",DANGDUTZ
+#EXTINF:-1 group-title="MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:0, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1, group-title="MUSIC",Karaoke Channel
+#EXTINF:-1 group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 
