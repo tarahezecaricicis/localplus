@@ -290,6 +290,24 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23361.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/f1/3b/fbf13be9a4347264b95e04b66c0d0b56.png" group-title="SPORTS",Fox Sports 3 Full HD.
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23360.m3u8
 
+#EXTINF:-1 group-title="SPORTS",RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="KIDS" ,Nickelodeon Full HD.
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23413.m3u8
+
+#EXTINF:-1,Telemundo Internacional
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/146.m3u8
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="ENTERTAINTMENT",Warner Channel (1)
+http://ultraplay.biz:80/casa1/casa1/34829
+
+#EXTINF:-1 group-title="SPORTS",XCORPS TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png",Espn Full HD.
 http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23396.m3u8
  
