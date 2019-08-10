@@ -521,20 +521,37 @@ http://109.248.236.41:4433//udp/238.1.1.71:1234
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",Hollywood Movies 1
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",Hollywood Movies 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1tvg-id="ext" group-title="MOVIES",Hollywood Movies 5
+#EXTINF:-1 group-title="24/7",Hollywood Movies 2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="MOVIES",PLUTO MOVIES1
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1tvg-id="ext" group-title="24/7",Hollywood Movies 5
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="24/7",Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="24/7",Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="24/7",Mandarin Movies
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="24/7",Top Movies 6
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="24/7",Top Movies 7
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+
+
 
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",J'Go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -900,6 +917,9 @@ http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 
+
+#EXTINF:-1 group-title="MOVIES",PLUTO MOVIES1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="PLUTO TV",80s Rewind
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
 #EXTINF:-1 group-title="PLUTO TV",4K TV
