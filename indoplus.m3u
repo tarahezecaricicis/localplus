@@ -550,22 +550,22 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Hollywood Movies 5
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 5
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Hollywood Movies 6
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Kuroko's Basketball
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Mandarin Movies
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Mandarin Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Top Movies 6
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Top Movies 6
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="24/7",Top Movies 7
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Top Movies 7
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 
 
