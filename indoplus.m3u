@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-id="" tvg-logo="" group-title="ASTRO",Astro Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="" group-title="ASTRO",ASTRO AEC
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea1
 
@@ -171,10 +174,24 @@ http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JEPANG",History Channel [404p]
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="JEPANG",NHK WORLD JAPAN
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+
+#EXTINF:-1 group-title="JEPANG", JAPANET CHANEL DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5oz1z3S.png" group-title="JEPANG",Waku-Waku Japan
+rtmp://118.97.96.17:1935/discover/wakuwaku_4
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX HD
 http://45.126.83.51/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
@@ -533,7 +550,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 4
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1tvg-id="ext" group-title="24/7",Hollywood Movies 5
+#EXTINF:-1 group-title="24/7",Hollywood Movies 5
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 group-title="24/7",Hollywood Movies 6
