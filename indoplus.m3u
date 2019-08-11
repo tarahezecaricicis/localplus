@@ -1283,6 +1283,9 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1,SETANTA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SKYNET SPORTS 1
+http://49.163.177.184:9981/stream/channelid/993410055?ticket=8D072209157A9F315E006DE878C5618EF4D00313&profile=pass
  
 #EXTINF:-1 tvg-logo="http://walsallrfcltd_new.rfu.club/Media/WalsallRFCLtd/_Profiles/297c94e4/8d91b31c/sky-sports-logo.png?v=636639601496440638" group-title="SPORTS",SKY SPORT HD
 http://eir5.pikaflik.co.uk:80/live?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
