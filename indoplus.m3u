@@ -2,189 +2,129 @@
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-id="" tvg-logo="" group-title="ASTRO",Astro Ceria
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
-
-#EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="" group-title="ASTRO",ASTRO AEC
-http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea1
-
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
- 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO VAANAVIL
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
- 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",A&E
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23811
-
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINTMENT
 http://45.126.83.51/dr9445/h/h16/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINMENT
 http://210.210.155.35/dr9445/h/h16/index2.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA HD
 http://45.126.83.51/uq2663/h/h11/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",E! ENTERTAINTMENT HD
 http://210.210.155.35/uq2663/h/h10/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Channels_ebs2.png/revision/latest/scale-to-width-down/250?cb=20180627175222" group-title="ENTERTAINTMENT",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/EBS_English.png" group-title="ENTERTAINTMENT",EBS ENGLISH
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="ENTERTAINTMENT",EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="ENTERTAINTMENT",EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",EGG NETWORK HD
 http://45.126.83.51/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINTMENT",F CHANNEL
+#EXTINF:-1 tvg-logo="https://spng.pngfly.com/20180903/oig/kisspng-logo-fusion-tv-television-channel-sbn-tv-go-to-image-page-5b8df4a269b526.769096351536029858433.jpg" group-title="ENTERTAINTMENT",FUSION CHANNEL
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23798
 
-#EXTINF:-1 group-title="ENTERTAINTMENT",FOX 5
+
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-5-2-logo-png-transparent.png" group-title="ENTERTAINTMENT"group-title="ENTERTAINTMENT",FOX 5
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23708
-
-#EXTINF:-1 group-title="ENTERTAINTMENT",FOX BUSSINESS
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180417/qyw/kisspng-fox-business-network-united-states-company-small-b-gambit-5ad5bbf2225a11.4864054015239567221407.jpg" group-title="ENTERTAINTMENT",FOX BUSSINESS
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23706
-
-#EXTINF:-1,group-title="ENTERTAINTMENT",FX US
+#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/images/fx_logo_white.png" group-title="ENTERTAINTMENT",FX US
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23797
-
-#EXTINF:-1,group-title="ENTERTAINTMENT",FXX
+#EXTINF:-1 tvg-logo="http://boomstickcomics.com/wp-content/uploads/2014/07/fxx_logo.jpg"group-title="ENTERTAINTMENT",FXX
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23794
-
-#EXTINF:-1,group-title="ENTERTAINTMENT",FYI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png"group-title="ENTERTAINTMENT",FYI
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23793
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="ENTERTAINTMENT",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="ENTERTAINTMENT",HITS HD
 http://45.126.83.51/uq2663/h/h37/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",K+ HD
 http://45.126.83.51/uq2663/h/h08/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",K DRAMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8nK4y_mTe6NpQvbTchdcIoO5x0WamlxzpxTBv6643hRN5JMQEQ" group-title="ENTERTAINTMENT",K DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",K DRAMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8nK4y_mTe6NpQvbTchdcIoO5x0WamlxzpxTBv6643hRN5JMQEQ" group-title="ENTERTAINTMENT",K DRAMA
 http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/ktv_kr.png" group-title="ENTERTAINTMENT",KOREAN TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
- 
 #EXTINF:-1 tvg-logohttps://www.satlogo.com/hires/kk/ktv_kr.png group-title="ENTERTAINTMENT",KOREAN TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",KIX ID
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",KIX ID
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD
 http://210.210.155.35/uq2663/h/h40/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD 
 http://202.80.222.130/000001/2/ch00000090990000001802/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",MOTOR TREND
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23734
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE
 http://bit.ly/2Orhp3s
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE ID
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE HD
 http://45.126.83.51/uq2663/h/h143/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",SONY MAX HD
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/10/21/1/imgbin-gem-tv-television-channel-logo-sony-s-axJ95nqd08y9vz7zE0YHfLtQp.jpg" group-title="ENTERTAINTMENT",SONY GEM HD
 http://45.126.83.51/uq2663/h/h19/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TLC
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TNT
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TRVL CHANNEL
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23726
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE STYLE
 http://45.126.83.51/uq2663/h/h01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8
- 
 #EXTINF:-1 group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TLC
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TNT
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
-
 #EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
-
 
 
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JEPANG",V ASAHI
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JEPANG",TV TOKYO
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JEPANG",History Channel [404p]
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="JEPANG",NHK WORLD JAPAN
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
-
 #EXTINF:-1 group-title="JEPANG", JAPANET CHANEL DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5oz1z3S.png" group-title="JEPANG",Waku-Waku Japan
 rtmp://118.97.96.17:1935/discover/wakuwaku_4
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX HD
@@ -1224,10 +1164,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19942
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
-https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27365
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 4
-https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27366
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="SPORTS",Astro Arena
 http://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/32275
 
