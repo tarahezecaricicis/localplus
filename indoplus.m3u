@@ -266,8 +266,7 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23744
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",CGTN
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -277,6 +276,9 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23740
 
 #EXTINF:-1 group-title="KNOWLEDGE",CRIME INVESTIGATION
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23739
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE",DIY NETWORK
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23761
@@ -296,6 +298,9 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23791
 #EXTINF:-1 group-title="KNOWLEDGE",HISTORY
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23732
 
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="KNOWLEDGE",HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
+
 #EXTINF:-1 group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23731
 
@@ -308,11 +313,20 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC WILD
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23727
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE",NATIONAL GEO WILD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE",NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="KNOWLEDGE",NAT GEO WILD 2
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="KNOWLEDGE",NAT GEO WILD 3
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 
 #EXTINF:-1 group-title="KNOWLEDGE",SCI FI
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23735
@@ -518,7 +532,7 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 http://161.0.157.7:80/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO US
 http://redtv.cf:8080/jamietannerws/Reaper32/8192
@@ -527,13 +541,16 @@ http://redtv.cf:8080/jamietannerws/Reaper32/8192
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2" group-title="MOVIES",HBO Family
-http://203.207.56.228/live/iptv004.m3u8
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f" group-title="MOVIES",HBO Hits
-http://203.207.56.228/live/iptv007.m3u8
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 
 #EXTINF:-1, tvg-id="ext" group-title="MOVIES",HBO Home
 http://109.248.236.41:4433//udp/238.1.1.71:1234
+
+#EXTINF:-1, tvg-id="ext" group-title="MOVIES",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -1203,8 +1220,52 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title=group-title="SPORTS",Astro Supersport 2
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19942
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
+https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27365
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 4
+https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27366
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="SPORTS",Astro Arena
+http://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/32275
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNYHIdl.png?1" group-title="SPORTS",BT Sport 1
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSXQFVy.jpg?1" group-title="SPORTS",BT Sport 2
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/207
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtzAkNw.png?1" group-title="SPORTS",BT Sport 3
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/11486
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWAySV7.png?1" group-title="SPORTS",BT Sport ESPN
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/316
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKddatQ.png" group-title="SPORTS",BT Sport Extra 3
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/28039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKddatQ.png" ggroup-title="SPORTS",BT Sport Extra 4
+
 #EXTINF:-1 group-title="SPORTS",BTN
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23719
+
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(UK) Eurosport 1
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/985
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(TR) EuroSport 2
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7774
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png" group-title="SPORTS",(TR) EuroSport 2 HD+
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7877
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN1
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23924
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN2
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23923
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/08/sony-ten3.png" group-title="SPORTS",SONY_TEN3
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23922
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/da/0f/44da0f3f77a4dff689f5cb0490943386.png" group-title="SPORTS",SONY_ESPN
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23933
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-sd.jpg" group-title="SPORTS",SONY_SIX
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DNTqvKrWq_nWkumt3HTBa0_wEl_4hBmF7-CQ_NviA4bietHC" group-title="SPORTS",EXTREME SPORTS CHANNEL
+http://92.104.106.29:8000/play/a04v/index.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS",ESPN DEPORTES
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23709
@@ -1293,6 +1354,94 @@ http://eir5.pikaflik.co.uk:80/live?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="SPORTS",TVRI SPORT HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
+
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/28038
+
+#EXTINF:-1 tvg-logo="https://tvbtn.files.wordpress.com/2013/08/fox-sports-logo-350x168.jpg" group-title="4. SPORTS",FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="4. SPORTS",SKY SPORT 1
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937584992552660992/X6FcKhu7_400x400.jpg" group-title="4. SPORTS",SKY SPORT 2
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
+
+
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 1 HD
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/237
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 1
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1983
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 2 HD
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/238
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 2
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1984
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 3 HD
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1982
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 3
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/239
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS", Sport Klub 4
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/14687
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 5
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/14688
+#EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="4. SPORTS",Sport Klub 6
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/38251
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 1 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1962
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 2 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1963
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 3 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1964
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 4 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1965
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 5 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1966
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 6 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1967
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 7 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1968
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 8 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1969
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 9 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1970
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 10 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1971
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 11 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1972
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="4. SPORTS",beIN Sport HD 13 [Ar]
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/13251
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 2
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 3
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19942
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 3
+https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27365
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 4
+https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27366
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="4. SPORTS",Astro Arena
+http://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/32275
+
+
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(UK) Eurosport 1
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/985
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(TR) EuroSport 2
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7774
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png" group-title="SPORTS",(TR) EuroSport 2 HD+
+http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7877
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN1
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23924
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN2
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23923
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/08/sony-ten3.png" group-title="SPORTS",SONY_TEN3
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23922
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/da/0f/44da0f3f77a4dff689f5cb0490943386.png" group-title="SPORTS",SONY_ESPN
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23933
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-sd.jpg" group-title="SPORTS",SONY_SIX
+http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DNTqvKrWq_nWkumt3HTBa0_wEl_4hBmF7-CQ_NviA4bietHC" group-title="SPORTS",EXTREME SPORTS CHANNEL
+http://92.104.106.29:8000/play/a04v/index.m3u8
 
 
 
