@@ -77,7 +77,7 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 http://210.210.155.35/uq2663/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD 
 http://202.80.222.130/000001/2/ch00000090990000001802/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="ENTERTAINTMENT",MOTOR TREND
+#EXTINF:-1 tvg-logo="https://cdn.subscriptioninsider.com/media/newspics/340/Motor-Trend-Logo.png" group-title="ENTERTAINTMENT",MOTOR TREND
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE
 http://bit.ly/2Orhp3s
@@ -85,7 +85,7 @@ http://bit.ly/2Orhp3s
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE HD
 http://45.126.83.51/uq2663/h/h143/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINTMENT",SONY MAX HD
+#EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2015/12/SONY-MAX-HD-logo.jpg" group-title="ENTERTAINTMENT",SONY MAX HD
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/10/21/1/imgbin-gem-tv-television-channel-logo-sony-s-axJ95nqd08y9vz7zE0YHfLtQp.jpg" group-title="ENTERTAINTMENT",SONY GEM HD
 http://45.126.83.51/uq2663/h/h19/index.m3u8
@@ -93,7 +93,7 @@ http://45.126.83.51/uq2663/h/h19/index.m3u8
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
 #EXTINF:-1 group-title="ENTERTAINTMENT",TNT
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
-#EXTINF:-1 group-title="ENTERTAINTMENT",TRVL CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="ENTERTAINTMENT",TRVL CHANNEL
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23726
 #EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
