@@ -1285,7 +1285,7 @@ http://ultraplay.biz:80/casa1/casa1/34829
 #EXTINF:-1 group-title="SPORTS",XCORPS TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="41- DEPORTES LATINO",Espn + (1)
+#EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="SPORTS",Espn + (1)
 http://ultraplay.biz:80/casa1/casa1/34465
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/863.png" group-title="SPORTS",MLB Network
@@ -1410,15 +1410,15 @@ http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/13251
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 2
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
 http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19942
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
 https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27365
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="4. SPORTS",Astro Supersport 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 4
 https://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/27366
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="4. SPORTS",Astro Arena
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="SPORTS",Astro Arena
 http://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/32275
 
 
