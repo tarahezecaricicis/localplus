@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-id="" tvg-logo="" group-title="ASTRO",Astro Ceria
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO VAANAVIL
@@ -13,7 +11,7 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",A&E
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23811
+http://sghub.ml:25461/ali/ali/14660
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINTMENT
@@ -41,7 +39,7 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",EGG NETWORK HD
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfly.com/20180903/oig/kisspng-logo-fusion-tv-television-channel-sbn-tv-go-to-image-page-5b8df4a269b526.769096351536029858433.jpg" group-title="ENTERTAINTMENT",FUSION CHANNEL
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23798
+http://cdn.miip.tv:80/machito/123456/12089
 
 
 
