@@ -497,7 +497,7 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 group-title="24/7",Hollywood Movies 2
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8?rizkizakaria-Huya1-join-telegram=@iptvondemand
 
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
@@ -510,6 +510,24 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 7
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8?rizkizakaria-Huya2-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 8
+http://tx.hls.huya.com:80/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 9
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8?rizkizakaria-Huya4-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 10
+http://aldirect.hls.huya.com:80/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?rizkizakaria-Huya6-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 11
+http://aldirect.hls.huya.com:80/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8?rizkizakaria-Huya7-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 12
+http://aldirect.hls.huya.com:80/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8?rizkizakaria-Huya8-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 13
+http://tx.hls.huya.com:80/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8?rizkizakaria-Huya9-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 14
+http://tx.hls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8?rizkizakaria-Huya10-join-telegram=@iptvondemand
+
 
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
