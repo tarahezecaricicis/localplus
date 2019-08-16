@@ -24,17 +24,17 @@ http://210.210.155.35/dr9445/h/h16/index2.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA HD
-http://45.126.83.51/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA
+http://45.126.83.51:80/session/0a81f242-bf53-11e9-8f57-8e46bf76bbba/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",E! ENTERTAINTMENT HD
 http://210.210.155.35/uq2663/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Channels_ebs2.png/revision/latest/scale-to-width-down/250?cb=20180627175222" group-title="ENTERTAINTMENT",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/EBS_English.png" group-title="ENTERTAINTMENT",EBS ENGLISH
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="ENTERTAINTMENT",EBS Plus 1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="ENTERTAINTMENT",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="ENTERTAINTMENT",EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
@@ -42,19 +42,8 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfly.com/20180903/oig/kisspng-logo-fusion-tv-television-channel-sbn-tv-go-to-image-page-5b8df4a269b526.769096351536029858433.jpg" group-title="ENTERTAINTMENT",FUSION CHANNEL
 http://cdn.miip.tv:80/machito/123456/12089
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-5-2-logo-png-transparent.png" group-title="ENTERTAINTMENT"group-title="ENTERTAINTMENT",FOX 5
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23708
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180417/qyw/kisspng-fox-business-network-united-states-company-small-b-gambit-5ad5bbf2225a11.4864054015239567221407.jpg" group-title="ENTERTAINTMENT",FOX BUSSINESS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23706
-#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/images/fx_logo_white.png" group-title="ENTERTAINTMENT",FX US
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23797
-#EXTINF:-1 tvg-logo="http://boomstickcomics.com/wp-content/uploads/2014/07/fxx_logo.jpg"group-title="ENTERTAINTMENT",FXX
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23794
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png"group-title="ENTERTAINTMENT",FYI
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23793
+#EXTINF:-1 group-title="ENTERTAINTMENT",Fox
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="ENTERTAINTMENT",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="ENTERTAINTMENT",HITS HD
@@ -89,14 +78,6 @@ http://45.126.83.51/uq2663/h/h143/index.m3u8
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/10/21/1/imgbin-gem-tv-television-channel-logo-sony-s-axJ95nqd08y9vz7zE0YHfLtQp.jpg" group-title="ENTERTAINTMENT",SONY GEM HD
 http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINTMENT",TLC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
-#EXTINF:-1 group-title="ENTERTAINTMENT",TNT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="ENTERTAINTMENT",TRVL CHANNEL
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23726
-#EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE STYLE
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE
@@ -105,13 +86,6 @@ http://210.210.155.35/qwr9ew/s/s24/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINTMENT",TLC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23771
-#EXTINF:-1 group-title="ENTERTAINTMENT",TNT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23769
-#EXTINF:-1 group-title="ENTERTAINTMENT",TRUE TV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23768
-
 
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JEPANG",V ASAHI
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
@@ -163,70 +137,13 @@ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mlzhongguo.com/Upload/Image/Content/2014-06-10/201406101854256395.jpg" group-title="KIDS",TOONMAX TV*
 http://rr2.dens.tv/s/s50/index2.m3u8
 
-#EXTINF:-1 group-title="KIDS",BOOMERANG
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23757
-
-#EXTINF:-1 group-title="KIDS",AD SWIM
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23756
-
-#EXTINF:-1 group-title="KIDS",DISNEY CHANNEL
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23755
-
-#EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23754
-
-#EXTINF:-1 group-title="KIDS",DISNEY XD
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23753
-
-#EXTINF:-1 group-title="KIDS",DISNEY XD
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23752
-
-#EXTINF:-1 group-title="KIDS",NICK JR
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23750
-
-#EXTINF:-1 group-title="KIDS",NICK JR
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23749
-
-#EXTINF:-1 group-title="KIDS",NICKTOONS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23748
-
-#EXTINF:-1 group-title="KIDS",23815
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23815
-
-#EXTINF:-1 group-title="KIDS",WGCU
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23747
-
-#EXTINF:-1 group-title="KIDS",EI
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23746
-
-#EXTINF:-1 group-title="KIDS",UNIVERSAL KIDS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23745
-
-#EXTINF:-1 group-title="KIDS",NICK REWIND
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23744
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE",ANIMAL PLANET
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
 http://122.146.68.116:4046/VideoInput/play.ts
-
-#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY FAMILY
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23737
-
-#EXTINF:-1,group-title="KNOWLEDGE",H2
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23791
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="KNOWLEDGE",HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
@@ -440,11 +357,17 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/cinema-world.png" group-title="MOVIES",CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
 #EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/CELESTIALMOVIES.png" group-title="MOVIES",CELESTIAL MOVIE HD
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX CINEMA
 http://161.0.157.7:80/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINTMENT",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO
 http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
@@ -468,6 +391,9 @@ http://109.248.236.41:4433//udp/238.1.1.71:1234
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="24/7",Hollywood Movies 2
@@ -565,165 +491,12 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
 
-#EXTINF:-1 group-title="MOVIES",PARAMOUNT (MOVIE)
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23818
 
-#EXTINF:-1 group-title="MOVIES",SHO EXTREME
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23822
-
-#EXTINF:-1 group-title="MOVIES",23823
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23823
-
-#EXTINF:-1 group-title="MOVIES",23824
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23824
-
-#EXTINF:-1 group-title="MOVIES",23825
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23825
-
-
-#EXTINF:-1 group-title="MOVIES",23826
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23826
-
-#EXTINF:-1 group-title="MOVIES",23827
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23827
-
-#EXTINF:-1 group-title="MOVIES",23828
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23828
-
-#EXTINF:-1 group-title="MOVIES",23829
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23829
-
-#EXTINF:-1 group-title="MOVIES",23830
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23830
-
-#EXTINF:-1 group-title="MOVIES",23831
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23831
-
-#EXTINF:-1 group-title="MOVIES",23832
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23832
-
-#EXTINF:-1 group-title="MOVIES",23833
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23833
-
-#EXTINF:-1 group-title="MOVIES",23834
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23834
-
-#EXTINF:-1 group-title="MOVIES",23836
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23836
-
-#EXTINF:-1 group-title="MOVIES",23837
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23837
-
-#EXTINF:-1 group-title="MOVIES",23838
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23838
-
-#EXTINF:-1 group-title="MOVIES",23839
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23839
-
-#EXTINF:-1 group-title="MOVIES",23840
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23840
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23789
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES*
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 
-#EXTINF:-1 group-title="MOVIES",H&I
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23788
 
-#EXTINF:-1 group-title="MOVIES",HGTV (ENTERTAINTMENT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23786
-
-#EXTINF:-1 group-title="MOVIES",23785
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23785
-
-#EXTINF:-1 group-title="MOVIES",OXYGEN
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23784
-
-#EXTINF:-1 group-title="MOVIES",23782
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23782
-
-#EXTINF:-1 group-title="MOVIES",LIFETIME MOVIE CLUB
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23780
-
-#EXTINF:-1 group-title="MOVIES",23779
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23779
-
-#EXTINF:-1 group-title="MOVIES",23778
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23778
-
-#EXTINF:-1 group-title="MOVIES",WGN AMERICA
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23776
-
-#EXTINF:-1 group-title="MOVIES",PIX II
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23775
-
-#EXTINF:-1 group-title="MOVIES",23774
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23774
-
-#EXTINF:-1 group-title="MOVIES",23773
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23773
-
-#EXTINF:-1 group-title="MOVIES",TNT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23772
-
-#EXTINF:-1 group-title="MOVIES",23767
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23767
-
-#EXTINF:-1 group-title="MOVIES",TV LAND
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23766
-
-#EXTINF:-1 group-title="MOVIES",23765
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23765
-
-#EXTINF:-1 group-title="MOVIES",23764
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23764
-
-#EXTINF:-1 group-title="MOVIES",23763
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23763
-
-#EXTINF:-1 group-title="MOVIES",23762
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23762
-
-#EXTINF:-1 group-title="MOVIES",23751
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23751
-
-#EXTINF:-1 group-title="MOVIES",FX
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23799
-
-#EXTINF:-1 group-title="MOVIES",23800
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23800
-
-#EXTINF:-1 group-title="MOVIES",CMT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23801
-
-#EXTINF:-1 group-title="MOVIES",BRAVO
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23802
-
-#EXTINF:-1 group-title="MOVIES",COZY TV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23803
-
-#EXTINF:-1 group-title="ENTERTAINTMENT",AMC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23804
-
-#EXTINF:-1 group-title="MOVIES",BET STAR HER
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23805
-
-#EXTINF:-1 group-title="MOVIES",BET STAR
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23806
-
-#EXTINF:-1 group-title="MOVIES",BBC AMERICA
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23808
-
-#EXTINF:-1 group-title="MOVIES" ,23809
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23809
-
-#EXTINF:-1 group-title="MOVIES",FXM RETRO
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23796
-
-#EXTINF:-1 group-title="MOVIES",FX
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23797
 
 
 
@@ -762,14 +535,6 @@ http://rtmp.one.by:1300
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NEWS",ABC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23724
-
-#EXTINF:-1 group-title="NEWS",ABC NEWS LIVE
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23721
-
-#EXTINF:-1 group-title="NEWS",ABC NIGHTLINE
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23723
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al JAZEERA
 http://rr2.dens.tv/s/s17/index2.m3u8
@@ -777,23 +542,9 @@ http://rr2.dens.tv/s/s17/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BERITA SATU
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="NEWS",BLOOMBERG
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23718
-
-#EXTINF:-1 group-title="NEWS",CBN NEWS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23717
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CHANNEL NEWS ASIA
 http://rr.dens.tv/h/h29/index2.m3u8
 
-#EXTINF:-1 group-title="NEWS",04WBZ
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23715
-
-#EXTINF:-1 group-title="NEWS",CNBC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23713
-
-#EXTINF:-1 group-title="NEWS",CNBC WORLD
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23728
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -1164,8 +915,6 @@ http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/316
 http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/28039
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKddatQ.png" ggroup-title="SPORTS",BT Sport Extra 4
 
-#EXTINF:-1 group-title="SPORTS",BTN
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23719
 
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(UK) Eurosport 1
 http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/985
@@ -1186,15 +935,6 @@ http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DNTqvKrWq_nWkumt3HTBa0_wEl_4hBmF7-CQ_NviA4bietHC" group-title="SPORTS",EXTREME SPORTS CHANNEL
 http://92.104.106.29:8000/play/a04v/index.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23709
-
-#EXTINF:-1 group-title="SPORTS",LONGHORN NETWORK
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23720
-
-#EXTINF:-1 group-title="SPORTS",MLB NETWORK
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23703
 
 #EXTINF:-1 group-title="SPORTS",RED BULL
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master_3360.m3u8
