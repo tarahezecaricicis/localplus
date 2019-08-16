@@ -12,6 +12,8 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",A&E
 http://sghub.ml:25461/ali/ali/14660
+#EXTINF:-1 group-title="ENTERTAINTMENT",Asian Food Chanel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINTMENT
