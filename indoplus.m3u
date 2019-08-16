@@ -137,6 +137,9 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS",BIZNET Kids
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
 
+#EXTINF:-1 group-title="KIDS",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180525/jwt/kisspng-disney-junior-disney-channel-the-walt-disney-compa-5b07c301320336.5663620515272353292049.jpg" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
@@ -222,9 +225,6 @@ http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23737
 
 #EXTINF:-1,group-title="KNOWLEDGE",H2
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23791
-
-#EXTINF:-1 group-title="KNOWLEDGE",HISTORY
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23732
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="KNOWLEDGE",HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
