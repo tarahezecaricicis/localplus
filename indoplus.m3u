@@ -489,28 +489,20 @@ http://109.248.236.41:4433//udp/238.1.1.71:1234
 
 #EXTINF:-1, tvg-id="ext" group-title="MOVIES",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 group-title="24/7",Hollywood Movies 2
 http://aldirect.hls.huya.com:80/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8?rizkizakaria-Huya1-join-telegram=@iptvondemand
-
-#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
+#EXTINF:-1 group-title="24/7",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="24/7",Hollywood Movies 4
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 5
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 7
 http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8?rizkizakaria-Huya2-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 8
@@ -535,8 +527,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Mandarin Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="24/7",Top Movies 6
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Top Movies 7
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
