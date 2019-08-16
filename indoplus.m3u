@@ -8,6 +8,15 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO AWANI
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 1
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1722
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 2
+http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 3
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1720
+#EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 4
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1719
+
 
 
 #EXTINF:-1 group-title="ENTERTAINTMENT",A&E
@@ -335,62 +344,65 @@ http://rr2.dens.tv/s/s41/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/sur-taal-sangam.jpg" group-title="MOVIES",&FLIX HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="MOVIES",&PRIVE HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/MBC_2_(Middle_East_and_North_Africa)#/media/File:MBC_2_current_logo.png" group-title="MOVIES",2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png" group-title="MOVIES",3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/44-MBC4-HD.png" group-title="MOVIES",4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/CELESTIALMOVIES.png" group-title="MOVIES",CELESTIAL MOVIE HD
 http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/cinema-world.png" group-title="MOVIES",CINEMA WORLD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/cinema-world.png" group-title="MOVIES",CINEMA WORLD
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-
 #EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/CELESTIALMOVIES.png" group-title="MOVIES",CELESTIAL MOVIE HD
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX CINEMA
-http://161.0.157.7:80/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINTMENT",Fox Movies
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/cinema-world.png" group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/cinema-world.png" group-title="MOVIES",CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1 group-title="MOVIES",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
-
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO
 http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
-
-#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO US
-http://redtv.cf:8080/jamietannerws/Reaper32/8192
-
 #EXTINF:-1 tvg-id="10241" tvg-logo="https://i.imgur.com/1iwAR2p.gif?1" group-title="MOVIES",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2" group-title="MOVIES",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f" group-title="MOVIES",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-
-#EXTINF:-1, tvg-id="ext" group-title="MOVIES",HBO Home
-http://109.248.236.41:4433//udp/238.1.1.71:1234
-
 #EXTINF:-1, tvg-id="ext" group-title="MOVIES",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 #EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",HELLO TV HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",J'Go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",MBC HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8                                                                   
+#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="MOVIES",OSN CINEMA 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",PARAMOUNT MOVIES
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png"group-title="MOVIES",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="MOVIES",Star World [AR]
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL HD
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES*
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+
 
 
 
@@ -422,115 +434,35 @@ http://aldirect.hls.huya.com:80/huyalive/30765679-2484192572-1066952585370612531
 http://tx.hls.huya.com:80/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8?rizkizakaria-Huya9-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Hollywood Movies 14
 http://tx.hls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8?rizkizakaria-Huya10-join-telegram=@iptvondemand
-
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Mandarin Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" group-title="24/7",Top Movies 7
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 
 
 
-#EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",J'Go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-id="10241" tvg-logo="" group-title="MOVIES",MBC HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8      
-                                                      
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC ACTION
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8 
-                                                                 
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC MAX
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8 
-
-#EXTINF:-1 tvg-id="ext" group-title="MOVIES",OSN CINEMA 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",PARAMOUNT MOVIES
-http://paramount.live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png"group-title="MOVIES",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",RAI MOVIE HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="MOVIES",Star World [AR]
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-
-#EXTINF:-1 tvg-ext" group-title="MOVIES",sky movie comedy
-http://redtv.cf:8080/jamietannerws/Reaper32/26673
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL HD
-http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",WOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
- 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES*
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-
-
-
-
-
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
 #EXTINF:-1 group-title="MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIC",FOX PORTAL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-
 #EXTINF:-1 group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-
 #EXTINF:0 group-title="MUSIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
 #EXTINF:-1 group-title="MUSIC",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
 #EXTINF:-1 group-title="MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIC",MIX
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
 #EXTINF:-1 group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
-
 #EXTINF:-1 group-title="MUSIC",STEELBIRD MUSIC
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
@@ -538,7 +470,6 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al JAZEERA
 http://rr2.dens.tv/s/s17/index2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BERITA SATU
 http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?_res_tag_=video&virtualDomain=000001.live_hls.zte.com
 
@@ -627,7 +558,7 @@ http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES",PLUTO MOVIES1
+#EXTINF:-1 group-title="PLUTO TV",PLUTO MOVIES1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="PLUTO TV",80s Rewind
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
