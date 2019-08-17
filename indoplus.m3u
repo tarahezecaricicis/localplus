@@ -881,6 +881,8 @@ http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23933
 http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DNTqvKrWq_nWkumt3HTBa0_wEl_4hBmF7-CQ_NviA4bietHC" group-title="SPORTS",EXTREME SPORTS CHANNEL
 http://92.104.106.29:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE
+http://88.150.157.158:1935/mc/WWE/playlist.m3u8
 
 
 
