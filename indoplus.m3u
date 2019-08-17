@@ -61,22 +61,20 @@ http://45.126.83.51/uq2663/h/h37/index.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",K+ HD
 http://45.126.83.51/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8nK4y_mTe6NpQvbTchdcIoO5x0WamlxzpxTBv6643hRN5JMQEQ" group-title="ENTERTAINTMENT",K DRAMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylZe_0zXkiXlJ9WeIt6ISJgRhzmiTBwTpHR9NC_xTyhU78jUl" group-title="ENTERTAINTMENT",K DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8nK4y_mTe6NpQvbTchdcIoO5x0WamlxzpxTBv6643hRN5JMQEQ" group-title="ENTERTAINTMENT",K DRAMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylZe_0zXkiXlJ9WeIt6ISJgRhzmiTBwTpHR9NC_xTyhU78jUl" group-title="ENTERTAINTMENT",K DRAMA
 http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/ktv_kr.png" group-title="ENTERTAINTMENT",KOREAN TV
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/ktv_kr.png" group-title="ENTERTAINTMENT",KOREA TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 tvg-logohttps://www.satlogo.com/hires/kk/ktv_kr.png group-title="ENTERTAINTMENT",KOREAN TV
+#EXTINF:-1 tvg-logo "https://www.satlogo.com/hires/kk/ktv_kr.png" group-title="ENTERTAINTMENT",KOREA TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",KIX ID
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV
 http://210.210.155.35/uq2663/h/h40/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_big.png?v=2.0.0.13" group-title="ENTERTAINTMENT",MyTV HD 
+#EXTINF:-1 tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="ENTERTAINTMENT",INFO TV
 http://202.80.222.130/000001/2/ch00000090990000001802/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://cdn.subscriptioninsider.com/media/newspics/340/Motor-Trend-Logo.png" group-title="ENTERTAINTMENT",MOTOR TREND
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/23734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE
 http://bit.ly/2Orhp3s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="ENTERTAINTMENT",SONY ONE ID
@@ -87,11 +85,11 @@ http://45.126.83.51/uq2663/h/h143/index.m3u8
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/10/21/1/imgbin-gem-tv-television-channel-logo-sony-s-axJ95nqd08y9vz7zE0YHfLtQp.jpg" group-title="ENTERTAINTMENT",SONY GEM HD
 http://45.126.83.51/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE STYLE
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/tt/tv5_monde_style_hd.png" group-title="ENTERTAINTMENT",TV5 MONDE STYLE
 http://45.126.83.51/uq2663/h/h01/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_big1.png?v=2.0.0.13" group-title="ENTERTAINTMENT",TV5 MONDE
+#EXTINF:-1 tvg-logo="https://id.ambafrance.org/IMG/arton2010.png?1433482594" group-title="ENTERTAINTMENT",TV5 MONDE
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
@@ -102,9 +100,9 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JEPANG",History Channel [404p]
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JEPANG", JAPANET CHANEL DX
+#EXTINF:-1 tvg-logo="" group-title="JEPANG", JAPANET CHANEL DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="JEPANG",NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JEPANG",NHK WORLD JAPAN
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JEPANG",TV TOKYO
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
@@ -763,8 +761,6 @@ http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
 http://92.104.106.29:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="SPORTS",RED BULL
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="ENTERTAINTMENT",Warner Channel (1)
-http://ultraplay.biz:80/casa1/casa1/34829
 #EXTINF:-1 group-title="SPORTS",XCORPS TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://league-mp7static.mlsdigital.net/styles/full_landscape/s3/images/espn_plus_white.png" group-title="SPORTS",Espn + (1)
