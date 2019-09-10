@@ -10,6 +10,20 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8?fluxustv.m
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO",ASTRO VAANAVIL
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+#EXTINF:-1 group-title="Teguh-Astro﻿",Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:-1 group-title="ASTRO",Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#EXTINF:-1 group-title="ASTRO",Naura
+http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m02000000000013743124&ct=17950&tsum=44caaaf344841c3fa4d679942c191bae
+#EXTINF:-1 group-title="ASTRO",Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+#EXTINF:-1 group-title="ASTRO",Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+#EXTINF:-1 group-title="ASTRO",Boo
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+#EXTINF:-1 group-title="ASTRO",RTMSPORTSHD
+http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 1
 http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1722
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPER SPORT 2
@@ -53,6 +67,10 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfly.com/20180903/oig/kisspng-logo-fusion-tv-television-channel-sbn-tv-go-to-image-page-5b8df4a269b526.769096351536029858433.jpg" group-title="ENTERTAINTMENT",FUSION CHANNEL
 http://cdn.miip.tv:80/machito/123456/12089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="ENTERTAINTMENT",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:1 GROUP-TITLE=“ENTERTAINTMENT”,HBO ZONE
@@ -101,25 +119,33 @@ http://80.80.160.168/live/3/live.m3u8
 http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF:-1 tvg-logo="https://id.ambafrance.org/IMG/arton2010.png?1433482594" group-title="ENTERTAINTMENT",TV5 MONDE
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JEPANG",V ASAHI
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JAPAN",V ASAHI
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JEPANG",History Channel [404p]
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JAPAN",History Channel [404p]
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="JEPANG", JAPANET CHANEL DX
+#EXTINF:-1 tvg-logo="" group-title="JAPAN", JAPANET CHANEL DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JEPANG",NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JAPAN",NHK WORLD JAPAN
 http://210.210.155.35/uq2663/h/h23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JEPANG",TV TOKYO
+#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JAPAN",TV TOKYO
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5oz1z3S.png" group-title="JEPANG",Waku-Waku Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5oz1z3S.png" group-title="JAPAN",Waku-Waku Japan
 rtmp://118.97.96.17:1935/discover/wakuwaku_4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPS9WGBWkH5HhywGZ9-L7m21-VNpbUzDRMb5cs-OGXd75f_F4N" group-title="JAPAN", Family Gekijyo
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1 tvg-logo="https://www.history.com/.image/cs_srgb%2Cq_auto:good/MTU1MTMxNjMyMzU1OTI3NTg1/logo-nav.png"group-title="JAPAN", History
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/eisei_gekijo.jpg" group-title="JAPAN", Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1Iof_kWHDXjl4BfFSLhYy6O3HMnggjmAC1hhnhSYoD9QgTwuW" group-title="JAPAN", Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg"group-title="JAPAN", Cinefil WOWOW
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
@@ -134,14 +160,18 @@ http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w7
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180525/jwt/kisspng-disney-junior-disney-channel-the-walt-disney-compa-5b07c301320336.5663620515272353292049.jpg" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KIDS",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png?v=2.0.0.13" group-title="KIDS",DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KIDS",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, group-title="KIDS",LUXE TV
+http://210.210.155.35/x6bnqe/s/s65/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tgq5zll86Ls/hqdefault.jpg" group-title="KIDS",MY KIDS
 http://210.210.155.35/uq2663/h/h43/index2.m3u8
+#EXTINF:-1 tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="KIDS",STAR KIDS
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 group-title="KIDS",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_250.m3u8
 #EXTINF:-1 tvg-logo="http://www.mlzhongguo.com/Upload/Image/Content/2014-06-10/201406101854256395.jpg" group-title="KIDS",TOONMAX TV
@@ -408,8 +438,12 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",ONE HD 
 http://rtmp.one.by:1300
+#EXTINF:-1 group-title="MUSIC",RETRO Music
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",STEELBIRD MUSIC
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",VIBEE TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
 
 
 
