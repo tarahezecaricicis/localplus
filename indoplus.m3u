@@ -941,3 +941,30 @@ http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
 http://92.104.106.29:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE
 http://88.150.157.158:1935/mc/WWE/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/62h2xDe.png?1" group-title="4-Feed Doball",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
