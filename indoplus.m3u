@@ -55,6 +55,8 @@ http://210.210.155.35/uq2663/h/h11/index.m3u8
 http://45.126.83.51:80/session/0a81f242-bf53-11e9-8f57-8e46bf76bbba/uq2663/h/h11/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",E! ENTERTAINTMENT HD
 http://210.210.155.35/uq2663/h/h10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ENTERTAINTMENT TONIGHT
+http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Channels_ebs2.png/revision/latest/scale-to-width-down/250?cb=20180627175222" group-title="ENTERTAINTMENT",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/EBS_English.png" group-title="ENTERTAINTMENT",EBS ENGLISH
