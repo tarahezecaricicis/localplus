@@ -37,6 +37,8 @@ http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1719
 
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/a&e.png" group-title="ENTERTAINTMENT",A&E
 http://sghub.ml:25461/ali/ali/14660
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",AMC
+http://faustinotv.tk/redir.php?acesso=e426a9e1845f366dcb5989f925c12201&usuario=e502ab55bf692e9bf08e33a30b9b7c61
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/huf/kisspng-asian-food-channel-asian-cuisine-television-channe-o-creative-5b177c062dd920.9442817115282657341878.jpg" group-title="ENTERTAINTMENT",ASIAN FOOD CHANNEL
@@ -831,6 +833,8 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 5 [Ar]
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 6
+http://51.77.116.148:1973/almatch/almatch/5158
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE
 http://88.150.157.158:1935/mc/WWE/playlist.m3u8
 
@@ -878,3 +882,85 @@ http://ss-piay.burmatv.net/live-abr/channel1/live/channel1_720p/chunks.m3u8
 http://ss-piay.burmatv.net/live-abr/channel3/live/channel3_720p/chunks.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/NvwZhgp.png" group-title="4-Feed Pre-Season",Football Pre-Season 9
 http://cdn.serdan.xyz/hls/lsh2hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDExOjQzOjUwIEFNJmhhc2hfdmFsdWU9TnExYmh0ZFVlcm02ZTIreXBpdzNodz09JnZhbGlkbWludXRlcz0xMjA=
+
+
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ZEE TV",STARPLUS HD
+http://jprdigitalott.com/media/StarPlusHD.mpd
+#EXTINF:0 group-title="ZEE TV",andtvhd
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:0 group-title="ZEE TV",zeetvsd  
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+#EXTINF:0 group-title="ZEE TV",zeetvhd
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:0 group-title="ZEE TV",ColorsHD
+http://jprdigitalott.com/media/ColorsHD.mpd
+#EXTINF:0 group-title="ZEE TV",SonyMax
+http://jprdigitalott.com:80/media/SonyMaxHD.mpd
+#EXTINF:0 group-title="ZEE TV",zcinemasd   
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:0 group-title="ZEE TV",zcinemaAhd  
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:0 group-title="ZEE TV",andpicssd   
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+#EXTINF:0 group-title="ZEE TV",andpicssd   
+http://pockettv.xyz/api/zee.m3u8?c= andpicssd  
+#EXTINF:0 group-title="ZEE TV",StarGoldHD
+http://jprdigitalott.com/media/StarGoldHD.mpd
+#EXTINF:0 group-title="ZEE TV",StarGoldSelectHD
+http://jprdigitalott.com/media/StarGoldSelectHD.mpd
+#EXTINF:0 group-title="ZEE TV",Zee bollywood
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:0 group-title="ZEE TV",bigmagic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
+#EXTINF:0 group-title="ZEE TV",Hungama.
+http://jprdigitalott.com/media/Hungama.mpd
+#EXTINF:0 group-title="ZEE TV",DisneyXD
+http://jprdigitalott.com/media/DisneyXD.mpd
+#EXTINF:0 group-title="ZEE TV",StarMoviesHD
+http://jprdigitalott.com/media/StarMoviesHD.mpd
+#EXTINF:0 group-title="ZEE TV",HBOHD
+http://jprdigitalott.com/media/HBOHD.mpd
+#EXTINF:0 group-title="ZEE TV",andprivehd
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:0 group-title="ZEE TV",andflix
+http://pockettv.xyz/api/zee.m3u8?c=andflix
+#EXTINF:0 group-title="ZEE TV",andflixhd   
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:0 group-title="ZEE TV",ColorsInfinityHD
+http://jprdigitalott.com/media/ColorsInfinityHD.mpd
+#EXTINF:0 group-title="ZEE TV",StarWorldPremiereHD
+http://jprdigitalott.com/media/StarWorldPremiereHD.mpd
+#EXTINF:0 group-title="ZEE TV",StarWorldHD
+http://jprdigitalott.com/media/StarWorldHD.mpd
+#EXTINF:0 group-title="ZEE TV",Bein_Series2
+http://109.236.92.216:9090/Bein_Series2/mpegts
+#EXTINF:0 group-title="ZEE TV",Bein_Series1
+http://109.236.92.216:9090/Bein_Series1/mpegts
+#EXTINF:0 group-title="ZEE TV",zeecafehd   
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+#EXTINF:0 group-title="ZEE TV",StarSports1HD
+http://jprdigitalott.com:80/media/StarSports1HD.mpd
+#EXTINF:0 group-title="ZEE TV",StarSports1HindiHD
+http://jprdigitalott.com/media/StarSports1HindiHD.mpd
+#EXTINF:0 group-title="ZEE TV",StarSportsSelect1HD
+http://jprdigitalott.com:80/media/StarSportsSelect1HD.mpd
+#EXTINF:0 group-title="ZEE TV",StarSports2HD
+http://jprdigitalott.com:80/media/StarSports2HD.mpd
+#EXTINF:0 group-title="ZEE TV",9xo
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:0 group-title="ZEE TV",Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF: group-title="ZEE TV",zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF: group-title="ZEE TV",9xm 
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+#EXTINF: group-title="ZEE TV",etc
+http://pockettv.xyz/api/zee.m3u8?c=etc
+#EXTINF: group-title="ZEE TV",9xjalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF: group-title="ZEE TV",star_movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
+#EXTINF: group-title="ZEE TV",star_world
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
+#EXTINF: group-title="ZEE TV",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
