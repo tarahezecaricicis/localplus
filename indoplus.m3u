@@ -894,53 +894,15 @@ http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/14688
 #EXTINF:-1 tvg-logo="https://st.kosarka.si/media/website/napoved-2-kroga-evrolige/Sportklub-Hero.jpg" group-title="SPORTS",Sport Klub 6
 http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/38251
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 1 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1962
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 2 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1963
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 3 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1964
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 4 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1965
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 5 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1966
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 6 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1967
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 7 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1968
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 8 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1969
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 9 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1970
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 10 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1971
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 11 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/1972
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/b9/de/f7b9def3aa4f955090c3663d7c49e62c.jpg" group-title="SPORTS",beIN Sport HD 13 [Ar]
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/13251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 2
-http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19941
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="SPORTS",Astro Supersport 3
-http://iptv.jinbox.nl:1339/e0RSbN2x6P/h46q5wdOuH/19942
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg group-title="SPORTS",Astro Arena
-http://iptv-line.com:6969/villavacacionaljavea1/nehjmRgV/32275
-#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(UK) Eurosport 1
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/985
-#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/6. Knowledge/332.png" group-title="SPORTS",(TR) EuroSport 2
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7774
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png" group-title="SPORTS",(TR) EuroSport 2 HD+
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/7877
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN1
-http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23924
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sony_ten.jpg" group-title="SPORTS",SONY_TEN2
-http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23923
-#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/08/sony-ten3.png" group-title="SPORTS",SONY_TEN3
-http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23922
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/da/0f/44da0f3f77a4dff689f5cb0490943386.png" group-title="SPORTS",SONY_ESPN
-http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23933
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-sd.jpg" group-title="SPORTS",SONY_SIX
-http://www.pandar.tv:25461/025370152733/kdpXhkKQs4yGkd5/23932
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DNTqvKrWq_nWkumt3HTBa0_wEl_4hBmF7-CQ_NviA4bietHC" group-title="SPORTS",EXTREME SPORTS CHANNEL
-http://92.104.106.29:8000/play/a04v/index.m3u8
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE
 http://88.150.157.158:1935/mc/WWE/playlist.m3u8
 
