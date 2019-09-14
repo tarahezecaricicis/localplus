@@ -950,17 +950,42 @@ http://jprdigitalott.com:80/media/StarSports2HD.mpd
 http://pockettv.xyz/api/zee.m3u8?c=9xo
 #EXTINF:0 group-title="ZEE TV",Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
-#EXTINF: group-title="ZEE TV",zing
+#EXTINF:0 group-title="ZEE TV",zing
 http://pockettv.xyz/api/zee.m3u8?c=zing
-#EXTINF: group-title="ZEE TV",9xm 
+#EXTINF:0 group-title="ZEE TV",9xm 
 http://pockettv.xyz/api/zee.m3u8?c=9xm
-#EXTINF: group-title="ZEE TV",etc
+#EXTINF:0 group-title="ZEE TV",etc
 http://pockettv.xyz/api/zee.m3u8?c=etc
-#EXTINF: group-title="ZEE TV",9xjalwa
+#EXTINF:0 group-title="ZEE TV",9xjalwa
 http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
-#EXTINF: group-title="ZEE TV",star_movies
+#EXTINF:0 group-title="ZEE TV",star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
-#EXTINF: group-title="ZEE TV",star_world
+#EXTINF:0 group-title="ZEE TV",star_world
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
-#EXTINF: group-title="ZEE TV",HBO
+#EXTINF:0 group-title="ZEE TV",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 group-title="ZEE TV",Movies now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:0 group-title="ZEE TV",MNX
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:0 group-title="ZEE TV",RN
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:0 group-title="ZEE TV",aahomusic
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:0 group-title="ZEE TV",poppataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+#EXTINF:0 group-title="ZEE TV",92newshd
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0 group-title="ZEE TV",ARY digital
+http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
+#EXTINF:0 group-title="ZEE TV",Z
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:0 group-title="ZEE TV",GEO NEWS
+https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
+#EXTINF:0 group-title="ZEE TV", dawnnews3
+http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
+#EXTINF:0 group-title="ZEE TV",movs
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0 group-title="ZEE TV", STAR-SP-FIRST
+http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
+
