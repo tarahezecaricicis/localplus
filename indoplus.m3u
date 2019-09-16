@@ -358,6 +358,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8                                                                   
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByV1CxHRKKJ7rYjB5ELhOyH53jRST65vi5xz9FWDfKUfbUv5x" group-title="MOVIES",MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 group-title="MOVIES",MN+
+https://akamai.anytv.live/MNPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="MOVIES",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MOVIES",OSN CINEMA 1
