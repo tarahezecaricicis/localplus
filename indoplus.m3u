@@ -988,4 +988,14 @@ http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ZEE TV", STAR-SP-FIRST
 http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://ruhutv.stream/tRXnDiJPF3RO4DR//Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+#EXTINF:0, group-title="English",MN+
+http://ruhutv.stream/tRXnDiJPF3RO4DR//MNPLUS/MNPLUS_800.m3u8
+#EXTINF:0, group-title="English",MNX
+http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now2/Movies_Now2_800.m3u8
+#EXTINF:0, group-title="English",MNX HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now2_HD/Movies_Now2_HD_800.m3u8
+#EXTINF:0, group-title="English",Movies Now HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now_HD/Movies_Now_HD_800.m3u8
 
