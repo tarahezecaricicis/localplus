@@ -334,6 +334,14 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES*
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/hbo_asia.png" group-title="MOVIES",HBO
@@ -362,18 +370,34 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 https://akamai.anytv.live/MNPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="MOVIES",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 group-title="MOVIES",MNX
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23900.ts
+#EXTINF:-1,group-title="MOVIES", MNX PLUS HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23901.ts
+#EXTINF:-1 group-title="MOVIES",MOVIES NOW
+http://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1,group-title="MOVIES", MOVIES NOW HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23899.ts
 #EXTINF:-1 tvg-id="ext" group-title="MOVIES",OSN CINEMA 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",PARAMOUNT MOVIES
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/STM.png"group-title="MOVIES",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,group-title="MOVIES", STAR MOVIES HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23890.ts
+#EXTINF:-1,group-title="MOVIES", STAR MOVIES SELECT HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23889.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="MOVIES",Star World [AR]
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1,group-title="MOVIES", SONY PIX HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23970.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1,group-title="MOVIES", ROMEDY NOW HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23893.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",THRILL HD
@@ -889,26 +913,6 @@ http://cdn.serdan.xyz/hls/lsh2hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8y
 
 
 
-#EXTINF:-1,group-title="ZEE TV", AND FLIX HD
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1,group-title="ZEE TV", AND PRIVE HD
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1,group-title="ZEE TV", SONY PIX HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23970.ts
-#EXTINF:-1 group-title="ZEE TV",Movies now
-http://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="ZEE TV",MNX
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23900.ts
-#EXTINF:-1,group-title="ZEE TV", MNX PLUS HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23901.ts
-#EXTINF:-1,group-title="ZEE TV", STAR MOVIES SELECT HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23889.ts
-#EXTINF:-1,group-title="ZEE TV", STAR MOVIES HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23890.ts
-#EXTINF:-1,group-title="ZEE TV", ROMEDY NOW HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23893.ts
-#EXTINF:-1,group-title="ZEE TV", MOVIES NOW HD
-http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23899.ts
 
 
 
