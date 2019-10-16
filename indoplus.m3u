@@ -888,118 +888,89 @@ http://ss-piay.burmatv.net/live-abr/channel3/live/channel3_720p/chunks.m3u8
 http://cdn.serdan.xyz/hls/lsh2hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDExOjQzOjUwIEFNJmhhc2hfdmFsdWU9TnExYmh0ZFVlcm02ZTIreXBpdzNodz09JnZhbGlkbWludXRlcz0xMjA=
 
 
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ZEE TV",STARPLUS HD
-http://jprdigitalott.com/media/StarPlusHD.mpd
-#EXTINF:0 group-title="ZEE TV",andtvhd
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
-#EXTINF:0 group-title="ZEE TV",zeetvsd  
-http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
-#EXTINF:0 group-title="ZEE TV",zeetvhd
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-#EXTINF:0 group-title="ZEE TV",ColorsHD
-http://jprdigitalott.com/media/ColorsHD.mpd
-#EXTINF:0 group-title="ZEE TV",SonyMax
-http://jprdigitalott.com:80/media/SonyMaxHD.mpd
-#EXTINF:0 group-title="ZEE TV",zcinemasd   
-http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
-#EXTINF:0 group-title="ZEE TV",zcinemaAhd  
-http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
-#EXTINF:0 group-title="ZEE TV",andpicssd   
-http://pockettv.xyz/api/zee.m3u8?c=andpicssd
-#EXTINF:0 group-title="ZEE TV",andpicssd   
-http://pockettv.xyz/api/zee.m3u8?c= andpicssd  
-#EXTINF:0 group-title="ZEE TV",StarGoldHD
-http://jprdigitalott.com/media/StarGoldHD.mpd
-#EXTINF:0 group-title="ZEE TV",StarGoldSelectHD
-http://jprdigitalott.com/media/StarGoldSelectHD.mpd
-#EXTINF:0 group-title="ZEE TV",Zee bollywood
-http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:0 group-title="ZEE TV",bigmagic
-http://pockettv.xyz/api/zee.m3u8?c=bigmagic
-#EXTINF:0 group-title="ZEE TV",Hungama.
-http://jprdigitalott.com/media/Hungama.mpd
-#EXTINF:0 group-title="ZEE TV",DisneyXD
-http://jprdigitalott.com/media/DisneyXD.mpd
-#EXTINF:0 group-title="ZEE TV",StarMoviesHD
-http://jprdigitalott.com/media/StarMoviesHD.mpd
-#EXTINF:0 group-title="ZEE TV",HBOHD
-http://jprdigitalott.com/media/HBOHD.mpd
-#EXTINF:0 group-title="ZEE TV",andprivehd
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:0 group-title="ZEE TV",andflix
-http://pockettv.xyz/api/zee.m3u8?c=andflix
-#EXTINF:0 group-title="ZEE TV",andflixhd   
+
+#EXTINF:-1,group-title="Zalvision-Movie", AND FLIX HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:0 group-title="ZEE TV",ColorsInfinityHD
-http://jprdigitalott.com/media/ColorsInfinityHD.mpd
-#EXTINF:0 group-title="ZEE TV",StarWorldPremiereHD
-http://jprdigitalott.com/media/StarWorldPremiereHD.mpd
-#EXTINF:0 group-title="ZEE TV",StarWorldHD
-http://jprdigitalott.com/media/StarWorldHD.mpd
-#EXTINF:0 group-title="ZEE TV",Bein_Series2
-http://109.236.92.216:9090/Bein_Series2/mpegts
-#EXTINF:0 group-title="ZEE TV",Bein_Series1
-http://109.236.92.216:9090/Bein_Series1/mpegts
-#EXTINF:0 group-title="ZEE TV",zeecafehd   
-http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
-#EXTINF:0 group-title="ZEE TV",StarSports1HD
-http://jprdigitalott.com:80/media/StarSports1HD.mpd
-#EXTINF:0 group-title="ZEE TV",StarSports1HindiHD
-http://jprdigitalott.com/media/StarSports1HindiHD.mpd
-#EXTINF:0 group-title="ZEE TV",StarSportsSelect1HD
-http://jprdigitalott.com:80/media/StarSportsSelect1HD.mpd
-#EXTINF:0 group-title="ZEE TV",StarSports2HD
-http://jprdigitalott.com:80/media/StarSports2HD.mpd
-#EXTINF:0 group-title="ZEE TV",9xo
-http://pockettv.xyz/api/zee.m3u8?c=9xo
-#EXTINF:0 group-title="ZEE TV",Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
-#EXTINF:0 group-title="ZEE TV",zing
-http://pockettv.xyz/api/zee.m3u8?c=zing
-#EXTINF:0 group-title="ZEE TV",9xm 
-http://pockettv.xyz/api/zee.m3u8?c=9xm
-#EXTINF:0 group-title="ZEE TV",etc
-http://pockettv.xyz/api/zee.m3u8?c=etc
-#EXTINF:0 group-title="ZEE TV",9xjalwa
-http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
-#EXTINF:0 group-title="ZEE TV",star_movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ZEE TV",star_world
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ZEE TV",HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,group-title="Zalvision-Movie", AND PRIVE HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1,group-title="Zalvision-Movie", SONY PIX HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23970.ts
 #EXTINF:-1 group-title="ZEE TV",Movies now
 http://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1 group-title="ZEE TV",MNX
-http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="ZEE TV",RN
-http://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="ZEE TV",aahomusic
-http://v.viralshit.in/live/aahomusic.m3u8
-#EXTINF:-1 group-title="ZEE TV",poppataka
-http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:-1 group-title="ZEE TV",92newshd
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 group-title="ZEE TV",ARY digital
-http://158.69.229.29:8081/digital_abr/streamabr/playlist.m3u8
-#EXTINF:-1 group-title="ZEE TV",Z
-http://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1 group-title="ZEE TV",GEO NEWS
-http://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8
-#EXTINF:-1 group-title="ZEE TV", dawnnews3
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-#EXTINF:-1 group-title="ZEE TV",movs
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ZEE TV", STAR-SP-FIRST
-http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-#EXTINF:0, group-title="English",Mirror Now
-http://ruhutv.stream/tRXnDiJPF3RO4DR//Magic_bricks_Now/Magic_bricks_Now_800.m3u8
-#EXTINF:0, group-title="English",MN+
-http://ruhutv.stream/tRXnDiJPF3RO4DR//MNPLUS/MNPLUS_800.m3u8
-#EXTINF:0, group-title="English",MNX
-http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now2/Movies_Now2_800.m3u8
-#EXTINF:0, group-title="English",MNX HD
-http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now2_HD/Movies_Now2_HD_800.m3u8
-#EXTINF:0, group-title="English",Movies Now HD
-http://ruhutv.stream/tRXnDiJPF3RO4DR//Movies_Now_HD/Movies_Now_HD_800.m3u8
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23900.ts
+#EXTINF:-1,group-title="ZEE TV", MNX PLUS HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23901.ts
+#EXTINF:-1,group-title="ZEE TV", STAR MOVIES SELECT HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23889.ts
+#EXTINF:-1,group-title="ZEE TV", STAR MOVIES HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23890.ts
+#EXTINF:-1,group-title="ZEE TV", ROMEDY NOW HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23893.ts
+#EXTINF:-1,group-title="ZEE TV", MOVIES NOW HD
+http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23899.ts
+
+
+
+
+#EXTINF:-1 group-title="247-MOVIE", JACKIE CHAN TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", STEVEN CHOW TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", JET LE TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", MR BEAN TV
+https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
+#EXTINF:-1 group-title="247-MOVIE", ANDY LAU TV
+https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", SAMO HUNG TV
+https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", CHOW YUN FAT TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", YANG MI TV
+https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", AARON KWOK TV
+https://ws.streamhls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 group-title="247-MOVIE", WU JING TV
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", MASTER VAMPIRE TV
+https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", HAPPY GHOST TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", JAPANESE HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", WEST HOROR MOVIE
+https://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", SUPER HERO TV
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", FUNNY MOVIE TV
+https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", SUNG GO KONG TV
+https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", JIGONG CRAZY MONK TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", FIVE LUCKY STAR TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", SUPER CLASSIC MOVIE TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", KUNGFU SERIAL 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", KUNGFU SERIAL 2
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", POLICE MOVIE TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", RUNNING MAN TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", DWAYNE JOHNSON TV
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", DC COMIC TV
+https://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", SCIENCE FICTION ACTION TV
+https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", MARVEL SUPERHEROES TV
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", THRILLER BLOCKBUSTER TV
+https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
+#EXTINF:-1 group-title="247-MOVIE", WEST MOVIE
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
