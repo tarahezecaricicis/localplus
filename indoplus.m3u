@@ -889,11 +889,11 @@ http://cdn.serdan.xyz/hls/lsh2hd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8y
 
 
 
-#EXTINF:-1,group-title="Zalvision-Movie", AND FLIX HD
+#EXTINF:-1,group-title="ZEE TV", AND FLIX HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1,group-title="Zalvision-Movie", AND PRIVE HD
+#EXTINF:-1,group-title="ZEE TV", AND PRIVE HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1,group-title="Zalvision-Movie", SONY PIX HD
+#EXTINF:-1,group-title="ZEE TV", SONY PIX HD
 http://www.sansat.net:25461/live/TGbMsZNGKF/IQEuJJszkc/23970.ts
 #EXTINF:-1 group-title="ZEE TV",Movies now
 http://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
