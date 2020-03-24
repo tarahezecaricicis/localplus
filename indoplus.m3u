@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", MOVIE
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
@@ -36,6 +36,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox Crime
+https://tv4.chang55.com/live/tot03.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox Action Movie
+https://tv4.chang55.com/live/tot11.stream/chunks.m3u8
 
 *#EXTINF:-1 tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="ENTERTAINTMENT",INFO TV
 *http://202.80.222.130/000001/2/ch00000090990000001802/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -59,25 +63,6 @@ http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
 
-
-*#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/b1/41/cb/b141cb24957211ccc6f75f1f57738073.jpg" group-title="JAPAN",V ASAHI
-*http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
-*#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="JAPAN",History Channel [404p]
-*http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-*#EXTINF:-1 tvg-logo="" group-title="JAPAN", JAPANET CHANEL DX
-*http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-*#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="JAPAN",NHK WORLD JAPAN
-*http://210.210.155.35/uq2663/h/h23/index.m3u8
-*#EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/99/6b/62/996b62d6cf3e4c35016820c23f127957.jpg" group-title="JAPAN",TV TOKYO
-*http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
-*#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPS9WGBWkH5HhywGZ9-L7m21-VNpbUzDRMb5cs-OGXd75f_F4N" group-title="JAPAN", Family Gekijyo
-*http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-*#EXTINF:-1 tvg-logo="https://www.history.com/.image/cs_srgb%2Cq_auto:good/MTU1MTMxNjMyMzU1OTI3NTg1/logo-nav.png"group-title="JAPAN", History
-*http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-*#EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/eisei_gekijo.jpg" group-title="JAPAN", Eisei Gekijo
-*http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-*#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1Iof_kWHDXjl4BfFSLhYy6O3HMnggjmAC1hhnhSYoD9QgTwuW" group-title="JAPAN", Nihon Eiga TV
-*http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg"group-title="JAPAN", Cinefil WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 
