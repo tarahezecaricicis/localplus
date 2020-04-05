@@ -1,26 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", MOVIE
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/huf/kisspng-asian-food-channel-asian-cuisine-television-channe-o-creative-5b177c062dd920.9442817115282657341878.jpg" group-title="ENTERTAINTMENT",ASIAN FOOD CHANNEL
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINTMENT
 http://45.126.83.51/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINMENT
-http://210.210.155.35/dr9445/h/h16/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index2.m3u8
-*#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA
-*http://210.210.155.35/uq2663/h/h11/index.m3u8
-*#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",DIVA
-*http://45.126.83.51:80/session/0a81f242-bf53-11e9-8f57-8e46bf76bbba/uq2663/h/h11/01.m3u8
-*#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="ENTERTAINTMENT",E! ENTERTAINTMENT HD
-http://210.210.155.35/uq2663/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Channels_ebs2.png/revision/latest/scale-to-width-down/250?cb=20180627175222" group-title="ENTERTAINTMENT",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
