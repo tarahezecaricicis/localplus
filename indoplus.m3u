@@ -105,7 +105,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="KNOWLEDGE",HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="KNOWLEDGE",HISTORY 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="KNOWLEDGE",HISTORY 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE",NAT GEO WILD
