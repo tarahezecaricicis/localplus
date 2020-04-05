@@ -31,13 +31,67 @@ https://tv4.chang55.com/live/tot11.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://k-vibes.com/wp-content/uploads/2018/07/TV-Chosun-e1532716122215.jpg" group-title="ENTERTAINTMENT",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="Japan",BBC News Japan
+https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Japan",CGNTV 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Japan",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 1m
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 1mb
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 200k
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 200kb
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_200k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 600k
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan 600kb
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK World Japan live
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24
+http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24
+http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24
+http://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/jp/TBSNews.jp.png" group-title="Japan",TBS News
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/XoDOeDW.png" group-title="Japan",Tokyo - Narita Airport
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Japan",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042785.jpg" group-title="Japan",Wowow Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9VXxnlo.png" group-title="Japan",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="Japan",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Japan",日本QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="KIDS",CBEEBIES BBC
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180525/jwt/kisspng-disney-junior-disney-channel-the-walt-disney-compa-5b07c301320336.5663620515272353292049.jpg" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_big1.png?v=2.0.0.13" group-title="KIDS",DUCK TV
@@ -51,13 +105,36 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="KNOWLEDGE",HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="KNOWLEDGE",HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE",NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild ARB" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild ARB" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" tvg-name="" tvg-language="English" tvg-logo="" group-title="",NAT GEO Wild
+http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild ARB" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-id="National Geographic ARB" tvg-name="National Geographic ARB" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="National Geographic ARB" tvg-name="National Geographic ARB" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="",National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" tvg-name="" tvg-language="English" tvg-logo="" group-title="",National Geographic
+http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="",National Geographic WILD (Backup)
+http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+#EXTINF:-1 tvg-id="National Geographic ARB" tvg-name="National Geographic ARB" tvg-language="English" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="",National Geograpic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="KNOWLEDGE",NAT GEO WILD 3
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-id="National Geographic People ARB" tvg-name="National Geographic People ARB" tvg-language="KNOWLEDGE" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 
@@ -212,8 +289,30 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",SPORT ILLUSTRATED
+https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sport",Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="",Stadium (Backup)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1 group-title="SPORTS",RED BULL
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS",XCORPS TV
