@@ -56,6 +56,7 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
 http://45.126.83.51/dr9445/h/h144/index.m3u8
 
