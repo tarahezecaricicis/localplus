@@ -138,10 +138,13 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M71vka1.png" group-title="INDONESIA",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrmRJDw.png" group-title="INDONESIA",Arek TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",BERITA SATU WORDL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="INDONESIA",HOME & LIVING
@@ -150,12 +153,16 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png?v=2.0.0.13" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
+ 
+#EXTINF:-1 group-title="INDONESIA",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",JPM TV
 http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png?v=2.0.0.13" group-title="INDONESIA",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/MNC-TV-696x128.png" group-title="INDONESIA",MNC TV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d3/Logo-mnc-shop.png" group-title="INDONESIA",MNC SHOP
 http://202.80.222.130/000001/2/ch16061710145075159643/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="INDONESIA",MYTV
@@ -168,13 +175,16 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-
-
+#EXTINF:-1  group-title="RELIGI", TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS TV  
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/lsfsFluzVJ9f2Xzhn6XIYb7D_6omnQw6HlulSSrH_j9MDQvk7lecaNqFd3cD4awubdrgtt2deQv5JQwcS7NGPkhzxVddvHFLMda9mbR437-_CcexxnC9ykSi=w470-h313" group-title="INDONESIA",TVKU +
+http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png?v=2.0.0.13" group-title="INDONESIA",TVRI Nasional
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -268,7 +278,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NEWS",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
@@ -328,5 +339,1024 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png?v=2.0.0.13" group-title="SPORTS",TVRI SPORT HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",Bein Sports HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42515
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",A & E
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22227
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ABC Spark HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22305
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ABC WEST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22144
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ADDIK HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22225
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",AHC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22143
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",AMC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22142
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",AMC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17429
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",AMC FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22089
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ANIMAL PLANET
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22141
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",APTN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22140
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ARTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22139
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",ARTV (FR) HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22087
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BBC CANADA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22138
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BBC Toronto
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22073
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BBC World News HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22307
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BNN  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17423
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",BOOK TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22137
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CANAL D (Fench) HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22274
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CANAL SAVOIR SD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22221
+#EXTINF:-1 tvg-logo="" group-title="NEWS",Cartoon NetWork HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22327
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",CASA (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22273
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC ATLANTIC FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22084
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC FRENCH HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22219
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC MONTREAL (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22272
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC NEWS TORONTO FHD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22216
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC OTTAWA HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22215
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBC VANCOUVER HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22214
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CBS EAST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22213
+#EXTINF:-1,CHCH HD**
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22212
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CINEPOP ( French ) SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22208
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CITY MONTREAL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22209
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CNN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17430
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINTMENT",COMEDY EAST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22207
+#EXTINF:-1,COMEDY GOLD HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22083
+#EXTINF:-1,COTTAGE LIFE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22135
+#EXTINF:-1,COOKING CHANNEL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22205
+#EXTINF:-1,CPAC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17432
+#EXTINF:-1,CP24
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41559
+#EXTINF:-1,CA:CRIME  INVESTIGATION
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22202
+#EXTINF:-1,CTV ATLANTIC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17445
+#EXTINF:-1,CTV 2 VANCOUVER
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22201
+#EXTINF:-1,CTV KITCHENER HD**
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22303
+#EXTINF:-1,CTV NEWS TORONTO HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22200
+#EXTINF:-1,CTV OTTAWA SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22191
+#EXTINF:-1,CTV VANCOUVER FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22199
+#EXTINF:-1,CTV2 OTTAWA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22300
+#EXTINF:-1,CTV TWO FHD**
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22282
+#EXTINF:-1,CTV TORONTO  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22308
+#EXTINF:-1,CTV Toronto HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41541
+#EXTINF:-1,CW 11 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22198
+#EXTINF:-1,DAYSTAR TV FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22197
+#EXTINF:-1,DEJAVIEW HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22193
+#EXTINF:-1,DISCOVERY CANADA HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22196
+#EXTINF:-1,DISCOVERY SCIENCE HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22195
+#EXTINF:-1,DISNEY CHANNEL HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17433
+#EXTINF:-1,DISNEY JR HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17434
+#EXTINF:-1,DISNEY (French) SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22270
+#EXTINF:-1,DIY NETWORK HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17436
+#EXTINF:-1,DOCUMENTARY HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22190
+#EXTINF:-1,EVASION (French) HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22269
+#EXTINF:-1,FAMILY CHRGD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22130
+#EXTINF:-1,FAMILY EAST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22129
+#EXTINF:-1,FAMILY JUNIOR HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22187
+#EXTINF:-1,FAMILY WEST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22127
+#EXTINF:-1,FIGHT NETWORK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22126
+#EXTINF:-1,FOOD NETWORK HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17438
+#EXTINF:-1,FOX EAST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22125
+#EXTINF:-1,FOX NEWS HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22184
+#EXTINF:-1,FOX Q13 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22314
+#EXTINF:-1,FOX WEST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22124
+#EXTINF:-1,FTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22183
+#EXTINF:-1,CA:FXX HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22297
+#EXTINF:-1,FYI HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22082
+#EXTINF:-1,Game TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22123
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22122
+#EXTINF:-1,GLOBAL HALIFAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22182
+#EXTINF:-1,GLOBAL VANCOUVER
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22180
+#EXTINF:-1,GOLF
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22121
+#EXTINF:-1,GSN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22120
+#EXTINF:-1,GSN FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22296
+#EXTINF:-1,GUSTO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22119
+#EXTINF:-1,H2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22175
+#EXTINF:-1,HGTV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17446
+#EXTINF:-1,HISTORY HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22293
+#EXTINF:-1,Historia (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22268
+#EXTINF:-1,ICI MONTREAL (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22267
+#EXTINF:-1,ICI VANCOUVER (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22266
+#EXTINF:-1,IFC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22116
+#EXTINF:-1,LCN (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22265
+#EXTINF:-1,LIFETIME HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17440
+#EXTINF:-1,MAKEFUL SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22172
+#EXTINF:-1,MAX (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22264
+#EXTINF:-1,METEO (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22263
+#EXTINF:-1,MIRACLE SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22232
+#EXTINF:-1,MOI CIE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22112
+#EXTINF:-1,MSNBC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22290
+#EXTINF:-1,MTIME
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22111
+#EXTINF:-1,MTV 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22110
+#EXTINF:-1,MTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22171
+#EXTINF:-1,MUCH MUSIC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22349
+#EXTINF:-1,MUSIQUE PLUS (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22262
+#EXTINF:-1,NAT GEO HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17443
+#EXTINF:-1,NAT GEO WILD  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17444
+#EXTINF:-1,NBC-E FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22288
+#EXTINF:-1,NBA TV  FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22356
+#EXTINF:-1,NBC WEST HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22169
+#EXTINF:-1,NICKTOON
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22108
+#EXTINF:-1,NTV SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22170
+#EXTINF:-1,OLN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22287
+#EXTINF:-1,OMNI HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22228
+#EXTINF:-1,OMNI 2 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22230
+#EXTINF:-1,ONE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22163
+#EXTINF:-1,OUTDOOR LIFE NETWORK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22354
+#EXTINF:-1,OUTTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22167
+#EXTINF:-1,OWN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22353
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22352
+#EXTINF:-1,PBS EAST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22166
+#EXTINF:-1,PBS HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22285
+#EXTINF:-1,PBS Buffalo HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17425
+#EXTINF:-1,CA:PEACH TREE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22284
+#EXTINF:-1,PRISE (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22261
+#EXTINF:-1,RDI (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22260
+#EXTINF:-1,RDS (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22259
+#EXTINF:-1,RDS 2 (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22258
+#EXTINF:-1,RDS INFO (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22257
+#EXTINF:-1,SERIES PLUS (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22256
+#EXTINF:-1,SHOWCASE EAST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22283
+#EXTINF:-1,SMITHSONIAN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22162
+#EXTINF:-1,SPACE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17422
+#EXTINF:-1,SPACE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22161
+#EXTINF:-1,SportsNet EAST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22345
+#EXTINF:-1,SPORTSNET 360
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22346
+#EXTINF:-1,SPORTSNET ONTARIO FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22342
+#EXTINF:-1,SportsNet Ontario HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22341
+#EXTINF:-1,SPORTSNET PACIFIC  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22340
+#EXTINF:-1,SportsNet WEST  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22339
+#EXTINF:-1,SportsNet WORLD HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22338
+#EXTINF:-1,SUPER ECRAN 1  (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22255
+#EXTINF:-1,SUPER ECRAN 2  (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22336
+#EXTINF:-1,SUPER ECRAN 3  (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22254
+#EXTINF:-1,SUPER ECRAN 4  (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22253
+#EXTINF:-1,TELEMAGINO (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22250
+#EXTINF:-1,Teletoon  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22334
+#EXTINF:-1,TELE QUEBEC (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22252
+#EXTINF:-1,TFO (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22249
+#EXTINF:-1,THE SHOPPING CHANNEL  FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22332
+#EXTINF:-1,THE WEATHER NETWORK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22330
+#EXTINF:-1,TCM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22159
+#EXTINF:-1,TMN 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22157
+#EXTINF:-1,TMN 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22156
+#EXTINF:-1,TMN 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22155
+#EXTINF:-1,TRAVEL   ESCAPE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22098
+#EXTINF:-1,TREEHOUSE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22326
+#EXTINF:-1,TVA MONTREAL (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22246
+#EXTINF:-1,TVA QUEBEC (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22245
+#EXTINF:-1,TVA SPORTS HD(French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22244
+#EXTINF:-1,TVO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22151
+#EXTINF:-1,TV5 QUEBEC (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22248
+#EXTINF:-1,UNIS TV (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22243
+#EXTINF:-1,VIE (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22240
+#EXTINF:-1,VISION TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22150
+#EXTINF:-1,VRAK TV (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22239
+#EXTINF:-1,W NETWORK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22149
+#EXTINF:-1,Wild TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22095
+#EXTINF:-1,WFN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22097
+#EXTINF:-1,WORLD FISHING NETWORK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22079
+#EXTINF:-1,WSBK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22094
+#EXTINF:-1,YES TV ALBERTA HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22147
+#EXTINF:-1,YES TV (Alberta)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22312
+#EXTINF:-1,YES TV ONTARIO HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22146
+#EXTINF:-1,YES TV (Ontario)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22311
+#EXTINF:-1,YOOPA (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22238
+#EXTINF:-1,YTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22310
+#EXTINF:-1,Z TELE (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22237
+#EXTINF:-1,ZESTE (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22236
+#EXTINF:-1,CBC CALGARY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38554
+#EXTINF:-1,CITY TORONTO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38552
+#EXTINF:-1,CITY CALGARY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38550
+#EXTINF:-1,CMT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38549
+#EXTINF:-1,CNBC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38548
+#EXTINF:-1,CNN INTERNATIONAL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38547
+#EXTINF:-1,CTV HALIFAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38546
+#EXTINF:-1,CTV MONTREAL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38545
+#EXTINF:-1,CTV CALGARY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38544
+#EXTINF:-1,DTOUR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38543
+#EXTINF:-1,Frissons TV HD (FR)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38542
+#EXTINF:-1,GLOBAL TORONTO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38541
+#EXTINF:-1,GLOBAL CALGARY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38540
+#EXTINF:-1,ICI ARTV (FR)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38539
+#EXTINF:-1,ICI RDI (FR)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38538
+#EXTINF:-1,Investigation Discovery
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38537
+#EXTINF:-1,KNOWLEDGE KIDS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38536
+#EXTINF:-1,MAVTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38534
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38533
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38532
+#EXTINF:-1,SUPER CHANNEL HEART HOME
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38530
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38529
+#EXTINF:-1, WGN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38528
+#EXTINF:-1,TSN 1  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22324
+#EXTINF:-1,TSN 2  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22322
+#EXTINF:-1,TSN 3  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22320
+#EXTINF:-1,TSN 4  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22318
+#EXTINF:-1,TSN 5  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22316
+#EXTINF:-1,Slice
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41743
+#EXTINF:-1, MSNBC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17442
+#EXTINF:-1,Fox News HD(backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42514
+#EXTINF:-1,WEATHER NETWORK (Toronto)  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22315
+#EXTINF:-1,SPORTS NET PPV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3646
+#EXTINF:-1,SPORTS NET WEST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3647
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3648
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3649
+#EXTINF:-1,SPORTS NET ONE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3650
+#EXTINF:-1,SPORTS NET 360 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3652
+#EXTINF:-1,SUPER SPORTS CH 431
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41951
+#EXTINF:-1,SUPER SPORTS CH 432
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41980
+#EXTINF:-1,SUPER SPORTS CH 433
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41953
+#EXTINF:-1,SUPER SPORTS CH 434
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41954
+#EXTINF:-1,SUPER SPORTS CH 435
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41955
+#EXTINF:-1,SUPER SPORTS CH 436
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41981
+#EXTINF:-1,SUPER SPORTS CH 437
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41982
+#EXTINF:-1,SUPER SPORTS CH 438
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41983
+#EXTINF:-1,SUPER SPORTS CH 439
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41958
+#EXTINF:-1,SUPER SPORTS CH 440
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41960
+#EXTINF:-1,SUPER SPORTS CH 441
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41961
+#EXTINF:-1,SUPER SPORTS CH 442
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41962
+#EXTINF:-1,SUPER SPORTS CH 443
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41988
+#EXTINF:-1,SUPER SPORTS CH 443 (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41948
+#EXTINF:-1,SUPER SPORTS CH 444
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41989
+#EXTINF:-1,SUPER SPORTS CH 444 (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41949
+#EXTINF:-1,SUPER SPORTS CH 450
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41990
+#EXTINF:-1,SUPER SPORTS CH 452
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41966
+#EXTINF:-1,SUPER SPORTS CH 454
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41970
+#EXTINF:-1,SUPER SPORTS CH 455
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41968
+#EXTINF:-1,SUPER SPORTS CH 456
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41969
+#EXTINF:-1,SUPER SPORTS CH 457
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41971
+#EXTINF:-1,SUPER SPORTS CH 458
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41972
+#EXTINF:-1,SUPER SPORTS CH 459
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41973
+#EXTINF:-1,SUPER SPORTS CH 460
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41974
+#EXTINF:-1,SUPER SPORTS CH 461
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41991
+#EXTINF:-1,SUPER SPORTS CH 462
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41976
+#EXTINF:-1,SUPER SPORTS CH 464
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41977
+#EXTINF:-1,SUPER SPORTS CH 465
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41978
+#EXTINF:-1,SUPER SPORTS CH 368
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41979
+#EXTINF:-1,SUPER SPORTS CH 473
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41993
+#EXTINF:-1,SUPER SPORTS CH 474
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41994
+#EXTINF:-1,SUPER SPORTS CH 475
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41995
+#EXTINF:-1,SUPER SPORTS CH 476
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41996
+#EXTINF:-1,SUPER SPORTS CH 477
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41997
+#EXTINF:-1,SUPER SPORTS CH 478
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41999
+#EXTINF:-1,SUPER SPORTS CH 479
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41998
+#EXTINF:-1,SUPER SPORTS CH 480
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42000
+#EXTINF:-1,SUPER SPORTS CH 481
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42001
+#EXTINF:-1,SUPER SPORTS CH 482
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42002
+#EXTINF:-1,SUPER SPORTS CH 483
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42003
+#EXTINF:-1,SUPER SPORTS CH 484
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42004
+#EXTINF:-1,SUPER SPORTS CH 484 (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41950
+#EXTINF:-1,Bein Sports HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42515.m3u8
+#EXTINF:-1,A & E
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22227.m3u8
+#EXTINF:-1,ABC Spark HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22305.m3u8
+#EXTINF:-1,ABC WEST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22144.m3u8
+#EXTINF:-1, ADDIK HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22225.m3u8
+#EXTINF:-1,AHC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22143.m3u8
+#EXTINF:-1,AMC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22142.m3u8
+#EXTINF:-1,AMC HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17429.m3u8
+#EXTINF:-1,AMC FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22089.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22141.m3u8
+#EXTINF:-1,APTN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22140.m3u8
+#EXTINF:-1,ARTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22139.m3u8
+#EXTINF:-1,ARTV (FR) HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22087.m3u8
+#EXTINF:-1,BBC CANADA
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22138.m3u8
+#EXTINF:-1,BBC Toronto
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22073.m3u8
+#EXTINF:-1,BBC World News HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22307.m3u8
+#EXTINF:-1,BNN  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17423.m3u8
+#EXTINF:-1,BOOK TV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22137.m3u8
+#EXTINF:-1,CANAL D (Fench) HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22274.m3u8
+#EXTINF:-1,CANAL SAVOIR SD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22221.m3u8
+#EXTINF:-1,Cartoon NetWork HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22327.m3u8
+#EXTINF:-1,CASA (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22273.m3u8
+#EXTINF:-1,CBC ATLANTIC FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22084.m3u8
+#EXTINF:-1,CBC FRENCH HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22219.m3u8
+#EXTINF:-1,CBC MONTREAL (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22272.m3u8
+#EXTINF:-1,CBC NEWS TORONTO FHD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22216.m3u8
+#EXTINF:-1,CBC OTTAWA HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22215.m3u8
+#EXTINF:-1,CBC VANCOUVER HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22214.m3u8
+#EXTINF:-1,CBS EAST HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22213.m3u8
+#EXTINF:-1,CHCH HD**
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22212.m3u8
+#EXTINF:-1,CINEPOP ( French ) SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22208.m3u8
+#EXTINF:-1,CITY MONTREAL
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22209.m3u8
+#EXTINF:-1,CNN HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17430.m3u8
+#EXTINF:-1,COMEDY EAST HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22207.m3u8
+#EXTINF:-1,COMEDY GOLD HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22083.m3u8
+#EXTINF:-1,COTTAGE LIFE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22135.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22205.m3u8
+#EXTINF:-1,CPAC HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17432.m3u8
+#EXTINF:-1,CP24
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41559.m3u8
+#EXTINF:-1,CA:CRIME  INVESTIGATION
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22202.m3u8
+#EXTINF:-1,CTV ATLANTIC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17445.m3u8
+#EXTINF:-1,CTV 2 VANCOUVER
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22201.m3u8
+#EXTINF:-1,CTV KITCHENER HD**
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22303.m3u8
+#EXTINF:-1,CTV NEWS TORONTO HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22200.m3u8
+#EXTINF:-1,CTV OTTAWA SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22191.m3u8
+#EXTINF:-1,CTV VANCOUVER FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22199.m3u8
+#EXTINF:-1,CTV2 OTTAWA
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22300.m3u8
+#EXTINF:-1,CTV TWO FHD**
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22282.m3u8
+#EXTINF:-1,CTV TORONTO  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22308.m3u8
+#EXTINF:-1,CTV Toronto HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41541.m3u8
+#EXTINF:-1,CW 11 HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22198.m3u8
+#EXTINF:-1,DAYSTAR TV FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22197.m3u8
+#EXTINF:-1,DEJAVIEW HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22193.m3u8
+#EXTINF:-1,DISCOVERY CANADA HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22196.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22195.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17433.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17434.m3u8
+#EXTINF:-1,DISNEY (French) SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22270.m3u8
+#EXTINF:-1,DIY NETWORK HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17436.m3u8
+#EXTINF:-1,DOCUMENTARY HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22190.m3u8
+#EXTINF:-1,EVASION (French) HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22269.m3u8
+#EXTINF:-1,FAMILY CHRGD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22130.m3u8
+#EXTINF:-1,FAMILY EAST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22129.m3u8
+#EXTINF:-1,FAMILY JUNIOR HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22187.m3u8
+#EXTINF:-1,FAMILY WEST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22127.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22126.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17438.m3u8
+#EXTINF:-1,FOX EAST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22125.m3u8
+#EXTINF:-1,FOX NEWS HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22184.m3u8
+#EXTINF:-1,FOX Q13 HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22314.m3u8
+#EXTINF:-1,FOX WEST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22124.m3u8
+#EXTINF:-1,FTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22183.m3u8
+#EXTINF:-1,CA:FXX HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22297.m3u8
+#EXTINF:-1,FYI HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22082.m3u8
+#EXTINF:-1,Game TV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22123.m3u8
+#EXTINF:-1,GINX ESPORTS TV CANADA
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22122.m3u8
+#EXTINF:-1,GLOBAL HALIFAX
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22182.m3u8
+#EXTINF:-1,GLOBAL VANCOUVER
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22180.m3u8
+#EXTINF:-1,GOLF
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22121.m3u8
+#EXTINF:-1,GSN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22120.m3u8
+#EXTINF:-1,GSN FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22296.m3u8
+#EXTINF:-1,GUSTO
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22119.m3u8
+#EXTINF:-1,H2
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22175.m3u8
+#EXTINF:-1,HGTV HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17446.m3u8
+#EXTINF:-1,HISTORY HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22293.m3u8
+#EXTINF:-1,Historia (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22268.m3u8
+#EXTINF:-1,ICI MONTREAL (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22267.m3u8
+#EXTINF:-1,ICI VANCOUVER (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22266.m3u8
+#EXTINF:-1,IFC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22116.m3u8
+#EXTINF:-1,LCN (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22265.m3u8
+#EXTINF:-1,LIFETIME HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17440.m3u8
+#EXTINF:-1,MAKEFUL SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22172.m3u8
+#EXTINF:-1,MAX (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22264.m3u8
+#EXTINF:-1,METEO (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22263.m3u8
+#EXTINF:-1,MIRACLE SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22232.m3u8
+#EXTINF:-1,MOI CIE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22112.m3u8
+#EXTINF:-1,MSNBC HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22290.m3u8
+#EXTINF:-1,MTIME
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22111.m3u8
+#EXTINF:-1,MTV 2
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22110.m3u8
+#EXTINF:-1,MTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22171.m3u8
+#EXTINF:-1,MUCH MUSIC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22349.m3u8
+#EXTINF:-1,MUSIQUE PLUS (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22262.m3u8
+#EXTINF:-1,NAT GEO WILD  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17444.m3u8
+#EXTINF:-1,NBA TV  FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22356.m3u8
+#EXTINF:-1,NBC WEST HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22169.m3u8
+#EXTINF:-1,NICKTOON
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22108.m3u8
+#EXTINF:-1,NTV SD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22170.m3u8
+#EXTINF:-1,OLN HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22287.m3u8
+#EXTINF:-1,OMNI HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22228.m3u8
+#EXTINF:-1,OMNI 2 HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22230.m3u8
+#EXTINF:-1,ONE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22163.m3u8
+#EXTINF:-1,OUTDOOR LIFE NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22354.m3u8
+#EXTINF:-1,OUTTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22167.m3u8
+#EXTINF:-1,OWN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22353.m3u8
+#EXTINF:-1,PBS EAST HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22166.m3u8
+#EXTINF:-1,PBS HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22285.m3u8
+#EXTINF:-1,CA:PEACH TREE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22284.m3u8
+#EXTINF:-1,RDI (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22260.m3u8
+#EXTINF:-1,RDS 2 (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22258.m3u8
+#EXTINF:-1,RDS INFO (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22257.m3u8
+#EXTINF:-1,SERIES PLUS (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22256.m3u8
+#EXTINF:-1,SHOWCASE EAST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22283.m3u8
+#EXTINF:-1,SMITHSONIAN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22162.m3u8
+#EXTINF:-1,SPACE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17422.m3u8
+#EXTINF:-1,SPACE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22161.m3u8
+#EXTINF:-1,SportsNet EAST
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22345.m3u8
+#EXTINF:-1,SPORTSNET 360
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22346.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22342.m3u8
+#EXTINF:-1,SportsNet Ontario HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22341.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22340.m3u8
+#EXTINF:-1,SportsNet WEST  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22339.m3u8
+#EXTINF:-1,SportsNet WORLD HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22338.m3u8
+#EXTINF:-1,SUPER ECRAN 1  (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22255.m3u8
+#EXTINF:-1,SUPER ECRAN 2  (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22336.m3u8
+#EXTINF:-1,SUPER ECRAN 3  (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22254.m3u8
+#EXTINF:-1,SUPER ECRAN 4  (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22253.m3u8
+#EXTINF:-1,TELEMAGINO (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22250.m3u8
+#EXTINF:-1,Teletoon  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22334.m3u8
+#EXTINF:-1,TELE QUEBEC (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22252.m3u8
+#EXTINF:-1,TFO (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22249.m3u8
+#EXTINF:-1,THE SHOPPING CHANNEL  FHD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22332.m3u8
+#EXTINF:-1,THE WEATHER NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22330.m3u8
+#EXTINF:-1,TCM
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22159.m3u8
+#EXTINF:-1,TMN 1
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22157.m3u8
+#EXTINF:-1,TMN 2
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22156.m3u8
+#EXTINF:-1,TMN 3
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22155.m3u8
+#EXTINF:-1,TRAVEL   ESCAPE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22098.m3u8
+#EXTINF:-1,TREEHOUSE
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22326.m3u8
+#EXTINF:-1,TVA MONTREAL (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22246.m3u8
+#EXTINF:-1,TVA QUEBEC (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22245.m3u8
+#EXTINF:-1,TVA SPORTS HD(French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22244.m3u8
+#EXTINF:-1,TVO
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22151.m3u8
+#EXTINF:-1,TV5 QUEBEC (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22248.m3u8
+#EXTINF:-1,UNIS TV (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22243.m3u8
+#EXTINF:-1,VIE (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22240.m3u8
+#EXTINF:-1,VISION TV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22150.m3u8
+#EXTINF:-1,VRAK TV (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22239.m3u8
+#EXTINF:-1,W NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22149.m3u8
+#EXTINF:-1,Wild TV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22095.m3u8
+#EXTINF:-1,WFN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22097.m3u8
+#EXTINF:-1,WORLD FISHING NETWORK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22079.m3u8
+#EXTINF:-1,WSBK
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22094.m3u8
+#EXTINF:-1,YES TV ALBERTA HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22147.m3u8
+#EXTINF:-1,YES TV (Alberta)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22312.m3u8
+#EXTINF:-1,YES TV ONTARIO HD*
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22146.m3u8
+#EXTINF:-1,YES TV (Ontario)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22311.m3u8
+#EXTINF:-1,YOOPA (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22238.m3u8
+#EXTINF:-1,YTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22310.m3u8
+#EXTINF:-1,Z TELE (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22237.m3u8
+#EXTINF:-1,ZESTE (French)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22236.m3u8
+#EXTINF:-1,CBC CALGARY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38554.m3u8
+#EXTINF:-1,CITY TORONTO
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38552.m3u8
+#EXTINF:-1,CITY VANCOUVER
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38551.m3u8
+#EXTINF:-1,CITY CALGARY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38550.m3u8
+#EXTINF:-1,CMT
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38549.m3u8
+#EXTINF:-1,CNBC
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38548.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38547.m3u8
+#EXTINF:-1,CTV HALIFAX
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38546.m3u8
+#EXTINF:-1,CTV MONTREAL
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38545.m3u8
+#EXTINF:-1,CTV CALGARY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38544.m3u8
+#EXTINF:-1,DTOUR
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38543.m3u8
+#EXTINF:-1,Frissons TV HD (FR)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38542.m3u8
+#EXTINF:-1,GLOBAL TORONTO
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38541.m3u8
+#EXTINF:-1,GLOBAL CALGARY
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38540.m3u8
+#EXTINF:-1,ICI ARTV (FR)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38539.m3u8
+#EXTINF:-1,ICI RDI (FR)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38538.m3u8
+#EXTINF:-1,Investigation Discovery
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38537.m3u8
+#EXTINF:-1,KNOWLEDGE KIDS
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38536.m3u8
+#EXTINF:-1,MAVTV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38534.m3u8
+#EXTINF:-1,SILVER SCREEN CLASSICS
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38533.m3u8
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38532.m3u8
+#EXTINF:-1,SUPER CHANNEL HEART HOME
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38530.m3u8
+#EXTINF:-1,SUPER CHANNEL VAULT
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38529.m3u8
+#EXTINF:-1, WGN
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/38528.m3u8
+#EXTINF:-1,TSN 1  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22324.m3u8
+#EXTINF:-1,TSN 2  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22322.m3u8
+#EXTINF:-1,TSN 3  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22320.m3u8
+#EXTINF:-1,TSN 4  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22318.m3u8
+#EXTINF:-1,TSN 5  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22316.m3u8
+#EXTINF:-1,Slice
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41743.m3u8
+#EXTINF:-1, MSNBC HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/17442.m3u8
+#EXTINF:-1,Fox News HD(backup)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42514.m3u8
+#EXTINF:-1,WEATHER NETWORK (Toronto)  HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22315.m3u8
+#EXTINF:-1,SPORTS NET PPV
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3646.m3u8
+#EXTINF:-1,SPORTS NET WEST HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3647.m3u8
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3648.m3u8
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3649.m3u8
+#EXTINF:-1,SPORTS NET ONE HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3650.m3u8
+#EXTINF:-1,SPORTS NET 360 HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3652.m3u8
+#EXTINF:-1,SUPER SPORTS CH 431
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41951.m3u8
+#EXTINF:-1,SUPER SPORTS CH 432
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41980.m3u8
+#EXTINF:-1,SUPER SPORTS CH 433
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41953.m3u8
+#EXTINF:-1,SUPER SPORTS CH 434
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41954.m3u8
+#EXTINF:-1,SUPER SPORTS CH 435
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41955.m3u8
+#EXTINF:-1,SUPER SPORTS CH 436
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41981.m3u8
+#EXTINF:-1,SUPER SPORTS CH 437
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41982.m3u8
+#EXTINF:-1,SUPER SPORTS CH 438
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41983.m3u8
+#EXTINF:-1,SUPER SPORTS CH 439
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41958.m3u8
+#EXTINF:-1,SUPER SPORTS CH 440
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41960.m3u8
+#EXTINF:-1,SUPER SPORTS CH 441
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41961.m3u8
+#EXTINF:-1,SUPER SPORTS CH 442
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41962.m3u8
+#EXTINF:-1,SUPER SPORTS CH 443
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41988.m3u8
+#EXTINF:-1,SUPER SPORTS CH 443 (Backup)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41948.m3u8
+#EXTINF:-1,SUPER SPORTS CH 444
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41989.m3u8
+#EXTINF:-1,SUPER SPORTS CH 444 (Backup)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41949.m3u8
+#EXTINF:-1,SUPER SPORTS CH 450
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41990.m3u8
+#EXTINF:-1,SUPER SPORTS CH 452
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41966.m3u8
+#EXTINF:-1,SUPER SPORTS CH 454
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41970.m3u8
+#EXTINF:-1,SUPER SPORTS CH 455
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41968.m3u8
+#EXTINF:-1,SUPER SPORTS CH 456
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41969.m3u8
+#EXTINF:-1,SUPER SPORTS CH 457
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41971.m3u8
+#EXTINF:-1,SUPER SPORTS CH 458
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41972.m3u8
+#EXTINF:-1,SUPER SPORTS CH 459
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41973.m3u8
+#EXTINF:-1,SUPER SPORTS CH 460
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41974.m3u8
+#EXTINF:-1,SUPER SPORTS CH 461
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41991.m3u8
+#EXTINF:-1,SUPER SPORTS CH 462
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41976.m3u8
+#EXTINF:-1,SUPER SPORTS CH 464
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41977.m3u8
+#EXTINF:-1,SUPER SPORTS CH 465
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41978.m3u8
+#EXTINF:-1,SUPER SPORTS CH 368
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41979.m3u8
+#EXTINF:-1,SUPER SPORTS CH 473
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41993.m3u8
+#EXTINF:-1,SUPER SPORTS CH 474
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41994.m3u8
+#EXTINF:-1,SUPER SPORTS CH 475
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41995.m3u8
+#EXTINF:-1,SUPER SPORTS CH 476
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41996.m3u8
+#EXTINF:-1,SUPER SPORTS CH 477
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41997.m3u8
+#EXTINF:-1,SUPER SPORTS CH 478
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41999.m3u8
+#EXTINF:-1,SUPER SPORTS CH 479
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41998.m3u8
+#EXTINF:-1,SUPER SPORTS CH 480
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42000.m3u8
+#EXTINF:-1,SUPER SPORTS CH 481
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42001.m3u8
+#EXTINF:-1,SUPER SPORTS CH 482
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42002.m3u8
+#EXTINF:-1,SUPER SPORTS CH 483
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42003.m3u8
+#EXTINF:-1,SUPER SPORTS CH 484
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/42004.m3u8
+#EXTINF:-1,SUPER SPORTS CH 484 (Backup)
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41950.m3u8
 
 
