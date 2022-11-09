@@ -2,27 +2,14 @@
 
 #EXTINF:-1 tvg-logo="https://korcan50years.files.wordpress.com/2014/03/korea-tv.png" group-title="ENTERTAINTMENT",ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180606/huf/kisspng-asian-food-channel-asian-cuisine-television-channe-o-creative-5b177c062dd920.9442817115282657341878.jpg" group-title="ENTERTAINTMENT",ASIAN FOOD CHANNEL
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",BLUE ANT ENTERTAINTMENT
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png" group-title="ENTERTAINTMENT",ROCK ENTERTAINTMENT
 http://45.126.83.51/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="ENTERTAINTMENT",ROCK EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Channels_ebs2.png/revision/latest/scale-to-width-down/250?cb=20180627175222" group-title="ENTERTAINTMENT",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/EBS_English.png" group-title="ENTERTAINTMENT",EBS ENGLISH
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="ENTERTAINTMENT",EBSi
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="ENTERTAINTMENT",EBS Plus 2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="ENTERTAINTMENT",HD FASHION
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTERTAINTMENT",FASHION TV MIDNIGHT FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTERTAINTMENT",ARIRANG
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox Crime TH
 https://tv4.chang55.com/live/tot03.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.png" group-title="ENTERTAINTMENT",Fox Action Movie TH
